@@ -1,0 +1,50 @@
+classroom | salle de classe | Klassenzimmer | aula | aula | sala de aula | कक्षा | 教室 | класс | Klassesall
+teacher | enseignant | Lehrer | maestro | insegnante | professor | शिक्षक | 老师 | учитель | Enseignant
+student | élève | Schüler | estudiante | studente | estudante | छात्र | 学生 | студент | Schüler
+desk | bureau | Schreibtisch | escritorio | scrivania | escrivaninha | डेस्क | 书桌 | стол | Schreifdësch
+chair | chaise | Stuhl | silla | sedia | cadeira | कुर्सी | 椅子 | стул | Stull
+book | livre | Buch | libro | libro | livro | किताब | 书 | книга | Buch
+notebook | cahier | Heft | cuaderno | quaderno | caderno | नोटबुक | 笔记本 | тетрадь | Notizbuch
+pen | stylo | Stift | bolígrafo | penna | caneta | पेन | 笔 | ручка | Bläistëft
+pencil | crayon | Bleistift | lápiz | matita | lápis | पेंसिल | 铅笔 | карандаш | Bleistëft
+paper | papier | Papier | papel | carta | papel | कागज | 纸 | бумага | Pabeier
+blackboard | tableau | Tafel | pizarra | lavagna | quadro-negro | ब्लैकबोर्ड | 黑板 | доска | Schëld
+chalk | craie | Kreide | tiza | gesso | giz | चाक | 粉笔 | мел | Kräid
+eraser | gomme | Radiergummi | borrador | gomma | borracha | रबड़ | 橡皮 | ластик | Gummi
+ruler | règle | Lineal | regla | righello | régua | फ़ुटा | 尺子 | линейка | Linn
+schoolbag | cartable | Schulranzen | mochila | zaino | mochila | बस्ता | 书包 | портфель | Schoulsaach
+lesson | leçon | Lektion | lección | lezione | lição | पाठ | 课 | урок | Lektioun
+homework | devoirs | Hausaufgabe | tarea | compiti | dever de casa | गृहकार्य | 作业 | домашнее задание | Hausaufgab
+question | question | Frage | pregunta | domanda | pergunta | सवाल | 问题 | вопрос | Fro
+answer | réponse | Antwort | respuesta | risposta | resposta | उत्तर | 回答 | ответ | Äntwert
+dictionary | dictionnaire | Wörterbuch | diccionario | dizionario | dicionário | शब्दकोश | 字典 | словарь | Wuertbuch
+computer | ordinateur | Computer | computadora | computer | computador | कंप्यूटर | 电脑 | компьютер | Computer
+tablet | tablette | Tablet | tableta | tablet | tablet | टैबलेट | 平板电脑 | планшет | Tablet
+read | lire | lesen | leer | leggere | ler | पढ़ना | 读 | читать | liesen
+write | écrire | schreiben | escribir | scrivere | escrever | लिखना | 写 | писать | schreiwen
+listen | écouter | hören | escuchar | ascoltare | ouvir | सुनना | 听 | слушать | lauschteren
+speak | parler | sprechen | hablar | parlare | falar | बोलना | 说 | говорить | schwätzen
+learn | apprendre | lernen | aprender | imparare | aprender | सीखना | 学习 | учить | léieren
+understand | comprendre | verstehen | entender | capire | entender | समझना | 懂 | понимать | verstoen
+ask | demander | fragen | preguntar | chiedere | perguntar | पूछना | 问 | спрашивать | froen
+explain | expliquer | erklären | explicar | spiegare | explicar | समझाना | 解释 | объяснять | erklären
+study | étudier | studieren | estudiar | studiare | estudar | पढ़ाई करना | 学习 | учить | studéieren
+teach | enseigner | lehren | enseñar | insegnare | ensinar | सिखाना | 教 | учить | enseignéieren
+<en:open> | <fr:ouvrir> | <de:öffnen> | <es:abrir> | <it:aprire> | <pt:abrir> | <hi:खोलना> | <zh-cn:打开> | <ru:открыть> | <lb:opmaachen>
+<en:close> | <fr:fermer> | <de:schließen> | <es:cerrar> | <it:chiudere> | <pt:fechar> | <hi:बंद करना> | <zh-cn:关闭> | <ru:закрыть> | <lb:zoumachen>
+<en:sit> | <fr:asseoir> | <de:sitzen> | <es:sentar> | <it:sedere> | <pt:sentar> | <hi:बैठना> | <zh-cn:坐> | <ru:сидеть> | <lb:sëtzen>
+<en:stand> | <fr:tenir> | <de:stehen> | <es:estar> | <it:stare> | <pt:estar> | <hi:खड़ा होना> | <zh-cn:站> | <ru:стоять> | <lb:stoen>
+<en:look> | <fr:regarder> | <de:schauen> | <es:mirar> | <it:guardare> | <pt:olhar> | <hi:देखना> | <zh-cn:看> | <ru:смотреть> | <lb:kucken>
+<en:point> | <fr:montrer> | <de:zeigen> | <es:apuntar> | <it:puntare> | <pt:apontar> | <hi:इशारा करना> | <zh-cn:指> | <ru:указывать> | <lb:weisen>
+<en:draw> | <fr:dessiner> | <de:zeichnen> | <es:dibujar> | <it:disegnare> | <pt:desenhar> | <hi:चित्र बनाना> | <zh-cn:画> | <ru:рисовать> | <lb:zeechnen>
+<en:color> | <fr:colorier> | <de:malen> | <es:colorear> | <it:colorare> | <pt:colorir> | <hi:रंग भरना> | <zh-cn:上色> | <ru:раскрашивать> | <lb:faarwen>
+clean | propre | sauber | limpio | pulito | limpo | स्वच्छ | 干净 | чистый | propper
+easy | facile | einfach | fácil | facile | fácil | आसान | 简单 | лёгкий | einfach
+difficult | difficile | schwierig | difícil | difficile | difícil | कठिन | 困难 | трудный | schwéier
+important | important | wichtig | importante | importante | importante | महत्वपूर्ण | 重要 | важный | wichteg
+new | nouveau | neu | nuevo | nuovo | novo | नया | 新 | новый | nei
+old | vieux | alt | viejo | vecchio | velho | पुराना | 老 | старый | al
+quiet | calme | ruhig | tranquilo | tranquillo | calmo | शांत | 安静 | тихий | roueg
+loud | fort | laut | fuerte | forte | alto | जोर | 大声 | громкий | haart
+empty | vide | leer | vacío | vuoto | vazio | खाली | 空的 | пустой | eidel
+full | plein | voll | lleno | pieno | cheio | भरा | 满的 | полный | voll

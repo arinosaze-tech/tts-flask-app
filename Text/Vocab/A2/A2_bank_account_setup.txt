@@ -1,0 +1,55 @@
+bank | banque | Bank | banco | banca | banco | बैंक | 银行 | банк | Bank
+account | compte | Konto | cuenta | conto | conta | खाता | 账户 | счет | Kont
+branch | agence | Filiale | sucursal | filiale | agência | शाखा | 分行 | отделение | Filial
+form | formulaire | Formular | formulario | modulo | formulário | फॉर्म | 表格 | бланк | Formulaire
+application | demande | Antrag | solicitud | domanda | pedido | आवेदन | 申请 | заявление | Demande
+document | document | Dokument | documento | documento | documento | दस्तावेज़ | 文件 | документ | Dokument
+passport | passeport | Reisepass | pasaporte | passaporto | passaporte | पासपोर्ट | 护照 | паспорт | Reespass
+address | adresse | Adresse | dirección | indirizzo | endereço | पता | 地址 | адрес | Adress
+bill | facture | Rechnung | factura | fattura | fatura | बिल | 账单 | счет | Rechnung
+signature | signature | Unterschrift | firma | firma | assinatura | हस्ताक्षर | 签名 | подпись | Ënnerschrëft
+deposit | dépôt | Einzahlung | depósito | deposito | depósito | जमा | 存款 | вклад | Abezuelung
+withdrawal | retrait | Abhebung | retiro | prelievo | saque | निकासी | 取款 | снятие | Ofhiewung
+balance | solde | Kontostand | saldo | saldo | saldo | बैलेंस | 余额 | баланс | Kontostand
+fee | frais | Gebühr | comisión | commissione | taxa | शुल्क | 手续费 | комиссия | Tax
+interest | intérêt | Zins | interés | interesse | juros | ब्याज | 利息 | проценты | Zëns
+cash | espèces | Bargeld | efectivo | contanti | dinheiro | नकद | 现金 | наличные | Bargeld
+statement | relevé de compte | Kontoauszug | extracto bancario | estratto conto | extrato bancário | बैंक स्टेटमेंट | 对账单 | выписка со счёта | Kontauszuch
+customer | client | Kunde | cliente | cliente | cliente | ग्राहक | 客户 | клиент | Client
+advisor | conseiller | Berater | asesor | consulente | consultor | सलाहकार | 顾问 | консультант | Beroder
+appointment | rendez-vous | Termin | cita | appuntamento | compromisso | अपॉइंटमेंट | 预约 | встреча | Rendez-vous
+counter | guichet | Schalter | ventanilla | sportello | balcão | काउंटर | 柜台 | окно | Guichet
+teller | guichetier | Kassierer | cajero | cassiere | caixa | कैशियर | 柜员 | кассир | Guichetier
+password | mot de passe | Passwort | contraseña | password | senha | पासवर्ड | 密码 | пароль | Passwuert
+bank account | compte bancaire | Bankkonto | cuenta bancaria | conto bancario | conta bancária | बैंक खाता | 银行账户 | банковский счёт | Bankkont
+savings account | compte d'épargne | Sparkonto | cuenta de ahorros | conto di risparmio | conta poupança | बचत खाता | 储蓄账户 | сберегательный счет | Spuerkont
+debit card | carte de débit | Debitkarte | tarjeta de débito | carta di debito | cartão de débito | डेबिट कार्ड | 借记卡 | дебетовая карта | Debitkaart
+online banking | banque en ligne | Online-Banking | banca en línea | banca online | banco online | ऑनलाइन बैंकिंग | 网上银行 | интернет-банк | Online Banking
+pin code | code PIN | PIN | código PIN | codice PIN | código PIN | पिन कोड | PIN码 | ПИН-код | PIN-Code
+proof of address | justificatif de domicile | Adressnachweis | comprobante de domicilio | certificato di residenza | comprovante de endereço | पते का प्रमाण | 地址证明 | подтверждение адреса | Adressbewäis
+open | ouvrir | eröffnen | abrir | aprire | abrir | खोलना | 开立 | открыть | opmaachen
+apply | demander | beantragen | solicitar | richiedere | solicitar | आवेदन करना | 申请 | подать заявку | ufroen
+bring | apporter | bringen | traer | portare | trazer | लाना | 带来 | принести | bréngen
+show | montrer | zeigen | mostrar | mostrare | mostrar | दिखाना | 展示 | показывать | weisen
+sign | signer | unterschreiben | firmar | firmare | assinar | साइन करना | 签名 | подписать | ënnerschreiwen
+fill | remplir | ausfüllen | llenar | riempire | preencher | भरना | 填写 | заполнить | ausfëllen
+send | envoyer | schicken | enviar | inviare | enviar | भेजना | 发送 | отправить | schécken
+give | donner | geben | dar | dare | dar | देना | 给 | дать | ginn
+choose | choisir | wählen | elegir | scegliere | escolher | चुनना | 选择 | выбрать | wielen
+confirm | confirmer | bestätigen | confirmar | confermare | confirmar | पुष्टि करना | 确认 | подтвердить | bestätegen
+withdraw | retirer | abheben | retirar | ritirare | retirar | निकालना | 取款 | снять | ofhiewen
+transfer | transférer | überweisen | transferir | trasferire | transferir | ट्रांसफर करना | 转账 | перевести | iwwerweisen
+check | vérifier | prüfen | comprobar | controllare | verificar | जांचना | 检查 | проверить | kontrolléieren
+update | mettre à jour | aktualisieren | actualizar | aggiornare | atualizar | अपडेट करना | 更新 | обновить | aktualiséieren
+enter | entrer | eingeben | entrar | entrare | entrar | प्रवेश करना | 输入 | ввести | aginn
+create | créer | erstellen | crear | creare | criar | बनाना | 创建 | создать | erstellen
+receive | recevoir | bekommen | recibir | ricevere | receber | प्राप्त करना | 接收 | получить | kréien
+new | nouveau | neu | nuevo | nuovo | novo | नया | 新 | новый | nei
+local | local | lokal | local | locale | local | स्थानीय | 本地 | местный | lokal
+valid | valide | gültig | válido | valido | válido | वैध | 有效 | действительный | valabel
+safe | sûr | sicher | seguro | sicuro | seguro | सुरक्षित | 安全 | безопасный | sécher
+free | gratuit | kostenlos | gratis | gratis | grátis | मुफ़्त | 免费 | бесплатный | gratis
+monthly | mensuel | monatlich | mensual | mensile | mensal | मासिक | 每月 | ежемесячный | méintlech
+minimum | minimum | Minimum | mínimo | minimo | mínimo | न्यूनतम | 最低 | минимум | Minimum
+personal | personnel | persönlich | personal | personale | pessoal | व्यक्तिगत | 个人的 | личный | perséinlech
+online | en ligne | online | en línea | online | online | ऑनलाइन | 在线 | онлайн | online

@@ -1,0 +1,65 @@
+volunteer | bénévole | Freiwilliger | voluntario | volontario | voluntário | स्वयंसेवक | 志愿者 | волонтер | freiwillig
+onboarding | intégration | Einarbeitung | incorporación | inserimento | integração | शामिल करना | 入职培训 | ввод в должность | onboarding
+session | session | Sitzung | sesión | sessione | sessão | सत्र | 会议 | сессия | Sitzung
+training | formation | Ausbildung | formación | formazione | treinamento | प्रशिक्षण | 培训 | обучение | Ausbildung
+participant | participant | Teilnehmer | participante | partecipante | participante | प्रतिभागी | 参与者 | участник | Participant
+organization | organisation | Organisation | organización | organizzazione | organização | संगठन | 组织 | организация | Organisatioun
+commitment | engagement | Engagement | compromiso | impegno | compromisso | प्रतिबद्धता | 承诺 | обязательство | Engagement
+community | communauté | Gemeinschaft | comunidad | comunità | comunidade | समुदाय | 社区 | сообщество | Gemeinschaft
+support | soutenir | unterstützen | apoyar | sostenere | apoiar | समर्थन | 支持 | поддержка | Unterstützung
+teamwork | travail d'équipe | Teamarbeit | trabajo en equipo | lavoro di squadra | trabalho em equipe | टीमवर्क | 团队合作 | командная работа | Teamarbeit
+skills | compétences | Fähigkeiten | habilidades | competenze | habilidades | कौशल | 技能 | навыки | Fäegkeeten
+responsibilities | responsabilités | Verantwortlichkeiten | responsabilidades | responsabilità | responsabilidades | ज़िम्मेदारियाँ | 责任 | обязанности | Verantwortungen
+goals | objectifs | Ziele | objetivos | obiettivi | metas | लक्ष्य | 目标 | цели | Ziler
+leadership | leadership | Führung | liderazgo | leadership | liderança | नेतृत्व | 领导力 | лидерство | Füren
+mentorship | mentorat | Mentorship | mentoría | mentorship | mentoria | मार्गदर्शन | 指导 | наставничество | Mentoring
+guidelines | directives | Richtlinien | pautas | linee guida | diretrizes | दिशा-निर्देश | 指南 | руководства | Richtlinne
+resources | ressources | Ressourcen | recursos | risorse | recursos | संसाधन | 资源 | ресурсы | Ressourcen
+feedback | retour | Feedback | retroalimentación | feedback | retorno | फीडबैक | 反馈 | обратная связь | Feedback
+networking | réseautage | Netzwerk | networking | networking | networking | नेटवर्किंग | 网络 | нетворкинг | Netzwierkung
+impact | impact | Wirkung | impacto | impatto | impacto | प्रभाव | 影响 | влияние | Impakt
+collaboration | collaboration | Zusammenarbeit | colaboración | collaborazione | colaboração | सहयोग | 合作 | сотрудничество | Zesummenaarbecht
+initiative | initiative | Initiative | iniciativa | iniziativa | iniciativa | पहल | 倡议 | инициатива | Initiativ
+schedule | emploi du temps | Zeitplan | horario | programma | cronograma | कार्यक्रम | 日程 | расписание | Zäitplang
+workshop | atelier | Workshop | taller | laboratorio | oficina | कार्यशाला | 研讨会 | мастерская | Workshop
+presentation | présentation | Präsentation | presentación | presentazione | apresentação | प्रस्तुति | 演示 | презентация | Präsentatioun
+engagement | engagement | Engagement | compromiso | coinvolgimento | engajamento | सगाई | 参与 | вовлечение | Engagement
+motivation | motivation | Motivation | motivación | motivazione | motivação | प्रेरणा | 动力 | мотивация | Motivatioun
+diversity | diversité | Diversität | diversidad | diversità | diversidade | विविधता | 多样性 | разнообразие | Diversitéit
+inclusion | inclusion | Inklusion | inclusión | inclusione | inclusão | समावेश | 包容 | инклюзия | Inklusioun
+safety | sécurité | Sicherheit | seguridad | sicurezza | segurança | सुरक्षा | 安全 | безопасность | Sécherheet
+trust | confiance | Vertrauen | confianza | fiducia | confiança | विश्वास | 信任 | доверие | Vertrauen
+communication | communication | Kommunikation | comunicación | comunicazione | comunicação | संचार | 交流 | коммуникация | Kommunikatioun
+connections | connexions | Verbindungen | conexiones | connessioni | conexões | संबंध | 连接 | связи | Verbindungen
+outcomes | résultats | Ergebnisse | resultados | risultati | resultados | परिणाम | 结果 | результаты | Resultater
+experience | expérience | Erfahrung | experiencia | esperienza | experiência | अनुभव | 经验 | опыт | Erfahrung
+development | développement | Entwicklung | desarrollo | sviluppo | desenvolvimento | विकास | 发展 | развитие | Entwécklung
+volunteerism | bénévolat | Freiwilligenarbeit | voluntariado | volontariato | voluntariado | स्वयंसेवी कार्य | 志愿服务 | волонтерство | Volontariat
+project | projet | Projekt | proyecto | progetto | projeto | परियोजना | 项目 | проект | Projet
+task | tâche | Aufgabe | tarea | compito | tarefa | कार्य | 任务 | задача | Aufgab
+role | rôle | Rolle | papel | ruolo | papel | भूमिका | 角色 | роль | Roll
+attitude | attitude | Einstellung | actitud | atteggiamento | atitude | रवैया | 态度 | отношение | Haltung
+preparation | préparation | Vorbereitung | preparación | preparazione | preparação | तैयारी | 准备 | подготовка | Vorbereitung
+evaluation | évaluation | Bewertung | evaluación | valutazione | avaliação | मूल्यांकन | 评估 | оценка | Bewertung
+facilitation | facilitation | Ermöglichung | facilitación | facilitazione | facilitação | सुविधा | 促进 | облегчение | Erleichterung
+peer | pair | Peer | compañero | pari | colega | साथी | 同龄人 | сверстник | Peer
+success | succès | Erfolg | éxito | successo | sucesso | सफलता | 成功 | успех | Erfolg
+participation | participation | Teilnahme | participación | partecipazione | participação | भागीदारी | 参与 | участие | Teilnahme
+environment | environnement | Umwelt | medio ambiente | ambiente | meio ambiente | पर्यावरण | 环境 | окружающая среда | Umwelt
+orientation | orientation | Orientierung | orientación | orientamento | orientação | दिशा | 方向 | ориентация | Orientierung
+objectives | objectifs | Ziele | objetivos | obiettivi | objetivos | लक्ष्य | 目标 | цели | Ziele
+interaction | interaction | Interaktion | interacción | interazione | interação | इंटरैक्शन | 互动 | взаимодействие | Interaktion
+planning | planification | Planung | planificación | pianificazione | planejamento | योजना | 计划 | планирование | Planung
+policy | politique | Politik | política | politica | política | नीति | 政策 | политика | Politik
+contribution | contribution | Beitrag | contribución | contributo | contribuição | योगदान | 贡献 | вклад | Beitrag
+reflection | réflexion | Reflexion | reflexión | riflessione | reflexão | चिंतन | 反思 | размышление | Reflexion
+engagement | engagement | Engagement | compromiso | impegno | engajamento | प्रतिबद्धता | 参与 | участие | Engagement
+self-awareness | conscience de soi | Selbstbewusstsein | autoconocimiento | consapevolezza di sé | autoconsciência | आत्म-जागरूकता | 自我意识 | самоосознание | Selbstbewosstsein
+learning | apprentissage | Lernen | aprendizaje | apprendimento | aprendizado | शिक्षा | 学习 | обучение | Léieren
+network | réseau | Netzwerk | red | rete | rede | नेटवर्क | 网络 | сеть | Netzwierk
+well-being | bien-être | Wohlbefinden | bienestar | benessere | bem-estar | कल्याण | 幸福 | благополучие | Wuelbeing
+commitment | engagement | Engagement | compromiso | impegno | compromisso | प्रतिबद्धता | 承诺 | обязательство | Engagement
+community-building | construction de communauté | Gemeinschaftsbildung | construcción de comunidad | costruzione della comunità | construção de comunidade | समुदाय निर्माण | 社区建设 | строительство сообщества | Gemeinschaftsbau
+outreach | sensibilisation | Reichweite | alcance | sensibilizzazione | divulgação | बाहर जाना | 外展 | охват | Outreach
+service | service | Dienst | servicio | servizio | serviço | सेवा | 服务 | услуга | Service
+recognition | reconnaissance | Anerkennung | reconocimiento | riconoscimento | reconhecimento | पहचान | 识别 | признание | Erkennung

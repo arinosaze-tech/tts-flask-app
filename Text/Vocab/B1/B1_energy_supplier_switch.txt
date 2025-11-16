@@ -1,0 +1,65 @@
+switch | interrupteur | Schalter | interruptor | interruttore | interruptor | स्विच | 开关 | переключать | Wechsëlen
+compare | comparer | vergleichen | comparar | confrontare | comparar | तुलना करना | 比较 | сравнивать | Vergläichen
+choose | choisir | wählen | elegir | scegliere | escolher | चुनना | 选择 | выбирать | Wielen
+check | vérifier | überprüfen | verificar | controllare | verificar | चेक करना | 检查 | проверять | Kontrolléieren
+pay | payer | zahlen | pagar | pagare | pagar | भुगतान करना | 支付 | платить | Bezuelt
+save | sauvegarder | speichern | guardar | salvare | salvar | बचाना | 保存 | сохранять | Späicheren
+sign | signer | unterschreiben | firmar | firmare | assinar | हस्ताक्षर करना | 签名 | подписывать | Ënnerschreiwen
+cancel | annuler | stornieren | cancelar | annullare | cancelar | रद्द करना | 取消 | отменять | Canceléieren
+contact | contacter | kontaktieren | contactar | contattare | contatar | संपर्क करना | 联系 | контакт | kontaktéieren
+confirm | confirmer | bestätigen | confirmar | confermare | confirmar | पुष्टि करना | 确认 | подтвердить | bestätigen
+read | lire | lesen | leer | leggere | ler | पढ़ना | 阅读 | читать | liese
+send | envoyer | senden | enviar | inviare | enviar | भेजना | 发送 | отправить | schécken
+receive | recevoir | empfangen | recibir | ricevere | receber | प्राप्त करना | 收到 | получать | empfänken
+submit | soumettre | einreichen | enviar | presentare | submeter | प्रस्तुत करना | 提交 | представить | ofzéien
+install | installer | installieren | instalar | installare | instalar | स्थापित करना | 安装 | установить | installéieren
+update | mettre à jour | aktualisieren | actualizar | aggiornare | atualizar | अद्यतन करना | 更新 | обновить | aktualiséieren
+change | changer | ändern | cambiar | cambiare | mudar | बदलना | 改变 | менять | ändern
+move | bouger | bewegen | mover | muovere | mover | हिलाना | 移动 | двигать | bewegen
+renew | renouveler | erneuern | renovar | rinnovare | renovar | नवीकरण करना | 续期 | обновить | erneieren
+complain | se plaindre | sich beschweren | quejarse | lamentarsi | reclamar | शिकायत करना | 投诉 | жаловаться | sich beschweren
+fixed | fixé | festgelegt | fijo | fisso | fixo | तय | 固定的 | фиксированный | fest
+variable | variable | variabel | variable | variabile | variável | परिवर्तनीय | 变量 | переменная | variabel
+green | vert | grün | verde | verde | verde | हरा | 绿色 | зеленый | gréng
+cheaper | moins cher | günstiger | más barato | più economico | mais barato | सस्ता | 更便宜 | дешевле | méi bëlleg
+expensive | cher | teuer | caro | costoso | caro | महंगा | 昂贵 | дорогой | deier
+available | disponible | verfügbar | disponible | disponibile | disponível | उपलब्ध | 可用 | доступный | verfügbar
+monthly | mensuel | monatlich | mensual | mensile | mensal | मासिक | 每月 | ежемесячный | monatlech
+annual | annuel | jährlich | anual | annuale | anual | वार्षिक | 年度 | ежегодный | järech
+current | actuel | aktuell | actual | attuale | atual | वर्तमान | 当前 | текущий | aktuell
+new | nouveau | neu | nuevo | nuovo | novo | नया | 新 | новый | nei
+previous | précédent | vorherig | previo | precedente | anterior | पूर्व | 以前 | предыдущий | virun
+eligible | éligible | berechtigt | elegible | idoneo | elegível | योग्य | 合格 | подходящий | eligible
+reliable | fiable | zuverlässig | fiable | affidabile | confiável | विश्वसनीय | 可靠 | надежный | zuverlässig
+supplier | fournisseur | Lieferant | proveedor | fornitore | fornecedor | आपूर्तिकर्ता | 供应商 | поставщик | Lieferant
+energy | énergie | Energie | energía | energia | energia | ऊर्जा | 能源 | энергия | Energie
+electricity | électricité | Elektrizität | electricidad | elettricità | eletricidade | बिजली | 电 | электричество | Elektrizität
+gas | gaz | Gas | gas | gas | gás | गैस | 气 | газ | Gas
+contract | contrat | Vertrag | contrato | contratto | contrato | अनुबंध | 合同 | контракт | Vertrag
+tariff | tarif | Tarif | tarifa | tariffa | tarifa | दर | 关税 | тариф | Tarif
+bill | facture | Rechnung | factura | fattura | fatura | बिल | 账单 | счет | Rechnung
+price | prix | Preis | precio | prezzo | preço | कीमत | 价格 | цена | Präis
+fee | frais | Gebühr | tasa | tassa | taxa | शुल्क | 费用 | сбор | Gebühr
+discount | réduction | Rabatt | descuento | sconto | desconto | छूट | 折扣 | скидка | Remise
+offer | offre | Angebot | oferta | offerta | oferta | प्रस्ताव | 提供 | предложение | Offere
+option | option | Option | opción | opzione | opção | विकल्प | 选项 | вариант | Optioun
+meter | mètre | Meter | metro | metro | metro | मीटर | 米 | метр | Meter
+usage | utilisation | Nutzung | uso | utilizzo | uso | उपयोग | 使用 | использование | Benotzung
+customer | client | Kunde | cliente | cliente | cliente | ग्राहक | 顾客 | клиент | Client
+account | compte | Konto | cuenta | conto | conta | खाता | 账户 | счёт | Konto
+address | adresse | Adresse | dirección | indirizzo | endereço | पता | 地址 | адрес | Adress
+postcode | code postal | Postleitzahl | código postal | codice postale | código postal | पिनकोड | 邮政编码 | почтовый индекс | Postleitzahl
+notice | avis | Anzeige | aviso | avviso | aviso | सूचना | 通知 | уведомление | Avis
+refund | remboursement | Rückerstattung | reembolso | rimborso | reembolso | धनराशि लौटाना | 退款 | возврат | Rückzahlung
+credit | crédit | Kredit | crédito | credito | crédito | क्रेडिट | 信用 | кредит | Kredit
+debt | dette | Schuld | deuda | debito | dívida | ऋण | 债务 | долг | Schuld
+estimate | estimation | Schätzung | estimación | stima | estimativa | अनुमान | 估算 | оценка | Schätzung
+budget | budget | Budget | presupuesto | bilancio | orçamento | बजट | 预算 | бюджет | Budget
+quote | citation | Zitat | cotización | citazione | cotação | उद्धरण | 报价 | цитата | Zitat
+renewal | renouvellement | Erneuerung | renovación | rinnovo | renovação | नवीनीकरण | 续订 | обновление | Erneuerung
+standing charge | frais fixes | Grundgebühr | cargo fijo | canone fisso | taxa fixa | स्थायी शुल्क | 固定费用 | фиксированная плата | Fixgebühr
+unit rate | tarif unitaire | Einheitspreis | tarifa por unidad | tariffa unitaria | tarifa unitária | प्रति इकाई दर | 单位价格 | единичная ставка | Einheitspreis
+price cap | plafond de prix | Preisobergrenze | límite de precio | limite di prezzo | limite de preço | मूल्य सीमा | 价格上限 | ценовой потолок | Preisobergrenze
+exit fee | frais de sortie | Ausstiegsgebühr | tarifa de salida | penale di uscita | taxa de saída | निकासी शुल्क | 退出费 | выходной сбор | Ausstiegsgebühr
+meter reading | relevé de compteur | Zählerstand | lectura del medidor | lettura del contatore | leitura do medidor | मीटर रीडिंग | 读表 | показание счетчика | Zählerstand
+direct debit | prélèvement automatique | Lastschrift | domiciliación bancaria | addebito diretto | débito automático | ऑटो डेबिट | 自动扣款 | автосписание | Lastschrift

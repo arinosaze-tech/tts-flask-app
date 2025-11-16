@@ -1,0 +1,65 @@
+residence permit | titre de séjour | Aufenthaltserlaubnis | permiso de residencia | permesso di soggiorno | autorização de residência | निवास परमिट | 居留许可 | вид на жительство | Aufenthaltsgenehmigung
+renewal | renouvellement | Verlängerung | renovación | rinnovo | renovação | नवीकरण | 续期 | продление | Erneuerung
+application | demande | Antrag | solicitud | domanda | solicitação | आवेदन | 申请 | заявление | Antrag
+application form | formulaire de demande | Antragsformular | formulario de solicitud | modulo di domanda | formulário de solicitação | आवेदन पत्र | 申请表 | форма заявки | Bewerbungsformular
+applicant | demandeur | Antragsteller | solicitante | richiedente | requerente | आवेदक | 申请人 | заявитель | Antragsteller
+immigration office | bureau d'immigration | Einwanderungsbehörde | oficina de inmigración | ufficio immigrazione | escritório de imigração | आप्रवासन कार्यालय | 移民局 | иммиграционная служба | Einwanderungsbüro
+passport | passeport | Reisepass | pasaporte | passaporto | passaporte | पासपोर्ट | 护照 | паспорт | Pass
+id card | carte d'identité | Personalausweis | tarjeta de identificación | carta d'identità | cartão de identificação | पहचान पत्र | 身份证 | удостоверение личности | Identitätskarte
+address | adresse | Adresse | dirección | indirizzo | endereço | पता | 地址 | адрес | Adresse
+proof of address | justificatif de domicile | Wohnsitznachweis | comprobante de domicilio | attestato di residenza | comprovante de endereço | पते का प्रमाण | 住址证明 | подтверждение адреса | Wohnsitzbestätigung
+document | document | Dokument | documento | documento | documento | दस्तावेज़ | 文件 | документ | Dokument
+fee | frais | Gebühr | tarifa | tassa | taxa | शुल्क | 费用 | сбор | Gebühr
+receipt | reçu | Quittung | recibo | ricevuta | recibo | रसीद | 收据 | квитанция | Quittung
+deadline | date limite | Frist | fecha límite | scadenza | prazo | अंतिम तिथि | 截止日期 | срок | Frist
+appointment | rendez-vous | Termin | cita | appuntamento | compromisso | मुलाकात | 预约 | встреча | Rendez-vous
+queue | file d'attente | Schlange | cola | coda | fila | कतार | 排队 | очередь | Warteschlange
+officer | agent | Beamter | oficial | ufficiale | agente | अधिकारी | 官员 | офицер | Beamten
+email | courriel | E-Mail | correo electrónico | email | e-mail | ईमेल | 电子邮件 | электронная почта | E-Mail
+phone number | numéro de téléphone | Telefonnummer | número de teléfono | numero di telefono | número de telefone | फोन नंबर | 电话号码 | номер телефона | Telephonnummer
+payment | paiement | Zahlung | pago | pagamento | pagamento | भुगतान | 支付 | платеж | Zoulassung
+signature | signature | Unterschrift | firma | firma | assinatura | हस्ताक्षर | 签名 | подпись | Signatur
+photo | photo | Foto | foto | foto | foto | फोटो | 照片 | фото | Foto
+fingerprint | empreinte digitale | Fingerabdruck | huella digital | impronta digitale | impressão digital | अंगूठा छाप | 指纹 | отпечаток пальца | Daumendruck
+biometric data | données biométriques | biometrische Daten | datos biométricos | dati biometrici | dados biométricos | बायोमेट्रिक डेटा | 生物识别数据 | биометрические данные | biometresch Daten
+requirement | exigence | Anforderung | requisito | requisito | requisito | आवश्यकता | 要求 | требование | Anforderung
+status | statut | Status | estado | stato | estado | स्थिति | 状态 | статус | Status
+extension | extension | Erweiterung | extensión | estensione | extensão | विस्तार | 扩展 | продление | Erweiterung
+portal | portail | Portal | portal | portale | portal | पोर्टल | 门户 | портал | Portal
+processing | traitement | Verarbeitung | procesamiento | elaborazione | processamento | प्रसंस्करण | 处理 | обработка | Verarbeitung
+slot | créneau | Slot | ranura | slot | slot | स्लॉट | 插槽 | слот | Slot
+case | cas | Fall | caso | caso | caso | मामला | 案件 | случай | Fall
+letter | lettre | Brief | carta | lettera | carta | पत्र | 信件 | письмо | Bréif
+apply | appliquer | anwenden | aplicar | applicare | aplicar | लागू करना | 申请 | применять | appliquer
+renew | renouveler | erneuern | renovar | rinnovare | renovar | नवीनीकरण | 更新 | обновить | erneieren
+submit | soumettre | einreichen | presentar | presentare | submeter | प्रस्तुत करना | 提交 | подавать | einreichen
+provide | fournir | bereitstellen | proporcionar | fornire | fornecer | देना | 提供 | предоставлять | fournir
+fill in | remplir | ausfüllen | llenar | riempire | preencher | भरना | 填写 | заполнять | ausfüllen
+sign | signer | unterschreiben | firmar | firmare | assinar | हस्ताक्षर करना | 签名 | подписывать | подписи
+check | vérifier | prüfen | comprobar | controllare | checar | जांचना | 检查 | проверять | überprüfen
+wait | attendre | warten | esperar | aspettare | esperar | इंतज़ार करना | 等待 | ждать | warten
+receive | recevoir | erhalten | recibir | ricevere | receber | प्राप्त करना | 接收 | получать | empfangen
+collect | collecter | sammeln | coleccionar | raccogliere | coletar | इकट्ठा करना | 收集 | собирать | sammeln
+schedule | programmer | planen | programar | programmare | agendar | अनुसूची बनाना | 安排 | планировать | planen
+reschedule | reprogrammer | neu planen | reprogramar | riprogrammare | reagendar | फिर से अनुसूची बनाना | 重新安排 | перенести | neu ansetzen
+cancel | annuler | stornieren | cancelar | annullare | cancelar | रद्द करना | 取消 | отменить | annulléieren
+upload | télécharger | hochladen | subir | caricare | carregar | अपलोड करना | 上传 | загружать | eroplueden
+print | imprimer | drucken | imprimir | stampare | imprimir | प्रिंट करना | 打印 | печатать | drécken
+scan | scanner | scannen | escanear | scannerizzare | escanear | स्कैन करना | 扫描 | сканировать | scannen
+attach | attacher | anhängen | adjuntar | allegare | anexar | अटैच करना | 附加 | прикрепить | attacheren
+update | mettre à jour | aktualisieren | actualizar | aggiornare | atualizar | अपडेट करना | 更新 | обновить | updaten
+verify | vérifier | verifizieren | verificar | verificare | verificar | सत्यापित करना | 验证 | проверить | verifizieren
+pay | payer | bezahlen | pagar | pagare | pagar | भुगतान करना | 支付 | платить | bezuelen
+valid | valide | gültig | válido | valido | válido | वैध | 有效 | действительный | valabel
+expired | expiré | abgelaufen | expirado | scaduto | expirado | समाप्त | 过期 | истек | abgelaf
+current | actuel | aktuell | actual | attuale | atual | वर्तमान | 当前 | текущий | aktuell
+temporary | temporaire | vorübergehend | temporal | temporaneo | temporário | अस्थायी | 临时 | временный | temporär
+permanent | permanent | dauerhaft | permanente | permanente | permanente | स्थायी | 永久的 | постоянный | permanent
+eligible | éligible | berechtigt | elegible | idoneo | elegível | योग्य | 合格的 | подходящий | eligibel
+required | requis | erforderlich | requerido | richiesto | necessário | आवश्यक | 必需的 | обязательный | erforderlech
+missing | manquant | fehlend | faltante | mancante | ausente | गायब | 丢失的 | отсутствующий | feierend
+delayed | retardé | verspätet | retrasado | ritardato | atrasado | विलंबित | 延误的 | задержанный | verspät
+urgent | urgent | dringend | urgente | urgente | urgente | तात्कालिक | 紧急的 | срочный | dringlech
+local | local | lokal | local | locale | local | स्थानीय | 本地的 | местный | lokal
+official | officiel | amtlich | oficial | ufficiale | oficial | आधिकारिक | 官方的 | официальный | offiziell
+legal | légal | legal | legal | legale | legal | कानूनी | 合法 | законный | gesetzlech

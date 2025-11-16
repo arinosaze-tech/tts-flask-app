@@ -1,0 +1,65 @@
+vendor | fournisseur | Verkäufer | proveedor | fornitore | fornecedor | विक्रेता | 供应商 | продавец | Verkeefer
+service | service | Dienst | servicio | servizio | serviço | सेवा | 服务 | услуга | Service
+level | niveau | Ebene | nivel | livello | nível | स्तर | 水平 | уровень | Niveau
+agreement | accord | Vereinbarung | acuerdo | accordo | acordo | समझौता | 协议 | соглашение | Accord
+breach | violation | Verletzung | incumplimiento | violazione | violação | उल्लंघन | 违反 | нарушение | Verletzung
+penalty | pénalité | Strafe | penalización | penalità | penalidade | दंड | 罚款 | штраф | Pénalité
+delivery | livraison | Lieferung | entrega | consegna | entrega | डिलीवरी | 交付 | доставка | Liwwerservice
+quality | qualité | Qualität | calidad | qualità | qualidade | गुणवत्ता | 质量 | качество | Qualitéit
+assurance | assurance | Versicherung | compensación | assicurazione | garantia | आश्वासन | 保证 | гарантия | Garantie
+compensation | compensation | Entschädigung | compensación | risarcimento | compensação | मुआवजा | 赔偿 | компенсация | Entschädigung
+performance | performance | Leistung | rendimiento | prestazione | desempenho | प्रदर्शन | 表现 | производительность | Leistung
+monitoring | surveillance | Überwachung | monitoreo | monitoraggio | monitoramento | निगरानी | 监测 | мониторинг | Überwachung
+expectation | attente | Erwartung | expectativa | aspettativa | expectativa | उम्मीद | 期望 | ожидание | Erwartung
+commitment | engagement | Verpflichtung | compromiso | impegno | compromisso | प्रतिबद्धता | 承诺 | обязательство | Engagement
+requirement | exigence | Anforderung | requisito | requisito | requisito | आवश्यकता | 要求 | требование | Anforderung
+clause | clause | Klausel | cláusula | clausola | cláusula | उपधारा | 条款 | пункт | Klausel
+termination | résiliation | Kündigung | terminación | risoluzione | rescisão | समाप्ति | 终止 | прекращение | Kündigung
+notification | notification | Benachrichtigung | notificación | notifica | notificação | सूचना | 通知 | уведомление | Notifikatioun
+response | réponse | Antwort | respuesta | risposta | resposta | प्रतिक्रिया | 回应 | ответ | Antwort
+obligation | obligation | Verpflichtung | obligación | obbligo | obrigação | बाध्यता | 义务 | обязательство | Obligation
+schedule | emploi du temps | Zeitplan | horario | programma | cronograma | कार्यक्रम | 日程 | расписание | Zäitplang
+failure | échec | Fehler | fallo | fallimento | falha | विफलता | 失败 | неудача | Feeler
+remedy | remède | Heilmittel | remedio | rimedio | remédio | उपचार | 补救 | средство | Rèmed
+resolution | résolution | Beschluss | resolución | risoluzione | resolução | समाधान | 解决方案 | решение | Resolutioun
+contract | contrat | Vertrag | contrato | contratto | contrato | अनुबंध | 合同 | контракт | Vertrag
+liability | responsabilité | Haftung | responsabilidad | responsabilità | responsabilidade | देनदारी | 责任 | ответственность | Haftung
+dispute | litige | Streit | disputa | contenzioso | disputa | विवाद | 争议 | спор | Stre controversy
+review | révision | Überprüfung | revisión | revisione | revisão | समीक्षा | 评论 | обзор | Überprüfung
+auditing | audit | Prüfung | auditoría | revisione | auditoria | ऑडिट | 审计 | аудит | Audit
+assessment | évaluation | Bewertung | evaluación | valutazione | avaliação | मूल्यांकन | 评估 | оценка | Beurteilung
+report | rapport | Bericht | informe | rapporto | relatório | रिपोर्ट | 报告 | отчет | Bericht
+stakeholder | partie prenante | Interessengruppe | parte interesada | parte interessata | interessado | हितधारक | 利益相关者 | заинтересованная сторона | Stakeholder
+engagement | engagement | Engagement | compromiso | impegno | compromisso | जुड़ाव | 参与 | вовлечение | Engagement
+clarification | clarification | Klärung | aclaración | chiarimento | esclarecimento | स्पष्टिकरण | 澄清 | уточнение | Klärung
+negotiation | négociation | Verhandlung | negociación | negoziazione | negociação | बातचीत | 谈判 | переговоры | Verhandlung
+documentation | documentation | Dokumentation | documentación | documentazione | documentação | दस्तावेज़ | 文档 | документация | Dokumentatioun
+enforcement | application | Durchsetzung | aplicación | attuazione | aplicação | प्रवर्तन | 执法 | принуждение | Durchsetzung
+agreement | accord | Vereinbarung | acuerdo | accordo | acordo | समझौता | 协议 | соглашение | Accord
+renewal | renouvellement | Erneuerung | renovación | rinnovo | renovação | नवीनीकरण | 续约 | обновление | Erneierung
+standard | norme | Standard | estándar | standard | padrão | मानक | 标准 | стандарт | Standard
+functionality | fonctionnalité | Funktionalität | funcionalidad | funzionalità | funcionalidade | कार्यक्षमता | 功能性 | функциональность | Funktionalité
+support | soutien | Unterstützung | apoyo | supporto | apoio | समर्थन | 支持 | поддержка | Unterstützung
+communication | communication | Kommunikation | comunicación | comunicazione | comunicação | संचार | 沟通 | коммуникация | Kommunikatioun
+timeline | calendrier | Zeitachse | cronograma | linea del tempo | cronograma | समयरेखा | 时间线 | временная линия | Zäitlin
+resources | ressources | Ressourcen | recursos | risorse | recursos | संसाधन | 资源 | ресурсы | Ressourcen
+integration | intégration | Integration | integración | integrazione | integração | एकीकरण | 整合 | интеграция | Integratioun
+expectations | attentes | Erwartungen | expectativas | aspettative | expectativas | अपेक्षाएँ | 期望 | ожидания | Erwartungen
+milestone | jalon | Meilenstein | hito | traguardo | marco | मील का पत्थर | 里程碑 | этап | Meilesteen
+performance | performance | Leistung | rendimiento | prestazione | desempenho | प्रदर्शन | 性能 | производительность | Leeschtungsfähigkeit
+criteria | critères | Kriterien | criterios | criteri | critérios | मानदंड | 标准 | критерии | Krittär
+action | action | Handlung | acción | azione | ação | क्रिया | 行动 | действие | Actioun
+issue | problème | Thema | problema | problema | questão | मुद्दा | 问题 | вопрос | Thema
+management | gestion | Management | gestión | gestione | gestão | प्रबंधन | 管理 | управление | Management
+collaboration | collaboration | Zusammenarbeit | colaboración | collaborazione | colaboração | सहयोग | 合作 | сотрудничество | Zesummenaarbecht
+risk | risque | Risiko | riesgo | rischio | risco | जोखिम | 风险 | риск | Risiko
+transparency | transparence | Transparenz | transparencia | trasparenza | transparência | पारदर्शिता | 透明度 | прозрачность | Transparenz
+evaluation | évaluation | Bewertung | evaluación | valutazione | avaliação | मूल्यांकन | 评估 | оценка | Bewertung
+feedback | retour | Rückmeldung | retroalimentación | feedback | feedback | फीडबैक | 反馈 | обратная связь | Feedback
+improvement | amélioration | Verbesserung | mejora | miglioramento | melhoria | सुधार | 改进 | улучшение | Verbesserung
+service | service | Dienst | servicio | servizio | serviço | सेवा | 服务 | служба | Service
+provision | provision | Bereitstellung | provisión | fornitura | provisão | प्रावधान | 供应 | provision | Versorgung
+conduct | conduite | Verhalten | conducta | condotta | conduta | आचार | 行为 | поведение | Verhalten
+agreement | accord | Vereinbarung | acuerdo | accordo | acordo | समझौता | 协议 | соглашение | Vereinbarung
+engagement | engagement | Engagement | compromiso | impegno | compromisso | संलग्नता | 参与 | участие | Engagement
+assessment | évaluation | Bewertung | evaluación | valutazione | avaliação | मूल्यांकन | 评估 | оценка | Bewertung

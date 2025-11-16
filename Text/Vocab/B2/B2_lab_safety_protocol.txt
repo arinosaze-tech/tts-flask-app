@@ -1,0 +1,65 @@
+safety | sécurité | Sicherheit | seguridad | sicurezza | segurança | सुरक्षा | 安全 | безопасность | Sécherheet
+hazard | danger | Gefahr | peligro | pericolo | risco | खतरा | 危险 | опасность | Risiko
+protocol | protocole | Protokoll | protocolo | protocollo | protocolo | प्रोटोकॉल | 协议 | протокол | Protokoll
+equipment | équipement | Ausrüstung | equipo | attrezzatura | equipamento | उपकरण | 设备 | оборудование | Equipement
+gloves | gants | Handschuhe | guantes | guanti | luvas | दस्ताने | 手套 | перчатки | Handschue
+goggles | lunettes de protection | Schutzbrille | gafas de protección | occhiali protettivi | óculos de proteção | सुरक्षा चश्मा | 防护眼镜 | защитные очки | Schutzbrëll
+apron | tablier | Schürze | delantal | grembiule | avental | एप्रन | 围裙 | фартук | Schurz
+laboratory | laboratoire | Labor | laboratorio | laboratorio | laboratório | प्रयोगशाला | 实验室 | лаборатория | Laboratoire
+chemicals | produits chimiques | Chemikalien | químicos | sostanze | produtos químicos | रसायन | 化学品 | химикаты | chemikaler
+substance | substance | Substanz | sustancia | sostanza | substância | पदार्थ | 物质 | субстанция | substanz
+spill | renverser | auslaufen | derramar | versare | derramar | गिराना | 溢出 | проливать | spillen
+first aid | premiers secours | Erste Hilfe | primeros auxilios | pronto soccorso | primeiros socorros | प्राथमिक उपचार | 急救 | первая помощь | éischt Hëllef
+fire extinguisher | extincteur | Feuerlöscher | extintor | estintore | extintor | अग्निशामक | 灭火器 | огнетушитель | Feierlöscher
+ventilation | ventilation | Belüftung | ventilación | ventilazione | ventilação | वायुमंडल | 通风 | вентиляция | Ventilatioun
+fume hood | hotte | Abzugshaube | campana | cappa | capô | धुआं हटाने का फर्श | 通风柜 | вытяжной шкаф | Dunstabzug
+warning | avertissement | Warnung | advertencia | avviso | aviso | चेतावनी | 警告 | предупреждение | Warnung
+signage | signalisation | Beschilderung | señalización | segnaletica | sinalização | साइनबोर्ड | 标识 | знаки | Signalisatioun
+procedure | procédure | Verfahren | procedimiento | procedura | procedimento | प्रक्रिया | 程序 | процедура | Prozedur
+emergency | urgence | Notfall | emergencia | emergenza | emergência | आपातकाल | 紧急情况 | экстренная ситуация | Notfall
+response | réponse | Antwort | respuesta | risposta | resposta | प्रतिक्रिया | 回应 | ответ | Äntwert
+training | formation | Ausbildung | formación | formazione | treinamento | प्रशिक्षण | 培训 | обучение | Ausbildung
+supervision | supervision | Aufsicht | supervisión | supervisione | supervisão | पर्यवेक्षण | 监督 | надзор | Aufsicht
+personal protective equipment | équipement de protection individuelle | persönliche Schutzausrüstung | equipo de protección personal | dispositivi di protezione individuale | equipamento de proteção individual | व्यक्तिगत सुरक्षा उपकरण | 个人防护装备 | средства индивидуальной защиты | individueel Schutzausrüstung
+protective | protecteur | schützend | protector | protettivo | protetor | Protective | 保护的 | защитный | Protectiv
+clothing | vêtement | Kleidung | ropa | abbigliamento | roupa | कपड़ा | 衣服 | одежда | Kleed
+material safety data sheet | fiche de données de sécurité | Sicherheitsdatenblatt | hoja de datos de seguridad | scheda di dati di sicurezza | ficha de dados de segurança | सामग्री सुरक्षा डेटा पत्र | 材料安全数据表 | паспорт безопасности материалов | Materialsiichter
+flammable | inflammable | entzündlich | inflamable | infiammabile | inflamável | ज्वलनशील | 易燃 | горючий | brennbar
+toxic | toxique | giftig | tóxico | tossico | tóxico | विषैला | 有毒 | токсичный | toxesch
+reactive | réactif | reaktiv | reactivo | reattivo | reativo | प्रतिक्रियाशील | 反应性 | реактивный | reaktiv
+explosive | explosif | explosiv | explosivo | esplosivo | explosivo | विस्फोटक | 爆炸性 | взрывчатый | explosiv
+dispose | éliminer | entsorgen | eliminar | smaltire | descartar | नष्ट करना | 处理 | утилизировать | entsuergen
+waste | déchet | Abfall | desecho | rifiuto | lixo | कचरा | 垃圾 | отход | Offall
+retort stand | porte-entonnoir | Retorte | embudo | becher | balão | रिटॉर्ट स्टैंड | 冷却器 | реторта | retortständer
+beaker | bécher | Becher | vaso de precipitados | becher | balão | बेकर | 烧杯 | мерное стакан | bächer
+test tube | tube à essai | Reagenzglas | tubo de ensayo | provetta | tubo de ensaio | परीक्षण ट्यूब | 试管 | пробирка | пробирка
+pipette | pipette | Pipette | pipeta | pipetta | pipeta | पिपेट | 移液管 | пипетка | pipette
+stirring rod | tige de agitation | Rührstab | barra de agitación | bastoncino | haste de agitação | चलाने वाली छड़ी | 搅拌棒 | стеклянный штатив | rührstab
+tongs | pinces | Zange | pinzas | pinze | pinças | कतरनी | 夹具 | щипцы | zangen
+safety data | données de sécurité | Sicherheitsdaten | datos de seguridad | dati di sicurezza | dados de segurança | सुरक्षा डेटा | 安全数据 | безопасность данных | sicherheitsdaten
+eye wash | solution oculaire | Augenwaschlösung | solución para los ojos | soluzione oftalmica | solução para os olhos | आई वॉश | 洗眼液 | промывка глаз | augenspülung
+neutralize | neutraliser | neutralisieren | neutralizar | neutralizzare | neutralizar | तटस्थ करना | 中和 | нейтрализовать | neutralisé
+containment | containment | Eindämmung | contención | contenimento | contenção | नियंत्रण | 隔离 | сдерживание | containment
+label | étiquette | Etikett | etiqueta | etichetta | rótulo | लेबल | 标签 | ярлык | Label
+risks | risques | Risiken | riesgos | rischi | riscos | जोखिम | 风险 | риски | Risiken
+inspect | inspecter | inspizieren | inspeccionar | ispezionare | inspecionar | निरीक्षण करना | 检查 | инспектировать | inspizieren
+clean | nettoyer | sauber machen | limpiar | pulire | limpar | साफ करना | 清理 | очищать | propper
+isolate | isoler | isolieren | aislar | isolare | isolar | अलग करना | 隔离 | изолировать | isoléieren
+report | rapporter | berichten | informar | riferire | reportar | रिपोर्ट करना | 报告 | доклад | Rapportéieren
+follow | suivre | folgen | seguir | seguire | seguir | पालन करना | 跟随 | следовать | folgen
+wear | porter | tragen | llevar | indossare | usar | पहनना | 穿 | носить | droën
+handle | manipuler | behandeln | manejar | gestire | manusear | संभालना | 处理 | обращаться | behandelen
+mix | mélanger | mischen | mezclar | mescolare | misturar | मिलाना | 混合 | смешивать | mengen
+store | stocker | lagern | almacenar | immagazzinare | armazenar | स्टोर करना | 存储 | хранить | späicheren
+avoid | éviter | vermeiden | evitar | evitare | evitar | टालना | 避免 | избегать | vermeiden
+practice | pratiquer | üben | practicar | praticare | praticar | व्यायाम करना | 练习 | практиковать | praktizéieren
+conduct | mener | durchführen | llevar a cabo | condurre | conduzir | संचालित करना | 进行 | проводить | féieren
+monitor | surveiller | überwachen | monitorear | monitorare | monitorar | निगरानी करना | 监控 | мониторить | iwwerwaachen
+verify | vérifier | überprüfen | verificar | verificare | verificar | सत्यापित करना | 验证 | проверять | veriféieren
+identify | identifier | identifizieren | identificar | identificare | identificar | पहचानना | 识别 | идентифицировать | identifizéieren
+clean-up | nettoyage | säubern | limpieza | pulizia | limpeza | साफ करना | 清理 | уборка | eckeren
+access | accéder | zugreifen | acceder | accedere | acessar | पहुंचना | 访问 | получить доступ | zougrëfen
+test | tester | testen | probar | testare | testar | परीक्षण करना | 测试 | тестировать | testen
+lock | verrouiller | abschließen | cerrar | bloccare | trancar | लॉक करना | 锁定 | заблокировать | zouféieren
+emergency contact | contact d'urgence | Notfallkontakt | contacto de emergencia | contatto di emergenza | contato de emergência | आपात संपर्क | 紧急联系人 | контакт в экстренной ситуации | Noutfallkontakt
+notification | notification | Benachrichtigung | notificación | notifica | notificação | सूचना | 通知 | уведомление | Notifikatioun

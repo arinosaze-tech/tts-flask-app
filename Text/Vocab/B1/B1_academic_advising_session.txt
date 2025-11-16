@@ -1,0 +1,55 @@
+student | étudiant | Student | estudiante | studente | estudante | विद्यार्थी | 学生 | студент | Student
+advisor | conseiller académique | Studienberater | asesor académico | consulente accademico | orientador acadêmico | शैक्षणिक सलाहकार | 学业顾问 | академический советник | Studieberoder
+appointment | rendez-vous | Termin | cita | appuntamento | compromisso | अपॉइंटमेंट | 预约 | встреча | Rendez-vous
+major | spécialité | Hauptfach | especialidad | materia principale | especialidade | मुख्य विषय | 专业 | специальность | Haaptfach
+minor | mineure | Nebenfach | especialidad secundaria | materia secondaria | especialidade secundária | गौण विषय | 辅修 | дополнительная специальность | Niewefach
+course | cours | Kurs | asignatura | corso | disciplina | कोर्स | 课程 | курс | Cours
+credit | crédit | Leistungspunkt | crédito | credito | crédito | क्रेडिट | 学分 | кредит | Kredit
+requirement | exigence | Anforderung | requisito | requisito | requisito | आवश्यकता | 要求 | требование | Viraussetzung
+elective | cours optionnel | Wahlfach | optativa | materia opzionale | disciplina optativa | वैकल्पिक विषय | 选修课 | предмет по выбору | Wahlfach
+semester | semestre | Semester | semestre | semestre | semestre | सेमेस्टर | 学期 | семестр | Semester
+goal | objectif | Ziel | meta | obiettivo | objetivo | लक्ष्य | 目标 | цель | Zil
+career | carrière | Karriere | carrera | carriera | carreira | करियर | 职业生涯 | карьера | Karriär
+transcript | relevé de notes | Notenübersicht | expediente académico | certificato degli esami | histórico escolar | अंकपत्र | 成绩单 | выписка оценок | Bulletin
+grade | note | Note | nota | voto | nota | ग्रेड | 成绩 | оценка | Nott
+gpa | moyenne générale | Notendurchschnitt | promedio | media | média | जीपीए | 平均绩点 | средний балл | Nottenduerchschnëtt
+office | bureau | Büro | oficina | ufficio | escritório | कार्यालय | 办公室 | офис | Büro
+deadline | date limite | Frist | fecha límite | scadenza | prazo | अंतिम तिथि | 截止日期 | крайний срок | Frist
+registration | inscription | Anmeldung | inscripción | iscrizione | inscrição | पंजीकरण | 注册 | регистрация | Aschreiwung
+waitlist | liste d'attente | Warteliste | lista de espera | lista d'attesa | lista de espera | प्रतीक्षा सूची | 候补名单 | список ожидания | Waardelëscht
+enrollment | inscription | Einschreibung | matrícula | iscrizione | matrícula | दाखिला | 入学 | зачисление | Aschreiwung
+prerequisite | prérequis | Voraussetzung | requisito previo | prerequisito | pré-requisito | पूर्व शर्त | 先决条件 | обязательное условие | Viraussetzung
+syllabus | plan de cours | Kursplan | programa del curso | programma del corso | programa do curso | पाठ्यक्रम | 课程大纲 | программа курса | Coursplang
+schedule | emploi du temps | Zeitplan | horario | orario | horário | समय सारणी | 时间表 | расписание | Zäitplang
+reschedule | reprogrammer | verschieben | reprogramar | riprogrammare | remarcar | पुनर्निर्धारित करना | 改期 | перенести | verréckelen
+meet | rencontrer | treffen | reunirse | incontrare | encontrar | मिलना | 见面 | встречаться | sech begéinen
+discuss | discuter | besprechen | hablar de | discutere | discutir | चर्चा करना | 讨论 | обсуждать | beschwätzen
+choose | choisir | wählen | elegir | scegliere | escolher | चुनना | 选择 | выбирать | wielen
+enroll | s'inscrire | sich einschreiben | inscribirse | iscriversi | inscrever-se | दाखिला लेना | 报名 | записаться | sech aschreiwen
+register | s'enregistrer | sich registrieren | registrarse | registrarsi | registrar-se | पंजीकरण करना | 注册 | зарегистрироваться | sech umellen
+drop | abandonner | abbrechen | dejar | lasciare | cancelar | छोड़ना | 退课 | отказаться от курса | ofmellen
+add | ajouter | hinzufügen | añadir | aggiungere | adicionar | जोड़ना | 添加 | добавлять | bäisetzen
+withdraw | se retirer | sich abmelden | retirarse | ritirarsi | retirar-se | वापस लेना | 退选 | отозвать | sech zeréckzéien
+explore | explorer | erkunden | explorar | esplorare | explorar | खोज करना | 探索 | исследовать | erfuerschen
+review | réviser | durchsehen | revisar | rivedere | revisar | समीक्षा करना | 复习 | просмотреть | nokucken
+confirm | confirmer | bestätigen | confirmar | confermare | confirmar | पुष्टि करना | 确认 | подтвердить | bestätegen
+recommend | recommander | empfehlen | recomendar | raccomandare | recomendar | सिफारिश करना | 推荐 | рекомендовать | recommandéieren
+guide | guider | führen | guiar | guidare | guiar | मार्गदर्शन करना | 引导 | направлять | leeden
+check | vérifier | prüfen | comprobar | controllare | verificar | जांच करना | 检查 | проверить | préifen
+submit | soumettre | einreichen | enviar | inviare | enviar | जमा करना | 提交 | подать | areechen
+academic | universitaire | akademisch | académico | accademico | acadêmico | शैक्षणिक | 学术的 | академический | akademesch
+required | obligatoire | erforderlich | obligatorio | obbligatorio | obrigatório | अनिवार्य | 必需的 | обязательный | obligatoresch
+optional | facultatif | optional | opcional | opzionale | opcional | वैकल्पिक | 可选的 | необязательный | fakultativ
+available | disponible | verfügbar | disponible | disponibile | disponível | उपलब्ध | 可用的 | доступный | verfügbar
+open | ouvert | offen | abierto | aperto | aberto | खुला | 开放的 | открытый | op
+full | plein | voll | lleno | pieno | cheio | भरा | 满的 | полный | voll
+flexible | souple | flexibel | flexible | flessibile | flexível | लचीला | 灵活的 | гибкий | flexibel
+suitable | adapté | geeignet | adecuado | adatto | adequado | उपयुक्त | 适合的 | подходящий | passend
+clear | clair | klar | claro | chiaro | claro | स्पष्ट | 清楚的 | ясный | kloer
+helpful | utile | hilfreich | útil | utile | útil | सहायक | 有帮助的 | полезный | hëllefräich
+personal | personnel | persönlich | personal | personale | pessoal | निजी | 个人的 | личный | perséinlech
+academic advisor | conseiller pédagogique | Studienberater | asesor académico | tutor accademico | orientador acadêmico | शैक्षणिक सलाहकार | 学业顾问 | академический консультант | Studieberoder
+office hours | heures de permanence | Sprechstunde | horario de tutorías | orario di ricevimento | horário de atendimento | मिलने का समय | 答疑时间 | часы приема | Sprechstonn
+degree plan | plan d'études | Studienplan | plan de estudios | piano di studi | plano de estudos | डिग्री योजना | 学位计划 | учебный план | Studieplang
+study plan | plan d'étude | Lernplan | plan de estudio | piano di studio | plano de estudo | अध्ययन योजना | 学习计划 | план учебы | Léierplang
+course load | nombre de crédits | Studienbelastung | carga académica | carico di studio | carga acadêmica | पाठ्यक्रम भार | 课程负担 | учебная нагрузка | Studiebelaaschtung

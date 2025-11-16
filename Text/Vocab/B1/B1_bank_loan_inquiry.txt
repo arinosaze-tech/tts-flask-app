@@ -1,0 +1,55 @@
+loan | prêt | Kredit | préstamo | prestito | empréstimo | कर्ज | 贷款 | кредит | Kredit
+bank | banque | Bank | banco | banca | banco | बैंक | 银行 | банк | Bank
+account | compte | Konto | cuenta | conto | conta | खाता | 账户 | счет | Kont
+borrower | emprunteur | Kreditnehmer | prestatario | mutuatario | mutuário | उधारकर्ता | 借款人 | заемщик | Kreditnehmer
+lender | prêteur | Kreditgeber | prestamista | prestatore | prestamista | ऋणदाता | 贷款人 | кредитор | Kreditgeber
+interest | intérêt | Zins | interés | interesse | juros | ब्याज | 利息 | проценты | Zëns
+term | durée | Laufzeit | plazo | durata | prazo | अवधि | 期限 | срок | Lafzäit
+fee | frais | Gebühr | comisión | commissione | taxa | शुल्क | 手续费 | комиссия | Tax
+deposit | dépôt | Einzahlung | depósito | deposito | depósito | जमा | 存款 | вклад | Abezuelung
+balance | solde | Kontostand | saldo | saldo | saldo | शेष राशि | 余额 | баланс | Kontostand
+income | revenu | Einkommen | ingreso | reddito | renda | आय | 收入 | доход | Akommes
+expense | dépense | Ausgabe | gasto | spesa | despesa | खर्च | 开支 | расход | Ausgab
+budget | budget | Budget | presupuesto | budget | orçamento | बजट | 预算 | бюджет | Budget
+document | document | Dokument | documento | documento | documento | दस्तावेज़ | 文件 | документ | Dokument
+identification | identification | Identifikation | identificación | identificazione | identificação | पहचान | 身份识别 | идентификация | Identifikatioun
+address | adresse | Adresse | dirección | indirizzo | endereço | पता | 地址 | адрес | Adress
+employment | emploi | Beschäftigung | empleo | occupazione | emprego | रोजगार | 就业 | занятость | Beschäftegung
+purpose | but | Zweck | propósito | scopo | objetivo | उद्देश्य | 目的 | цель | Zweck
+option | option | Option | opción | opzione | opção | विकल्प | 选项 | вариант | Optioun
+penalty | amende | Geldstrafe | multa | multa | multa | जुर्माना | 罚金 | штраф | Geldstrof
+interest rate | taux d'intérêt | Zinssatz | tasa de interés | tasso di interesse | taxa de juros | ब्याज दर | 利率 | процентная ставка | Zënssaz
+monthly payment | paiement mensuel | monatliche Zahlung | pago mensual | pagamento mensile | pagamento mensal | मासिक भुगतान | 每月付款 | ежемесячный платеж | mountlech Bezuelung
+credit score | score de crédit | Kreditscore | puntaje de crédito | punteggio di credito | pontuação de crédito | क्रेडिट स्कोर | 信用评分 | кредитный рейтинг | Kreditscore
+bank statement | relevé bancaire | Kontoauszug | estado de cuenta bancario | estratto conto | extrato bancário | बैंक स्टेटमेंट | 银行对账单 | банковская выписка | Kontoauszuch
+application form | formulaire de demande | Antragsformular | formulario de solicitud | modulo di domanda | formulário de solicitação | आवेदन पत्र | 申请表 | форма заявки | Demandeformulair
+proof of income | justificatif de revenus | Einkommensnachweis | comprobante de ingresos | prova di reddito | comprovante de renda | आय का प्रमाण | 收入证明 | справка о доходах | akommesnofweis
+down payment | acompte | Anzahlung | pago inicial | anticipo | entrada | अग्रिम भुगतान | 首付 | первоначальный взнос | anbezuelung
+apply | demander | beantragen | solicitar | richiedere | solicitar | आवेदन करना | 申请 | подать заявку | ufroen
+borrow | emprunter | ausleihen | pedir prestado | prendere in prestito | pegar emprestado | उधार लेना | 借 | занять | ausléinen
+lend | prêter | verleihen | prestar | prestare | emprestar | उधार देना | 借出 | одалживать | léinen
+repay | rembourser | zurückzahlen | devolver | rimborsare | reembolsar | चुकाना | 还款 | погасить | zréckbezuelen
+approve | approuver | genehmigen | aprobar | approvare | aprovar | मंजूर करना | 批准 | одобрить | guthéissen
+decline | refuser | ablehnen | rechazar | rifiutare | recusar | मना करना | 拒绝 | отклонить | refuséieren
+review | examiner | überprüfen | revisar | rivedere | revisar | समीक्षा करना | 审阅 | просмотреть | iwwerpréiwen
+sign | signer | unterschreiben | firmar | firmare | assinar | हस्ताक्षर करना | 签名 | подписать | ënnerschreiwen
+submit | soumettre | einreichen | enviar | inviare | enviar | जमा करना | 提交 | отправить | areechen
+check | vérifier | prüfen | comprobar | controllare | verificar | जांच करना | 检查 | проверить | préifen
+calculate | calculer | berechnen | calcular | calcolare | calcular | गणना करना | 计算 | посчитать | ausrechnen
+compare | comparer | vergleichen | comparar | confrontare | comparar | तुलना करना | 比较 | сравнить | vergläichen
+confirm | confirmer | bestätigen | confirmar | confermare | confirmar | पुष्टि करना | 确认 | подтвердить | bestätegen
+cancel | annuler | abbrechen | cancelar | annullare | cancelar | रद्द करना | 取消 | отменить | ofsoen
+contact | contacter | kontaktieren | contactar | contattare | contactar | संपर्क करना | 联系 | связаться | kontaktéieren
+update | mettre à jour | aktualisieren | actualizar | aggiornare | atualizar | अपडेट करना | 更新 | обновить | aktualiséieren
+verify | vérifier | überprüfen | verificar | verificare | verificar | सत्यापित करना | 验证 | проверить | iwwerpréiwen
+eligible | éligible | berechtigt | apto | idoneo | apto | पात्र | 有资格的 | имеющий право | berechtegt
+monthly | mensuel | monatlich | mensual | mensile | mensal | मासिक | 每月 | ежемесячный | méintlech
+total | total | Summe | total | totale | total | कुल | 总计 | итог | Total
+minimum | minimum | Minimum | mínimo | minimo | mínimo | न्यूनतम | 最低 | минимум | Minimum
+maximum | maximum | Maximum | máximo | massimo | máximo | अधिकतम | 最大 | максимум | Maximum
+fixed | fixe | fest | fijo | fisso | fixo | निश्चित | 固定 | фиксированный | fest
+variable | variable | variabel | variable | variabile | variável | परिवर्तनीय | 可变 | переменный | variabel
+affordable | abordable | erschwinglich | asequible | accessibile | acessível | किफायती | 负担得起 | доступный | bezuelbar
+urgent | urgent | dringend | urgente | urgente | urgente | तत्काल | 紧急 | срочный | dréngend
+flexible | flexible | flexibel | flexible | flessibile | flexível | लचीला | 灵活 | гибкий | flexibel
+secure | sûr | sicher | seguro | sicuro | seguro | सुरक्षित | 安全 | безопасный | sécher

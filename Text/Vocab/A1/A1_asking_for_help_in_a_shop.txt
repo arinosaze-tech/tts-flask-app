@@ -1,0 +1,65 @@
+help | aider | helfen | ayudar | aiutare | ajudar | मदद करना | 帮助 | помочь
+shop | magasin | Laden | tienda | negozio | loja | दुकान | 商店 | магазин
+customer | client | Kunde | cliente | cliente | cliente | ग्राहक | 客户 | клиент
+cashier | caissier | Kassierer | cajero | cassiere | caixa | काउंटर | 收银员 | кассир
+clerk | employé | Angestellter | empleado | impiegato | funcionário | क्लर्क | 职员 | клерк
+price | prix | Preis | precio | prezzo | preço | मूल्य | 价格 | цена
+money | argent | Geld | dinero | soldi | dinheiro | पैसा | 钱 | деньги
+change | monnaie | Wechselgeld | cambio | resto | troco | परिवर्तन | 变化 | сдача
+receipt | reçu | Quittung | recibo | ricevuta | recibo | रसीद | 收据 | квитанция
+item | article | Artikel | artículo | articolo | item | आइटम | 项目 | предмет
+size | taille | Größe | tamaño | dimensione | tamanho | आकार | 尺寸 | размер
+color | couleur | Farbe | color | colore | cor | रंग | 颜色 | цвет
+shelf | étagère | Regal | estante | scaffale | prateleira | शेल्फ | 货架 | полка
+shelves | étagères | Regale | estantes | scaffali | prateleiras | शेल्व्स | 货架 | полки
+bag | sac | Tasche | bolsa | borsa | bolsa | बैग | 包 | сумка
+basket | panier | Korb | cesta | cesto | cesta | टोकरी | 篮子 | корзина
+counter | compteur | Zähler | contador | contatore | contador | काउंटर | 计数器 | счётчик
+service | service | Dienst | servicio | servizio | serviço | सेवा | 服务 | услуга
+checkout | caisse | Kasse | pago | cassa | checkout | चेकआउट | 结账 | касса
+satisfaction | satisfaction | Zufriedenheit | satisfacción | soddisfazione | satisfação | संतोष | 满意 | удовлетворение
+question | question | Frage | pregunta | domanda | pergunta | प्रश्न | 问题 | вопрос
+problem | problème | Problem | problema | problema | problema | समस्या | 问题 | проблема
+want | vouloir | wollen | querer | volere | querer | चाहिए | 想要 | хотеть
+need | avoir besoin | brauchen | necesitar | avere bisogno | precisar | जरूरत | 需要 | нуждаться
+find | trouver | finden | encontrar | trovare | encontrar | पाना | 找到 | находить
+look for | chercher | suchen | buscar | cercare | procurar | ढूँढना | 找 | искать
+ask | demander | fragen | preguntar | chiedere | pedir | पूछना | 问 | спрашивать
+say | dire | sagen | decir | dire | dizer | कहना | 说 | говорить
+show | montrer | zeigen | mostrar | mostrare | mostrar | दिखाना | 展示 | показывать
+bring | apporter | bringen | traer | portare | trazer | लाना | 带来 | приносить
+give | donner | geben | dar | dare | dar | देना | 给 | давать
+take | prendre | nehmen | tomar | prendere | levar | लेना | 拿 | брать
+try | essayer | versuchen | intentar | provare | tentar | कोशिश करना | 尝试 | попробовать
+like | aimer | mögen | gustar | piacere | gostar | पसंद करना | 喜欢 | нравиться
+prefer | préférer | bevorzugen | preferir | preferire | preferir | ज्यादा पसंद करना | 更喜欢 | предпочитать
+cheap | bon marché | billig | barato | economico | barato | सस्ता | 便宜 | дешёвый
+expensive | cher | teuer | caro | caro | caro | महंगा | 贵 | дорогой
+new | nouveau | neu | nuevo | nuovo | novo | नया | 新 | новый
+old | vieux | alt | viejo | vecchio | velho | पुराना | 旧 | старый
+good | bon | gut | bueno | buono | bom | अच्छा | 好 | хороший
+bad | mauvais | schlecht | malo | cattivo | mau | खराब | 坏 | плохой
+nice | gentil | nett | agradable | gentile | agradável | अच्छा | 好 | хороший
+long | long | lang | largo | lungo | longo | लंबा | 长 | длинный
+short | court | kurz | corto | corto | curto | छोटा | 短 | короткий
+big | grand | groß | grande | grande | grande | बड़ा | 大 | большой
+small | petit | klein | pequeño | piccolo | pequeno | छोटा | 小 | маленький
+friendly | amical | freundlich | amable | amichevole | amigável | दोस्ताना | 友好 | дружелюбный
+quick | rapide | schnell | rápido | veloce | rápido | तेज़ | 快 | быстрый
+easy | facile | einfach | fácil | facile | fácil | आसान | 简单 | легкий
+hard | dur | hart | duro | duro | difícil | कठिन | 硬 | трудный
+available | disponible | verfügbar | disponible | disponibile | disponível | उपलब्ध | 可用 | доступный
+open | ouvert | offen | abierto | aperto | aberto | खुला | 打开 | открытый
+close | fermer | schließen | cerrar | chiudere | fechar | बंद | 关闭 | закрытый
+order | commander | bestellen | ordenar | ordinare | pedir | आदेश | 订单 | заказ
+special | spécial | speziell | especial | speciale | especial | विशेष | 特别 | специальный
+clearance | autorisation | Genehmigung | autorización | approvazione | autorização | स्वीकृति | 清关 | разрешение
+discount | remise | Rabatt | descuento | sconto | desconto | छूट | 折扣 | скидка
+offer | offre | Angebot | oferta | offerta | oferta | प्रस्ताव | 提供 | предложение
+return | retour | Rückkehr | retorno | ritorno | retorno | वापस | 返回 | возврат
+exchange | échange | Austausch | intercambio | scambio | troca | विनिमय | 交换 | обмен
+want to | vouloir | wollen | querer | volere | querer | करना | 想 | хотеть
+help you | aider | helfen | ayudarte | aiutarti | ajudar | मदद करना | 帮助你 | помочь тебе
+can you | pouvez-vous | können Sie | puedes | puoi | pode | क्या आप | 你能 | можете
+where is | où est | wo ist | dónde está | dove si trova | onde está | कहाँ है | 在哪里 | где находится
+how much | combien | wie viel | cuánto | quanto | quanto | कितना | 多少 | сколько

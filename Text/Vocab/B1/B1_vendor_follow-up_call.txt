@@ -1,0 +1,55 @@
+vendor | vendeur | Verkäufer | vendedor | venditore | vendedor | विक्रेता | 卖家 | продавец | Verkeefer
+supplier | fournisseur | Lieferant | proveedor | fornitore | fornecedor | आपूर्तिकर्ता | 供应商 | поставщик | Liwwerant
+contact | contact | Kontakt | contacto | contatto | contato | संपर्क | 联系人 | контакт | Kontakt
+order | commande | Bestellung | pedido | ordine | pedido | ऑर्डर | 订单 | заказ | Bestellung
+item | article | Artikel | artículo | articolo | item | आइटम | 项目 | позиция | Artikel
+product | produit | Produkt | producto | prodotto | produto | उत्पाद | 产品 | товар | Produit
+service | service | Dienstleistung | servicio | servizio | serviço | सेवा | 服务 | услуга | Déngschtleeschtung
+price | prix | Preis | precio | prezzo | preço | कीमत | 价格 | цена | Präis
+quote | devis | Angebot | presupuesto | preventivo | orçamento | कोटेशन | 报价 | коммерческое предложение | Offerte
+invoice | facture | Rechnung | factura | fattura | fatura | चालान | 发票 | счет | Rechnung
+payment | paiement | Zahlung | pago | pagamento | pagamento | भुगतान | 付款 | оплата | Bezuelung
+shipment | expédition | Sendung | envío | spedizione | envio | शिपमेंट | 货件 | отгрузка | Sendung
+delivery | livraison | Lieferung | entrega | consegna | entrega | डिलीवरी | 送货 | доставка | Liwwerung
+delay | retard | Verspätung | retraso | ritardo | atraso | देरी | 延迟 | задержка | Verspéidung
+stock | stock | Bestand | existencias | scorte | estoque | स्टॉक | 库存 | запас | Stock
+warehouse | entrepôt | Lager | almacén | magazzino | armazém | गोदाम | 仓库 | склад | Lager
+issue | problème | Problem | problema | problema | problema | समस्या | 问题 | проблема | Problem
+status | statut | Status | estado | stato | estado | स्थिति | 状态 | статус | Status
+schedule | calendrier | Zeitplan | horario | orario | horário | समय सारणी | 日程 | расписание | Zäitplang
+contract | contrat | Vertrag | contrato | contratto | contrato | अनुबंध | 合同 | договор | Kontrakt
+deadline | date limite | Frist | fecha límite | scadenza | prazo | अंतिम तिथि | 截止日期 | крайний срок | Frist
+account | compte | Konto | cuenta | account | conta | खाता | 账户 | аккаунт | Kont
+confirm | confirmer | bestätigen | confirmar | confermare | confirmar | पुष्टि करना | 确认 | подтвердить | bestätegen
+check | vérifier | prüfen | comprobar | controllare | verificar | जांचना | 检查 | проверить | préifen
+verify | vérifier | überprüfen | verificar | verificare | verificar | जांचना | 核实 | проверить | iwwerpréiwen
+discuss | discuter | besprechen | discutir | discutere | discutir | चर्चा करना | 讨论 | обсуждать | diskutéieren
+update | mettre à jour | aktualisieren | actualizar | aggiornare | atualizar | अपडेट करना | 更新 | обновить | aktualiséieren
+clarify | clarifier | klären | aclarar | chiarire | esclarecer | स्पष्ट करना | 澄清 | уточнить | kloerstellen
+request | demander | anfordern | pedir | richiedere | solicitar | अनुरोध करना | 请求 | запросить | ufroen
+agree | être d'accord | zustimmen | estar de acuerdo | essere d'accordo | concordar | सहमत होना | 同意 | согласиться | zoustëmmen
+resolve | résoudre | lösen | resolver | risolvere | resolver | हल करना | 解决 | решить | léisen
+escalate | faire remonter | eskalieren | escalar | escalare | escalar | ऊपर भेजना | 升级 | эскалировать | eskaléieren
+arrange | organiser | organisieren | organizar | organizzare | organizar | व्यवस्थित करना | 安排 | организовать | organiséieren
+reschedule | reprogrammer | verschieben | reprogramar | spostare | remarcar | समय बदलना | 改期 | перенести | verréckelen
+remind | rappeler | erinnern | recordar | ricordare | lembrar | याद दिलाना | 提醒 | напоминать | erënneren
+note | noter | notieren | anotar | annotare | anotar | नोट करना | 记下 | записать | notéieren
+record | enregistrer | aufnehmen | grabar | registrare | gravar | रिकॉर्ड करना | 录制 | записывать | opzeechnen
+apologize | s'excuser | sich entschuldigen | disculparse | scusarsi | desculpar-se | माफ़ी माँगना | 道歉 | извиниться | se entschëllegen
+negotiate | négocier | verhandeln | negociar | negoziare | negociar | बातचीत करना | 谈判 | вести переговоры | verhandelen
+early | tôt | früh | temprano | presto | cedo | जल्दी | 早 | рано | fréi
+late | tard | spät | tarde | tardi | tarde | देर से | 晚 | поздно | spéit
+urgent | urgent | dringend | urgente | urgente | urgente | जरूरी | 紧急 | срочный | dréngend
+available | disponible | verfügbar | disponible | disponibile | disponível | उपलब्ध | 可用 | доступный | verfügbar
+ready | prêt | bereit | listo | pronto | pronto | तैयार | 准备好 | готов | prett
+clear | clair | klar | claro | chiaro | claro | साफ़ | 清楚 | ясный | kloer
+final | final | endgültig | final | finale | final | अंतिम | 最终 | окончательный | definitiv
+current | actuel | aktuell | actual | attuale | atual | वर्तमान | 当前 | текущий | aktuell
+pending | en attente | ausstehend | pendiente | in sospeso | pendente | लंबित | 待定 | в ожидании | ausstoend
+correct | juste | richtig | correcto | corretto | correto | सही | 正确 | правильный | richteg
+flexible | souple | flexibel | flexible | flessibile | flexível | लचीला | 灵活 | гибкий | flexibel
+follow up | relancer | nachfassen | hacer seguimiento | fare follow-up | fazer acompanhamento | अनुवर्ती करना | 跟进 | связаться повторно | nogoen
+call back | rappeler | zurückrufen | volver a llamar | richiamare | ligar de volta | वापस कॉल करना | 回电 | перезвонить | zréckruffen
+purchase order | bon de commande | Bestellung | orden de compra | ordine d'acquisto | pedido de compra | क्रय आदेश | 采购订单 | заказ на покупку | Kafbestellung
+delivery date | date de livraison | Lieferdatum | fecha de entrega | data di consegna | data de entrega | वितरण तिथि | 交货日期 | дата доставки | Liwwerdatum
+order number | numéro de commande | Bestellnummer | número de pedido | numero d'ordine | número do pedido | आदेश संख्या | 订单号 | номер заказа | Bestellnummer

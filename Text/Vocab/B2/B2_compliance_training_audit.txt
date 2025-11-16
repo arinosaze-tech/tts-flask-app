@@ -1,0 +1,65 @@
+compliance | conformité | Compliance | cumplimiento | conformità | conformidade | अनुपालन | 合规 | соблюдение | Compliance
+policy | politique | Politik | política | politica | política | नीतियाँ | 政策 | политика | Politik
+regulation | réglementation | Regelung | regulación | regolamento | regulamentação | विनियमन | 监管 | регуляция | Regulatioun
+audit | audit | Prüfung | auditoría | revisione | auditoria | लेखा परीक्षा | 审计 | аудит | Audit
+training | formation | Ausbildung | formación | formazione | treinamento | प्रशिक्षण | 培训 | обучение | Ausbildung
+risk | risque | Risiko | riesgo | rischio | risco | जोखिम | 风险 | риск | Risiko
+procedure | procédure | Verfahren | procedimiento | procedura | procedimento | प्रक्रिया | 程序 | процедура | Prozedur
+standards | normes | Standards | normas | standard | normas | मानक | 标准 | стандарты | Standards
+guidelines | lignes directrices | Richtlinien | directrices | linee guida | diretrizes | दिशानिर्देश | 指南 | рекомендации | Richtlinien
+data | données | Daten | datos | dati | dados | डेटा | 数据 | данные | Daten
+report | rapport | Bericht | informe | rapporto | relatório | रिपोर्ट | 报告 | отчет | Bericht
+assessment | évaluation | Bewertung | evaluación | valutazione | avaliação | मूल्यांकन | 评估 | оценка | Bewertung
+checkpoint | point de contrôle | Kontrollpunkt | punto de control | punto di controllo | ponto de verificação | चेकपॉइंट | 检查站 | контрольная точка | Kontrollpunkt
+documentation | documentation | Dokumentation | documentación | documentazione | documentação | प्रलेखन | 文档 | документация | Dokumentation
+review | révision | Überprüfung | revisión | revisione | revisão | समीक्षा | 审查 | обзор | Überprüfung
+monitor | surveiller | überwachen | monitorear | monitorare | monitorar | मॉनिटर करना | 监视 | мониторить | überwachen
+evaluation | évaluation | Bewertung | evaluación | valutazione | avaliação | मूल्यांकन | 评估 | оценка | Evaluatioun
+process | processus | Prozess | proceso | processo | processo | प्रक्रिया | 过程 | процесс | Prozess
+management | gestion | Management | gestión | gestione | gestão | प्रबंधन | 管理 | управление | Gestion
+breach | violation | Verstoß | violación | violazione | quebra | उल्लंघन | 违反 | нарушение | Verletzung
+employee | employé | Mitarbeiter | empleado | dipendente | empregado | कर्मचारी | 员工 | сотрудник | Angestellten
+responsibility | responsabilité | Verantwortung | responsabilidad | responsabilità | responsabilidade | ज़िम्मेदारी | 责任 | ответственность | Verantwortung
+requirement | exigence | Anforderung | requisito | requisito | requisito | आवश्यकता | 要求 | требование | Forderung
+contract | contrat | Vertrag | contrato | contratto | contrato | अनुबंध | 合同 | контракт | Kontrakt
+recommendation | recommandation | Empfehlung | recomendación | raccomandazione | recomendação | सिफारिश | 推荐 | рекомендация | Empfehlung
+protocol | protocole | Protokoll | protocolo | protocollo | protocolo | प्रोटोकॉल | 协议 | протокол | Protokoll
+procedure | procédure | Verfahren | procedimiento | procedura | procedimento | प्रक्रिया | 程序 | процедура | Prozedur
+evidence | preuve | Beweis | evidencia | prova | evidência | साक्ष्य | 证据 | доказательство | Beweis
+action | action | Aktion | acción | azione | ação | क्रिया | 行动 | действие | Aktioun
+implementation | mise en œuvre | Umsetzung | implementación | attuazione | implementação | कार्यान्वयन | 实施 | внедрение | Umsetzung
+feedback | retour | Rückmeldung | retroalimentación | feedback | feedback | प्रतिक्रिया | 反馈 | обратная связь | Réckmeldung
+disclosure | divulgation | Offenlegung | divulgación | divulgazione | divulgação | खुलासा | 披露 | раскрытие | Offerdelegierung
+clarity | clarté | Klarheit | claridad | chiarezza | clareza | स्पष्टता | 清晰 | ясность | Klarheit
+integrity | intégrité | Integrität | integridad | integrità | integridade | अखंडता | 完整性 | целостность | Integrität
+law | loi | Gesetz | ley | legge | lei | कानून | 法律 | закон | Gesetz
+transparency | transparence | Transparenz | transparencia | trasparenza | transparência | पारदर्शिता | 透明度 | прозрачность | Transparenz
+communication | communication | Kommunikation | comunicación | comunicazione | comunicação | संचार | 沟通 | коммуникация | Kommunikatioun
+violations | violations | Verstöße | violaciones | violazioni | violações | उल्लंघन | 违规 | нарушения | Verstöegen
+control | contrôle | Kontrolle | control | controllo | controle | नियंत्रण | 控制 | контроль | Kontroll
+consequence | conséquence | Konsequenz | consecuencia | conseguenza | consequência | परिणाम | 后果 | последствие | Konsequenz
+penalty | peine | Strafe | penalización | penalità | penalidade | दंड | 罚款 | штраф | Strafe
+effectiveness | efficacité | Effektivität | efectividad | efficacia | eficácia | प्रभावशीलता | 有效性 | эффективность | Effektivité
+overview | aperçu | Übersicht | visión general | panoramica | visão geral | अवलोकन | 概述 | обзор | Iwwerbléck
+method | méthode | Methode | método | metodo | método | विधि | 方法 | метод | Methode
+strategy | stratégie | Strategie | estrategia | strategia | estratégia | रणनीति | 战略 | стратегия | Strategie
+cooperation | coopération | Kooperation | cooperación | cooperazione | cooperação | सहयोग | 合作 | сотрудничество | Zesummenaarbecht
+awareness | sensibilisation | Bewusstsein | conciencia | consapevolezza | conscientização | जागरूकता | 意识 | осведомленность | Bewosstsinn
+diligence | diligence | Fleiß | diligencia | diligenza | diligência | मेहनत | 勤奋 | усердие | Fleeß
+accountability | responsabilité | Verantwortung | responsabilidad | responsabilità | responsabilidade | जवाबदेही | 责任 | ответственность | Verantwortlichkeit
+engagement | engagement | Engagement | compromiso | impegno | engajamento | सगाई | 参与 | вовлеченность | Engagement
+update | mise à jour | Aktualisierung | actualización | aggiornamento | atualização | अपडेट | 更新 | обновление | Aktualisierung
+record | enregistrement | Aufzeichnung | grabación | registrazione | registro | रिकॉर्ड | 记录 | запись | Aufnahme
+consistency | cohérence | Konsistenz | consistencia | coerenza | consistência | स्थिरता | 一致性 | последовательность | Konsistenz
+obligation | obligation | Verpflichtung | obligación | obbligo | obrigação | बाध्यता | 义务 | обязательство | Verpflichtung
+goal | objectif | Ziel | meta | obiettivo | meta | लक्ष्य | 目标 | цель | Ziel
+result | résultat | Ergebnis | resultado | risultato | resultado | परिणाम | 结果 | результат | Ergebnis
+prevention | prévention | Prävention | prevención | prevenzione | prevenção | रोकथाम | 预防 | предотвращение | Prävention
+training material | matériel de formation | Schulungsmaterial | material de formación | materiale di formazione | material de formação | प्रशिक्षण सामग्री | 培训材料 | учебные материалы | Ausbildungsunterlagen
+engagement | engagement | Engagement | compromiso | impegno | compromisso | प्रतिबद्धता | 参与 | вовлеченность | Engagement
+collaboration | collaboration | Zusammenarbeit | colaboración | collaborazione | colaboração | सहयोग | 合作 | сотрудничество | Zusammenarbeit
+performance | performance | Leistung | rendimiento | prestazione | desempenho | प्रदर्शन | 性能 | производительность | Leistung
+improvement | amélioration | Verbesserung | mejora | miglioramento | melhoria | सुधार | 改进 | улучшение | Verbesserung
+commitment | engagement | Engagement | compromiso | impegno | compromisso | प्रतिबद्धता | 承诺 | обязательство | Engagement
+response | réponse | Antwort | respuesta | risposta | resposta | प्रतिक्रिया | 反应 | ответ | Antwort
+transformation | transformation | Transformation | transformación | trasformazione | transformação | रूपांतरण | 转变 | трансформация | Transformatioun

@@ -1,0 +1,55 @@
+furniture | meubles | Möbel | muebles | mobili | móveis | फर्नीचर | 家具 | мебель | Miwwelen
+delivery | livraison | Lieferung | entrega | consegna | entrega | डिलीवरी | 送货 | доставка | Liwwerung
+schedule | horaire | Zeitplan | horario | orario | horário | शेड्यूल | 时间表 | расписание | Zäitplang
+calendar | calendrier | Kalender | calendario | calendario | calendário | कैलेंडर | 日历 | календарь | Kalenner
+order | commande | Bestellung | pedido | ordine | pedido | ऑर्डर | 订单 | заказ | Bestellung
+address | adresse | Adresse | dirección | indirizzo | endereço | पता | 地址 | адрес | Adress
+date | date | Datum | fecha | data | data | तारीख | 日期 | дата | Datum
+time | heure | Zeit | hora | ora | hora | समय | 时间 | время | Zäit
+driver | conducteur | Fahrer | conductor | autista | motorista | ड्राइवर | 司机 | водитель | Chauffeur
+truck | camion | Lastwagen | camión | camion | caminhão | ट्रक | 卡车 | грузовик | Camion
+sofa | canapé | Sofa | sofá | divano | sofá | सोफा | 沙发 | диван | Canapé
+chair | chaise | Stuhl | silla | sedia | cadeira | कुर्सी | 椅子 | стул | Stull
+table | table | Tisch | mesa | tavolo | mesa | टेबल | 桌子 | стол | Dësch
+bed | lit | Bett | cama | letto | cama | बिस्तर | 床 | кровать | Bett
+desk | bureau | Schreibtisch | escritorio | scrivania | escrivaninha | डेस्क | 书桌 | письменный стол | Schreifdësch
+wardrobe | armoire | Kleiderschrank | armario | armadio | guarda-roupa | अलमारी | 衣柜 | шкаф | Kleederpress
+shelf | étagère | Regal | estante | scaffale | prateleira | रैक | 架子 | полка | Regal
+drawer | tiroir | Schublade | cajón | cassetto | gaveta | दराज | 抽屉 | ящик | Schublad
+mattress | matelas | Matratze | colchón | materasso | colchão | गद्दा | 床垫 | матрас | Matratz
+staircase | escalier | Treppe | escalera | scala | escada | सीढ़ी | 楼梯 | лестница | Trap
+elevator | ascenseur | Aufzug | ascensor | ascensore | elevador | लिफ्ट | 电梯 | лифт | Lift
+floor | étage | Stockwerk | piso | piano | andar | मंजिल | 楼层 | этаж | Stack
+room | pièce | Zimmer | habitación | stanza | quarto | कमरा | 房间 | комната | Zëmmer
+space | espace | Platz | espacio | spazio | espaço | जगह | 空间 | место | Plaz
+payment | paiement | Zahlung | pago | pagamento | pagamento | भुगतान | 付款 | платеж | Bezuelung
+deliver | livrer | liefern | entregar | consegnare | entregar | पहुंचाना | 送货 | доставлять | liwweren
+book | réserver | buchen | reservar | prenotare | reservar | बुक करना | 预订 | бронировать | reservéieren
+plan | planifier | planen | planear | pianificare | planejar | योजना बनाना | 计划 | планировать | plangen
+choose | choisir | auswählen | elegir | scegliere | escolher | चुनना | 选择 | выбирать | auswielen
+confirm | confirmer | bestätigen | confirmar | confermare | confirmar | पुष्टि करना | 确认 | подтвердить | bestätegen
+call | appeler | anrufen | llamar | chiamare | ligar | कॉल करना | 打电话 | звонить | uruffen
+email | e-mail | E-Mail | correo electrónico | email | e-mail | ईमेल | 电子邮件 | электронная почта | E-Mail
+wait | attendre | warten | esperar | aspettare | esperar | इंतजार करना | 等 | ждать | waarden
+arrive | arriver | ankommen | llegar | arrivare | chegar | पहुँचना | 到达 | приехать | ukommen
+carry | porter | tragen | llevar | portare | carregar | ले जाना | 拿 | нести | droen
+unpack | déballer | auspacken | desempacar | disfare | desempacotar | सामान खोलना | 拆开 | распаковывать | auspaaken
+check | vérifier | prüfen | revisar | controllare | verificar | जांचना | 检查 | проверять | kontrolléieren
+sign | signer | unterschreiben | firmar | firmare | assinar | हस्ताक्षर करना | 签字 | подписывать | ënnerschreiwen
+pay | payer | bezahlen | pagar | pagare | pagar | भुगतान करना | 付钱 | платить | bezuelen
+cancel | annuler | stornieren | cancelar | annullare | cancelar | रद्द करना | 取消 | отменить | annuléieren
+reschedule | déplacer | verschieben | cambiar la fecha | spostare | remarcar | दोबारा समय तय करना | 改期 | перенести | verleeën
+change | changer | ändern | cambiar | cambiare | mudar | बदलना | 改变 | менять | änneren
+heavy | lourd | schwer | pesado | pesante | pesado | भारी | 重 | тяжёлый | schwéier
+light | léger | leicht | ligero | leggero | leve | हल्का | 轻 | лёгкий | liicht
+large | grand | groß | grande | grande | grande | बड़ा | 大 | большой | grouss
+small | petit | klein | pequeño | piccolo | pequeno | छोटा | 小 | маленький | kleng
+narrow | étroit | schmal | estrecho | stretto | estreito | संकरा | 窄 | узкий | schmuel
+wide | large | breit | ancho | largo | largo | चौड़ा | 宽 | широкий | breed
+early | tôt | früh | temprano | presto | cedo | जल्दी | 早 | рано | fréi
+late | tard | spät | tarde | tardi | tarde | देर से | 晚 | поздно | spéit
+time slot | créneau | Zeitfenster | franja horaria | fascia oraria | faixa de horário | समय स्लॉट | 时间段 | временной интервал | Zäitfenster
+delivery window | créneau de livraison | Lieferzeitfenster | franja de entrega | fascia di consegna | janela de entrega | डिलीवरी का समय | 送货时间段 | окно доставки | Liwwerzäitfenster
+front door | porte d'entrée | Haustür | puerta principal | porta d'ingresso | porta de entrada | मुख्य दरवाजा | 前门 | входная дверь | Haaptdier
+order number | numéro de commande | Bestellnummer | número de pedido | numero d'ordine | número do pedido | ऑर्डर नंबर | 订单号 | номер заказа | Bestellnummer
+customer service | service client | Kundenservice | atención al cliente | servizio clienti | atendimento ao cliente | ग्राहक सेवा | 客户服务 | служба поддержки | Clientsservice

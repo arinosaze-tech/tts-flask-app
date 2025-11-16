@@ -1,0 +1,28 @@
+3.11.10# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual envs
+venv/
+.venv/
+
+# Config temp
+settings_temp.py
+
+# Caches & outputs
+Output/
+.cache_tts/
+.cache_images/
+.cache_video/
+
+# Keys & secrets
+*.key
+.premium.json
+.env
+
+# IDE
+.vscode/
+.idea/
+*.log

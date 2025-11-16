@@ -1,0 +1,55 @@
+shoe | chaussure | Schuh | zapato | scarpa | sapato | जूता | 鞋 | туфля | Schong
+boot | botte | Stiefel | bota | stivale | bota | बूट | 靴子 | сапог | Stiwwel
+heel | talon | Absatz | tacón | tacco | salto | हील | 鞋跟 | каблук | Ofsaz
+sole | semelle | Sohle | suela | suola | sola | तला | 鞋底 | подошва | Suel
+lace | lacet | Schnürsenkel | cordón | laccio | cadarço | फीता | 鞋带 | шнурок | Schongbändel
+insole | semelle intérieure | Einlegesohle | plantilla | soletta | palmilha | इनसोल | 鞋垫 | стелька | Innensuel
+stitch | point | Stich | puntada | punto | ponto | टांका | 针脚 | стежок | Stéch
+glue | colle | Kleber | pegamento | colla | cola | गोंद | 胶水 | клей | Leim
+brush | brosse | Bürste | cepillo | spazzola | escova | ब्रश | 刷子 | щетка | Bürscht
+cloth | tissu | Tuch | tela | panno | pano | कपड़ा | 布 | ткань | Stoff
+leather | cuir | Leder | cuero | pelle | couro | चमड़ा | 皮革 | кожа | Lieder
+rubber | caoutchouc | Gummi | goma | gomma | borracha | रबर | 橡胶 | резина | Gummi
+shop | magasin | Laden | tienda | negozio | loja | दुकान | 商店 | магазин | Buttek
+cobbler | cordonnier | Schuster | zapatero | calzolaio | sapateiro | मोची | 鞋匠 | сапожник | Schongmëcher
+receipt | reçu | Quittung | recibo | scontrino | recibo | रसीद | 收据 | чек | Quittung
+ticket | billet | Ticket | billete | biglietto | bilhete | टिकट | 票 | билет | Ticket
+price | prix | Preis | precio | prezzo | preço | कीमत | 价格 | цена | präis
+counter | comptoir | Theke | mostrador | bancone | balcão | काउंटर | 柜台 | прилавок | comptoir
+damage | dégât | Schaden | daño | danno | dano | नुकसान | 损坏 | повреждение | schued
+hole | trou | Loch | agujero | buco | buraco | छेद | 洞 | дыра | lach
+scratch | rayure | Kratzer | arañazo | graffio | risco | खरोंच | 划痕 | царапина | kratzer
+stain | tache | Fleck | mancha | macchia | mancha | दाग | 污渍 | пятно | fleck
+tear | déchirure | Riss | rasgón | strappo | rasgo | चीरा | 裂口 | разрыв | rëss
+pair | paire | Paar | par | paio | par | जोड़ी | 一对 | пара | koppel
+service | entretenir | warten | mantener | manutenere | manter | सर्विस करना | 保养 | обслуживать | ënnerhalen
+repair | réparer | reparieren | reparar | riparare | consertar | मरम्मत करना | 修理 | ремонтировать | reparéieren
+fix | réparer | reparieren | arreglar | aggiustare | consertar | ठीक करना | 修理 | чинить | reparéieren
+replace | remplacer | ersetzen | reemplazar | sostituire | trocar | बदलना | 换 | заменить | auswiesselen
+clean | nettoyer | putzen | limpiar | pulire | limpar | साफ करना | 打扫 | чистить | botzen
+polish | polir | polieren | pulir | lucidare | polir | पॉलिश करना | 擦亮 | полировать | poléieren
+sew | coudre | nähen | coser | cucire | costurar | सीना | 缝 | шить | nähen
+attach | attacher | befestigen | adjuntar | attaccare | anexar | जोड़ना | 附上 | прикрепить | befestegen
+tighten | serrer | festziehen | apretar | stringere | apertar | कसना | 拧紧 | затянуть | festzéien
+loosen | desserrer | lockern | aflojar | allentare | afrouxar | ढीला करना | 松开 | ослабить | léisen
+tie | attacher | binden | atar | legare | amarrar | बांधना | 系 | завязать | bannen
+check | vérifier | prüfen | revisar | controllare | verificar | जांचना | 检查 | проверить | kontrolléieren
+wait | attendre | warten | esperar | aspettare | esperar | इंतज़ार करना | 等 | ждать | waarden
+pay | payer | bezahlen | pagar | pagare | pagar | भुगतान करना | 付钱 | платить | bezuelen
+bring | apporter | bringen | traer | portare | trazer | लाना | 带来 | принести | bréngen
+leave | partir | weggehen | salir | partire | sair | जाना | 离开 | уйти | fortgoen
+collect | ramasser | sammeln | recoger | raccogliere | recolher | इकट्ठा करना | 收集 | собирать | sammelen
+need | avoir besoin de | brauchen | necesitar | avere bisogno di | precisar de | ज़रूरत होना | 需要 | нуждаться | brauchen
+broken | cassé | kaputt | roto | rotto | quebrado | टूटा | 坏 | сломанный | kaputt
+damaged | abîmé | beschädigt | dañado | danneggiato | estragado | खराब | 损坏 | повреждённый | beschiedegt
+loose | lâche | locker | suelto | allentato | solto | ढीला | 松 | свободный | locker
+tight | serré | eng | apretado | stretto | apertado | तंग | 紧 | тесный | enk
+dirty | sale | schmutzig | sucio | sporco | sujo | गंदा | 脏 | грязный | dreckeg
+wet | mouillé | nass | mojado | bagnato | molhado | गीला | 湿 | мокрый | naass
+new | nouveau | neu | nuevo | nuovo | novo | नया | 新 | новый | nei
+old | vieux | alt | viejo | vecchio | velho | पुराना | 旧 | старый | al
+shoe repair | réparation de chaussures | Schuhreparatur | arreglo de zapatos | riparazione scarpe | conserto de sapatos | जूते की मरम्मत | 修鞋 | ремонт обуви | Schongereparatur
+heel replacement | remplacement de talon | Absatzerneuerung | cambio de tacón | sostituzione tacco | troca de salto | हील बदलना | 更换鞋跟 | замена каблука | Absatzwiessel
+sole repair | réparation de semelle | Sohlenreparatur | arreglo de suela | riparazione suola | conserto de sola | तलवे की मरम्मत | 修鞋底 | ремонт подошвы | Sohlenreparatur
+while you wait | pendant que vous attendez | während Sie warten | mientras espera | mentre aspetta | enquanto espera | जब आप इंतज़ार करते हैं | 当场等候 | пока вы ждёте | wärend Dir waart
+same day | le jour même | am selben Tag | el mismo día | in giornata | no mesmo dia | उसी दिन | 当天 | в тот же день | am selwechten Dag

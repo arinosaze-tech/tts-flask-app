@@ -1,0 +1,65 @@
+name | nom | Name | nombre | nome | nome | नाम | 名字 | имя
+first name | prénom | Vorname | primer nombre | nome di battesimo | primeiro nome | पहला नाम | 名 | имя
+last name | nom de famille | Nachname | apellido | cognome | sobrenome | अंतिम नाम | 姓 | фамилия
+family name | nom de famille | Familienname | apellido | cognome | sobrenome | परिवार का नाम | 姓 | фамилия
+middle name | deuxième prénom | zweiter Vorname | segundo nombre | secondo nome | segundo nome | मध्य नाम | 中间名 | среднее имя
+nickname | surnom | Spitzname | apodo | soprannome | apelido | उपनाम | 昵称 | прозвище
+title | titre | Titel | título | titolo | título | शीर्षक | 标题 | титул
+mr | M. | Hr. | Sr. | Sig. | Sr. | श्री | 先生 | г-н
+mrs | madame | frau | señora | signora | senhora | श्रीमती | 夫人 | госпожа
+miss | mademoiselle | fräulein | señorita | miss | senhorita | कुमारी | 小姐 | мисс
+ms | madame | frau | señora | signora | senhora | सुश्री | 女士 | мисс
+country | pays | land | país | paese | país | देश | 国家 | страна
+nationality | nationalité | Nationalität | nacionalidad | nazionalità | nacionalidade | राष्ट्रीयता | 国籍 | национальность
+city | ville | stadt | ciudad | città | cidade | शहर | 城市 | город
+capital | capitale | hauptstadt | capital | capitale | capital | राजधानी | 首都 | столица
+town | ville | stadt | pueblo | città | cidade | कस्बा | 镇 | городок
+address | adresse | Adresse | dirección | indirizzo | endereço | पता | 地址 | адрес
+passport | passeport | Reisepass | pasaporte | passaporto | passaporte | पासपोर्ट | 护照 | паспорт
+id card | carte d'identité | Personalausweis | documento de identidad | carta d'identità | documento de identidade | पहचान पत्र | 身份证 | удостоверение личности
+phone number | numéro de téléphone | Telefonnummer | número de teléfono | numero di telefono | número de telefone | फोन नंबर | 电话号码 | номер телефона
+language | langue | Sprache | idioma | lingua | língua | भाषा | 语言 | язык
+origin | origine | Herkunft | origen | origine | origem | मूल | 来源 | происхождение
+home | maison | Zuhause | casa | casa | casa | घर | 家 | дом
+home country | pays d'origine | Heimatland | país de origen | paese d'origine | país de origem | मूल देश | 本国 | родная страна
+flag | drapeau | Flagge | bandera | bandiera | bandeira | ध्वज | 旗 | флаг
+map | carte | Karte | mapa | mappa | mapa | नक्शा | 地图 | карта
+person | personne | Person | persona | persona | pessoa | व्यक्ति | 人 | человек
+friend | ami | Freund | amigo | amico | amigo | दोस्त | 朋友 | друг
+stranger | étranger | Fremder | extraño | estraneo | estranho | अपरिचित | 陌生人 | незнакомец
+visitor | visiteur | Besucher | visitante | visitatore | visitante | आगंतुक | 访客 | посетитель
+guest | invité | Gast | invitado | ospite | hóspede | मेहमान | 客人 | гость
+name tag | badge | Namensschild | etiqueta | etichetta | crachá | नाम टैग | 名牌 | бейджик
+full name | nom complet | voller Name | nombre completo | nome completo | nome completo | पूरा नाम | 全名 | полное имя
+be | être | sein | ser | essere | ser | होना | 是 | быть
+call | appeler | anrufen | llamar | chiamare | chamar | बुलाना | 叫 | звать
+spell | épeler | buchstabieren | deletrear | sillabare | soletrar | हरफ करना | 拼写 | произносить по буквам
+say | dire | sagen | decir | dire | dizer | कहना | 说 | сказать
+ask | demander | fragen | preguntar | chiedere | perguntar | पूछना | 问 | спрашивать
+answer | répondre | antworten | responder | rispondere | responder | जवाब देना | 回答 | отвечать
+know | savoir | wissen | saber | sapere | saber | जानना | 知道 | знать
+introduce | présenter | vorstellen | presentar | presentare | apresentar | परिचय देना | 介绍 | представлять
+meet | rencontrer | treffen | conocer | incontrare | encontrar | मिलना | 见面 | встречать
+come | venir | kommen | venir | venire | vir | आना | 来 | приходить
+live | vivre | leben | vivir | vivere | viver | रहना | 住 | жить
+speak | parler | sprechen | hablar | parlare | falar | बोलना | 说 | говорить
+understand | comprendre | verstehen | entender | capire | entender | समझना | 懂 | понимать
+repeat | répéter | wiederholen | repetir | ripetere | repetir | दोहराना | 重复 | повторять
+write | écrire | schreiben | escribir | scrivere | escrever | लिखना | 写 | писать
+show | montrer | zeigen | mostrar | mostrare | mostrar | दिखाना | 展示 | показать
+point | point | Punkt | punto | punto | ponto | बिंदु | 点 | точка
+listen | écouter | zuhören | escuchar | ascoltare | ouvir | सुनना | 听 | слушать
+hear | entendre | hören | oír | sentire | ouvir | सुनना | 听到 | слышать
+pronounce | prononcer | aussprechen | pronunciar | pronunciare | pronunciar | उच्चारण करना | 发音 | произнести
+new | nouveau | neu | nuevo | nuovo | novo | नया | 新 | новый
+old | vieux | alt | viejo | vecchio | velho | पुराना | 老 | старый
+same | même | gleich | mismo | stesso | mesmo | वही | 相同 | тот же
+different | différent | anders | diferente | diverso | diferente | अलग | 不同 | другой
+foreign | étranger | fremd | extranjero | straniero | estrangeiro | विदेशी | 外国的 | иностранный
+local | local | lokal | local | locale | local | स्थानीय | 本地 | местный
+national | national | national | nacional | nazionale | nacional | राष्ट्रीय | 国家 | национальный
+polite | poli | höflich | educado | educato | educado | विनम्र | 客气 | вежливый
+friendly | amical | freundlich | amistoso | amichevole | amigável | दोस्ताना | 友好的 | дружелюбный
+my name | mon nom | mein Name | mi nombre | il mio nome | meu nome | मेरा नाम | 我的名字 | моё имя
+your name | ton nom | dein Name | tu nombre | il tuo nome | seu nome | आपका नाम | 你的名字 | твоё имя
+what country | quel pays | welches Land | qué país | quale paese | que país | कौन सा देश | 哪个国家 | какая страна

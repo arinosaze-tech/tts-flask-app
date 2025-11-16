@@ -1,0 +1,55 @@
+appointment | rendez-vous | Termin | cita | appuntamento | consulta | अपॉइंटमेंट | 预约 | запись | Rendez-vous
+vaccine | vaccin | Impfstoff | vacuna | vaccino | vacina | टीका | 疫苗 | вакцина | Impfstoff
+shot | piqûre | Spritze | inyección | iniezione | injeção | इंजेक्शन | 注射 | укол | Sprëtz
+dose | dose | Dosis | dosis | dose | dose | खुराक | 剂量 | доза | Dosis
+booster | rappel | Booster | refuerzo | richiamo | reforço | बूस्टर | 加强针 | бустер | Booster
+clinic | clinique | Klinik | clínica | clinica | clínica | क्लिनिक | 诊所 | клиника | Klinik
+pharmacy | pharmacie | Apotheke | farmacia | farmacia | farmácia | दवा की दुकान | 药店 | аптека | Apdikt
+doctor | médecin | Arzt | médico | medico | médico | डॉक्टर | 医生 | врач | Dokter
+nurse | infirmier | Krankenschwester | enfermero | infermiere | enfermeiro | नर्स | 护士 | медсестра | Infirmier
+patient | patient | Patient | paciente | paziente | paciente | मरीज | 病人 | пациент | Patient
+waiting room | salle d'attente | Wartezimmer | sala de espera | sala d'attesa | sala de espera | प्रतीक्षालय | 候诊室 | комната ожидания | Waardezëmmer
+consent form | formulaire de consentement | Einverständniserklärung | formulario de consentimiento | modulo di consenso | formulário de consentimento | सहमति फॉर्म | 同意书 | форма согласия | Zoustëmmungsformular
+id card | carte d'identité | Ausweis | documento de identidad | carta d'identità | documento de identidade | पहचान पत्र | 身份证 | удостоверение личности | Identitéitskaart
+health insurance | assurance maladie | Krankenversicherung | seguro de salud | assicurazione sanitaria | seguro de saúde | स्वास्थ्य बीमा | 医疗保险 | медицинская страховка | Gesondheetsversécherung
+reminder | rappel | Erinnerung | recordatorio | promemoria | lembrete | रिमाइंडर | 提醒 | напоминание | Erënnerung
+email | e-mail | E-Mail | correo electrónico | email | e-mail | ईमेल | 电子邮件 | электронная почта | E-Mail
+phone | téléphone | Telefon | teléfono | telefono | telefone | फोन | 电话 | телефон | Telefon
+fee | frais | Gebühr | cuota | tariffa | taxa | शुल्क | 费用 | плата | Taxe
+receipt | reçu | Quittung | recibo | ricevuta | recibo | रसीद | 收据 | чек | Quittung
+side effect | effet secondaire | Nebenwirkung | efecto secundario | effetto collaterale | efeito secundário | दुष्प्रभाव | 副作用 | побочный эффект | Niewewierkung
+sore arm | bras douloureux | schmerzender Arm | brazo dolorido | braccio dolorante | braço dolorido | बांह में दर्द | 胳膊酸痛 | боль в руке | Aarmwéi
+fever | fièvre | Fieber | fiebre | febbre | febre | बुखार | 发烧 | температура | Féiwer
+headache | mal de tête | Kopfschmerzen | dolor de cabeza | mal di testa | dor de cabeça | सिरदर्द | 头疼 | головная боль | Kappwéi
+needle | aiguille | Nadel | aguja | ago | agulha | सुई | 针 | игла | Nol
+mask | masque | Maske | mascarilla | mascherina | máscara | मास्क | 口罩 | маска | Mask
+book | réserver | buchen | reservar | prenotare | reservar | बुक करना | 预订 | бронировать | buchen
+schedule | planifier | planen | programar | programmare | agendar | शेड्यूल करना | 安排 | планировать | plangen
+confirm | confirmer | bestätigen | confirmar | confermare | confirmar | पुष्टि करना | 确认 | подтвердить | confirméieren
+reschedule | reprogrammer | verschieben | reprogramar | spostare | remarcar | रीशेड्यूल करना | 改期 | перенести | verleeën
+cancel | annuler | absagen | cancelar | annullare | cancelar | रद्द करना | 取消 | отменить | annuléieren
+arrive | arriver | ankommen | llegar | arrivare | chegar | पहुँचना | 到达 | приехать | ukommen
+wait | attendre | warten | esperar | aspettare | esperar | इंतज़ार करना | 等 | ждать | waarden
+check in | s'enregistrer | einchecken | registrarse | registrarsi | fazer check-in | चेक-इन करना | 办理登记 | зарегистрироваться | anchecken
+fill out | remplir | ausfüllen | llenar | compilare | preencher | भरना | 填写 | заполнить | ausfëllen
+sign | signer | unterschreiben | firmar | firmare | assinar | साइन करना | 签名 | подписать | ënnerschreiwen
+show | montrer | zeigen | mostrar | mostrare | mostrar | दिखाना | 出示 | показать | weisen
+bring | apporter | bringen | traer | portare | trazer | लाना | 带来 | принести | bréngen
+wear | porter | tragen | llevar | indossare | usar | पहनना | 穿 | носить | droen
+pay | payer | bezahlen | pagar | pagare | pagar | भुगतान करना | 付钱 | платить | bezuelen
+call | appeler | anrufen | llamar | chiamare | ligar | फोन करना | 打电话 | звонить | uruffen
+get | obtenir | bekommen | conseguir | ottenere | conseguir | पाना | 得到 | получить | kréien
+rest | se reposer | sich ausruhen | descansar | riposare | descansar | आराम करना | 休息 | отдыхать | raschten
+free | gratuit | kostenlos | gratis | gratis | grátis | मुफ़्त | 免费 | бесплатный | gratis
+available | disponible | verfügbar | disponible | disponibile | disponível | उपलब्ध | 可用的 | доступный | verfügbar
+open | ouvrir | öffnen | abrir | aprire | abrir | खोलना | 打开 | открыть | opmaachen
+early | tôt | früh | temprano | presto | cedo | जल्दी | 早 | рано | fréi
+late | tard | spät | tarde | tardi | tarde | देर | 晚 | поздно | spéit
+safe | sûr | sicher | seguro | sicuro | seguro | सुरक्षित | 安全的 | безопасный | sécher
+healthy | sain | gesund | sano | sano | saudável | स्वस्थ | 健康 | здоровый | gesond
+nervous | nerveux | nervös | nervioso | nervoso | nervoso | नर्वस | 紧张 | нервный | nervös
+wash | laver | waschen | lavar | lavare | lavar | धोना | 洗 | мыть | wäschen
+send | envoyer | schicken | enviar | mandare | enviar | भेजना | 发送 | отправить | schécken
+register | s'inscrire | sich anmelden | registrarse | registrarsi | registrar-se | पंजीकरण करना | 注册 | зарегистрироваться | sech umellen
+closed | fermé | geschlossen | cerrado | chiuso | fechado | बंद | 关闭 | закрытый | zou
+ready | prêt | bereit | listo | pronto | pronto | तैयार | 准备好 | готов | prett

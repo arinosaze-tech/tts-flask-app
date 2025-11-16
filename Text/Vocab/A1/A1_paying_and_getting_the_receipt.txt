@@ -1,0 +1,65 @@
+receipt | reçu | Quittung | recibo | ricevuta | recibo | रसीद | 收据 | чек
+bill | facture | Rechnung | factura | fattura | conta | बिल | 账单 | счет
+total | total | Gesamt | total | totale | total | कुल | 总计 | итог
+price | prix | Preis | precio | prezzo | preço | मूल्य | 价格 | цена
+cost | coût | Kosten | costo | costo | custo | लागत | 成本 | стоимость
+tax | impôt | Steuer | impuesto | tassa | imposto | कर | 税 | налог
+tip | pourboire | Trinkgeld | propina | mancia | gorjeta | टिप | 小费 | чаевые
+change | monnaie | Wechselgeld | cambio | resto | troco | बदलाव | 找零 | сдача
+cash | espèces | Bargeld | efectivo | contante | dinheiro | नकद | 现金 | наличные
+coin | pièce | Münze | moneda | moneta | moeda | सिक्का | 硬币 | монета
+note | billet | Schein | billete | banconota | nota | नोट | 钞票 | купюра
+wallet | porte-monnaie | Geldbörse | billetera | portafoglio | carteira | बटुआ | 钱包 | кошелек
+purse | sac à main | Handtasche | bolso | borsa | bolsa | पर्स | 钱包 | кошелек
+card | carte | Karte | tarjeta | carta | cartão | कार्ड | 卡片 | карта
+cashier | caissier | Kassierer | cajero | cassiere | caixa | नकली | 收银员 | кассир
+counter | comptoir | Theke | mostrador | bancone | balcão | काउंटर | 柜台 | стойка
+checkout | paiement | Kasse | pago | pagamento | pagamento | चेकआउट | 结账 | касса
+store | magasin | Geschäft | tienda | negozio | loja | दुकान | 商店 | магазин
+shop | boutique | Laden | tienda | negozio | loja | दूकान | 商店 | магазин
+restaurant | restaurant | Restaurant | restaurante | ristorante | restaurante | रेस्टोरेंट | 餐厅 | ресторан
+cafe | café | Café | café | caffè | café | कैफे | 咖啡馆 | кафе
+menu | menu | Speisekarte | menú | menù | menu | मेनू | 菜单 | меню
+order | commander | bestellen | pedir | ordinare | pedir | ऑर्डर | 点菜 | заказ
+customer | client | Kunde | cliente | cliente | cliente | ग्राहक | 顾客 | клиент
+purchase | achat | Kauf | compra | acquisto | compra | खरीद | 购买 | покупка
+invoice | facture | Rechnung | factura | fattura | fatura | बिल | 发票 | счёт
+amount | montant | Betrag | importe | importo | valor | राशि | 金额 | сумма
+balance | solde | Saldo | saldo | saldo | saldo | बैलेंस | 余额 | баланс
+sale | vente | Verkauf | venta | vendita | venda | बिक्री | 销售 | продажа
+offer | offre | Angebot | oferta | offerta | oferta | प्रस्ताव | 优惠 | предложение
+machine | machine | Maschine | máquina | macchina | máquina | मशीन | 机器 | машина
+terminal | terminal | Terminal | terminal | terminale | terminal | टर्मिनल | 终端 | терминал
+bag | sac | Tasche | bolsa | borsa | bolsa | बैग | 包 | сумка
+pay | payer | bezahlen | pagar | pagare | pagar | भुगतान करना | 付钱 | платить
+give | donner | geben | dar | dare | dar | देना | 给 | давать
+take | prendre | nehmen | tomar | prendere | pegar | लेना | 拿 | брать
+buy | acheter | kaufen | comprar | comprare | comprar | खरीदना | 买 | покупать
+sell | vendre | verkaufen | vender | vendere | vender | बेचना | 卖 | продавать
+ask | demander | fragen | preguntar | chiedere | perguntar | पूछना | 问 | спрашивать
+want | vouloir | wollen | querer | volere | querer | चाहना | 要 | хотеть
+need | besoin | brauchen | necesitar | avere bisogno | precisar | जरूरत | 需要 | нужно
+find | trouver | finden | encontrar | trovare | encontrar | खोजना | 找到 | найти
+count | compter | zählen | contar | contare | contar | गिनना | 计算 | считать
+split | diviser | teilen | dividir | dividere | dividir | बाँटना | 分开 | разделить
+share | partager | teilen | compartir | condividere | compartilhar | साझा करना | 分享 | делиться
+sign | signer | unterschreiben | firmar | firmare | assinar | साइन करना | 签名 | подписывать
+swipe | balayer | wischen | deslizar | scorrere | deslizar | स्वाइप करना | 刷 | проводить
+insert | insérer | einfügen | insertar | inserire | inserir | डालना | 插入 | вставить
+tap | taper | tippen | tocar | toccare | tocar | टैप करना | 轻击 | тапнуть
+enter | entrer | eintreten | entrar | entrare | entrar | प्रवेश करना | 进入 | войти
+check | vérifier | überprüfen | comprobar | controllare | verificar | जांचना | 检查 | проверить
+keep | garder | behalten | mantener | mantenere | manter | रखना | 保持 | держать
+return | retourner | zurückgeben | volver | restituire | devolver | लौटना | 返回 | вернуть
+expensive | cher | teuer | caro | costoso | caro | महंगा | 昂贵 | дорогой
+cheap | bon marché | billig | barato | economico | barato | सस्ता | 便宜 | дешевый
+correct | correct | korrekt | correcto | corretto | correto | सही | 正确 | правильный
+wrong | faux | falsch | equivocado | sbagliato | errado | गलत | 错误 | неправильный
+open | ouvert | offen | abierto | aperto | aberto | खुला | 打开 | открытый
+closed | fermé | geschlossen | cerrado | chiuso | fechado | बंद | 关闭 | закрытый
+busy | occupé | beschäftigt | ocupado | occupato | ocupado | व्यस्त | 忙 | занятый
+quick | rapide | schnell | rápido | veloce | rápido | तेज | 快 | быстрый
+free | libre | frei | gratis | gratuito | livre | मुफ्त | 自由 | свободный
+pay by card | payer par carte | mit Karte bezahlen | pagar con tarjeta | pagare con carta | pagar com cartão | कार्ड से भुगतान करें | 用卡支付 | платить картой
+pay in cash | payer en espèces | bar bezahlen | pagar en efectivo | pagare in contante | pagar em dinheiro | नकद में भुगतान करें | 现金支付 | платить наличными
+get receipt | obtenir un reçu | eine Quittung bekommen | obtener un recibo | ottenere una ricevuta | obter um recibo | रसीद लेना | 拿到收据 | получить чек

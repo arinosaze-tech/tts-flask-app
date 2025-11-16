@@ -1,0 +1,55 @@
+internship | stage | Praktikum | pasantía | tirocinio | estágio | इंटर्नशिप | 实习 | стажировка | Praktikum
+resume | CV | Lebenslauf | currículum | curriculum | currículo | रिज़्यूमे | 简历 | резюме | Liewenslaf
+portfolio | portfolio | Portfolio | portafolio | portfolio | portfólio | पोर्टफोलियो | 作品集 | портфолио | Portfolio
+network | réseau | Netzwerk | red | rete | rede | नेटवर्क | 人脉 | сеть | Netzwierk
+contact | contact | Kontakt | contacto | contatto | contato | संपर्क | 联系人 | контакт | Kontakt
+reference | référence | Referenz | referencia | referenza | referência | संदर्भ | 推荐信 | рекомендация | Referenz
+deadline | date limite | Frist | fecha límite | scadenza | prazo | अंतिम तिथि | 截止日期 | крайний срок | Frist
+application | candidature | Bewerbung | solicitud | candidatura | candidatura | आवेदन | 申请 | заявление | Bewerbung
+vacancy | poste vacant | freie Stelle | vacante | posto vacante | vaga | खाली पद | 职位空缺 | вакансия | fräi Aarbechtsplaz
+posting | offre d'emploi | Stellenanzeige | oferta de trabajo | annuncio di lavoro | anúncio de emprego | नौकरी का विज्ञापन | 招聘信息 | объявление о работе | Aarbechtsannonce
+interview | entretien | Vorstellungsgespräch | entrevista | colloquio | entrevista | साक्षात्कार | 面试 | собеседование | Bewerbungsgespréich
+recruiter | recruteur | Recruiter | reclutador | recruiter | recrutador | भर्तीकर्ता | 招聘人员 | рекрутер | Recruiter
+candidate | candidat | Bewerber | candidato | candidato | candidato | उम्मीदवार | 候选人 | кандидат | Kandidat
+skill | compétence | Fähigkeit | habilidad | competenza | habilidade | कौशल | 技能 | навык | Fäegkeet
+requirement | exigence | Anforderung | requisito | requisito | requisito | आवश्यकता | 要求 | требование | Ufuerderung
+qualification | qualification | Qualifikation | cualificación | qualifica | qualificação | योग्यता | 资格 | квалификация | Qualifikatioun
+experience | expérience | Erfahrung | experiencia | esperienza | experiência | अनुभव | 经验 | опыт | Erfarung
+major | principal | wichtig | principal | principale | principal | मुख्य | 主要 | основной | haaptsächlech
+location | lieu | Ort | ubicación | luogo | local | स्थान | 地点 | место | Uert
+industry | secteur | Branche | sector | settore | setor | उद्योग | 行业 | отрасль | Branche
+role | rôle | Rolle | rol | ruolo | função | भूमिका | 角色 | роль | Roll
+offer | offrir | anbieten | ofrecer | offrire | oferecer | प्रस्ताव देना | 提供 | предлагать | ubidden
+apply | postuler | sich bewerben | solicitar | candidarsi | candidatar-se | आवेदन करना | 申请 | подать заявку | sech bewerben
+search | chercher | suchen | buscar | cercare | buscar | खोजना | 搜索 | искать | sichen
+research | recherche | Forschung | investigación | ricerca | pesquisa | शोध | 研究 | исследование | Fuerschung
+email | e-mail | E-Mail | correo electrónico | email | e-mail | ईमेल | 电子邮件 | электронная почта | E-Mail
+tailor | adapter | anpassen | adaptar | adattare | adaptar | अनुकूलित करना | 定制 | адаптировать | upassen
+update | mettre à jour | aktualisieren | actualizar | aggiornare | atualizar | अपडेट करना | 更新 | обновить | aktualiséieren
+prepare | préparer | vorbereiten | preparar | preparare | preparar | तैयार करना | 准备 | подготовить | virbereeden
+practice | s'entraîner | üben | practicar | esercitarsi | praticar | अभ्यास करना | 练习 | практиковаться | üben
+schedule | planifier | planen | programar | programmare | agendar | समय तय करना | 安排 | запланировать | plangen
+shortlist | présélectionner | vormerken | preseleccionar | preselezionare | pré-selecionar | शॉर्टलिस्ट करना | 入围 | включить в шорт-лист | op d'Kuerzlëscht setzen
+compare | comparer | vergleichen | comparar | confrontare | comparar | तुलना करना | 比较 | сравнивать | vergläichen
+choose | choisir | wählen | elegir | scegliere | escolher | चुनना | 选择 | выбирать | wielen
+negotiage | négocier | verhandeln | negociar | negoziare | negociar | बातचीत करना | 谈判 | договариваться | verhandelen
+accept | accepter | akzeptieren | aceptar | accettare | aceitar | स्वीकार करना | 接受 | принимать | akzeptéieren
+decline | refuser | ablehnen | rechazar | rifiutare | recusar | मना करना | 拒绝 | отказываться | ofleenen
+track | suivre | verfolgen | seguir | seguire | seguir | ट्रैक करना | 跟踪 | отслеживать | verfollegen
+attend | assister | teilnehmen | asistir | partecipare | participar | शामिल होना | 参加 | присутствовать | deelhuelen
+relevant | pertinent | relevant | relevante | rilevante | relevante | प्रासंगिक | 相关 | соответствующий | relevant
+suitable | adapté | geeignet | adecuado | adatto | adequado | उपयुक्त | 合适 | подходящий | passend
+qualified | qualifié | qualifiziert | cualificado | qualificato | qualificado | योग्य | 合格 | квалифицированный | qualifizéiert
+motivated | motivé | motiviert | motivado | motivato | motivado | प्रेरित | 有动力 | мотивированный | motivéiert
+proactive | proactif | proaktiv | proactivo | proattivo | proativo | सक्रिय | 积极主动 | инициативный | proaktiv
+organized | organisé | organisiert | organizado | organizzato | organizado | व्यवस्थित | 有条理 | организованный | organiséiert
+clear | clair | klar | claro | chiaro | claro | स्पष्ट | 清楚 | ясный | kloer
+concise | concis | prägnant | conciso | conciso | conciso | संक्षिप्त | 简洁 | лаконичный | kuerz
+polite | poli | höflich | educado | educato | educado | विनम्र | 有礼貌 | вежливый | héiflech
+professional | professionnel | professionell | profesional | professionale | profissional | पेशेवर | 专业的 | профессиональный | professionell
+available | disponible | verfügbar | disponible | disponibile | disponível | उपलब्ध | 可用的 | доступный | verfügbar
+cover letter | lettre de motivation | Anschreiben | carta de presentación | lettera di presentazione | carta de apresentação | कवर लेटर | 求职信 | сопроводительное письмо | Motivatiounsbréif
+job board | site d'emploi | Jobbörse | portal de empleo | portale di lavoro | portal de empregos | नौकरी पोर्टल | 招聘网站 | сайт вакансий | Jobplattform
+career fair | salon de l'emploi | Karrieremesse | feria de empleo | fiera del lavoro | feira de emprego | करियर मेला | 招聘会 | ярмарка вакансий | Karriärsfoire
+company website | site web de l'entreprise | Firmenwebsite | sitio web de la empresa | sito web dell'azienda | site da empresa | कंपनी की वेबसाइट | 公司网站 | сайт компании | Firmeswebsäit
+mock interview | simulation d'entretien | Probeinterview | entrevista simulada | colloquio simulato | entrevista simulada | मॉक इंटरव्यू | 模拟面试 | пробное собеседование | Mock-Interview

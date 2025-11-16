@@ -1,0 +1,155 @@
+<!doctype html>
+<html lang="en" dir="ltr">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>TTS + Video — Web UI</title>
+  <link rel="stylesheet" href="/static/style.css" />
+</head>
+<body>
+  <header><h1>TTS + Video</h1></header>
+
+  <main>
+    <section class="toolbar">
+      <button id="btnSave">Save settings</button>
+      <button id="btnRun">Run pipeline</button>
+      <button id="btnStop" disabled>Stop</button>
+      <button id="btnClearCache">Clear cache</button>
+      <button id="btnClearOutput">Clear output</button>
+    </section>
+
+    <div class="grid">
+      <section class="card">
+        <h2>Basics</h2>
+        <div class="row">
+          <label>Edition
+            <select id="edition">
+              <option>Free</option>
+              <option>Premium</option>
+            </select>
+            <span class="badge warn" data-lock-badge>Premium: locked</span>
+          </label>
+        </div>
+        <div class="row">
+          <input type="password" id="premium_code" placeholder="Enter Premium code (12345678)" />
+          <button id="btnActivate">Activate</button>
+        </div>
+        <div class="row">
+          <label>Content source
+            <select id="content_source">
+              <option>From .txt file</option>
+              <option>Generate with LLM</option>
+            </select>
+          </label>
+          <label>Mode
+            <select id="mode"><option>Vocab</option><option>Scenario</option></select>
+          </label>
+          <label>Level
+            <select id="level"><option>A1</option><option>A2</option><option>B1</option><option>B2</option></select>
+          </label>
+        </div>
+        <div class="row">
+          <label>Text file
+            <select id="text_file"></select>
+          </label>
+          <label>LLM topic
+            <input id="llm_topic_basic" placeholder="e.g., airport check-in" />
+          </label>
+        </div>
+        <div class="row">
+          <label>Target duration
+            <select id="target_duration">
+              <option>Short (~1 min)</option>
+              <option selected>Medium (~2 min)</option>
+              <option>Long (~3 min)</option>
+            </select>
+          </label>
+          <label><input type="checkbox" id="items_override" /> Manual items</label>
+          <input type="number" id="llm_items_basic" min="1" max="99" value="20" disabled />
+          <span id="estimated_items" style="margin-left:8px;">Estimated items: 20</span>
+        </div>
+        <div class="row">
+          <label><input type="checkbox" id="enable_bilingual" checked /> Enable bilingual (primary + translation)</label>
+        </div>
+
+        <h3>Languages</h3>
+        <p class="help">In “Generate with LLM”, the language list expands dynamically. In Free edition, only gTTS languages are available. In “From .txt”, only the base 10 languages are selectable.</p>
+        <div class="row">
+          <label>Primary language
+            <select id="primary_lang">
+              <!-- Will be filled from server-provided base 10 -->
+              {% for code in langs %}
+                <option value="{{code}}">{{code}}</option>
+              {% endfor %}
+            </select>
+          </label>
+          <label>Secondary language
+            <select id="secondary_lang">
+              {% for code in langs %}
+                <option value="{{code}}" {{ 'selected' if loop.index==2 else '' }}>{{code}}</option>
+              {% endfor %}
+            </select>
+          </label>
+        </div>
+
+        <details>
+          <summary>Advanced (TTS providers & timing)</summary>
+          <div class="row">
+            <label>Primary TTS
+              <select id="tts_primary">
+                <option value="gtts">gTTS (Free)</option>
+                <option value="elevenlabs" data-premium="1">ElevenLabs (Premium)</option>
+                <option value="piper" data-premium="1">Piper (local, Premium)</option>
+              </select>
+            </label>
+            <label>Secondary TTS
+              <select id="tts_secondary">
+                <option value="gtts">gTTS (Free)</option>
+                <option value="elevenlabs" data-premium="1">ElevenLabs (Premium)</option>
+                <option value="piper" data-premium="1">Piper (local, Premium)</option>
+              </select>
+            </label>
+          </div>
+
+          <h3>Vocab timing</h3>
+          <div class="row">
+            <label>Main repeats: <input type="number" id="vocab_primary" min="1" max="20" value="1"/></label>
+            <label>Translation repeats: <input type="number" id="vocab_secondary" min="0" max="20" value="2"/></label>
+          </div>
+          <div class="row">
+            <label>Pause between repeats (ms): <input type="number" id="vocab_pause_rep" min="0" max="20000" value="2500"/></label>
+            <label>Pause between words (ms): <input type="number" id="vocab_pause_sent" min="0" max="20000" value="2500"/></label>
+          </div>
+
+          <h3>Scenario timing</h3>
+          <div class="row">
+            <label>Main repeats: <input type="number" id="scen_primary" min="1" max="20" value="1"/></label>
+            <label>Translation repeats: <input type="number" id="scen_secondary" min="0" max="20" value="2"/></label>
+          </div>
+          <div class="row">
+            <label>Pause between repeats (ms): <input type="number" id="scen_pause_rep" min="0" max="20000" value="2500"/></label>
+            <label>Pause between sentences (ms): <input type="number" id="scen_pause_sent" min="0" max="20000" value="3500"/></label>
+          </div>
+
+          <h3>Video & background</h3>
+          <div class="row">
+            <label>Background mode
+              <select id="bg_mode"><option>Per sentence</option><option>Static (single image)</option><option>None</option></select>
+            </label>
+            <label><input type="checkbox" id="bg_enabled" checked /> Enable background music</label>
+          </div>
+          <div class="row">
+            <label>Video size (WxH): <input id="video_size" value="1920x1080"/></label>
+            <label>FPS: <input type="number" id="video_fps" min="1" max="120" value="30"/></label>
+          </div>
+        </details>
+      </section>
+    </div>
+
+    <section class="card"><h2>Outputs</h2><div id="outputs"></div></section>
+    <section class="card"><h2>Run log</h2><pre id="log"></pre></section>
+  </main>
+
+  <script src="/static/app.js"></script>
+</body>
+</html>

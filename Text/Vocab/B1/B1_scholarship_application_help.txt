@@ -1,0 +1,55 @@
+scholarship | bourse | Stipendium | beca | borsa di studio | bolsa de estudos | छात्रवृत्ति | 奖学金 | стипендия | Stipendium
+application | candidature | Bewerbung | solicitud | domanda | inscrição | आवेदन | 申请 | заявка | Bewerbung
+deadline | date limite | Frist | fecha límite | scadenza | prazo | अंतिम तिथि | 截止日期 | крайний срок | Frist
+essay | essai | Aufsatz | ensayo | saggio | redação | निबंध | 作文 | эссе | Aufsatz
+interview | entretien | Interview | entrevista | colloquio | entrevista | साक्षात्कार | 面试 | собеседование | Interview
+reference | référence | Referenz | referencia | referenza | referência | संदर्भ | 推荐信 | рекомендация | Referenz
+transcript | relevé de notes | Zeugnis | expediente académico | certificato degli esami | histórico escolar | अंकपत्र | 成绩单 | выписка оценок | Zeugnis
+grade | note | Note | nota | voto | nota | अंक | 成绩 | оценка | Note
+tuition | enseignement | Unterricht | enseñanza | insegnamento | ensino | शिक्षण | 教学 | обучение | Unterrecht
+fee | frais | Gebühr | cuota | tassa | taxa | शुल्क | 费用 | плата | Tax
+grant | bourse | Stipendium | beca | borsa di studio | bolsa de estudo | वजीफा | 奖学金 | стипендия | Bourse
+sponsor | sponsor | Sponsor | patrocinador | sponsor | patrocinador | प्रायोजक | 赞助商 | спонсор | Sponsor
+requirement | exigence | Anforderung | requisito | requisito | requisito | आवश्यकता | 要求 | требование | Ufuerderung
+background | parcours | Hintergrund | trayectoria | percorso | trajetória | पृष्ठभूमि | 背景 | прошлое | Hannergrond
+experience | expérience | Erfahrung | experiencia | esperienza | experiência | अनुभव | 经验 | опыт | Erfarung
+achievement | réussite | Erfolg | logro | risultato | conquista | उपलब्धि | 成就 | достижение | Leeschtung
+mentor | mentor | Mentor | mentor | mentore | mentor | मार्गदर्शक | 导师 | наставник | Mentor
+guidance | conseils | Anleitung | orientación | orientamento | orientação | मार्गदर्शन | 指导 | инструкция | Uleedung
+portal | portail | Portal | portal | portale | portal | पोर्टल | 门户 | портал | Portal
+document | document | Dokument | documento | documento | documento | दस्तावेज़ | 文件 | документ | Dokument
+proof | preuve | Nachweis | comprobante | prova | comprovante | प्रमाण | 证明 | подтверждение | Nofweis
+profile | profil | Profil | perfil | profilo | perfil | प्रोफ़ाइल | 个人资料 | профиль | Profil
+apply | postuler | sich bewerben | solicitar | candidarsi | candidatar-se | आवेदन करना | 申请 | подать заявку | sech bewerben
+submit | soumettre | einreichen | enviar | inviare | enviar | जमा करना | 提交 | отправить | areechen
+fill | remplir | ausfüllen | rellenar | compilare | preencher | भरना | 填写 | заполнить | ausfëllen
+sign | signer | unterschreiben | firmar | firmare | assinar | हस्ताक्षर करना | 签名 | подписать | ënnerschreiwen
+attach | joindre | anhängen | adjuntar | allegare | anexar | संलग्न करना | 附上 | прикрепить | bäileeën
+upload | téléverser | hochladen | subir | caricare | enviar | अपलोड करना | 上传 | загрузить | eroplueden
+edit | modifier | bearbeiten | editar | modificare | editar | संपादित करना | 编辑 | редактировать | änneren
+review | relire | überprüfen | revisar | rivedere | revisar | समीक्षा करना | 审阅 | проверить | iwwerpréiwen
+revise | réviser | überarbeiten | revisar | rivedere | revisar | संशोधित करना | 修订 | исправить | iwwerarbechten
+proofread | corriger | Korrektur lesen | corregir | correggere | corrigir | प्रूफरीड करना | 校对 | вычитать | Korrektur liesen
+explain | expliquer | erklären | explicar | spiegare | explicar | समझाना | 解释 | объяснять | erklären
+describe | décrire | beschreiben | describir | descrivere | descrever | वर्णन करना | 描述 | описывать | beschreiwen
+highlight | souligner | hervorheben | destacar | evidenziare | destacar | उजागर करना | 突出 | подчёркивать | hervorhiewen
+qualify | se qualifier | sich qualifizieren | cumplir los requisitos | avere i requisiti | atender aos requisitos | योग्य होना | 符合资格 | соответствовать требованиям | sech qualifizéieren
+enroll | s'inscrire | sich einschreiben | inscribirse | iscriversi | inscrever-se | दाखिला लेना | 报名 | записаться | sech aschreiwen
+follow | suivre | folgen | seguir | seguire | seguir | पालन करना | 遵循 | следовать | follegen
+support | soutenir | unterstützen | apoyar | sostenere | apoiar | समर्थन करना | 支持 | поддерживать | ënnerstëtzen
+academic | académique | akademisch | académico | accademico | acadêmico | शैक्षणिक | 学术的 | академический | akademesch
+financial | financier | finanziell | financiero | finanziario | financeiro | वित्तीय | 财务的 | финансовый | finanziell
+eligible | admissible | berechtigt | apto | idoneo | apto | पात्र | 有资格 | имеющий право | berechtegt
+suitable | approprié | geeignet | adecuado | adatto | adequado | उपयुक्त | 合适 | подходящий | passend
+clear | clair | klar | claro | chiaro | claro | स्पष्ट | 清楚 | ясный | kloer
+strong | fort | stark | fuerte | forte | forte | मजबूत | 强 | сильный | staark
+personal | personnel | persönlich | personal | personale | pessoal | व्यक्तिगत | 个人的 | личный | perséinlech
+optional | facultatif | optional | opcional | facoltativo | opcional | वैकल्पिक | 可选的 | необязательный | optional
+required | obligatoire | erforderlich | obligatorio | obbligatorio | obrigatório | आवश्यक | 必需的 | обязательный | obligatoresch
+complete | compléter | abschließen | completar | completare | completar | पूरा करना | 完成 | завершить | ofschléissen
+successful | réussi | erfolgreich | exitoso | di successo | bem-sucedido | सफल | 成功的 | успешный | erfollegräich
+personal statement | lettre de motivation | Motivationsschreiben | carta de motivación | lettera di motivazione | carta de motivação | व्यक्तिगत वक्तव्य | 个人陈述 | мотивационное письмо | motivatiounsbréif
+application form | formulaire de candidature | Antragsformular | formulario de solicitud | modulo di domanda | formulário de inscrição | आवेदन पत्र | 申请表 | анкета | ufroformulaire
+recommendation letter | lettre de recommandation | Empfehlungsschreiben | carta de recomendación | lettera di raccomandazione | carta de recomendação | सिफारिश पत्र | 推荐信 | рекомендательное письмо | empfeelungsbréif
+financial aid | aide financière | finanzielle Hilfe | ayuda financiera | aiuto finanziario | ajuda financeira | वित्तीय सहायता | 经济资助 | финансовая помощь | finanziell hëllef
+contact information | coordonnées | Kontaktdaten | datos de contacto | dati di contatto | informações de contato | संपर्क जानकारी | 联系方式 | контактные данные | kontaktdonnéeën

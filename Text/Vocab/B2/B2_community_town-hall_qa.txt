@@ -1,0 +1,65 @@
+community | communauté | Gemeinschaft | comunidad | comunità | comunidade | समुदाय | 社区 | сообщество | Gemeinschaft
+meeting | réunion | Sitzung | reunión | incontro | reunião | बैठक | 会议 | встреча | Versammlung
+question | question | Frage | pregunta | domanda | pergunta | प्रश्न | 问题 | вопрос | Fro
+answer | réponse | Antwort | respuesta | risposta | resposta | उत्तर | 答案 | ответ | Äntwert
+discussion | discussion | Diskussion | discusión | discussione | discussão | चर्चा | 讨论 | обсуждение | Diskussioun
+feedback | retour | Rückmeldung | retroalimentación | feedback | feedback | फीडबैक | 反馈 | отзыв | Feedback
+concern | préoccupation | Anliegen | preocupación | preoccupazione | preocupação | चिंता | 担忧 | беспокойство | Besorgnis
+issue | question | Thema | asunto | questione | questão | मुद्दा | 问题 | вопрос | Thema
+proposal | proposition | Vorschlag | propuesta | proposta | proposta | प्रस्ताव | 提案 | предложение | Propositioun
+suggestion | suggestion | Vorschlag | sugerencia | suggerimento | sugestão | सुझाव | 建议 | предложение | Suggestioun
+local | local | lokal | local | locale | local | स्थानीय | 本地 | местный | lokal
+resident | résident | Einwohner | residente | residente | residente | निवासी | 居民 | резидент | Bewunner
+participation | participation | Teilnahme | participación | partecipazione | participação | भागीदारी | 参与 | участие | Participatioun
+involvement | implication | Engagement | involucramiento | coinvolgimento | envolvimento | भागीदारी | 涉及 | вовлеченность | Interventioun
+transparency | transparence | Transparenz | transparencia | trasparenza | transparência | पारदर्शिता | 透明度 | прозрачность | Transparenz
+trust | confiance | Vertrauen | confianza | fiducia | confiança | विश्वास | 信任 | доверие | Vertrauen
+opinion | opinion | Meinung | opinión | opinione | opinião | राय | 意见 | мнение | Meinung
+report | rapport | Bericht | informe | rapporto | relatório | रिपोर्ट | 报告 | отчет | Bericht
+update | mise à jour | Aktualisierung | actualización | aggiornamento | atualização | अद्यतन | 更新 | обновление | Aktualiséierung
+agenda | ordre du jour | Tagesordnung | agenda | ordine del giorno | agenda | एजेंडा | 议程 | повестка | Agenda
+response | réponse | Antwort | respuesta | risposta | resposta | प्रतिक्रिया | 反应 | ответ | Äntwert
+decision | décision | Entscheidung | decisión | decisione | decisão | निर्णय | 决定 | решение | Decisioun
+policy | politique | Politik | política | politica | política | नीति | 政策 | политика | Politik
+recommendation | recommandation | Empfehlung | recomendación | raccomandazione | recomendação | सिफारिश | 推荐 | рекомендация | Empfehlung
+resource | ressource | Ressource | recurso | risorsa | recurso | संसाधन | 资源 | ресурс | Ressource
+volunteer | bénévole | Freiwilliger | voluntario | volontario | voluntário | स्वेच्छिक | 志愿者 | волонтер | Volunteer
+engagement | engagement | Engagement | compromiso | impegno | compromisso | प्रतिबद्धता | 参与 | вовлечение | Engagement
+platform | plateforme | Plattform | plataforma | piattaforma | plataforma | मंच | 平台 | платформа | Plattform
+forum | forum | Forum | foro | forum | fórum | मंच | 论坛 | форум | Forum
+event | événement | Ereignis | evento | evento | evento | कार्यक्रम | 事件 | событие | Event
+presentation | présentation | Präsentation | presentación | presentazione | apresentação | प्रस्तुति | 演示 | презентация | Präsentation
+information | information | Information | información | informazione | informação | जानकारी | 信息 | информация | Information
+service | service | Dienst | servicio | servizio | serviço | सेवा | 服务 | служба | Service
+priority | priorité | Priorität | prioridad | priorità | prioridade | प्राथमिकता | 优先 | приоритет | Prioritéit
+initiative | initiative | Initiative | iniciativa | iniziativa | iniciativa | पहल | 倡议 | инициатива | Initiativ
+solution | solution | Lösung | solución | soluzione | solução | समाधान | 解决方案 | решение | Léisung
+network | réseau | Netzwerk | red | rete | rede | नेटवर्क | 网络 | сеть | Netzwierk
+activity | activité | Aktivität | actividad | attività | atividade | गतिविधि | 活动 | деятельность | Aktivitéit
+collaboration | collaboration | Zusammenarbeit | colaboración | collaborazione | colaboração | सहयोग | 合作 | сотрудничество | Zesummenaarbecht
+communication | communication | Kommunikation | comunicación | comunicazione | comunicação | संचार | 交流 | коммуникация | Kommunikatioun
+cooperation | coopération | Zusammenarbeit | cooperación | cooperazione | cooperação | सहयोग | 合作 | сотрудничество | Zesummenaarbecht
+support | soutien | Unterstützung | apoyo | supporto | suporte | समर्थन | 支持 | поддержка | Ënnerstëtzung
+leadership | leadership | Führung | liderazgo | leadership | liderança | नेतृत्व | 领导 | руководство | Féieren
+challenge | défi | Herausforderung | desafío | sfida | desafio | चुनौती | 挑战 | вызов | Erausfuerderung
+strategy | stratégie | Strategie | estrategia | strategia | estratégia | रणनीति | 战略 | стратегия | Estratégie
+development | développement | Entwicklung | desarrollo | sviluppo | desenvolvimento | विकास | 发展 | развитие | Entwécklung
+safety | sécurité | Sicherheit | seguridad | sicurezza | segurança | सुरक्षा | 安全 | безопасность | Sécherheet
+access | accès | Zugang | acceso | accesso | acesso | पहुंच | 访问 | доступ | Zougang
+funding | financement | Finanzierung | financiación | finanziamento | financiamento | वित्तपोषण | 资金 | финансирование | Finanzierung
+outreach | sensibilisation | Reichweite | alcance | sensibilizzazione | alcance | जागरूकता | 外展 | охват | Outreach
+relationship | relation | Beziehung | relación | relazione | relacionamento | संबंध | 关系 | отношение | Relatioun
+representation | représentation | Vertretung | representación | rappresentazione | representação | प्रतिनिधित्व | 表示 | представительство | Representatioun
+governance | gouvernance | Regierung | gobernanza | governance | governança | शासन | 治理 | управление | Regierung
+accountability | responsabilité | Verantwortlichkeit | responsabilidad | responsabilità | responsabilidade | जवाबदेही | 问责 | подотчетность | Verantwortlech
+environment | environnement | Umwelt | medio ambiente | ambiente | meio ambiente | पर्यावरण | 环境 | окружение | Umwelt
+sustainability | durabilité | Nachhaltigkeit | sostenibilidad | sostenibilità | sustentabilidade | स्थिरता | 可持续性 | устойчивость | Haltbarkeet
+culture | culture | Kultur | cultura | cultura | cultura | संस्कृति | 文化 | культура | Kultur
+infrastructure | infrastructure | Infrastruktur | infraestructura | infrastruttura | infraestrutura | आधारभूत संरचना | 基础设施 | инфраструктура | Infrastruktur
+wellbeing | bien-être | Wohlbefinden | bienestar | benessere | bem-estar | कल्याण | 福祉 | благополучие | Wohlstand
+emergency | urgence | Notfall | emergencia | emergenza | emergência | आपातकाल | 紧急情况 | чрезвычайная ситуация | Notfall
+activities | activités | Aktivitäten | actividades | attività | atividades | गतिविधियाँ | 活动 | мероприятия | Aktivitäten
+event planning | planification d'événements | Eventplanung | planificación de eventos | pianificazione eventi | planejamento de eventos | कार्यक्रम योजना | 活动策划 | планирование мероприятий | Eventplanung
+public input | contribution publique | öffentliche Eingabe | participación pública | contributo pubblico | contribuição pública | सार्वजनिक योगदान | 公众意见 | общественное участие | öffentliche Mitwirkung
+community center | centre communautaire | Gemeindezentrum | centro comunitario | centro comunitario | centro comunitário | सामुदायिक केंद्र | 社区中心 | центр общественных сообществ | Gemeinschaftszentrum
+local government | gouvernement local | lokale Regierung | gobierno local | governo locale | governo local | स्थानीय सरकार | 地方政府 | местное правительство | lokal Regierung

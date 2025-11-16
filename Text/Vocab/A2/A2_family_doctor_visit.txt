@@ -1,0 +1,55 @@
+appointment | rendez-vous | Termin | cita | appuntamento | consulta | अपॉइंटमेंट | 预约 | запись | Rendez-vous
+make appointment | prendre rendez-vous | einen Termin machen | pedir cita | prenotare un appuntamento | marcar consulta | अपॉइंटमेंट लेना | 预约 | записаться | e Rendez-vous huelen
+patient | patient | Patient | paciente | paziente | paciente | मरीज | 病人 | пациент | Patient
+family doctor | médecin de famille | Hausarzt | médico de familia | medico di famiglia | médico de família | फैमिली डॉक्टर | 家庭医生 | семейный врач | Hausdokter
+doctor | médecin | Arzt | médico | medico | médico | डॉक्टर | 医生 | врач | Dokter
+nurse | infirmier | Krankenpfleger | enfermero | infermiere | enfermeiro | नर्स | 护士 | медсестра | Infirmier
+clinic | clinique | Klinik | clínica | clinica | clínica | क्लिनिक | 诊所 | клиника | Klinik
+receptionist | réceptionniste | Rezeptionist | recepcionista | receptionist | recepcionista | रिसेप्शनिस्ट | 接待员 | администратор | Rezeptiounist
+waiting room | salle d'attente | Wartezimmer | sala de espera | sala d'attesa | sala de espera | प्रतीक्षा कक्ष | 候诊室 | зал ожидания | Waardezëmmer
+checkup | bilan de santé | Untersuchung | revisión médica | controllo | exame de rotina | स्वास्थ्य जांच | 体检 | медосмотр | Gesondheetscheck
+symptom | symptôme | Symptom | síntoma | sintomo | sintoma | लक्षण | 症状 | симптом | Symptom
+fever | fièvre | Fieber | fiebre | febbre | febre | बुखार | 发烧 | температура | Féiwer
+cold | rhume | Erkältung | resfriado | raffreddore | resfriado | जुकाम | 感冒 | простуда | Verkéilung
+headache | mal de tête | Kopfschmerzen | dolor de cabeza | mal di testa | dor de cabeça | सिरदर्द | 头疼 | головная боль | Kappwéi
+sore throat | mal de gorge | Halsschmerzen | dolor de garganta | mal di gola | dor de garganta | गले में दर्द | 喉咙痛 | боль в горле | Halswéi
+pain | douleur | Schmerz | dolor | dolore | dor | दर्द | 疼痛 | боль | Péng
+stomach | estomac | Magen | estómago | stomaco | estômago | पेट | 胃 | желудок | Mo
+chest | poitrine | Brust | pecho | petto | peito | छाती | 胸部 | грудь | Broscht
+medicine | médicament | Medikament | medicina | medicina | remédio | दवा | 药 | лекарство | Medikament
+pill | comprimé | Tablette | pastilla | compressa | comprimido | गोली | 药片 | таблетка | Pëll
+prescription | ordonnance | Rezept | receta | ricetta | receita | पर्ची | 处方 | рецепт | Rezept
+blood pressure | tension artérielle | Blutdruck | presión arterial | pressione sanguigna | pressão arterial | ब्लड प्रेशर | 血压 | давление | Bluttdrock
+temperature | température | Temperatur | temperatura | temperatura | temperatura | तापमान | 体温 | температура | Temperatur
+allergy | allergie | Allergie | alergia | allergia | alergia | एलर्जी | 过敏 | аллергия | Allergie
+health insurance | assurance maladie | Krankenversicherung | seguro de salud | assicurazione sanitaria | seguro de saúde | स्वास्थ्य बीमा | 医疗保险 | медицинская страховка | Gesondheetsversécherung
+weight | poids | Gewicht | peso | peso | peso | वजन | 体重 | вес | Gewiicht
+sick note | certificat médical | Krankschreibung | certificado médico | certificato medico | atestado médico | चिकित्सा प्रमाण पत्र | 病假条 | справка от врача | Krankeschäin
+book | réserver | buchen | reservar | prenotare | reservar | बुक करना | 预约 | бронировать | reservéieren
+wait | attendre | warten | esperar | aspettare | esperar | इंतजार करना | 等 | ждать | waarden
+arrive | arriver | ankommen | llegar | arrivare | chegar | पहुँचना | 到达 | приехать | ukommen
+register | s'inscrire | sich anmelden | registrarse | registrarsi | registrar-se | पंजीकरण करना | 注册 | зарегистрироваться | sech umellen
+sit | s'asseoir | sitzen | sentarse | sedersi | sentar-se | बैठना | 坐 | сидеть | sëtzen
+breathe | respirer | atmen | respirar | respirare | respirar | सांस लेना | 呼吸 | дышать | ootmen
+cough | tousser | husten | toser | tossire | tossir | खाँसना | 咳嗽 | кашлять | houschten
+sneeze | éternuer | niesen | estornudar | starnutire | espirrar | छींकना | 打喷嚏 | чихать | niessen
+hurt | blesser | wehtun | lastimar | far male | machucar | चोट लगना | 伤害 | ранить | wéidoen
+ache | avoir mal | schmerzen | doler | avere male | doer | दर्द होना | 疼 | болеть | wéi hunn
+feel | se sentir | fühlen | sentir | sentire | sentir | महसूस करना | 感觉 | чувствовать | fillen
+measure | mesurer | messen | medir | misurare | medir | मापना | 测量 | измерять | moossen
+examine | examiner | untersuchen | examinar | esaminare | examinar | जांचना | 检查 | осматривать | ënnersichen
+prescribe | prescrire | verschreiben | recetar | prescrivere | receitar | दवा लिखना | 开药 | выписывать | verschreiwen
+take | prendre | nehmen | tomar | prendere | tomar | लेना | 拿 | брать | huelen
+explain | expliquer | erklären | explicar | spiegare | explicar | समझाना | 解释 | объяснять | erklären
+describe | décrire | beschreiben | describir | descrivere | descrever | वर्णन करना | 描述 | описывать | beschreiwen
+pay | payer | bezahlen | pagar | pagare | pagar | पैसे देना | 付钱 | платить | bezuelen
+call | appeler | anrufen | llamar | chiamare | ligar | फोन करना | 打电话 | звонить | uruffen
+sick | malade | krank | enfermo | malato | doente | बीमार | 生病 | больной | krank
+tired | fatigué | müde | cansado | stanco | cansado | थका हुआ | 累 | уставший | midd
+dizzy | étourdi | schwindelig | mareado | stordito | tonto | चक्कर आना | 头晕 | головокружение | schwindlech
+painful | douloureux | schmerzhaft | doloroso | doloroso | doloroso | दर्दनाक | 疼 | болезненный | pénglech
+mild | léger | leicht | leve | lieve | leve | हल्का | 轻微 | умеренный | mëll
+severe | grave | schwer | grave | grave | grave | गंभीर | 严重 | сильный | schwéier
+normal | normal | normal | normal | normale | normal | सामान्य | 正常 | нормальный | normal
+high | haut | hoch | alto | alto | alto | ऊँचा | 高 | высокий | héich
+low | bas | niedrig | bajo | basso | baixo | नीचा | 低 | низкий | niddreg

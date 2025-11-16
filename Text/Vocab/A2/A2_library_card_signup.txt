@@ -1,0 +1,55 @@
+library | bibliothèque | Bibliothek | biblioteca | biblioteca | biblioteca | पुस्तकालय | 图书馆 | библиотека | bibliothéik
+card | carte | Karte | tarjeta | carta | cartão | कार्ड | 卡 | карточка | kaart
+form | formulaire | Formular | formulario | modulo | formulário | फॉर्म | 表格 | форма | formulaire
+application | demande | Antrag | solicitud | domanda | pedido | आवेदन | 申请 | заявление | demande
+account | compte | Konto | cuenta | account | conta | खाता | 账户 | аккаунт | kont
+address | adresse | Adresse | dirección | indirizzo | endereço | पता | 地址 | адрес | adress
+name | nom | Name | nombre | nome | nome | नाम | 姓名 | имя | numm
+email | e-mail | E-Mail | correo electrónico | email | e-mail | ईमेल | 电子邮件 | электронная почта | E-Mail
+password | mot de passe | Passwort | contraseña | password | senha | पासवर्ड | 密码 | пароль | Passwuert
+pin | code PIN | PIN | código PIN | codice PIN | código PIN | पिन | PIN码 | PIN-код | PIN
+book | livre | Buch | libro | libro | livro | किताब | 书 | книга | Buch
+magazine | magazine | Zeitschrift | revista | rivista | revista | पत्रिका | 杂志 | журнал | Zäitschrëft
+computer | ordinateur | Computer | computadora | computer | computador | कंप्यूटर | 电脑 | компьютер | Computer
+printer | imprimante | Drucker | impresora | stampante | impressora | प्रिंटर | 打印机 | принтер | Drécker
+scanner | scanner | Scanner | escáner | scanner | scanner | स्कैनर | 扫描仪 | сканер | Scanner
+fee | frais | Gebühr | cuota | tassa | taxa | शुल्क | 费用 | плата | Tax
+fine | amende | Geldstrafe | multa | multa | multa | जुर्माना | 罚款 | штраф | Geldstrof
+receipt | reçu | Quittung | recibo | ricevuta | recibo | रसीद | 收据 | чек | Quittung
+signature | signature | Unterschrift | firma | firma | assinatura | हस्ताक्षर | 签名 | подпись | Ënnerschrëft
+parent | parent | Elternteil | padre | genitore | pai | पिता | 家长 | родитель | Elterendeel
+guardian | tuteur | Vormund | tutor legal | tutore | tutor legal | अभिभावक | 监护人 | опекун | Tuteur
+student | étudiant | Student | estudiante | studente | estudante | विद्यार्थी | 学生 | студент | Student
+branch | succursale | Filiale | sucursal | filiale | filial | शाखा | 分店 | филиал | Filial
+desk | bureau | Schreibtisch | escritorio | scrivania | escrivaninha | डेस्क | 书桌 | письменный стол | Schreifdësch
+apply | faire une demande | beantragen | solicitar | fare domanda | solicitar | आवेदन करना | 申请 | подать заявку | ufroen
+register | s'inscrire | sich anmelden | registrarse | registrarsi | registrar-se | रजिस्टर करना | 注册 | зарегистрироваться | sech umellen
+fill | remplir | ausfüllen | rellenar | compilare | preencher | भरना | 填写 | заполнить | ausfëllen
+bring | apporter | bringen | traer | portare | trazer | लाना | 带来 | принести | bréngen
+show | montrer | zeigen | mostrar | mostrare | mostrar | दिखाना | 出示 | показать | weisen
+submit | envoyer | einreichen | enviar | inviare | enviar | जमा करना | 提交 | отправить | ofginn
+confirm | confirmer | bestätigen | confirmar | confermare | confirmar | पुष्टि करना | 确认 | подтвердить | bestätegen
+choose | choisir | wählen | elegir | scegliere | escolher | चुनना | 选择 | выбрать | wielen
+agree | être d'accord | zustimmen | estar de acuerdo | essere d'accordo | estar de acordo | सहमत होना | 同意 | согласиться | zoustëmmen
+borrow | emprunter | ausleihen | pedir prestado | prendere in prestito | tomar emprestado | उधार लेना | 借 | одолжить | ausléinen
+return | rendre | zurückgeben | devolver | restituire | devolver | वापस करना | 还 | вернуть | zréckginn
+renew | renouveler | verlängern | renovar | rinnovare | renovar | नवीनीकरण करना | 续借 | продлить | verlängeren
+pay | payer | bezahlen | pagar | pagare | pagar | भुगतान करना | 付钱 | платить | bezuelen
+print | imprimer | drucken | imprimir | stampare | imprimir | प्रिंट करना | 打印 | печатать | drécken
+create | créer | erstellen | crear | creare | criar | बनाना | 创建 | создать | erstellen
+set | régler | einstellen | configurar | impostare | configurar | सेट करना | 设置 | настроить | astellen
+check | vérifier | prüfen | revisar | controllare | verificar | जांचना | 检查 | проверять | kontrolléieren
+free | gratuit | kostenlos | gratis | gratis | grátis | मुफ़्त | 免费 | бесплатный | gratis
+local | local | lokal | local | locale | local | स्थानीय | 本地 | местный | lokal
+public | public | öffentlich | público | pubblico | público | सार्वजनिक | 公共 | общественный | ëffentlech
+valid | valide | gültig | válido | valido | válido | वैध | 有效 | действительный | gëlteg
+current | actuel | aktuell | actual | attuale | atual | वर्तमान | 当前 | текущий | aktuell
+new | nouveau | neu | nuevo | nuovo | novo | नया | 新 | новый | nei
+lost | perdu | verloren | perdido | perso | perdido | खोया | 丢失的 | потерянный | verlueren
+expired | périmé | abgelaufen | caducado | scaduto | vencido | समाप्त | 过期 | просроченный | ofgelaf
+library card | carte de bibliothèque | Bibliotheksausweis | carné de biblioteca | tessera della biblioteca | cartão da biblioteca | पुस्तकालय कार्ड | 借书证 | читательский билет | Bibliothéikskaart
+sign up | s'inscrire | sich anmelden | registrarse | iscriversi | inscrever-se | पंजीकरण करना | 注册 | зарегистрироваться | se umellen
+photo id | pièce d'identité avec photo | Ausweis mit Foto | identificación con foto | documento con foto | documento com foto | फोटो पहचान पत्र | 带照片的身份证件 | удостоверение личности с фото | Ausweis mat Foto
+proof of address | justificatif de domicile | Adressnachweis | comprobante de domicilio | prova di residenza | comprovante de endereço | पते का प्रमाण | 地址证明 | подтверждение адреса | Adressennofweis
+phone number | numéro de téléphone | Telefonnummer | número de teléfono | numero di telefono | número de telefone | फोन नंबर | 电话号码 | номер телефона | Telefonsnummer
+due date | date limite | Abgabedatum | fecha límite | data di scadenza | data de vencimento | अंतिम तिथि | 到期日 | срок сдачи | Fällegkeetsdatum

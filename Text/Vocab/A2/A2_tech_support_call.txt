@@ -1,0 +1,55 @@
+phone | téléphone | Telefon | teléfono | telefono | telefone | फोन | 电话 | телефон | Telefon
+problem | problème | Problem | problema | problema | problema | समस्या | 问题 | проблема | Problem
+agent | agent | Agent | agente | agente | agente | एजेंट | 代理人 | агент | Agent
+customer | client | Kunde | cliente | cliente | cliente | ग्राहक | 顾客 | клиент | Client
+device | appareil | Gerät | dispositivo | dispositivo | dispositivo | उपकरण | 设备 | устройство | Apparat
+computer | ordinateur | Computer | computadora | computer | computador | कंप्यूटर | 电脑 | компьютер | Computer
+connection | connexion | Verbindung | conexión | connessione | conexão | कनेक्शन | 连接 | соединение | Verbindung
+internet | internet | Internet | internet | internet | internet | इंटरनेट | 互联网 | интернет | Internet
+wifi | Wi-Fi | WLAN | Wi-Fi | Wi-Fi | Wi-Fi | वाई-फाई | Wi-Fi | Wi-Fi | WLAN
+password | mot de passe | Passwort | contraseña | password | senha | पासवर्ड | 密码 | пароль | Passwuert
+account | compte | Konto | cuenta | account | conta | खाता | 账户 | аккаунт | Kont
+email | e-mail | E-Mail | correo electrónico | email | e-mail | ईमेल | 电子邮件 | электронная почта | E-Mail
+screen | écran | Bildschirm | pantalla | schermo | tela | स्क्रीन | 屏幕 | экран | Bildschierm
+button | bouton | Taste | botón | pulsante | botão | बटन | 按钮 | кнопка | Knäppchen
+settings | paramètres | Einstellungen | ajustes | impostazioni | configurações | सेटिंग्स | 设置 | настройки | Astellungen
+app | application | App | aplicación | app | aplicativo | ऐप | 应用 | приложение | App
+browser | navigateur | Browser | navegador | browser | navegador | ब्राउज़र | 浏览器 | браузер | Browser
+router | routeur | Router | router | router | roteador | राउटर | 路由器 | роутер | Router
+cable | câble | Kabel | cable | cavo | cabo | केबल | 电缆 | кабель | Kabel
+battery | batterie | Batterie | batería | batteria | bateria | बैटरी | 电池 | батарея | Batterie
+charger | chargeur | Ladegerät | cargador | caricatore | carregador | चार्जर | 充电器 | зарядка | Ladegerät
+tech support | assistance technique | Technischer Support | soporte técnico | assistenza tecnica | suporte técnico | तकनीकी सहायता | 技术支持 | техническая поддержка | technesche Support
+error message | message d'erreur | Fehlermeldung | mensaje de error | messaggio di errore | mensagem de erro | त्रुटि संदेश | 错误信息 | сообщение об ошибке | Feelermeldung
+phone number | numéro de téléphone | Telefonnummer | número de teléfono | numero di telefono | número de telefone | फोन नंबर | 电话号码 | номер телефона | Telefonsnummer
+user name | nom d'utilisateur | Benutzername | nombre de usuario | nome utente | nome de usuário | उपयोगकर्ता नाम | 用户名 | имя пользователя | Benotzernumm
+code | code | Code | código | codice | código | कोड | 代码 | код | Code
+call | appeler | anrufen | llamar | chiamare | ligar | कॉल करना | 打电话 | звонить | uruffen
+help | aider | helfen | ayudar | aiutare | ajudar | मदद करना | 帮助 | помогать | hëllefen
+fix | réparer | reparieren | arreglar | riparare | consertar | ठीक करना | 修理 | починить | reparéieren
+check | vérifier | prüfen | comprobar | controllare | verificar | जांच करना | 检查 | проверить | préifen
+restart | redémarrer | neu starten | reiniciar | riavviare | reiniciar | रीस्टार्ट करना | 重启 | перезапустить | nei starten
+update | mettre à jour | aktualisieren | actualizar | aggiornare | atualizar | अपडेट करना | 更新 | обновить | aktualiséieren
+open | ouvrir | öffnen | abrir | aprire | abrir | खोलना | 打开 | открыть | opmaachen
+close | fermer | schließen | cerrar | chiudere | fechar | बंद करना | 关闭 | закрыть | zoumaachen
+click | cliquer | klicken | hacer clic | cliccare | clicar | क्लिक करना | 点击 | кликнуть | klicken
+type | taper | tippen | escribir | digitare | digitar | टाइप करना | 输入 | печатать | tippen
+send | envoyer | senden | enviar | inviare | enviar | भेजना | 发送 | отправить | schécken
+receive | recevoir | empfangen | recibir | ricevere | receber | प्राप्त करना | 接收 | получить | kréien
+connect | connecter | verbinden | conectar | collegare | conectar | कनेक्ट करना | 连接 | подключить | verbannen
+reset | réinitialiser | zurücksetzen | restablecer | reimpostare | redefinir | रीसेट करना | 重置 | сбросить | zrécksetzen
+wait | attendre | warten | esperar | aspettare | esperar | इंतजार करना | 等 | ждать | waarden
+turn off | éteindre | ausschalten | apagar | spegnere | desligar | बंद करना | 关 | выключить | ausmaachen
+turn on | allumer | einschalten | encender | accendere | ligar | चालू करना | 开 | включить | unmaachen
+download | télécharger | herunterladen | descargar | scaricare | baixar | डाउनलोड करना | 下载 | скачать | eroflueden
+install | installer | installieren | instalar | installare | instalar | इंस्टॉल करना | 安装 | установить | installéieren
+share | partager | teilen | compartir | condividere | compartilhar | शेयर करना | 分享 | поделиться | deelen
+slow | lent | langsam | lento | lento | lento | धीमा | 慢 | медленный | lues
+fast | rapide | schnell | rápido | veloce | rápido | तेज | 快 | быстрый | séier
+broken | cassé | kaputt | roto | rotto | quebrado | टूटा | 坏了 | сломанный | defekt
+busy | occupé | beschäftigt | ocupado | occupato | ocupado | व्यस्त | 忙 | занят | beschäftegt
+ready | prêt | bereit | listo | pronto | pronto | तैयार | 准备好 | готов | bereet
+helpful | utile | hilfreich | útil | utile | útil | मददगार | 有帮助 | полезный | hëllefräich
+clear | clair | klar | claro | chiaro | claro | साफ | 清楚 | ясный | kloer
+safe | sûr | sicher | seguro | sicuro | seguro | सुरक्षित | 安全 | безопасный | sécher
+online | en ligne | online | en línea | online | online | ऑनलाइन | 在线 | онлайн | online

@@ -1,0 +1,55 @@
+takeaway | plat à emporter | Essen zum Mitnehmen | comida para llevar | cibo da asporto | comida para viagem | टेकअवे | 外卖 | еда навынос | Iessen fir matzehuelen
+pickup | retrait | Abholung | recogida | ritiro | retirada | पिकअप | 自取 | самовывоз | Ofhuelung
+time | temps | Zeit | tiempo | tempo | tempo | समय | 时间 | время | Zäit
+order | commande | Bestellung | pedido | ordine | pedido | ऑर्डर | 订单 | заказ | Bestellung
+menu | menu | Speisekarte | menú | menu | cardápio | मेनू | 菜单 | меню | Iesskaart
+dish | plat | Gericht | plato | piatto | prato | डिश | 菜 | блюдо | Plat
+meal | repas | Mahlzeit | comida | pasto | refeição | भोजन | 饭 | еда | Iessen
+lunch | déjeuner | Mittagessen | almuerzo | pranzo | almoço | दोपहर का खाना | 午饭 | обед | Mëttegiessen
+dinner | dîner | Abendessen | cena | cena | jantar | रात का खाना | 晚餐 | ужин | Owesiessen
+breakfast | petit-déjeuner | Frühstück | desayuno | colazione | café da manhã | नाश्ता | 早餐 | завтрак | Moiesiessen
+customer | client | Kunde | cliente | cliente | cliente | ग्राहक | 顾客 | клиент | Client
+staff | personnel | Personal | personal | personale | pessoal | स्टाफ | 员工 | персонал | Personal
+kitchen | cuisine | Küche | cocina | cucina | cozinha | रसोई | 厨房 | кухня | Kichen
+counter | comptoir | Theke | mostrador | bancone | balcão | काउंटर | 柜台 | стойка | Theke
+bag | sac | Tasche | bolsa | borsa | saco | बैग | 袋子 | сумка | Täsch
+receipt | reçu | Quittung | recibo | scontrino | recibo | रसीद | 收据 | чек | Quittung
+number | numéro | Nummer | número | numero | número | नंबर | 号码 | номер | Nummer
+queue | file d'attente | Warteschlange | cola | coda | fila | कतार | 队伍 | очередь | Rei
+app | appli | App | aplicación | applicazione | aplicativo | ऐप | 应用 | приложение | App
+phone | téléphone | Telefon | teléfono | telefono | telefone | फोन | 电话 | телефон | Telefon
+address | adresse | Adresse | dirección | indirizzo | endereço | पता | 地址 | адрес | Adress
+parking | parking | Parkplatz | aparcamiento | parcheggio | estacionamento | पार्किंग | 停车场 | парковка | Parking
+door | porte | Tür | puerta | porta | porta | दरवाज़ा | 门 | дверь | Dier
+minute | minute | Minute | minuto | minuto | minuto | मिनट | 分钟 | минута | Minutt
+hour | heure | Stunde | hora | ora | hora | घंटा | 小时 | час | Stonn
+pick up | aller chercher | abholen | recoger | andare a prendere | buscar | उठाना | 接 | забрать | ofhuelen
+arrive | arriver | ankommen | llegar | arrivare | chegar | पहुंचना | 到达 | приехать | ukommen
+wait | attendre | warten | esperar | aspettare | esperar | इंतजार करना | 等 | ждать | waarden
+call | appeler | anrufen | llamar | chiamare | ligar | फोन करना | 打电话 | звонить | uruffen
+text | envoyer un message | texten | mandar un mensaje | mandare un messaggio | mandar mensagem | संदेश भेजना | 发短信 | писать сообщение | SMS schécken
+check | vérifier | überprüfen | comprobar | controllare | verificar | जांचना | 检查 | проверить | nokucken
+choose | choisir | wählen | elegir | scegliere | escolher | चुनना | 选择 | выбирать | wielen
+pay | payer | bezahlen | pagar | pagare | pagar | भुगतान करना | 付款 | платить | bezuelen
+prepare | préparer | vorbereiten | preparar | preparare | preparar | तैयार करना | 准备 | готовить | virbereeden
+pack | emballer | packen | empacar | imballare | embalar | पैक करना | 打包 | паковать | anpaaken
+confirm | confirmer | bestätigen | confirmar | confermare | confirmar | पुष्टि करना | 确认 | подтвердить | bestätegen
+cancel | annuler | absagen | cancelar | annullare | cancelar | रद्द करना | 取消 | отменить | ofsoen
+change | changer | ändern | cambiar | cambiare | mudar | बदलना | 改变 | менять | änneren
+plan | planifier | planen | planear | pianificare | planejar | योजना बनाना | 计划 | планировать | plangen
+ask | demander | fragen | preguntar | chiedere | perguntar | पूछना | 问 | спросить | froen
+tell | dire | sagen | decir | dire | dizer | बताना | 告诉 | сказать | soen
+collect | ramasser | sammeln | recoger | raccogliere | recolher | इकट्ठा करना | 收集 | собирать | sammelen
+early | tôt | früh | temprano | presto | cedo | जल्दी | 早 | рано | fréi
+late | tard | spät | tarde | tardi | tarde | देर से | 晚 | поздно | spéit
+busy | occupé | beschäftigt | ocupado | occupato | ocupado | व्यस्त | 忙 | занятой | beschäftegt
+open | ouvert | offen | abierto | aperto | aberto | खुला | 开 | открытый | op
+closed | fermé | geschlossen | cerrado | chiuso | fechado | बंद | 关 | закрытый | zou
+hot | chaud | heiß | caliente | caldo | quente | गर्म | 热 | горячий | hëtzeg
+warm | chaud | warm | caliente | caldo | quente | गरम | 暖和 | тёплый | waarm
+ready | prêt | bereit | listo | pronto | pronto | तैयार | 准备好 | готов | fäerdeg
+pickup time | heure de retrait | Abholzeit | hora de recogida | ora di ritiro | hora de retirada | लेने का समय | 取货时间 | время самовывоза | Ofhuelzäit
+order number | numéro de commande | Bestellnummer | número de pedido | numero d'ordine | número do pedido | ऑर्डर नंबर | 订单号 | номер заказа | Bestellnummer
+opening hours | heures d'ouverture | Öffnungszeiten | horario de apertura | orari di apertura | horário de funcionamento | खुलने का समय | 营业时间 | часы работы | Ouvertureszäiten
+wait time | temps d'attente | Wartezeit | tiempo de espera | tempo di attesa | tempo de espera | इंतजार का समय | 等待时间 | время ожидания | Waardezäit
+lunch rush | heure de pointe du déjeuner | Mittagsandrang | hora punta del almuerzo | ora di punta del pranzo | hora de pico do almoço | लंच की भीड़ | 午餐高峰 | обеденный час-пик | Mëttes-Spëtzestonn

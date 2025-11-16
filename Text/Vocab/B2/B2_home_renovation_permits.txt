@@ -1,0 +1,65 @@
+permit | permis | Genehmigung | permiso | permesso | licença | अनुमति | 许可 | разрешение | Geneemlegung
+renovation | rénovation | Renovierung | renovación | ristrutturazione | renovação | नवीनीकरण | 翻新 | реновация | Renovatioun
+construction | construction | Bau | construcción | costruzione | construção | निर्माण | 建设 | строительство | Konstruktion
+approval | approbation | Genehmigung | aprobación | approvazione | aprovação | अनुमोदन | 批准 | одобрение | Geneemlegung
+application | demande | Antrag | solicitud | domanda | solicitação | आवेदन | 申请 | заявка | Demande
+project | projet | Projekt | proyecto | progetto | projeto | परियोजना | 项目 | проект | Projet
+builder | constructeur | Bauunternehmer | constructor | costruttore | construtor | निर्माणकर्ता | 建造者 | строитель | Builder
+contractor | entrepreneur | Auftragnehmer | contratista | appaltatore | empreiteiro | ठेकेदार | 承包商 | подрядчик | Contractor
+inspection | inspection | Inspektion | inspección | ispezione | inspeção | निरीक्षण | 检查 | инспекция | Inspektioun
+regulations | régulations | Vorschriften | regulaciones | regolamenti | regulamentos | नियमावली | 规章 | правила | Reglementer
+zoning | zonage | Bebauungsplanung | zonificación | pianificazione | zoneamento | क्षेत्र योजना | 区域规划 | зонирование | Zounung
+code | code | Code | código | codice | código | कोड | 法规 | кодекс | Code
+licence | licence | Lizenz | licencia | licenza | licença | लाइसेंस | 许可证 | лицензия | Lizenz
+compliance | conformité | Einhaltung | cumplimiento | conformità | conformidade | अनुपालन | 合规性 | соблюдение | Konformitéit
+requirement | exigence | Anforderung | requisito | requisito | requisito | आवश्यकता | 要求 | требование | Ufuerderung
+neighborhood | quartier | Nachbarschaft | vecindario | quartiere | vizinhança | पड़ोस | 邻里 | район | Nopeschaf
+planning | planification | Planung | planificación | pianificazione | planejamento | योजना | 规划 | планирование | Planung
+design | conception | Design | diseño | design | design | डिज़ाइन | 设计 | дизайн | Design
+contract | contrat | Vertrag | contrato | contratto | contrato | अनुबंध | 合同 | контракт | Vertrag
+estimate | estimation | Schätzung | estimación | stima | estimativa | अनुमान | 估算 | оценка | Schätzung
+cost | coût | Kosten | costo | costo | custo | लागत | 成本 | стоимость | Käschte
+materials | matériaux | Materialien | materiales | materiali | materiais | सामगृह | 材料 | материалы | Materialien
+safety | sécurité | Sicherheit | seguridad | sicurezza | segurança | सुरक्षा | 安全 | безопасность | Sécherheet
+standards | normes | Standards | normas | standard | padrões | मानक | 标准 | стандарты | Standarden
+environment | environnement | Umwelt | medio ambiente | ambiente | meio ambiente | पर्यावरण | 环境 | окружающая среда | Umwelt
+demolition | démolition | Abriss | demolición | demolizione | demolição | विध्वंस | 拆除 | снос | Demolitioun
+interior | intérieur | Innen | interior | interno | interior | आंतरिक | 内部 | внутренний | Interieur
+exterior | extérieur | Außen | exterior | esterno | exterior | बाहरी | 外部 | внешний | Exterieur
+remodel | remodeler | umbauen | remodelar | ristrutturare | remodelar | पुनर्व्यवस्थित करना | 改造 | переделывать | réaménager
+addition | addition | Ergänzung | adición | aggiunta | adição | जोड़ | 附加 | дополнение | Zousatz
+layout | disposition | Layout | diseño | disposizione | layout | लेआउट | 布局 | макет | Layout
+structural | structurel | strukturell | estructural | strutturale | estrutural | संरचनात्मक | 结构的 | структурный | strukturell
+utility | utilité | Nützlichkeit | utilidad | utilità | utilidade | उपयोगिता | 公用事业 | утилита | Nützung
+electricity | électricité | Elektrizität | electricidad | elettricità | eletricidade | बिजली | 电力 | электричество | Elektrizität
+plumbing | plomberie | Sanitärtechnik | fontanería | idraulica | encanamento | प्लंबिंग | 管道 | сантехника | Plumbing
+heating | chauffage | Heizung | calefacción | riscaldamento | aquecimento | हीटिंग | 加热 | отопление | Heizung
+installation | installation | Installation | instalación | installazione | instalação | स्थापना | 安装 | установка | Installatioun
+renovate | rénover | renovieren | renovar | ristrutturare | renovar | नवीनीकरण करना | 现代化 | обновить | renovéieren
+upgrade | mettre à niveau | aufrüsten | actualizar | aggiornare | atualizar | उन्नयन करना | 升级 | модернизировать | upgraden
+modernize | moderniser | modernisieren | modernizar | modernizzare | modernizar | आधुनिकीकरण करना | 现代化 | модернизировать | moderniséieren
+accessibility | accessibilité | Zugänglichkeit | accesibilidad | accessibilità | acessibilidade | पहुंच | 无障碍 | доступность | Zugänglechkeit
+landscaping | aménagement paysager | Landschaftsgestaltung | paisajismo | paesaggistica | paisagismo | भू-आकृति | 风景美化 | ландшафтный дизайн | Landschaftsplanung
+finish | finition | Finish | acabado | finitura | acabamento | समाप्ति | 完成 | завершение | Fäerdeg
+facade | façade | Fassade | fachada | facciata | fachada | मुख facade | 外立面 | фасад | Fassad
+site | site | Standort | sitio | sito | site | स्थल | 现场 | место | Site
+survey | enquête | Umfrage | encuesta | indagine | pesquisa | सर्वेक्षण | 调查 | опрос | Ënquête
+disruption | perturbation | Unterbrechung | interrupción | interruzione | interrupção | विघटन | 混乱 | нарушение | Stéierung
+timeline | calendrier | Zeitplan | cronograma | cronologia | cronograma | समयरेखा | 时间线 | временная шкала | Zäitlinnen
+budget | budget | Budget | presupuesto | bilancio | orçamento | बजट | 预算 | бюджет | Budget
+authorization | autorisation | Genehmigung | autorización | autorizzazione | autorização | प्राधिकरण | 授权 | разрешение | Autorisatioun
+hardship | dureté | Notlage | adversidad | difficoltà | dificuldade | कठिनाई | 困难 | трудность | Schwieregkeet
+document | document | Dokument | documento | documento | documento | दस्तावेज़ | 文件 | документ | Dokument
+withdrawal | retrait | Abhebung | retiro | prelievo | retirada | निकासी | 提取 | вывод | Réckruff
+discretion | discrétion | Ermessen | discreción | discrezione | discrição | विवेक | 自 discretion | усмотрение | Diskretion
+dispute | différend | Streit | disputa | controversia | disputa | विवाद | 争议 | спор | Streitufer
+guidelines | lignes directrices | Richtlinien | directrices | linee guida | diretrizes | दिशानिर्देश | 指导方针 | рекомендации | Richtlinnen
+criteria | critères | Kriterien | criterios | criteri | critérios | मानदंड | 标准 | критерии | Kriterien
+requirements | exigences | Anforderungen | requisitos | requisiti | requisitos | आवश्यकताएँ | 需求 | требования | Anforderungen
+notification | notification | Benachrichtigung | notificación | notifica | notificação | सूचना | 通知 | уведомление | Benachrichtigung
+signature | signature | Unterschrift | firma | firma | assinatura | हस्ताक्षर | 签名 | подпись | Unterschrift
+details | détails | Einzelheiten | detalles | dettagli | detalhes | विवरण | 细节 | детали | Einzelheiten
+approval process | processus d'approbation | Genehmigungsprozess | proceso de aprobación | processo di approvazione | processo de aprovação | अनुमोदन प्रक्रिया | 批准过程 | процесс одобрения | Genehmigungsprozess
+scope of work | champ d'application | Umfang der Arbeiten | alcance del trabajo | ambito di lavoro | escopo de trabalho | कार्य की सीमा | 工作范围 | объем работы | Arbeitsumfang
+local authority | autorité locale | örtliche Behörde | autoridad local | autorità locale | autoridade local | स्थानीय प्राधिकरण | 地方当局 | местные власти | lokal Behörde
+homeowner | propriétaire | Hausbesitzer | propietario | proprietario | proprietário | गृहस्वामी | 业主 | владелец дома | Hausbesitzer

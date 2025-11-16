@@ -1,0 +1,65 @@
+flexible | flexible | flexibel | flexible | flessibile | flexível | लचीला | 灵活 | гибкий | flexibel
+hours | heures | Stunden | horas | ore | horas | घंटे | 小时 | часы | Stonnen
+proposal | proposition | Vorschlag | propuesta | proposta | proposta | प्रस्ताव | 提议 | предложение | propos
+work-life balance | équilibre vie-travail | Work-Life-Balance | equilibrio trabajo-vida | equilibrio vita-lavoro | equilíbrio trabalho-vida | कार्य-जीवन संतुलन | 工作与生活平衡 | баланс работы и жизни | Equilibrer Liewen a Arbecht
+employee | employé | Mitarbeiter | empleado | dipendente | empregado | कर्मचारी | 员工 | сотрудник | Beschäfte
+schedule | emploi du temps | Zeitplan | horario | programma | cronograma | कार्यक्रम | 时间表 | расписание | Zäitplang
+productivity | productivité | Produktivität | productividad | produttività | produtividade | उत्पादकता | 生产力 | производительность | Produktivitéit
+benefit | avantage | Vorteil | beneficio | beneficio | benefício | लाभ | 福利 | выгода | Virdeel
+time management | gestion du temps | Zeitmanagement | gestión del tiempo | gestione del tempo | gestão do tempo | समय प्रबंधन | 时间管理 | управление временем | Zäitmanagement
+part-time | temps partiel | Teilzeit | a tiempo parcial | lavoro part-time | meio período | अंशकालिक | 兼职 | неполный рабочий день | Deelzäit
+full-time | temps plein | Vollzeit | a tiempo completo | lavoro a tempo pieno | período integral | पूर्णकालिक | 全职 | ставка на полную занятость | Vollzäit
+remote | à distance | remote | remoto | remoto | remoto | दूरस्थ | 远程 | удалённый | remote
+collaboration | collaboration | Zusammenarbeit | colaboración | collaborazione | colaboração | सहयोग | 合作 | сотрудничество | Zesummenaarbecht
+agreement | accord | Vereinbarung | acuerdo | accordo | acordo | समझौता | 协议 | соглашение | Accord
+adjust | ajuster | anpassen | ajustar | regolare | ajustar | समन्वयित करना | 调整 | корректировать | upassen
+shift | changement | Schicht | turno | turno | turno | बदलाव | 转换 | смена | Ännerung
+commitment | engagement | Verpflichtung | compromiso | impegno | compromisso | प्रतिबद्धता | 承诺 | обязательство | Engagement
+support | soutien | Unterstützung | apoyo | supporto | apoio | समर्थन | 支持 | поддержка | Ënnerstëtzung
+opportunity | opportunité | Gelegenheit | oportunidad | opportunità | oportunidade | अवसर | 机会 | возможность | Geleeënheet
+priority | priorité | Priorität | prioridad | priorità | prioridade | प्राथमिकता | 优先 | приоритет | Prioritéit
+motivation | motivation | Motivation | motivación | motivazione | motivação | प्रेरणा | 动力 | мотивация | Motivatioun
+responsibility | responsabilité | Verantwortung | responsabilidad | responsabilità | responsabilidade | जिम्मेदारी | 责任 | ответственность | Verantwortung
+capability | capacité | Fähigkeit | capacidad | capacità | capacidade | क्षमता | 能力 | способность | Fäegkeet
+communication | communication | Kommunikation | comunicación | comunicazione | comunicação | संचार | 交流 | коммуникация | Kommunikatioun
+teamwork | travail d'équipe | Teamarbeit | trabajo en equipo | lavoro di squadra | trabalho em equipe | टीमवर्क | 团队合作 | командная работа | Teamarbeit
+flexibility | flexibilité | Flexibilität | flexibilidad | flessibilità | flexibilidade | लचीलापन | 灵活性 | гибкость | Flexibilität
+well-being | bien-être | Wohlbefinden | bienestar | benessere | bem-estar | कल्याण | 幸福 | благополучие | Wohlergehen
+strategy | stratégie | Strategie | estrategia | strategia | estratégia | रणनीति | 战略 | стратегия | Strategie
+adapt | adapter | anpassen | adaptarse | adattare | adaptar | अनुकूलित करना | 适应 | адаптироваться | anpasse
+task | tâche | Aufgabe | tarea | compito | tarefa | कार्य | 任务 | задача | Aufgab
+culture | culture | Kultur | cultura | cultura | cultura | संस्कृति | 文化 | культура | Kultur
+engagement | engagement | Engagement | compromiso | impegno | engajamento | प्रतिबद्धता | 参与 | участие | Engagement
+output | sortie | Ausgabe | salida | uscita | saída | आउटपुट | 输出 | выход | Ausgabe
+feedback | rétroaction | Rückmeldung | retroalimentación | feedback | feedback | फीडबैक | 反馈 | отзыв | Feedback
+trust | confiance | Vertrauen | confianza | fiducia | confiança | विश्वास | 信任 | доверие | Vertrauen
+respect | respect | Respekt | respeto | rispetto | respeito | सम्मान | 尊重 | уважение | Respekt
+arrangement | arrangement | Anordnung | arreglo | disposizione | arranjo | व्यवस्था | 安排 | организация | Anordnung
+balance | équilibre | Gleichgewicht | equilibrio | equilibrio | equilíbrio | संतुलन | 平衡 | баланс | Gleichgewicht
+empower | autonomiser | ermächtigen | empoderar | responsabilizzare | capacitar | सक्षम करना | 授权 | уполномочить | ermächtigen
+change | changement | Veränderung | cambio | cambiamento | mudança | परिवर्तन | 变化 | изменение | Veränderung
+workplace | lieu de travail | Arbeitsplatz | lugar de trabajo | posto di lavoro | local de trabalho | कार्यस्थल | 工作场所 | рабочее место | Arbechtsplaz
+productive | productif | produktiv | productivo | produttivo | produtivo | उत्पादक | 生产性 | продуктивный | produktiv
+resource | ressource | Ressource | recurso | risorsa | recurso | संसाधन | 资源 | ресурс | Ressource
+success | succès | Erfolg | éxito | successo | sucesso | सफलता | 成功 | успех | Succès
+performance | performance | Leistung | rendimiento | prestazione | desempenho | प्रदर्शन | 表现 | производительность | Leeschtung
+goal | objectif | Ziel | meta | obiettivo | objetivo | लक्ष्य | 目标 | цель | Ziel
+option | option | Option | opción | opzione | opção | विकल्प | 选项 | вариант | Optioun
+plan | plan | Plan | plan | piano | plano | योजना | 计划 | план | Plang
+approach | approche | Ansatz | enfoque | approccio | abordagem | दृष्टिकोण | 方法 | подход | Approche
+health | santé | Gesundheit | salud | salute | saúde | स्वास्थ्य | 健康 | здоровье | Gesondheet
+efficiency | efficacité | Effizienz | eficiencia | efficienza | eficiência | दक्षता | 效率 | эффективность | Effizienz
+collaborate | collaborer | zusammenarbeiten | colaborar | collaborare | colaborar | सहयोग करना | 合作 | сотрудничать | Zesummenaarbecht
+requirements | exigences | Anforderungen | requisitos | requisiti | requisitos | आवश्यकताएँ | 要求 | требования | Ufuerderungen
+availability | disponibilité | Verfügbarkeit | disponibilidad | disponibilità | disponibilidade | उपलब्धता | 可用性 | доступность | Verfügbarkeet
+schedule flexibility | flexibilité du calendrier | Terminfle­xibilität | flexibilidad de horarios | flessibilità degli orari | flexibilidade de horários | कार्यक्रम में लचीलापन | 日程灵活性 | гибкость расписания | Flexibilität vum Termin
+beneficial | bénéfique | vorteilhaft | beneficioso | vantaggioso | benéfico | लाभदायक | 有益的 | полезный | Nëtzlech
+rewarding | gratifiant | lohnend | gratificante | gratificante | recompensador | पुरस्कृत करने वाला | 有回报的 | вознаграждающий | belohnend
+staff | personnel | Personal | personal | personale | equipe | स्टाफ | 员工 | персонал | Personal
+demand | demande | Nachfrage | demanda | domanda | demanda | मांग | 需求 | спрос | Bedarf
+time zone | fuseau horaire | Zeitzone | zona horaria | fuso orario | fuso horário | समय क्षेत्र | 时区 | часовой пояс | Zeitzone
+arrive | arriver | ankommen | llegar | arrivare | chegar | आना | 到达 | прибывать | ankommen
+depart | partir | abfahren | partir | partire | partir | प्रस्थान करना | 出发 | уезжать | abfahren
+participate | participer | teilnehmen | participar | partecipare | participar | भाग लेना | 参与 | участвовать | teilnehmen
+overview | aperçu | Übersicht | resumen | panoramica | visão geral | ओवरव्यू | 概述 | обзор | Übersicht
+influence | influence | Einfluss | influencia | influenza | influência | प्रभाव | 影响 | влияние | Einfluss

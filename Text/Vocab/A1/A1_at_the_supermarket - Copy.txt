@@ -1,0 +1,50 @@
+supermarket | supermarché | Supermarkt | supermercado | supermercato | supermercado | सुपरमार्केट | 超市 | супермаркет | Supermarché
+aisle | allée | Gang | pasillo | corridoio | corredor | गलियारा | 走道 | коридор | Gang
+basket | panier | Korb | cesta | cesto | cesta | टोकरी | 篮子 | корзина | Korb
+cart | chariot | Wagen | carrito | carrello | carrinho | गाड़ी | 推车 | тележка | Waggon
+checkout | caisse | Kasse | caja | cassa | caixa | चेकआउट | 检查 | касса | Kasse
+cashier | caissier | Kassierer | cajero | cassiere | caixa | कैशियर | 收银员 | кассир | Kasséier
+shelf | étagère | Regal | estante | mensola | prateleira | शेल्फ | 架子 | полка | Regal
+price | prix | Preis | precio | prezzo | preço | कीमत | 价格 | цена | Präis
+receipt | reçu | Quittung | recibo | ricevuta | recibo | रसीद | 收据 | квитанция | Quittung
+change | monnaie | Wechsel | cambio | resto | troco | परिवर्तन | 找零 | сдача | Ännerung
+cash | espèces | Bargeld | efectivo | contante | caixa | नकद | 现金 | наличные | Bargeld
+card | carte | Karte | tarjeta | carta | cartão | कार्ड | 卡 | карта | Kaart
+bag | sac | Tasche | bolsa | borsa | bolsa | बैग | 包 | сумка | Sack
+bottle | bouteille | Flasche | botella | bottiglia | garrafa | बोतल | 瓶子 | бутылка | Fläsch
+can | boîte | Dose | lata | lattina | lata | कैन | 罐 | банка | Büch
+box | boîte | Kiste | caja | scatola | caixa | डिब्बा | 盒子 | коробка | Këscht
+loaf | miche | Laib | pan | pagnotta | pão | रोटी | 包 | хлеб | Brout
+fruit | fruit | Obst | fruta | frutta | fruta | फल | 水果 | фрукт | Frucht
+vegetable | légume | Gemüse | verdura | ortaggio | vegetal | सब्जी | 蔬菜 | овощ | Geméis
+meat | viande | Fleisch | carne | carne | carne | मांस | 肉 | мясо | Fleesch
+bread | pain | Brot | pan | pane | pão | ब्रेड | 面包 | хлеб | Brout
+milk | lait | Milch | leche | latte | leite | दूध | 牛奶 | молоко | Mëllech
+egg | œuf | Ei | huevo | uovo | ovo | अंडा | 蛋 | яйцо | Ei
+cheese | fromage | Käse | queso | formaggio | queijo | पनीर | 奶酪 | сыр | Käsch
+buy | acheter | kaufen | comprar | comprare | comprar | खरीदना | 买 | покупать | kafen
+pay | payer | bezahlen | pagar | pagare | pagar | भुगतान करना | 支付 | платить | bezuelen
+cost | coûter | kosten | costar | costare | custar | लागत होना | 成本 | стоить | kaschten
+choose | choisir | wählen | elegir | scegliere | escolher | चुनना | 选择 | выбирать | wielen
+find | trouver | finden | encontrar | trovare | encontrar | ढूंढना | 找到 | находить | fannen
+carry | porter | tragen | llevar | portare | carregar | ले जाना | 携带 | носить | droen
+put | mettre | legen | poner | mettere | colocar | रखना | 放 | класть | leeën
+wait | attendre | warten | esperar | aspettare | esperar | इंतज़ार करना | 等待 | ждать | waarden
+check | vérifier | prüfen | verificar | controllare | verificar | चेक करना | 检查 | проверять | kontrolléieren
+save | sauver | speichern | guardar | salvare | salvar | बचाना | 保存 | сохранять | späicheren
+spend | dépenser | ausgeben | gastar | spendere | gastar | खर्च करना | 花费 | тратить | ausgeben
+weigh | peser | wiegen | pesar | pesare | pesar | वजन करना | 称重 | взвешивать | wäerten
+scan | scanner | scannen | escanear | scansionare | escanear | स्कैन करना | 扫描 | сканировать | scannen
+ask | demander | fragen | preguntar | chiedere | perguntar | पूछना | 询问 | спрашивать | froen
+help | aider | helfen | ayudar | aiutare | ajudar | मदद करना | 帮助 | помогать | hëllefen
+cheap | bon marché | billig | barato | economico | barato | सस्ता | 便宜 | дешевый | bëlleg
+expensive | cher | teuer | caro | costoso | caro | महंगा | 昂贵 | дорогой | deier
+fresh | frais | frisch | fresco | fresco | fresco | ताजा | 新鲜 | свежий | frësch
+frozen | congelé | gefroren | congelado | surgelato | congelado | फ्रीज़ किया हुआ | 冷冻 | замороженный | gefruer
+ripe | mûr | reif | maduro | maturo | maduro | पक्का | 熟 | спелый | rëm
+busy | occupé | beschäftigt | ocupado | occupato | ocupado | व्यस्त | 忙碌 | занятой | bescht
+full | plein | voll | lleno | pieno | cheio | भरपूर | 满 | полный | voll
+empty | vide | leer | vacío | vuoto | vazio | खाली | 空 | пустой | eidel
+shopping list | liste de courses | Einkaufsliste | lista de compras | lista della spesa | lista de compras | खरीदारी की सूची | 购物清单 | список покупок | shoppinglëscht
+special offer | offre spéciale | Sonderangebot | oferta especial | offerta speciale | oferta especial | विशेष प्रस्ताव | 特别优惠 | специальное предложение | spezielle Offert
+on sale | en vente | im Angebot | en venta | in offerta | à venda | बिक्री पर | 销售中 | на распродаже | am Verkaf

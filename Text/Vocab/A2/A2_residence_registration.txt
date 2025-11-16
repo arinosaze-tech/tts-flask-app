@@ -1,0 +1,55 @@
+address | adresse | Adresse | dirección | indirizzo | endereço | पता | 地址 | адрес | Adress
+residence | domicile | Wohnsitz | domicilio | residenza | domicílio | निवास | 居住地 | место жительства | Wunnsëtz
+registration | inscription | Anmeldung | registro | registrazione | registro | पंजीकरण | 登记 | регистрация | Umeldung
+office | bureau | Büro | oficina | ufficio | escritório | कार्यालय | 办公室 | офис | Büro
+clerk | employé | Angestellter | empleado | impiegato | empregado | लिपिक | 职员 | служащий | Mataarbechter
+resident | habitant | Bewohner | residente | residente | morador | निवासी | 居民 | житель | Awunner
+application | demande | Antrag | solicitud | domanda | solicitação | आवेदन | 申请 | заявление | Demande
+appointment | rendez-vous | Termin | cita | appuntamento | agendamento | अपॉइंटमेंट | 预约 | запись | Rendez-vous
+queue | file d'attente | Schlange | cola | fila | fila | कतार | 队伍 | очередь | Rei
+counter | guichet | Schalter | ventanilla | sportello | balcão | काउंटर | 柜台 | стойка | Schalter
+passport | passeport | Reisepass | pasaporte | passaporto | passaporte | पासपोर्ट | 护照 | паспорт | Reespass
+document | document | Dokument | documento | documento | documento | दस्तावेज़ | 文件 | документ | Dokument
+copy | copie | Kopie | copia | copia | cópia | कॉपी | 复印件 | копия | Kopie
+original | original | Original | original | originale | original | मूल | 原件 | оригинал | Original
+fee | frais | Gebühr | tasa | tassa | taxa | शुल्क | 费用 | плата | Taxe
+bill | facture | Rechnung | factura | fattura | fatura | बिल | 账单 | счёт | Rechnung
+receipt | reçu | Quittung | recibo | ricevuta | recibo | रसीद | 收据 | квитанция | Quittung
+signature | signature | Unterschrift | firma | firma | assinatura | हस्ताक्षर | 签名 | подпись | Ënnerschrëft
+stamp | timbre | Briefmarke | sello | francobollo | selo | डाक टिकट | 邮票 | марка | Bréifmark
+date | date | Datum | fecha | data | data | तारीख | 日期 | дата | Datum
+deadline | date limite | Frist | fecha límite | scadenza | prazo | अंतिम तिथि | 截止日期 | крайний срок | Frist
+landlord | propriétaire | Vermieter | casero | proprietario | proprietário | मकान मालिक | 房东 | арендодатель | Proprietär
+tenant | locataire | Mieter | inquilino | inquilino | inquilino | किरायेदार | 房客 | арендатор | Locataire
+lease | bail | Mietvertrag | contrato de alquiler | contratto di affitto | contrato de arrendamento | किराये का समझौता | 租约 | договор аренды | Locatiounsvertrag
+register | s'inscrire | sich anmelden | registrarse | registrarsi | registrar-se | रजिस्टर करना | 注册 | зарегистрироваться | se umellen
+apply | postuler | sich bewerben | solicitar | candidarsi | candidatar-se | आवेदन करना | 申请 | подать заявку | se bewerben
+move | bouger | sich bewegen | moverse | muoversi | mover-se | हिलना | 移动 | двигаться | se beweegen
+arrive | arriver | ankommen | llegar | arrivare | chegar | पहुंचना | 到达 | приехать | ukommen
+wait | attendre | warten | esperar | aspettare | esperar | इंतज़ार करना | 等 | ждать | waarden
+book | réserver | buchen | reservar | prenotare | reservar | बुक करना | 预订 | бронировать | reservéieren
+check | vérifier | prüfen | revisar | controllare | verificar | जांच करना | 检查 | проверить | kontrolléieren
+confirm | confirmer | bestätigen | confirmar | confermare | confirmar | पुष्टि करना | 确认 | подтвердить | bestätegen
+fill in | remplir | ausfüllen | rellenar | compilare | preencher | भरना | 填写 | заполнить | ausfëllen
+sign | signer | unterschreiben | firmar | firmare | assinar | हस्ताक्षर करना | 签名 | подписать | ënnerschreiwen
+submit | soumettre | einreichen | enviar | inviare | enviar | जमा करना | 提交 | отправить | ofginn
+pay | payer | bezahlen | pagar | pagare | pagar | भुगतान करना | 支付 | платить | bezuelen
+bring | apporter | bringen | traer | portare | trazer | लाना | 带来 | принести | bréngen
+show | montrer | zeigen | mostrar | mostrare | mostrar | दिखाना | 显示 | показать | weisen
+update | mettre à jour | aktualisieren | actualizar | aggiornare | atualizar | अपडेट करना | 更新 | обновить | aktualiséieren
+cancel | annuler | abbrechen | cancelar | annullare | cancelar | रद्द करना | 取消 | отменить | ofbriechen
+collect | collecter | sammeln | recoger | raccogliere | coletar | इकट्ठा करना | 收集 | собирать | sammelen
+local | local | lokal | local | locale | local | स्थानीय | 本地 | местный | lokal
+online | en ligne | online | en línea | online | online | ऑनलाइन | 在线 | онлайн | online
+valid | valide | gültig | válido | valido | válido | वैध | 有效 | действительный | gëlteg
+necessary | nécessaire | nötig | necesario | necessario | necessário | जरूरी | 必要 | нужный | néideg
+temporary | temporaire | temporär | temporal | temporaneo | temporário | अस्थायी | 临时 | временный | temporär
+permanent | permanent | dauerhaft | permanente | permanente | permanente | स्थायी | 永久 | постоянный | permanent
+busy | occupé | beschäftigt | ocupado | occupato | ocupado | व्यस्त | 忙 | занятой | beschäftegt
+free | gratuit | kostenlos | gratis | gratis | grátis | मुफ्त | 免费 | бесплатный | gratis
+registration office | bureau d'enregistrement | Einwohnermeldeamt | oficina de registro | ufficio anagrafe | cartório | पंजीकरण कार्यालय | 登记处 | отдел регистрации | Umeldungsbüro
+registration form | formulaire d'inscription | Anmeldeformular | formulario de registro | modulo di registrazione | formulário de registro | पंजीकरण फॉर्म | 登记表 | форма регистрации | Umeldungsformulaire
+residence permit | titre de séjour | Aufenthaltserlaubnis | permiso de residencia | permesso di soggiorno | autorização de residência | निवास परमिट | 居留许可 | вид на жительство | Openthaltsgeneemegung
+proof of address | justificatif de domicile | Adressnachweis | comprobante de domicilio | prova di residenza | comprovante de endereço | पते का प्रमाण | 地址证明 | подтверждение адреса | Adressbeweis
+change of address | changement d'adresse | Adressänderung | cambio de domicilio | cambio di indirizzo | mudança de endereço | पते में बदलाव | 地址变更 | смена адреса | Adressännerung
+opening hours | horaires d'ouverture | Öffnungszeiten | horario de atención | orari di apertura | horário de atendimento | खुलने का समय | 开放时间 | часы работы | Ouvertureszäiten

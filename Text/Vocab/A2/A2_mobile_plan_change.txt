@@ -1,0 +1,55 @@
+plan | forfait | Tarif | tarifa | piano | plano | प्लान | 套餐 | тариф | Tarif
+phone | téléphone | Telefon | teléfono | telefono | telefone | फोन | 手机 | телефон | Telefon
+bill | facture | Rechnung | factura | bolletta | conta | बिल | 账单 | счет | Rechnung
+cost | coût | Kosten | costo | costo | custo | कीमत | 费用 | стоимость | Käschten
+data | données | Daten | datos | dati | dados | डेटा | 流量 | данные | Daten
+minute | minute | Minute | minuto | minuto | minuto | मिनट | 分钟 | минута | Minutt
+contract | contrat | Vertrag | contrato | contratto | contrato | कॉन्ट्रैक्ट | 合同 | договор | Kontrakt
+option | option | Option | opción | opzione | opção | विकल्प | 选项 | опция | Optioun
+offer | offre | Angebot | oferta | offerta | oferta | ऑफर | 优惠 | предложение | Ugebued
+fee | frais | Gebühr | cuota | quota | taxa | शुल्क | 费用 | плата | Tax
+price | prix | Preis | precio | prezzo | preço | कीमत | 价格 | цена | Präis
+number | numéro | Nummer | número | numero | número | नंबर | 号码 | номер | Nummer
+network | réseau | Netz | red | rete | rede | नेटवर्क | 网络 | сеть | Netz
+coverage | couverture | Abdeckung | cobertura | copertura | cobertura | कवरेज | 覆盖 | покрытие | Ofdeckung
+signal | signal | Signal | señal | segnale | sinal | सिग्नल | 信号 | сигнал | Signal
+customer | client | Kunde | cliente | cliente | cliente | ग्राहक | 客户 | клиент | Client
+agent | agent | Agent | agente | agente | agente | एजेंट | 代理人 | агент | Agent
+store | magasin | Laden | tienda | negozio | loja | दुकान | 商店 | магазин | Buttek
+website | site web | Webseite | sitio web | sito web | site | वेबसाइट | 网站 | сайт | Websäit
+app | application | App | aplicación | app | aplicativo | ऐप | 应用 | приложение | App
+account | compte | Konto | cuenta | account | conta | अकाउंट | 账户 | аккаунт | Kont
+password | mot de passe | Passwort | contraseña | password | senha | पासवर्ड | 密码 | пароль | Passwuert
+payment | paiement | Zahlung | pago | pagamento | pagamento | भुगतान | 付款 | оплата | Bezuelung
+month | mois | Monat | mes | mese | mês | महीना | 月 | месяц | Mount
+limit | limiter | begrenzen | limitar | limitare | limitar | सीमित करना | 限制 | ограничивать | aschränken
+change | changer | ändern | cambiar | cambiare | mudar | बदलना | 改变 | менять | änneren
+choose | choisir | wählen | elegir | scegliere | escolher | चुनना | 选择 | выбирать | auswielen
+pay | payer | bezahlen | pagar | pagare | pagar | भुगतान करना | 支付 | платить | bezuelen
+call | appeler | anrufen | llamar | chiamare | ligar | कॉल करना | 打电话 | звонить | uruffen
+text | texte | Text | texto | testo | texto | पाठ | 文本 | текст | Text
+use | utiliser | benutzen | usar | usare | usar | इस्तेमाल करना | 使用 | использовать | benotzen
+need | avoir besoin de | brauchen | necesitar | avere bisogno di | precisar | ज़रूरत होना | 需要 | нуждаться | brauchen
+want | vouloir | wollen | querer | volere | querer | चाहना | 想要 | хотеть | wëllen
+check | vérifier | prüfen | revisar | controllare | verificar | जांचना | 检查 | проверять | kontrolléieren
+compare | comparer | vergleichen | comparar | confrontare | comparar | तुलना करना | 比较 | сравнивать | vergläichen
+save | économiser | sparen | ahorrar | risparmiare | economizar | बचत करना | 节省 | экономить | spueren
+spend | dépenser | ausgeben | gastar | spendere | gastar | खर्च करना | 花钱 | тратить | ausginn
+cancel | annuler | absagen | cancelar | annullare | cancelar | रद्द करना | 取消 | отменять | ofsoen
+renew | renouveler | verlängern | renovar | rinnovare | renovar | नवीनीकरण करना | 续订 | продлевать | verlängeren
+upgrade | mettre à niveau | aktualisieren | actualizar | aggiornare | atualizar | अपग्रेड करना | 升级 | обновлять | aktualiséieren
+switch | changer | wechseln | cambiar | cambiare | mudar | बदलना | 切换 | переключать | wiesselen
+add | ajouter | hinzufügen | añadir | aggiungere | adicionar | जोड़ना | 添加 | добавлять | bäisetzen
+cheap | bon marché | billig | barato | economico | barato | सस्ता | 便宜 | дешёвый | bëlleg
+expensive | cher | teuer | caro | caro | caro | महंगा | 贵 | дорогой | deier
+new | nouveau | neu | nuevo | nuovo | novo | नया | 新 | новый | nei
+current | actuel | aktuell | actual | attuale | atual | मौजूदा | 当前 | текущий | aktuell
+monthly | mensuel | monatlich | mensual | mensile | mensal | मासिक | 每月 | ежемесячный | monatlech
+unlimited | illimité | unbegrenzt | ilimitado | illimitato | ilimitado | असीमित | 无限 | неограниченный | onlimitéiert
+local | local | lokal | local | locale | local | स्थानीय | 本地 | местный | lokal
+international | international | international | internacional | internazionale | internacional | अंतरराष्ट्रीय | 国际 | международный | international
+mobile plan | forfait mobile | Handytarif | plan móvil | offerta mobile | plano móvel | मोबाइल प्लान | 手机套餐 | мобильный тариф | Handy-Tarif
+data limit | limite de données | Datenlimit | límite de datos | limite dati | limite de dados | डेटा सीमा | 流量上限 | лимит трафика | Datenlimit
+monthly fee | frais mensuels | Monatsgebühr | cuota mensual | canone mensile | mensalidade | मासिक शुल्क | 月费 | ежемесячная плата | Monatskäschten
+phone number | numéro de téléphone | Telefonnummer | número de teléfono | numero di telefono | número de telefone | फोन नंबर | 电话号码 | номер телефона | Telefonsnummer
+customer service | service client | Kundenservice | atención al cliente | servizio clienti | atendimento ao cliente | ग्राहक सेवा | 客户服务 | служба поддержки | Clientsdéngscht

@@ -1,0 +1,65 @@
+tenant | locataire | Mieter | inquilino | inquilino | inquilino | किरायेदार | 租户 | арендатор | Mënscht
+landlord | propriétaire | Vermieter | casero | padrone | senhorio | मकान मालिक | 房东 | арендодатель | Vermieter
+deposit | dépôt | Kaution | depósito | deposito | depósito | जमा | 存款 | депозит | Depositéit
+dispute | litige | Streit | disputa | controversia | disputa | विवाद | 争议 | спор | Streid
+contract | contrat | Vertrag | contrato | contratto | contrato | अनुबंध | 合同 | контракт | Kontrakt
+lease | bail | Mietvertrag | arrendamiento | locazione | contrato de arrendamiento | पट्टा | 租约 | аренда | Pacht
+rent | loyer | Miete | alquiler | affitto | aluguel | किराया | 租金 | аренда | Miete
+property | propriété | Eigentum | propiedad | proprietà | propriedade | संपत्ति | 财产 | собственность | Eegentum
+damage | dommage | Schaden | daño | danno | dano | क्षति | 损坏 | ущерб | Schade
+stain | tache | Fleck | mancha | macchia | mancha | दाग | 污点 | пятно | Fleck
+scratch | égratignure | Kratzer | rascuño | graffio | arranhão | खरोंच | 划痕 | царапина | Kratzer
+mold | moisissure | Schimmel | moho | muffa | mofo | फंगस | 霉菌 | плесень | Schimmel
+receipt | reçu | Quittung | recibo | ricevuta | recibo | रसीद | 收据 | квитанция | Quittung
+invoice | facture | Rechnung | factura | fattura | fatura | चालान | 发票 | счет | Rechnung
+refund | remboursement | Rückerstattung | reembolso | rimborso | reembolso | धनराशि वापस करना | 退款 | возврат | Rückerstattung
+deduction | déduction | Abzug | deducción | detrazione | dedução | कटौती | 扣除 | вычет | Abzug
+balance | équilibre | Gleichgewicht | balance | equilibrio | balanço | संतुलन | 平衡 | баланс | Balance
+account | compte | Konto | cuenta | conto | conta | खाता | 账户 | счет | Kont
+notice | avis | Hinweis | aviso | avviso | aviso | सूचना | 通知 | уведомление | Notiz
+deadline | délai | Frist | fecha límite | scadenza | prazo | समय सीमा | 截止日期 | крайний срок | Frist
+key | clé | Schlüssel | llave | chiave | chave | कुंजी | 钥匙 | ключ | Schlüssel
+inspection | inspection | Inspektion | inspección | ispezione | inspeção | निरीक्षण | 检查 | инспекция | Inspektion
+report | rapport | Bericht | informe | rapporto | relatório | रिपोर्ट | 报告 | отчет | Rapport
+evidence | preuve | Beweis | evidencia | prova | evidência | सबूत | 证据 | доказательство | Beweis
+photo | photo | Foto | foto | foto | foto | फ़ोटो | 照片 | фото | Foto
+letter | lettre | Brief | carta | lettera | carta | पत्र | 信件 | письмо | Bréif
+pay | payer | bezahlen | pagar | pagare | pagar | भुगतान करना | 付款 | платить | Bezuelen
+sign | signer | unterschreiben | firmar | firmare | assinar | हस्ताक्षर करना | 签名 | подписывать | Ënnerschreift
+agree | accepter | zustimmen | acordar | accettare | concordar | सहमत होना | 同意 | соглашаться | Zoustëmmen
+argue | argumenter | streiten | discutir | discutere | discutir | बहस करना | 辩论 | спорить | Argumentéieren
+complain | se plaindre | beschweren | quejarse | lamentarsi | reclamar | शिकायत करना | 投诉 | жаловаться | Sich beschweren
+explain | expliquer | erklären | explicar | spiegare | explicar | समझाना | 解释 | объяснять | Erklären
+request | demander | anfordern | solicitar | richiedere | solicitar | अनुरोध करना | 请求 | запрос | sich bedanken
+provide | fournir | bereitstellen | proporcionar | fornire | fornecer | प्रदान करना | 提供 | предоставить | zur Verfügung stellen
+return | retourner | zurückgeben | devolver | restituire | retornar | लौटाना | 返回 | вернуть | zurückgeben
+keep | garder | behalten | mantener | mantenere | manter | रखना | 保持 | держать | behalen
+take off | enlever | abnehmen | quitar | togliere | tirar | उतारना | 脱掉 | снимать | ausziehen
+prove | prouver | beweisen | probar | dimostrare | provar | साबित करना | 证明 | доказывать | beweisen
+inspect | inspecter | inspizieren | inspeccionar | ispezionare | inspecionar | निरीक्षण करना | 检查 | инспектировать | inspizieren
+photograph | photographier | fotografieren | fotografiar | fotografare | fotografar | फोटो लेना | 拍照 | фотографировать | fotograféieren
+email | courriel | E-Mail | correo electrónico | email | e-mail | ईमेल | 电子邮件 | электронная почта | E-Mail
+call | appeler | anrufen | llamar | chiamare | ligar | कॉल करना | 打电话 | звонить | urufen
+discuss | discuter | diskutieren | discutir | discutere | discutir | चर्चा करना | 讨论 | обсуждать | diskutéieren
+move in | emménager | einziehen | mudarse | trasferirsi | mudar-se | स्थानांतरित होना | 搬入 | переехать | agesin
+move out | déménager | ausziehen | mudarse | trasferirsi | mudar-se | बाहर जाना | 搬出 | выехать | erascht
+sue | poursuivre | klagen | demandar | fare causa | processar | मुकदमा करना | 起诉 | подавать в суд | klammen
+fair | juste | fair | justo | giusto | justo | निष्पक्ष | 公平 | справедливый | gerecht
+unfair | injuste | unfair | injusto | ingiusto | injusto | अन्यायी | 不公平 | несправедливый | ungerecht
+reasonable | raisonnable | vernünftig | razonable | ragionevole | razoável | उचित | 合理 | разумный | raisonnabel
+clear | clair | klar | claro | chiaro | claro | स्पष्ट | 清晰 | ясный | kloer
+written | écrit | geschrieben | escrito | scritto | escrito | लिखा | 写的 | написанный | geschriwwen
+legal | légal | legal | legal | legale | legal | कानूनी | 合法 | юридический | legal
+clean | propre | sauber | limpio | pulito | limpo | साफ | 干净 | чистый | propper
+dirty | sale | schmutzig | sucio | sporco | sujo | गंदा | 脏 | грязный | schmutzeg
+late | tard | spät | tarde | in ritardo | atrasado | देर से | 晚 | поздно | spéit
+previous | précédent | vorherig | anterior | precedente | anterior | पिछला | 之前 | предыдущий | virdeelesch
+current | actuel | aktuell | actual | attuale | atual | वर्तमान | 当前 | текущий | aktuell
+empty | vide | leer | vacío | vuoto | vazio | खाली | 空的 | пустой | eidel
+polite | poli | höflich | educado | gentile | educado | विनम्र | 礼貌 | вежливый | höflech
+security deposit | dépôt de garantie | Kaution | fianza | deposito | caução | सुरक्षा जमा | 押金 | залог | Garantie
+rental agreement | contrat de location | Mietvertrag | contrato de alquiler | contratto di affitto | contrato de aluguel | पट्टा | 租赁协议 | договор аренды | Vertraagen
+wear and tear | usure | Abnutzung | desgaste | usura | desgaste | क्षति | 磨损 | износ | Abrëch
+small claims court | tribunal des petites créances | Amtsgericht | juzgado de pequeñas reclamaciones | tribunale delle piccole cause | juizado especial | छोटे मुकदमे अदालत | 小额索赔法庭 | мировой суд | Klenggrëcht
+property manager | gestionnaire immobilier | Immobilienverwalter | administrador de propiedades | gestore immobiliare | administrador de imóveis | संपत्ति प्रबंधक | 物业经理 | управляющий недвижимостью | Aarbechter vun der Liegenschaft
+notice period | préavis | Kündigungsfrist | periodo de preaviso | periodo di preavviso | período de aviso prévio | नोटिस अवधि | 通知期 | срок уведомления | Kënnegungsfrist

@@ -1,0 +1,55 @@
+lease | bail | Mietvertrag | contrato de alquiler | contratto di affitto | contrato de aluguel | पट्टा | 租约 | договор аренды | Locatiounsvertrag
+rent | loyer | Miete | alquiler | affitto | aluguel | किराया | 房租 | аренда | Loyer
+tenant | locataire | Mieter | inquilino | inquilino | inquilino | किरायेदार | 租户 | арендатор | Locataire
+landlord | propriétaire | Vermieter | propietario | proprietario | proprietário | मकान मालिक | 房东 | арендодатель | Proprietär
+contract | contrat | Vertrag | contrato | contratto | contrato | करार | 合同 | договор | Kontrakt
+term | durée | Dauer | plazo | durata | prazo | अवधि | 期限 | срок | Dauer
+key | clé | Schlüssel | llave | chiave | chave | चाबी | 钥匙 | ключ | Schlëssel
+bill | facture | Rechnung | factura | bolletta | conta | बिल | 账单 | счет | Rechnung
+electricity | électricité | Strom | electricidad | elettricità | eletricidade | बिजली | 电 | электричество | Stroum
+water | eau | Wasser | agua | acqua | água | पानी | 水 | вода | Waasser
+gas | gaz | Gas | gas | gas | gás | गैस | 燃气 | газ | Gas
+internet | internet | Internet | internet | internet | internet | इंटरनेट | 互联网 | интернет | Internet
+parking | stationnement | Parkplatz | aparcamiento | parcheggio | estacionamento | पार्किंग | 停车场 | парковка | Parking
+pet | animal de compagnie | Haustier | mascota | animale domestico | animal de estimação | पालतू जानवर | 宠物 | домашнее животное | Hausdéier
+guest | invité | Gast | invitado | ospite | hóspede | मेहमान | 客人 | гость | Gaascht
+noise | bruit | Lärm | ruido | rumore | barulho | शोर | 噪音 | шум | Kaméidi
+rule | règle | Regel | regla | regola | regra | नियम | 规则 | правило | Reegel
+damage | dégât | Schaden | daño | danno | dano | नुकसान | 损坏 | повреждение | Schued
+repair | réparer | reparieren | reparar | riparare | consertar | ठीक करना | 修理 | чинить | reparéieren
+notice | avis | Mitteilung | aviso | avviso | aviso | सूचना | 通知 | уведомление | Matdeelung
+month | mois | Monat | mes | mese | mês | महीना | 月 | месяц | Mount
+year | année | Jahr | año | anno | ano | साल | 年 | год | Joer
+address | adresse | Adresse | dirección | indirizzo | endereço | पता | 地址 | адрес | Adress
+security deposit | caution | Kaution | fianza | cauzione | caução | जमानत राशि | 押金 | залог | Kautioun
+notice period | préavis | Kündigungsfrist | preaviso | preavviso | aviso prévio | नोटिस अवधि | 通知期 | срок уведомления | Kënnegungsfrist
+monthly rent | loyer mensuel | Monatsmiete | alquiler mensual | affitto mensile | renda mensal | मासिक किराया | 月租金 | ежемесячная арендная плата | méintleche Loyer
+start date | date de début | Startdatum | fecha de inicio | data di inizio | data de início | शुरू होने की तारीख | 开始日期 | дата начала | Ufanksdatum
+due date | date d'échéance | Fälligkeitsdatum | fecha de vencimiento | data di scadenza | data de vencimento | देय तिथि | 到期日 | срок оплаты | Fällegkeetsdatum
+late fee | frais de retard | Verspätungsgebühr | cargo por retraso | penale di ritardo | multa por atraso | विलंब शुल्क | 滞纳金 | штраф за просрочку | Verspéidungsstrof
+pay | payer | bezahlen | pagar | pagare | pagar | भुगतान करना | 支付 | платить | bezuelen
+sign | signer | unterschreiben | firmar | firmare | assinar | हस्ताक्षर करना | 签字 | подписать | ënnerschreiwen
+agree | être d'accord | zustimmen | estar de acuerdo | essere d'accordo | concordar | सहमत होना | 同意 | согласиться | zoustëmmen
+discuss | discuter | besprechen | discutir | discutere | discutir | चर्चा करना | 讨论 | обсуждать | diskutéieren
+ask | demander | fragen | preguntar | chiedere | perguntar | पूछना | 问 | спрашивать | froen
+check | vérifier | prüfen | comprobar | controllare | verificar | जाँचना | 检查 | проверять | préifen
+include | inclure | enthalten | incluir | includere | incluir | शामिल करना | 包括 | включать | enthalen
+shared | partagé | geteilt | compartido | condiviso | compartilhado | साझा | 共享的 | общий | gedeelt
+allow | permettre | erlauben | permitir | permettere | permitir | अनुमति देना | 允许 | разрешать | erlaben
+renew | renouveler | erneuern | renovar | rinnovare | renovar | नवीनीकरण करना | 更新 | обновлять | erneieren
+extend | prolonger | verlängern | prolongar | prolungare | prolongar | बढ़ाना | 延长 | продлевать | verlängeren
+end | finir | enden | terminar | finire | terminar | खत्म करना | 结束 | закончить | ophalen
+cancel | annuler | abbrechen | cancelar | annullare | cancelar | रद्द करना | 取消 | отменить | ofsoen
+move in | emménager | einziehen | instalarse | trasferirsi | mudar-se | शिफ्ट होना | 搬进 | въехать | an d'Wunneng plënneren
+move out | déménager | ausziehen | mudarse | traslocare | mudar-se | घर खाली करना | 搬出 | съехать | aus der Wunneng plënneren
+clean | nettoyer | putzen | limpiar | pulire | limpar | साफ करना | 打扫 | убирать | botzen
+fix | réparer | reparieren | arreglar | riparare | consertar | ठीक करना | 修理 | починить | reparéieren
+keep | garder | behalten | guardar | tenere | guardar | रखना | 保留 | хранить | behalen
+early | tôt | früh | temprano | presto | cedo | जल्दी | 早 | рано | fréi
+late | en retard | spät | tarde | in ritardo | atrasado | देर से | 晚 | поздно | spéit
+quiet | calme | ruhig | tranquilo | tranquillo | calmo | शांत | 安静 | тихий | roueg
+safe | sûr | sicher | seguro | sicuro | seguro | सुरक्षित | 安全 | безопасный | sécher
+small | petit | klein | pequeño | piccolo | pequeno | छोटा | 小 | маленький | kleng
+large | grand | groß | grande | grande | grande | बड़ा | 大 | большой | grouss
+furnished | meublé | möbliert | amueblado | arredato | mobiliado | फर्नीचर सहित | 带家具 | меблированный | miwweléiert
+unfurnished | non meublé | unmöbliert | sin amueblar | non arredato | sem mobília | बिना फर्नीचर | 不带家具 | без мебели | ouni Miwwelen

@@ -1,0 +1,65 @@
+data | données | Daten | datos | dati | dados | डेटा | 数据 | данные | Donnée
+privacy | vie privée | Privatsphäre | privacidad | privacy | privacidade | गोपनीयता | 隐私 | конфиденциальность | Privatsphär
+request | demande | Anfrage | solicitud | richiesta | solicitação | अनुरोध | 申请 | запрос | Ufro
+personal data | données personnelles | personenbezogene Daten | datos personales | dati personali | dados pessoais | व्यक्तिगत डेटा | 个人数据 | персональные данные | Perséinlech Donnée
+sensitive information | informations sensibles | sensible Informationen | información sensible | informazioni sensibili | informações sensíveis | संवेदनशील जानकारी | 敏感信息 | конфиденциальная информация | Sensi Informatioun
+consent | consentement | Zustimmung | consentimiento | consenso | consentimento | सहमति | 同意 | согласие | Zustimmung
+right | droit | Recht | derecho | diritto | direito | अधिकार | 权利 | право | Recht
+access | accès | Zugriff | acceso | accesso | acesso | प्रवेश | 访问 | доступ | Accès
+delete | supprimer | löschen | borrar | eliminare | deletar | हटाना | 删除 | удалить | läschen
+transfer | transférer | übertragen | transferir | trasferire | transferir | स्थानांतरित करना | 转移 | передать | transferéieren
+breach | enfreindre | verletzen | violar | violare | infringir | उल्लंघन करना | 违反 | нарушить | verstoßen
+security | sécurité | Sicherheit | seguridad | sicurezza | segurança | सुरक्षा | 安全 | безопасность | Sécherheit
+policy | politique | Richtlinie | política | politica | política | नीति | 政策 | политика | Politik
+contract | contrat | Vertrag | contrato | contratto | contrato | अनुबंध | 合同 | контракт | Kontrakt
+agreement | accord | Vereinbarung | acuerdo | accordo | acordo | समझौता | 协议 | соглашение | Vräinbarung
+information | information | Information | información | informazione | informação | जानकारी | 信息 | информация | Informatioun
+identity | identité | Identität | identidad | identità | identidade | पहचान | 身份 | идентичность | Identitéit
+control | contrôler | kontrollieren | controlar | controllare | controlar | नियंत्रण | 控制 | контроль | Kontroll
+protection | protection | Schutz | protección | protezione | proteção | संरक्षण | 保护 | защита | Schutz
+regulation | réglementation | Regulierung | regulación | regolamento | regulação | विनियमन | 规定 | регулирование | Regulatioun
+disclosure | divulgation | Offenlegung | divulgación | divulgazione | divulgação | उद्घाटन | 披露 | раскрытие | Offenlegung
+collection | collecte | Sammlung | colección | collezione | coleção | संग्रह | 收集 | сбор | Sammlung
+processing | traitement | Verarbeitung | procesamiento | elaborazione | processamento | प्रसंस्करण | 处理 | обработка | Verarbechtung
+storage | stockage | Lagerung | almacenamiento | stoccaggio | armazenamento | भंडारण | 存储 | хранение | Lagerung
+user | utilisateur | Benutzer | usuario | utente | utilizador | उपयोगकर्ता | 用户 | пользователь | Benotzer
+notification | notification | Benachrichtigung | notificación | notifica | notificação | सूचना | 通知 | уведомление | Notifikatioun
+response | réponse | Antwort | respuesta | risposta | resposta | प्रतिक्रिया | 回复 | ответ | Äntwert
+report | rapport | Bericht | informe | rapporto | relatório | रिपोर्ट | 报告 | отчет | Report
+law | loi | Gesetz | ley | legge | lei | कानून | 法律 | закон | Gesetz
+compliance | conformité | Konformität | cumplimiento | conformità | conformidade | अनुपालन | 合规 | соблюдение | Konformitéit
+risk | risque | Risiko | riesgo | rischio | risco | जोखिम | 风险 | риск | Risiko
+management | gestion | Management | gestión | gestione | gestão | प्रबंधन | 管理 | управление | Management
+encryption | cryptage | Verschlüsselung | cifrado | crittografia | criptografia | एन्क्रिप्शन | 加密 | шифрование | Verschlüsselung
+software | logiciel | Software | software | software | software | सॉफ़्टवेयर | 软件 | программное обеспечение | Software
+system | système | System | sistema | sistema | sistema | प्रणाली | 系统 | система | System
+monitor | moniteur | Monitor | monitor | monitor | monitor | मॉनिटर | 监视器 | монитор | Monitor
+audit | audit | Prüfung | auditoría | audit | auditoria | ऑडिट | 审计 | аудит | Audit
+authority | autorité | Behörde | autoridad | autorità | autoridade | प्राधिकरण | 权威 | полномочие | Autoritéit
+violation | violation | Verletzung | violación | violazione | violação | उल्लंघन | 违反 | нарушение | Verletztung
+confidentiality | confidentialité | Vertraulichkeit | confidencialidad | riservatezza | confidencialidade | गोपनीयता | 保密性 | конфиденциальность | Vertraulichkeet
+transparency | transparence | Transparenz | transparencia | trasparenza | transparência | पारदर्शिता | 透明度 | прозрачность | Transparenz
+accountability | responsabilité | Verantwortlichkeit | responsabilidad | responsabilità | responsabilidade | जवाबदेही | 责任 | подотчетность | Verantwortung
+trust | confiance | Vertrauen | confianza | fiducia | confiança | विश्वास | 信任 | доверие | Vertrauen
+data subject | personne concernée | betroffene Person | sujeto de datos | soggetto di dati | titular de dados | डेटा विषय | 数据主体 | субъект данных | betroffene Person
+third party | tierce partie | Dritte | tercera parte | terza parte | terceira parte | तीसरा पक्ष | 第三方 | третья сторона | drëtt Partei
+data breach | violation de données | Datenpanne | violación de datos | violazione dei dati | violação de dados | डेटा भंग | 数据泄露 | утечка данных | Datenverletzung
+form | formulaire | Formular | formulario | modulo | formulário | फॉर्म | 表单 | форма | Formulaire
+email | courriel | E-Mail | correo electrónico | email | e-mail | ईमेल | 电子邮件 | электронная почта | E-Mail
+contact | contact | Kontakt | contacto | contatto | contato | संपर्क | 联系 | контакт | Kontakt
+website | site | Webseite | sitio web | sito web | site | वेबसाइट | 网站 | веб-сайт | Websäit
+clarification | clarification | Klärung | aclaración | chiarimento | esclarecimento | स्पष्टता | 澄清 | разъяснение | Klärung
+procedure | procédure | Verfahren | procedimiento | procedura | procedimento | प्रक्रिया | 程序 | процедура | Prozedur
+withdraw | retirer | abheben | retirar | ritirare | retirar | वापस लेना | 撤回 | снять | zéien
+review | révision | Überprüfung | revisión | revisione | revisão | समीक्षा | 评审 | обзор | Revisioun
+relationship | relation | Beziehung | relación | relazione | relacionamento | संबंध | 关系 | отношение | Relatioun
+clarity | clarté | Klarheit | claridad | chiarezza | clareza | स्पष्टता | 清晰 | ясность | Klarheit
+obligation | obligation | Verpflichtung | obligación | obbligo | obrigação | बाध्यता | 义务 | обязательство | Verpflichtung
+mechanism | mécanisme | Mechanismus | mecanismo | meccanismo | mecanismo | तंत्र | 机制 | механизм | Mechanismus
+support | soutien | Unterstützung | apoyo | supporto | apoio | समर्थन | 支持 | поддержка | Unterstützung
+guidelines | lignes directrices | Richtlinien | pautas | linee guida | diretrizes | दिशा-निर्देश | 指导方针 | руководящие принципы | Richtlinien
+evidence | preuve | Beweis | evidencia | prova | evidência | सबूत | 证据 | доказательство | Beweis
+confirmation | confirmation | Bestätigung | confirmación | conferma | confirmação | पुष्टि | 确认 | подтверждение | Bestätigung
+systematic | systématique | systematisch | sistemático | sistematico | sistemático | प्रणालीगत | 系统的 | систематический | systematesch
+requester | demandeur | Anforderer | solicitante | richiedente | solicitante | अनुरोधकर्ता | 请求者 | запрашивающий | Demandor
+requirement | exigence | Anforderung | requisito | requisito | requisito | आवश्यकता | 需求 | требование | Bedingung

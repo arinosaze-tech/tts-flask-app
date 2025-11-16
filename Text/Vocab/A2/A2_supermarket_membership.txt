@@ -1,0 +1,55 @@
+membership | adhésion | Mitgliedschaft | membresía | iscrizione | adesão | सदस्यता | 会员资格 | членство | Membreschaft
+member | membre | Mitglied | miembro | socio | membro | सदस्य | 会员 | член | Member
+card | carte | Karte | tarjeta | tessera | cartão | कार्ड | 卡 | карта | Kaart
+coupon | bon de réduction | Gutschein | cupón | buono sconto | cupom | कूपन | 优惠券 | купон | Coupon
+discount | réduction | Rabatt | descuento | sconto | desconto | छूट | 折扣 | скидка | Rabatt
+reward | récompense | Belohnung | recompensa | ricompensa | recompensa | इनाम | 奖励 | награда | Belounung
+point | point | Punkt | punto | punto | ponto | अंक | 积分 | балл | Punkt
+barcode | code-barres | Barcode | código de barras | codice a barre | código de barras | बारकोड | 条形码 | штрих-код | Barcode
+cashier | caissier | Kassierer | cajero | cassiere | caixa | कैशियर | 收银员 | кассир | Caissier
+checkout | caisse | Kasse | caja | cassa | caixa | काउंटर | 收银台 | касса | Kees
+receipt | reçu | Kassenbon | recibo | scontrino | recibo | रसीद | 收据 | чек | Quittung
+price | prix | Preis | precio | prezzo | preço | कीमत | 价格 | цена | Präis
+sale | promotion | Angebot | oferta | offerta | promoção | छूट | 特价 | скидка | Promotioun
+store | magasin | Laden | tienda | negozio | loja | दुकान | 商店 | магазин | Buttek
+app | application | App | aplicación | app | aplicativo | ऐप | 应用 | приложение | App
+account | compte | Konto | cuenta | account | conta | खाता | 账户 | аккаунт | Kont
+email | email | E-Mail | correo electrónico | email | email | ईमेल | 电子邮件 | электронная почта | E-Mail
+password | mot de passe | Passwort | contraseña | password | senha | पासवर्ड | 密码 | пароль | Passwuert
+profile | profil | Profil | perfil | profilo | perfil | प्रोफ़ाइल | 个人资料 | профиль | Profil
+form | formulaire | Formular | formulario | modulo | formulário | फॉर्म | 表格 | форма | Formulaire
+benefit | avantage | Vorteil | ventaja | vantaggio | vantagem | लाभ | 好处 | польза | Virdeel
+policy | politique | Richtlinie | política | politica | política | नीति | 政策 | политика | Richtlinn
+address | adresse | Adresse | dirección | indirizzo | endereço | पता | 地址 | адрес | Adress
+phone | téléphone | Telefon | teléfono | telefono | telefone | फोन | 电话 | телефон | Telefon
+customer | client | Kunde | cliente | cliente | cliente | ग्राहक | 顾客 | клиент | Client
+join | rejoindre | beitreten | unirse | unirsi | entrar | जुड़ना | 加入 | присоединиться | matmaachen
+sign up | s'inscrire | sich anmelden | registrarse | iscriversi | inscrever-se | रजिस्टर करना | 注册 | зарегистрироваться | aschreiwen
+scan | scanner | scannen | escanear | scansionare | escanear | स्कैन करना | 扫描 | сканировать | scannen
+save | économiser | sparen | ahorrar | risparmiare | economizar | बचत करना | 省钱 | экономить | spueren
+earn | gagner | verdienen | ganar | guadagnare | ganhar | कमाना | 赚 | зарабатывать | verdéngen
+redeem | échanger | einlösen | canjear | riscattare | resgatar | भुनाना | 兑换 | обменять | aléisen
+collect | collecter | sammeln | acumular | accumulare | juntar | इकट्ठा करना | 收集 | собирать | sammelen
+register | s'inscrire | sich registrieren | registrarse | registrarsi | registrar-se | रजिस्टर करना | 注册 | зарегистрироваться | se aschreiwen
+confirm | confirmer | bestätigen | confirmar | confermare | confirmar | पुष्टि करना | 确认 | подтвердить | bestätegen
+show | montrer | zeigen | mostrar | mostrare | mostrar | दिखाना | 显示 | показать | weisen
+tap | toucher | tippen | tocar | toccare | tocar | टैप करना | 点击 | нажать | tippen
+swipe | balayer | wischen | deslizar | scorrere | deslizar | स्वाइप करना | 滑动 | провести | wëschen
+download | télécharger | herunterladen | descargar | scaricare | baixar | डाउनलोड करना | 下载 | скачать | eroflueden
+log in | se connecter | sich anmelden | iniciar sesión | accedere | iniciar sessão | लॉग इन करना | 登录 | войти | aloggen
+update | mettre à jour | aktualisieren | actualizar | aggiornare | atualizar | अपडेट करना | 更新 | обновить | aktualiséieren
+choose | choisir | wählen | elegir | scegliere | escolher | चुनना | 选择 | выбирать | wielen
+apply | postuler | sich bewerben | solicitar | fare domanda | solicitar | आवेदन करना | 申请 | подать заявку | sech bewerben
+free | gratuit | kostenlos | gratis | gratuito | grátis | मुफ्त | 免费 | бесплатный | gratis
+special | spécial | speziell | especial | speciale | especial | विशेष | 特别 | особый | besonnesch
+exclusive | exclusif | exklusiv | exclusivo | esclusivo | exclusivo | अनन्य | 独家 | эксклюзивный | exklusiv
+digital | numérique | digital | digital | digitale | digital | डिजिटल | 数码 | цифровой | digital
+extra | supplémentaire | zusätzlich | extra | aggiuntivo | extra | अतिरिक्त | 额外 | дополнительный | zousätzlech
+weekly | hebdomadaire | wöchentlich | semanal | settimanale | semanal | साप्ताहिक | 每周 | еженедельный | wöchentlech
+monthly | mensuel | monatlich | mensual | mensile | mensal | मासिक | 每月 | ежемесячный | méintlech
+new | nouveau | neu | nuevo | nuovo | novo | नया | 新 | новый | nei
+membership card | carte de membre | Mitgliedskarte | tarjeta de socio | tessera socio | cartão de sócio | सदस्यता कार्ड | 会员卡 | карта участника | Memberskaart
+loyalty point | point de fidélité | Treuepunkt | punto de fidelidad | punto fedeltà | ponto de fidelidade | लॉयल्टी पॉइंट | 积分 | балл лояльности | Loyalitéitspunkt
+member price | prix membre | Mitgliederpreis | precio de socio | prezzo soci | preço de sócio | सदस्य मूल्य | 会员价 | цена для участника | Memberpräis
+reward program | programme de fidélité | Bonusprogramm | programa de recompensas | programma premi | programa de recompensas | रिवॉर्ड प्रोग्राम | 奖励计划 | программа вознаграждений | Belounungsprogramm
+digital coupon | coupon numérique | digitaler Gutschein | cupón digital | coupon digitale | cupom digital | डिजिटल कूपन | 电子优惠券 | электронный купон | digitale Coupon

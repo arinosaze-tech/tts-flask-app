@@ -1,0 +1,55 @@
+fill in | remplir | ausfüllen | rellenar | compilare | preencher | भरना | 填写 | заполнить | ausfëllen
+sign | signer | unterschreiben | firmar | firmare | assinar | हस्ताक्षर करना | 签名 | подписать | ënnerschreiwen
+submit | soumettre | einreichen | enviar | inviare | enviar | जमा करना | 提交 | отправить | areechen
+upload | mettre en ligne | hochladen | subir | caricare | enviar | अपलोड करना | 上传 | загрузить | eroplueden
+attach | joindre | anhängen | adjuntar | allegare | anexar | संलग्न करना | 附上 | прикрепить | bäifügen
+print | imprimer | ausdrucken | imprimir | stampare | imprimir | छापना | 打印 | распечатать | drécken
+scan | scanner | einscannen | escanear | scansionare | digitalizar | स्कैन करना | 扫描 | сканировать | scannen
+save | enregistrer | speichern | guardar | salvare | salvar | सहेजना | 保存 | сохранить | späicheren
+send | envoyer | senden | enviar | inviare | enviar | भेजना | 发送 | отправить | schécken
+receive | recevoir | erhalten | recibir | ricevere | receber | प्राप्त करना | 收到 | получить | kréien
+read | lire | lesen | leer | leggere | ler | पढ़ना | 读 | читать | liesen
+review | examiner | durchsehen | revisar | rivedere | revisar | समीक्षा करना | 审阅 | просмотреть | nokucken
+check | contrôler | prüfen | comprobar | controllare | conferir | जांचना | 检查 | проверить | préifen
+verify | vérifier | überprüfen | verificar | verificare | verificar | सत्यापित करना | 核实 | убедиться | iwwerpréiwen
+confirm | confirmer | bestätigen | confirmar | confermare | confirmar | पुष्टि करना | 确认 | подтвердить | bestätegen
+provide | fournir | bereitstellen | proporcionar | fornire | fornecer | प्रदान करना | 提供 | предоставить | bereetstellen
+update | mettre à jour | aktualisieren | actualizar | aggiornare | atualizar | अपडेट करना | 更新 | обновить | aktualiséieren
+complete | complet | komplett | completo | completo | completo | पूरा | 完整 | полный | komplett
+required | obligatoire | erforderlich | obligatorio | obbligatorio | obrigatório | अनिवार्य | 必需的 | обязательный | obligatoresch
+optional | facultatif | optional | opcional | opzionale | opcional | वैकल्पिक | 可选的 | необязательный | fakultativ
+online | en ligne | online | en línea | online | online | ऑनलाइन | 在线 | онлайн | online
+digital | numérique | digital | digital | digitale | digital | डिजिटल | 数字的 | цифровой | digital
+legal | légal | rechtlich | legal | legale | legal | कानूनी | 法律的 | юридический | gesetzlech
+personal | personnel | persönlich | personal | personale | pessoal | व्यक्तिगत | 个人的 | личный | perséinlech
+private | privé | privat | privado | privato | privado | निजी | 私人 | частный | privat
+correct | correct | richtig | correcto | corretto | correto | सही | 正确 | правильный | richteg
+clear | clair | klar | claro | chiaro | claro | स्पष्ट | 清楚 | ясный | kloer
+current | actuel | aktuell | actual | attuale | atual | वर्तमान | 当前 | текущий | aktuell
+original | original | ursprünglich | original | originale | original | मूल | 原来的 | первоначальный | original
+start date | date de début | Startdatum | fecha de inicio | data di inizio | data de início | प्रारंभ तिथि | 开始日期 | дата начала | Ufanksdatum
+job title | intitulé du poste | Stellenbezeichnung | título del puesto | titolo professionale | cargo | पदनाम | 职位名称 | должность | Beruffsbezeechnung
+emergency contact | contact d'urgence | Notfallkontakt | contacto de emergencia | contatto di emergenza | contato de emergência | आपातकालीन संपर्क | 紧急联系人 | экстренный контакт | Noutfallkontakt
+bank account | compte bancaire | Bankkonto | cuenta bancaria | conto bancario | conta bancária | बैंक खाता | 银行账户 | банковский счёт | Bankkonto
+direct deposit | virement automatique | Direktüberweisung | depósito directo | accredito diretto | depósito direto | डायरेक्ट डिपॉजिट | 直接存款 | прямое зачисление | direkt Iwwerweisung
+tax form | formulaire fiscal | Steuerformular | formulario de impuestos | modulo fiscale | formulário fiscal | कर फॉर्म | 税表 | налоговая форма | Steierformular
+form | formulaire | Formular | formulario | modulo | formulário | फॉर्म | 表格 | форма | Formulaire
+document | document | Dokument | documento | documento | documento | दस्तावेज़ | 文件 | документ | Dokument
+contract | contrat | Vertrag | contrato | contratto | contrato | करार | 合同 | договор | Kontrakt
+policy | politique | Richtlinie | política | politica | política | नीति | 政策 | политика | Richtlinn
+handbook | manuel | Handbuch | manual | manuale | manual | मार्गदर्शिका | 手册 | руководство | Handbuch
+payroll | paie | Lohnabrechnung | nómina | paghe | folha de pagamento | वेतन सूची | 工资表 | зарплатная ведомость | Lounbuchhaltung
+benefit | avantage | Vorteil | beneficio | beneficio | benefício | लाभ | 福利 | льгота | Virdeel
+insurance | assurance | Versicherung | seguro | assicurazione | seguro | बीमा | 保险 | страховка | Versécherung
+deadline | date limite | Frist | fecha límite | scadenza | prazo | अंतिम तिथि | 截止日期 | крайний срок | Frist
+checklist | liste de contrôle | Checkliste | lista de verificación | lista di controllo | lista de verificação | जांच सूची | 检查清单 | контрольный список | Kontrolllëscht
+orientation | orientation | Orientierung | orientación | orientamento | orientação | ओरिएंटेशन | 入职介绍 | ориентация | Orientéierung
+training | formation | Schulung | formación | formazione | treinamento | प्रशिक्षण | 培训 | обучение | Formatioun
+address | adresse | Adresse | dirección | indirizzo | endereço | पता | 地址 | адрес | Adress
+email | e-mail | E-Mail | correo electrónico | email | e-mail | ईमेल | 电子邮件 | электронная почта | E-Mail
+phone | téléphone | Telefon | teléfono | telefono | telefone | फोन | 电话 | телефон | Telefon
+portal | portail | Portal | portal | portale | portal | पोर्टल | 门户 | портал | Portal
+signature | signature | Unterschrift | firma | firma | assinatura | हस्ताक्षर | 签名 | подпись | Ënnerschrëft
+manager | responsable | Manager | gerente | manager | gerente | प्रबंधक | 经理 | менеджер | Manager
+department | service | Abteilung | departamento | reparto | departamento | विभाग | 部门 | отдел | Ofdeelung
+supervisor | superviseur | Vorgesetzter | supervisor | supervisore | supervisor | पर्यवेक्षक | 主管 | руководитель | Supervisor

@@ -1,0 +1,65 @@
+abstract | abstrait | abstrakt | abstracto | astratto | abstrato | सारांश | 摘要 | абстрактный | abstrakt
+submission | soumission | Einreichung | presentación | presentazione | submissão | प्रस्तुतिकरण | 提交 | подача | Ofgab
+conference | conférence | Konferenz | conferencia | conferenza | conferência | सम्मेलन | 会议 | конференция | Konferenz
+research | recherche | Forschung | investigación | ricerca | pesquisa | अनुसंधान | 研究 | исследование | Fuerschong
+topic | sujet | Thema | tema | argomento | tópico | विषय | 主题 | тема | Thema
+deadline | date limite | Frist | fecha límite | scadenza | prazo | अंतिम तारीख | 截止日期 | крайний срок | Frist
+review | examen | Überprüfung | revisión | revisione | revisão | समीक्षा | 评审 | рецензия | Revisioun
+guidelines | lignes directrices | Richtlinien | pautas | linee guida | diretrizes | दिशा-निर्देश | 指南 | рекомендации | Richtlinnien
+format | format | Format | formato | formato | formato | प्रारूप | 格式 | формат | Format
+authors | auteurs | Autoren | autores | autori | autores | लेखक | 作者 | авторы | Autoren
+collaboration | collaboration | Zusammenarbeit | colaboración | collaborazione | colaboração | सहयोग | 合作 | сотрудничество | Zusammenarbeit
+presentation | présentation | Präsentation | presentación | presentazione | apresentação | प्रस्तुति | 演示 | презентация | Präsentation
+study | étude | Studie | estudio | studio | estudo | अध्ययन | 研究 | исследование | Studie
+findings | résultats | Ergebnisse | hallazgos | risultati | descobertas | निष्कर्ष | 发现 | результаты | Faitungen
+methodology | méthodologie | Methodologie | metodología | metodologia | metodologia | पद्धति | 方法论 | методология | Methodologie
+evaluation | évaluation | Bewertung | evaluación | valutazione | avaliação | मूल्यांकन | 评估 | оценка | Evaluatioun
+outcomes | résultats | Ergebnisse | resultados | risultati | resultados | परिणाम | 结果 | результаты | Ergebnisser
+participants | participants | Teilnehmer | participantes | partecipanti | participantes | भागीदार | 参与者 | участники | Teilnehmer
+acceptance | acceptation | Akzeptanz | aceptación | accettazione | aceitação | स्वीकृति | 接受 | принятие | Akzeptanz
+rejection | rejet | Ablehnung | rechazo | rifiuto | rejeição | अस्वीकृति | 拒绝 | отказ | Oflehnung
+feedback | retour | Feedback | comentarios | feedback | feedback | फीडबैक | 反馈 | обратная связь | Feedback
+proposal | proposition | Vorschlag | propuesta | proposta | proposta | प्रस्ताव | 提议 | предложение | Vorschlag
+session | session | Sitzung | sesión | sessione | sessão | सत्र | 会议 | сессия | Sitzung
+schedule | horaire | Zeitplan | horario | programma | cronograma | कार्यक्रम | 日程 | расписание | Zäitplang
+registration | enregistrement | Anmeldung | registro | registrazione | registro | पंजीकरण | 注册 | регистрация | Registré
+networking | réseautage | Netzwerkpflege | creación de redes | networking | networking | नेटवर्किंग | 网络建设 | нетворкинг | Netzwerkg
+participants | participants | Teilnehmer | participantes | partecipanti | participantes | प्रतिभागी | 参与者 | участники | Participanten
+discussion | discussion | Diskussion | discusión | discussione | discussão | चर्चा | 讨论 | обсуждение | Diskussioun
+keynote | discours d'ouverture | Hauptrede | ponencia | discorso principale | palestra | मुख्य भाषण | 主旨发言 | ключевая речь | Haaptredu
+panel | panel | Panel | panel | tavolo di discussione | painel | पैनल | 小组 | панель | Panel
+workshop | atelier | Werkstatt | taller | laboratorio | oficina | कार्यशाला | 研讨会 | мастерская | Atelier
+papers | documents | Dokumente | documentos | documenti | documentos | कागजात | 文件 | документы | Papeieren
+results | résultats | Ergebnisse | resultados | risultati | resultados | परिणाम | 结果 | результаты | Resultater
+data | données | Daten | datos | dati | dados | डेटा | 数据 | данные | Daten
+evidence | preuve | Beweis | evidencia | evidenza | evidência | सबूत | 证据 | доказательства | Beweis
+summary | résumé | Zusammenfassung | resumen | riassunto | resumo | सारांश | 摘要 | резюме | Zesummefaassung
+clarity | clarté | Klarheit | claridad | chiarezza | clareza | स्पष्टता | 清晰 | ясность | Кlarheit
+innovation | innovation | Innovation | innovación | innovazione | inovação | नवाचार | 创新 | инновация | Innovatioun
+impact | impact | Auswirkungen | impacto | impatto | impacto | प्रभाव | 影响 | влияние | Impakt
+relevance | pertinence | Relevanz | relevancia | rilevanza | relevância | प्रासंगिकता | 相关性 | актуальность | Relevanz
+theory | théorie | Theorie | teoría | teoria | teoria | सिद्धांत | 理论 | теория | Theorie
+conclusions | conclusions | Schlussfolgerungen | conclusiones | conclusioni | conclusões | निष्कर्ष | 结论 | выводы | Schlussfolgerungen
+questions | questions | Fragen | preguntas | domande | perguntas | प्रश्न | 问题 | вопросы | Froe
+support | soutien | Unterstützung | apoyo | supporto | apoio | समर्थन | 支持 | поддержка | Ënnerstëtzung
+expertise | expertise | Fachwissen | experiencia | competenza | especialização | विशेषज्ञता | 专业知识 | экспертиза | Fachwëssen
+contribution | contribution | Beitrag | contribución | contributo | contribuição | योगदान | 贡献 | вклад | Bäitrëg
+insight | aperçu | Einsicht | percepción | intuizione | percepção | अंतर्दृष्टि | 见解 | проницательность | Iwwersiicht
+preparation | préparation | Vorbereitung | preparación | preparazione | preparação | तैयारी | 准备 | подготовка | Virbereedung
+planning | planification | Planung | planificación | pianificazione | planejamento | योजना | 规划 | планирование | Planung
+requirements | exigences | Anforderungen | requisitos | requisiti | requisitos | आवश्यकताएँ | 需求 | требования | Anforderungen
+style | style | Stil | estilo | stile | estilo | शैली | 风格 | стиль | Stil
+structure | structure | Struktur | estructura | struttura | estrutura | संरचना | 结构 | структура | Struktur
+registration fee | frais d'inscription | Anmeldegebühr | cuota de inscripción | tassa di registrazione | taxa de inscrição | पंजीकरण शुल्क | 注册费 | регистрационный сбор | Anmeldegebühr
+venue | lieu | Veranstaltungsort | lugar | luogo | local | स्थल | 场地 | место | Plaz
+location | emplacement | Standort | ubicación | posizione | localização | स्थान | 位置 | местоположение | Lieux
+travel | voyager | reisen | viajar | viaggiare | viajar | यात्रा करना | 旅行 | путешествовать | Reesen
+accommodation | hébergement | Unterkunft | alojamiento | sistemazione | acomodação | आवास | 住宿 | размещение | Unterkunft
+accessibility | accessibilité | Barrierefreiheit | accesibilidad | accessibilità | acessibilidade | पहुँच | 可及性 | доступность | Zugänglichkeit
+communication | communication | Kommunikation | comunicación | comunicazione | comunicação | संचार | 交流 | коммуникация | Kommunikatioun
+organization | organisation | Organisation | organización | organizzazione | organização | संगठन | 组织 | организация | Organisatioun
+administration | administration | Verwaltung | administración | amministrazione | administração | प्रशासन | 管理 | администрирование | Administratioun
+experience | expérience | Erfahrung | experiencia | esperienza | experiência | अनुभव | 经验 | опыт | Erfahrung
+engagement | engagement | Engagement | compromiso | impegno | engajamento | सगाई | 参与 | вовлеченность | Engagement
+audience | audience | Publikum | audiencia | pubblico | público | दर्शक | 观众 | аудитория | Publikum
+sharing | partage | teilen | compartir | condividere | compartilhar | साझा करना | 分享 | делиться | deelen

@@ -1,0 +1,55 @@
+internet | internet | Internet | internet | internet | internet | इंटरनेट | 互联网 | интернет | Internet
+router | routeur | Router | router | router | roteador | राउटर | 路由器 | роутер | Router
+modem | modem | Modem | módem | modem | modem | मोडेम | 调制解调器 | модем | Modem
+cable | câble | Kabel | cable | cavo | cabo | केबल | 电缆 | кабель | Kabel
+outlet | prise | Steckdose | enchufe | presa | tomada | सॉकेट | 插座 | розетка | Steckdous
+wall | mur | Wand | pared | parete | parede | दीवार | 墙 | стена | Mauer
+room | pièce | Zimmer | habitación | stanza | quarto | कमरा | 房间 | комната | Zëmmer
+speed | vitesse | Geschwindigkeit | velocidad | velocità | velocidade | गति | 速度 | скорость | Vitesse
+plan | plan | Plan | plan | piano | plano | योजना | 计划 | план | Plang
+bill | facture | Rechnung | factura | fattura | fatura | बिल | 账单 | счёт | Rechnung
+fee | frais | Gebühr | cuota | tassa | taxa | शुल्क | 费用 | плата | Tax
+technician | technicien | Techniker | técnico | tecnico | técnico | तकनीशियन | 技术员 | техник | Techniker
+service | service | Service | servicio | servizio | serviço | सेवा | 服务 | услуга | Service
+provider | fournisseur | Anbieter | proveedor | fornitore | fornecedor | प्रदाता | 提供商 | поставщик | Fournisseur
+appointment | rendez-vous | Termin | cita | appuntamento | compromisso | अपॉइंटमेंट | 预约 | встреча | Rendez-vous
+password | mot de passe | Passwort | contraseña | password | senha | पासवर्ड | 密码 | пароль | Passwuert
+network | réseau | Netzwerk | red | rete | rede | नेटवर्क | 网络 | сеть | Netzwierk
+signal | signal | Signal | señal | segnale | sinal | सिग्नल | 信号 | сигнал | Signal
+connection | connexion | Verbindung | conexión | connessione | conexão | कनेक्शन | 连接 | соединение | Verbindung
+device | appareil | Gerät | dispositivo | dispositivo | dispositivo | डिवाइस | 设备 | устройство | Apparat
+laptop | ordinateur portable | Laptop | portátil | portatile | notebook | लैपटॉप | 笔记本电脑 | ноутбук | Laptop
+phone | téléphone | Telefon | teléfono | telefono | telefone | फोन | 电话 | телефон | Telefon
+computer | ordinateur | Computer | computadora | computer | computador | कंप्यूटर | 电脑 | компьютер | Computer
+account | compte | Konto | cuenta | account | conta | अकाउंट | 账号 | аккаунт | Kont
+data | données | Daten | datos | dati | dados | डेटा | 数据 | данные | Daten
+install | installer | installieren | instalar | installare | instalar | इंस्टॉल करना | 安装 | устанавливать | installéieren
+connect | connecter | verbinden | conectar | collegare | conectar | जोड़ना | 连接 | подключать | verbannen
+unplug | débrancher | ausstecken | desenchufar | scollegare | desconectar | प्लग निकालना | 拔掉 | отключать | ausstecken
+plug in | brancher | einstecken | enchufar | collegare | conectar | प्लग लगाना | 插上 | подключать | anstecken
+turn on | allumer | einschalten | encender | accendere | ligar | चालू करना | 打开 | включать | unmaachen
+turn off | éteindre | ausschalten | apagar | spegnere | desligar | बंद करना | 关掉 | выключать | ausmaachen
+restart | redémarrer | neu starten | reiniciar | riavviare | reiniciar | रीस्टार्ट करना | 重启 | перезагружать | nei starten
+check | vérifier | prüfen | revisar | controllare | verificar | जांचना | 检查 | проверять | kontrolléieren
+test | tester | testen | probar | provare | testar | परखना | 测试 | тестировать | testen
+fix | réparer | reparieren | arreglar | riparare | consertar | ठीक करना | 修理 | чинить | reparéieren
+wait | attendre | warten | esperar | aspettare | esperar | इंतजार करना | 等 | ждать | waarden
+call | appeler | anrufen | llamar | chiamare | ligar | फोन करना | 打电话 | звонить | uruffen
+choose | choisir | wählen | elegir | scegliere | escolher | चुनना | 选择 | выбирать | wielen
+change | changer | ändern | cambiar | cambiare | mudar | बदलना | 改变 | менять | änneren
+move | bouger | bewegen | mover | muovere | mover | हिलना | 移动 | двигаться | beweegen
+pay | payer | bezahlen | pagar | pagare | pagar | पैसे देना | 付钱 | платить | bezuelen
+fast | rapide | schnell | rápido | veloce | rápido | तेज़ | 快 | быстрый | séier
+slow | lent | langsam | lento | lento | lento | धीमा | 慢 | медленный | lues
+new | nouveau | neu | nuevo | nuovo | novo | नया | 新 | новый | nei
+strong | fort | stark | fuerte | forte | forte | मजबूत | 强 | сильный | staark
+weak | faible | schwach | débil | debole | fraco | कमज़ोर | 弱 | слабый | schwaach
+stable | stable | stabil | estable | stabile | estável | स्थिर | 稳定 | стабильный | stabil
+easy | facile | einfach | fácil | facile | fácil | आसान | 容易 | легкий | einfach
+secure | sécurisé | sicher | seguro | sicuro | seguro | सुरक्षित | 安全 | безопасный | sécher
+wifi network | réseau Wi-Fi | WLAN-Netz | red wifi | rete Wi-Fi | rede Wi-Fi | वाई-फाई नेटवर्क | Wi-Fi 网络 | сеть Wi-Fi | WLAN-Netz
+internet plan | forfait internet | Internet-Tarif | plan de internet | piano internet | plano de internet | इंटरनेट प्लान | 网络套餐 | интернет-тариф | Internet-Tarif
+service provider | fournisseur de services | Dienstanbieter | proveedor de servicios | fornitore di servizi | provedor de serviços | सेवा प्रदाता | 服务提供商 | поставщик услуг | Déngschtubidder
+signal strength | force du signal | Signalstärke | intensidad de la señal | intensità del segnale | intensidade do sinal | सिग्नल की ताकत | 信号强度 | уровень сигнала | Signalstäerkt
+monthly bill | facture mensuelle | Monatsrechnung | factura mensual | bolletta mensile | fatura mensal | मासिक बिल | 月度账单 | ежемесячный счёт | Monatsrechnung
+appointment time | heure du rendez-vous | Uhrzeit des Termins | hora de la cita | orario dell'appuntamento | horário do compromisso | अपॉइंटमेंट का समय | 预约时间 | время записи | Zäit vum Rendez-vous

@@ -1,0 +1,55 @@
+route | itinéraire | Route | ruta | percorso | rota | मार्ग | 路线 | маршрут | Streck
+map | carte | Karte | mapa | mappa | mapa | नक्शा | 地图 | карта | Kaart
+road | route | Straße | carretera | strada | estrada | सड़क | 公路 | дорога | Strooss
+street | rue | Straße | calle | via | rua | सड़क | 街道 | улица | Strooss
+lane | voie | Spur | carril | corsia | faixa | लेन | 车道 | полоса | Spuer
+path | chemin | Pfad | sendero | sentiero | caminho | पगडंडी | 小路 | тропा | Wee
+traffic | circulation | Verkehr | tráfico | traffico | trânsito | ट्रैफिक | 交通 | движение | Verkéier
+sign | panneau | Schild | señal | cartello | sinal | संकेत | 标志 | знак | Schëld
+corner | coin | Ecke | esquina | angolo | esquina | कोना | 拐角 | угол | Eck
+junction | carrefour | Kreuzung | cruce | incrocio | cruzamento | चौराहा | 路口 | перекрёсток | Kräizung
+roundabout | rond-point | Kreisverkehr | rotonda | rotonda | rotatória | गोल चक्कर | 环岛 | кольцо | Kreesverkéier
+bridge | pont | Brücke | puente | ponte | ponte | पुल | 桥 | мост | Bréck
+tunnel | tunnel | Tunnel | túnel | tunnel | túnel | सुरंग | 隧道 | тоннель | Tunnel
+exit | sortie | Ausfahrt | salida | uscita | saída | निकास | 出口 | выезд | Ausfaart
+entrance | entrée | Einfahrt | entrada | entrata | entrada | प्रवेश | 入口 | въезд | Afaart
+stop | arrêt | Haltestelle | parada | fermata | parada | स्टॉप | 站 | остановка | Haltestell
+bus | bus | Bus | autobús | autobus | ônibus | बस | 公交车 | автобус | Bus
+train | train | Zug | tren | treno | trem | ट्रेन | 火车 | поезд | Zuch
+station | gare | Bahnhof | estación | stazione | estação | स्टेशन | 车站 | станция | Statioun
+subway | métro | U-Bahn | metro | metro | metrô | मेट्रो | 地铁 | метро | Metro
+taxi | taxi | Taxi | taxi | taxi | táxi | टैक्सी | 出租车 | такси | Taxi
+schedule | horaire | Fahrplan | horario | orario | horário | समय सारिणी | 时刻表 | расписание | Fahrplang
+delay | retard | Verspätung | retraso | ritardo | atraso | देरी | 延误 | задержка | Verspéidung
+detour | détour | Umleitung | desvío | deviazione | desvio | डायवर्जन | 绕道 | объезд | Ëmleedung
+shortcut | raccourci | Abkürzung | atajo | scorciatoia | atalho | छोटा रास्ता | 捷径 | короткий путь | Ofkierzung
+turn | tourner | abbiegen | girar | girare | virar | मुड़ना | 转弯 | повернуть | ofbéien
+go | aller | gehen | ir | andare | ir | जाना | 去 | идти | goen
+walk | marcher | zu Fuß gehen | caminar | camminare | andar | चलना | 走路 | идти пешком | zu Fouss goen
+drive | conduire | fahren | conducir | guidare | dirigir | गाड़ी चलाना | 开车 | водить машину | fueren
+ride | monter à cheval | reiten | montar a caballo | andare a cavallo | andar a cavalo | घुड़सवारी करना | 骑马 | ездить верхом | reiden
+cycle | faire du vélo | Rad fahren | ir en bici | andare in bicicletta | andar de bicicleta | साइकिल चलाना | 骑自行车 | ездить на велосипеде | Vëlo fueren
+follow | suivre | folgen | seguir | seguire | seguir | पीछे आना | 跟着 | идти за | follegen
+avoid | éviter | vermeiden | evitar | evitare | evitar | बचना | 避免 | избегать | evitéieren
+choose | choisir | wählen | elegir | scegliere | escolher | चुनना | 选择 | выбирать | auswielen
+change | changer | ändern | cambiar | cambiare | mudar | बदलना | 改变 | менять | änneren
+enter | entrer | eintreten | entrar | entrare | entrar | प्रवेश करना | 进入 | входить | eran goen
+leave | partir | weggehen | salir | partire | sair | निकलना | 离开 | уходить | fortgoen
+reach | atteindre | erreichen | alcanzar | raggiungere | alcançar | पहुँचना | 到达 | достигать | erreechen
+cross | traverser | überqueren | cruzar | attraversare | atravessar | पार करना | 穿过 | пересекать | iwwerqueren
+continue | continuer | weitermachen | continuar | continuare | continuar | जारी रखना | 继续 | продолжать | weidermaachen
+check | vérifier | prüfen | revisar | controllare | verificar | जाँचना | 检查 | проверять | kontrolléieren
+plan | plan | Plan | plan | piano | plano | योजना | 计划 | план | Plang
+open | ouvert | offen | abierto | aperto | aberto | खुला | 开着 | открытый | op
+closed | fermé | geschlossen | cerrado | chiuso | fechado | बंद | 关着 | закрытый | zou
+busy | occupé | beschäftigt | ocupado | occupato | ocupado | व्यस्त | 忙 | занятой | beschäftegt
+quiet | calme | ruhig | tranquilo | tranquillo | tranquilo | शांत | 安静 | тихий | roueg
+safe | sûr | sicher | seguro | sicuro | seguro | सुरक्षित | 安全 | безопасный | sécher
+quick | rapide | schnell | rápido | veloce | rápido | तेज़ | 快 | быстрый | séier
+slow | lent | langsam | lento | lento | lento | धीमा | 慢 | медленный | lues
+long | long | lang | largo | lungo | longo | लंबा | 长 | длинный | laang
+turn left | tourner à gauche | links abbiegen | girar a la izquierda | girare a sinistra | virar à esquerda | बाएँ मुड़ना | 向左转 | повернуть налево | lénks ofbéien
+turn right | tourner à droite | rechts abbiegen | girar a la derecha | girare a destra | virar à direita | दाएँ मुड़ना | 向右转 | повернуть направо | riets ofbéien
+go straight | aller tout droit | geradeaus gehen | seguir recto | andare dritto | seguir em frente | सीधा जाना | 直走 | идти прямо | riichtaus goen
+heavy traffic | trafic dense | starker Verkehr | mucho tráfico | traffico intenso | trânsito intenso | भारी ट्रैफिक | 车流量大 | интенсивное движение | vill Verkéier
+road work | travaux routiers | Straßenarbeiten | obras en la carretera | lavori stradali | obras na estrada | सड़क का काम | 道路施工 | дорожные работы | Stroossearbechten

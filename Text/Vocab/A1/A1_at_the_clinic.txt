@@ -1,0 +1,65 @@
+doctor | médecin | Arzt | doctor | dottore | médico | डाक्टर | 医生 | доктор | Dokter
+nurse | infirmière | Krankenschwester | enfermera | infermiera | enfermeira | नर्स | 护士 | медсестра | Krankheet
+patient | patient | Patient | paciente | paziente | paciente | मरीज | 病人 | пациент | Patient
+appointment | rendez-vous | Termin | cita | appuntamento | consulta | अपॉइंटमेंट | 预约 | встреча | Rendez-vous
+clinic | clinique | Klinik | clínica | clinica | clínica | क्लिनिक | 诊所 | клиника | Klinick
+waiting room | salle d'attente | Wartezimmer | sala de espera | sala d'attesa | sala de espera | प्रतीक्षा कक्ष | 等候室 | зал ожидания | Waardesall
+medicine | médicament | Medizin | medicina | medicina | medicamento | दवा | 药 | лекарство | Medikament
+prescription | ordonnance | Rezept | receta | ricetta | receita | नुस्खा | 处方 | рецепт | Preskription
+check-up | examen médical | Untersuchung | revisión médica | visita medica | exame médico | जांच | 体检 | осмотр | medizinesch Examen
+symptom | symptôme | Symptom | síntoma | sintomo | sintoma | लक्षण | 症状 | симптом | Symptom
+treatment | traitement | Behandlung | tratamiento | trattamento | tratamento | उपचार | 治疗 | лечение | Behandlung
+health | santé | Gesundheit | salud | salute | saúde | स्वास्थ्य | 健康 | здоровье | Gesondheet
+thermometer | thermomètre | Thermometer | termómetro | termometro | termômetro | तापमान मापक | 温度计 | термометр | Thermometer
+blood pressure | pression artérielle | Blutdruck | presión arterial | pressione sanguigna | pressão arterial | रक्तचाप | 血压 | артериальное давление | Bluttress
+stethoscope | stéthoscope | Stethoskop | estetoscopio | stetoscopio | estetoscópio | स्टेथोस्कोप | 听诊器 | стетоскоп | Stethoskop
+sickness | maladie | Krankheit | enfermedad | malattia | doença | बीमारी | 疾病 | болезнь | Krankheet
+pain | douleur | Schmerz | dolor | dolore | dor | दर्द | 疼痛 | боль | Schmerzlindung
+injury | blessure | Verletzung | lesión | infortunio | lesão | चोट | 受伤 | травма | Verletzung
+ointment | pommade | Salbe | ungüento | unguento | pomada | मरहम | 药膏 | мазь | Salbe
+bandage | bandage | Verband | vendaje | benda | atadura | पट्टी | 绷带 | бинт | Binde
+shot | injection | Spritze | inyección | iniezione | injeção | इंजेक्शन | 注射 | укол | Spritze
+diagnosis | diagnostic | Diagnose | diagnóstico | diagnosi | diagnóstico | निदान | 诊断 | диагноз | Diagnose
+fever | fièvre | Fieber | fiebre | febbre | febre | बुखार | 发热 | температура | Fieber
+allergy | allergie | Allergie | alergia | allergia | alergia | एलर्जी | 过敏 | аллергия | Allergie
+vaccination | vaccination | Impfung | vacunación | vaccinazione | vacinação | टीकाकरण | 疫苗接种 | вакцинация | Impfung
+hospital | hôpital | Krankenhaus | hospital | ospedale | hospital | अस्पताल | 医院 | больница | Spital
+prescriber | prescripteur | Verschreiber | prescriptor | prescrittore | prescritor | प्रिस्क्राइबर | 开处方者 | врач | Prescriber
+surgery | chirurgie | Operation | cirugía | chirurgia | cirurgia | सर्जरी | 外科手术 | хирургия | Chiruergie
+condition | condition | Zustand | condición | condizione | condição | स्थिति | 状况 | состояние | Zustand
+consultation | consultation | Beratung | consulta | consultazione | consulta | परामर्श | 咨询 | консультация | Consultatioun
+exam | examen | Prüfung | examen | esame | exame | परीक्षा | 考试 | экзамен | Examen
+test | test | Test | prueba | test | teste | परीक्षण | 测试 | тест | Test
+clipboard | presse-papiers | Zwischenablage | portapapeles | appunti | área de transferência | क्लिपबोर्ड | 剪贴板 | буфер обмена | Clipboard
+referral | recommandation | Überweisung | referencia | riferimento | encaminhamento | रेफरल | 转介 | направление | Referenz
+healthcare | soins de santé | Gesundheitswesen | atención sanitaria | assistenza sanitaria | cuidados de saúde | स्वास्थ्य देखभाल | 医疗保健 | здравоохранение | Gesundheitsversorgung
+cough | tousser | husten | toser | tossire | tossir | खाँसी | 咳嗽 | кашель | Husten
+sneeze | éternuer | niesen | estornudar | starnutire | espirrar | छींकना | 打喷嚏 | чихание | Niesen
+vomit | vomir | erbrechen | vomitar | vomitare | vomitar | उल्टी करना | 呕吐 | рвота | Erbrechen
+headache | mal de tête | Kopfschmerz | dolor de cabeza | mal di testa | dor de cabeça | सिरदर्द | 头痛 | головная боль | Kopfschmerz
+nausea | nausée | Übelkeit | náusea | nausea | náusea | मिचली | 恶心 | тошнота | Übelkeit
+body | corps | Körper | cuerpo | corpo | corpo | शरीर | 身体 | тело | Kapp
+temperature | température | Temperatur | temperatura | temperatura | temperatura | तापमान | 温度 | температура | Temperatur
+check | vérifier | überprüfen | verificar | controllare | verificar | जांचना | 检查 | проверить | iwwerpréiwen
+advise | conseiller | beraten | aconsejar | consigliare | aconselhar | सलाह देना | 建议 | советовать | beroden
+cure | guérir | heilen | curar | curare | curar | ठीक करना | 治愈 | лечить | heelen
+breathe | respirer | atmen | respirar | respirare | respirar | सांस लेना | 呼吸 | дышать | atmen
+assist | aider | helfen | ayudar | assistere | ajudar | सहायता करना | 协助 | помогать | hëllefen
+treat | traiter | behandeln | tratar | trattare | tratar | उपचार करना | 治疗 | лечить | behandelen
+recover | récupérer | wiederherstellen | recuperar | recuperare | recuperar | वापस लेना | 恢复 | восстанавливать | recuperéieren
+examine | examiner | untersuchen | examinar | esaminare | examinar | जांचना | 检查 | исследовать | iwwerpréiwen
+evaluate | évaluer | bewerten | evaluar | valutare | avaliar | मूल्यांकन करना | 评估 | оценивать | bewäerten
+improve | améliorer | verbessern | mejorar | migliorare | melhorar | सुधारना | 改善 | улучшать | verbesseren
+feel | sentir | fühlen | sentir | sentire | sentir | महसूस करना | 感觉 | чувствовать | fillen
+painful | douloureux | schmerzhaft | doloroso | doloroso | doloroso | दर्दनाक | 疼痛的 | болезненный | schmerzhaft
+sore | douloureux | wund | adolorido | doloroso | dolorido | दर्द | 酸痛的 | больной | wéineg
+healthy | sain | gesund | saludable | sano | saudável | स्वस्थ | 健康的 | здоровый | gesund
+ill | malade | krank | enfermo | malato | doente | बीमार | 生病 | больной | krank
+urgent | urgent | dringend | urgente | urgente | urgente | तुरंत | 紧急 | срочный | dringend
+chronic | chronique | chronisch | crónico | cronico | crônico | पुराना | 慢性 | хронический | chronesch
+minor | mineur | gering | menor | minore | menor | छोटा | 次要 | незначительный | kleng
+serious | sérieux | ernst | serio | serio | sério | गंभीर | 严重 | серьезный | ernst
+safe | sûr | sicher | seguro | sicuro | seguro | सुरक्षित | 安全 | безопасный | sécher
+fast | rapide | schnell | rápido | veloce | rápido | तेज़ | 快 | быстрый | schnell
+easy | facile | einfach | fácil | facile | fácil | आसान | 简单 | легкий | einfach
+effective | efficace | effektiv | efectivo | efficace | eficaz | प्रभावी | 有效 | эффективный | effektiv

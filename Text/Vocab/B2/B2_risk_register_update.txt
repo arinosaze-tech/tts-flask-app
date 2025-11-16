@@ -1,0 +1,65 @@
+risk | risque | Risiko | riesgo | rischio | risco | जोखिम | 风险 | риск | Risiko
+register | s'inscrire | registrieren | registrar | registrare | registrar | पंजीकरण करना | 注册 | регистрировать | sich registréieren
+update | mettre à jour | aktualisieren | actualizar | aggiornare | atualizar | अपडेट करना | 更新 | обновлять | aktualiséieren
+project | projet | Projekt | proyecto | progetto | projeto | परियोजना | 项目 | проект | Projet
+management | gestion | Management | gestión | gestione | gerenciamento | प्रबंधन | 管理 | управление | Gemeng
+assessment | évaluation | Bewertung | evaluación | valutazione | avaliação | मूल्यांकन | 评估 | оценка | Bewäertung
+impact | impact | Auswirkung | impacto | impatto | impacto | प्रभाव | 影响 | влияние | Impact
+likelihood | probabilité | Wahrscheinlichkeit | probabilidad | probabilità | probabilidade | संभावना | 可能性 | вероятность | Wahrscheinlichkeet
+mitigation | atténuation | Minderung | mitigación | mitigazione | mitigação | न्यूनीकरण | 缓解 | смягчение | Mënschung
+strategy | stratégie | Strategie | estrategia | strategia | estratégia | रणनीति | 策略 | стратегия | Strategie
+issue | problème | Problem | problema | problema | questão | मुद्दा | 问题 | вопрос | Probleem
+monitor | surveiller | überwachen | monitorear | monitorare | monitorar | निगरानी करना | 监控 | мониторить | Überwaachen
+report | rapport | Bericht | informe | rapporto | relatório | रिपोर्ट | 报告 | отчет | Berichterstattung
+identify | identifier | identifizieren | identificar | identificare | identificar | पहचानना | 识别 | определить | Identifizéieren
+control | contrôler | kontrollieren | controlar | controllare | controlar | नियंत्रण करना | 控制 | контролировать | Kontrolléieren
+action | action | Aktion | acción | azione | ação | कार्रवाई | 行动 | действие | Handlung
+owner | propriétaire | Eigentümer | propietario | proprietario | proprietário | मालिक | 业主 | владелец | Besitzer
+deadline | date limite | Frist | plazo | scadenza | prazo | समय सीमा | 截止日期 | крайний срок | Frist
+stakeholder | partie prenante | Interessensvertreter | interesado | parte interessata | parte interessada | हितधारक | 利益相关者 | заинтересованная сторона | Stakeholder
+communication | communication | Kommunikation | comunicación | comunicazione | comunicação | संचार | 沟通 | коммуникация | Kommunikation
+response | réponse | Antwort | respuesta | risposta | resposta | प्रतिक्रिया | 回应 | ответ | Réponse
+evaluation | évaluation | Bewertung | evaluación | valutazione | avaliação | मूल्यांकन | 评估 | оценка | Evaluatioun
+summary | résumé | Zusammenfassung | resumen | riassunto | resumo | सारांश | 摘要 | резюме | Zesummefaassung
+goal | objectif | Ziel | objetivo | obiettivo | objetivo | लक्ष्य | 目标 | цель | Ziel
+priority | priorité | Priorität | prioridad | priorità | prioridade | प्राथमिकता | 优先事项 | приоритет | Prioritéit
+analysis | analyse | Analyse | análisis | analisi | análise | विश्लेषण | 分析 | анализ | Analyse
+planning | planification | Planung | planificación | pianificazione | planejamento | योजना | 规划 | планирование | Planung
+timeline | calendrier | Zeitachse | cronograma | cronologia | cronograma | समयरेखा | 时间线 | временная шкала | Zäitlin
+budget | budget | Budget | presupuesto | bilancio | orçamento | बजट | 预算 | бюджет | Budget
+review | révision | Überprüfung | revisión | revisione | revisão | समीक्षा | 评审 | обзор | Revisioun
+expectation | attente | Erwartung | expectativa | aspettativa | expectativa | अपेक्षा | 期望 | ожидание | Erwaardung
+resolution | résolution | Entscheidung | resolución | risoluzione | resolução | संकल्प | 决议 | резолюция | Resolutioun
+track | suivre | nachverfolgen | rastrear | tracciare | rastrear | ट्रैक | 跟踪 | отслеживать | tracé
+resources | ressources | Ressourcen | recursos | risorse | recursos | संसाधन | 资源 | ресурсы | ressources
+decision | décision | Entscheidung | decisión | decisione | decisão | निर्णय | 决策 | решение | Entscheidung
+outcome | résultat | Ergebnis | resultado | risultato | resultado | परिणाम | 结果 | итог | Resultat
+vulnerability | vulnérabilité | Verwundbarkeit | vulnerabilidad | vulnerabilità | vulnerabilidade | संवेदनशीलता | 脆弱性 | уязвимость | Verwundbarkeit
+measure | mesure | Maßnahme | medida | misura | medida | माप | 测量 | мера | Maßnahme
+threat | menace | Bedrohung | amenaza | minaccia | ameaça | खतरा | 威胁 | угроза | Bedrohung
+safeguard | protection | Schutz | salvaguarda | salvaguardia | salvaguarda | सुरक्षा | 保障 | защита | Schutz
+strategy | stratégie | Strategie | estrategia | strategia | estratégia | रणनीति | 策略 | стратегия | Strategie
+compliance | conformité | Compliance | cumplimiento | conformità | conformidade | अनुपालन | 合规 | соблюдение | Compliance
+incident | incident | Vorfall | incidente | incidente | incidente | घटना | 事件 | инцидент | Vorfall
+flexibility | flexibilité | Flexibilität | flexibilidad | flessibilità | flexibilidade | लचीलापन | 灵活性 | гибкость | Flexibilität
+change | changement | Veränderung | cambio | cambiamento | mudança | परिवर्तन | 变化 | изменение | Veränderung
+requirement | exigence | Anforderung | requisito | requisito | requisito | आवश्यकता | 要求 | требование | Anforderung
+collaboration | collaboration | Zusammenarbeit | colaboración | collaborazione | colaboração | सहयोग | 合作 | сотрудничество | Zusammenarbeit
+review | révision | Überprüfung | revisión | revisione | revisão | समीक्षा | 审查 | обзор | Überprüfung
+process | processus | Prozess | proceso | processo | processo | प्रक्रिया | 过程 | процесс | Prozess
+data | données | Daten | datos | dati | dados | डेटा | 数据 | данные | Daten
+documentation | documentation | Dokumentation | documentación | documentazione | documentação | दस्तावेज़ | 文档 | документация | Dokumentatioun
+consultation | consultation | Konsultation | consulta | consultazione | consulta | परामर्श | 咨询 | консультация | Konsultatioun
+approach | approche | Ansatz | enfoque | approccio | abordagem | दृष्टिकोण | 方法 | подход | Approche
+recommendation | recommandation | Empfehlung | recomendación | raccomandazione | recomendação | सिफारिश | 推荐 | рекомендация | Empfehlung
+interface | interface | Schnittstelle | interfaz | interfaccia | interface | इंटरफेस | 界面 | интерфейс | Schnittstell
+engagement | engagement | Engagement | compromiso | impegno | envolvimento | संलग्नता | 参与 | обязательство | Engagement
+development | développement | Entwicklung | desarrollo | sviluppo | desenvolvimento | विकास | 发展 | развитие | Entwicklung
+session | session | Sitzung | sesión | sessione | sessão | सत्र | 会议 | сессия | Sitzung
+chart | graphique | Diagramm | gráfico | grafico | gráfico | चार्ट | 图表 | диаграмма | Diagramm
+list | liste | Liste | lista | elenco | lista | सूची | 列表 | список | Lëscht
+record | enregistrer | aufzeichnen | registrar | registrare | gravar | रिकॉर्ड | 记录 | запись | opfaangen
+risk tolerance | tolérance au risque | Risikotoleranz | tolerancia al riesgo | tolleranza al rischio | tolerância ao risco | जोखिम सहिष्णुता | 风险承受能力 | толерантность к риску | Risiko-Aktzeptanz
+goal setting | définition d'objectifs | Zielsetzung | establecimiento de metas | definizione degli obiettivi | definição de metas | लक्ष्य निर्धारण | 目标设定 | установка целей | Zilsetzung
+alignment | alignement | Abstimmung | alineación | allineamento | alinhamento | संरेखण | 对齐 | согласование | Alineement
+insight | aperçu | Einsicht | visión | intuizione | insight | अंतर्दृष्टि | 见解 | понимание | Einsicht

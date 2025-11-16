@@ -1,0 +1,65 @@
+train | train | Zug | tren | treno | trem | ट्रेन | 火车 | поезд
+bus | bus | Bus | autobús | autobus | ônibus | बस | 公交车 | автобус
+station | station | Bahnhof | estación | stazione | estação | स्टेशन | 车站 | станция
+stop | arrêt | Halt | parada | fermata | parada | रुकना | 停 | остановка
+platform | quai | Plattform | andén | binario | plataforma | प्लेटफार्म | 站台 | платформа
+ticket | billet | Ticket | billete | biglietto | ingresso | टिकट | 票 | билет
+driver | conducteur | Fahrer | conductor | autista | motorista | चालक | 驾驶员 | водитель
+conductor | contrôleur | Schaffner | conductor | controllore | condutor | परिचालक | 售票员 | кондуктор
+passenger | passager | Fahrgast | pasajero | passeggero | passageiro | यात्री | 乘客 | пассажир
+seat | siège | Sitz | asiento | posto | assento | सीट | 座位 | сиденье
+window | fenêtre | Fenster | ventana | finestra | janela | खिड़की | 窗户 | окно
+door | porte | Tür | puerta | porta | porta | दरवाजा | 门 | дверь
+route | route | Strecke | ruta | percorso | rota | रास्ता | 路线 | маршрут
+schedule | horaire | Fahrplan | horario | orario | horário | समयतालिका | 时间表 | расписание
+map | carte | Karte | mapa | mappa | mapa | नक्शा | 地图 | карта
+fare | tarif | Fahrpreis | tarifa | tariffa | tarifa | किराया | 票价 | тариф
+carriage | voiture | Wagen | carro | carrozza | carrinho | गाड़ी | 车厢 | вагон
+track | voie | Gleis | pista | binario | trilho | ट्रैक | 轨道 | путь
+line | ligne | Linie | línea | linea | linha | रेखा | 线 | линия
+timetable | horaire | Fahrplan | horario | orario | horário | समय सारणी | 时间表 | расписание
+aisle | allée | Gang | pasillo | corridoio | corredor | गलियारा | 走道 | проход
+luggage | bagages | Gepäck | equipaje | bagagli | bagagem | सामान | 行李 | багаж
+bag | sac | Tasche | bolsa | borsa | bolsa | बैग | 包 | сумка
+backpack | sac à dos | Rucksack | mochila | zaino | mochila | पीठ का बैग | 背包 | рюкзак
+wallet | portefeuille | Brieftasche | billetera | portafoglio | carteira | बटुआ | 钱包 | бумажник
+coin | pièce | Münze | moneda | moneta | moeda | सिक्का | 硬币 | монета
+card | carte | Karte | tarjeta | carta | cartão | कार्ड | 卡片 | карта
+pass | pass | Pass | pase | pass | passe | पास | 通行证 | пропуск
+crowd | foule | Menge | multitud | folla | multidão | भीड़ | 人群 | толпа
+bench | banc | Bank | banco | panchina | banco | बेंच | 长凳 | скамейка
+shelter | abri | Schutz | refugio | rifugio | abrigo | आश्रय | 避难所 | укрытие
+sign | signe | Zeichen | señal | segnale | sinal | संकेत | 标志 | знак
+trip | voyage | Reise | viaje | viaggio | viagem | यात्रा | 旅行 | путешествие
+board | embarquer | einsteigen | abordar | salire | embarcar | चढ़ना | 登上 | садиться
+wait | attendre | warten | esperar | aspettare | esperar | इंतज़ार करना | 等待 | ждать
+ride | monter | fahren | montar | cavalcare | andar | सवारी करना | 骑 | ездить
+sit | s'asseoir | sitzen | sentarse | sedere | sentar | बैठना | 坐 | сидеть
+stand | se tenir | stehen | estar de pie | stare | ficar em pé | खड़ा होना | 站 | стоять
+pay | payer | bezahlen | pagar | pagare | pagar | भुगतान करना | 付 | платить
+buy | acheter | kaufen | comprar | comprare | comprar | खरीदना | 买 | покупать
+show | montrer | zeigen | mostrar | mostrare | mostrar | दिखाना | 显示 | показывать
+ask | demander | fragen | preguntar | chiedere | perguntar | पूछना | 问 | спрашивать
+listen | écouter | hören | escuchar | ascoltare | ouvir | सुनना | 听 | слушать
+arrive | arriver | ankommen | llegar | arrivare | chegar | आना | 到达 | приходить
+leave | partir | gehen | salir | partire | sair | जाना | 离开 | уходить
+travel | voyager | reisen | viajar | viaggiare | viajar | यात्रा करना | 旅行 | путешествовать
+open | ouvrir | öffnen | abrir | aprire | abrir | खोलना | 打开 | открывать
+close | fermer | schließen | cerrar | chiudere | fechar | बंद करना | 关闭 | закрывать
+miss | rater | verpassen | faltar | perder | perder | याद करना | 想念 | скучать
+change | changer | ändern | cambiar | cambiare | mudar | बदलना | 改变 | менять
+press | appuyer | drücken | presionar | premere | pressionar | दबाना | 按 | нажимать
+scan | analyser | scannen | escanear | scansionare | escanear | स्कैन करना | 扫描 | сканировать
+help | aider | helfen | ayudar | aiutare | ajudar | मदद करना | 帮助 | помогать
+crowded | bondé | überfüllt | lleno | affollato | lotado | भरा हुआ | 拥挤 | переполненный
+empty | vide | leer | vacío | vuoto | vazio | खाली | 空 | пустой
+late | en retard | spät | tarde | in ritardo | atrasado | देर | 晚 | поздно
+early | tôt | früh | temprano | presto | cedo | जल्दी | 早 | рано
+quick | rapide | schnell | rápido | veloce | rápido | तेज | 快 | быстрый
+slow | lent | langsam | lento | lento | devagar | धीरे | 慢 | медленный
+safe | sûr | sicher | seguro | sicuro | seguro | सुरक्षित | 安全 | безопасный
+comfortable | confortable | bequem | cómodo | comodo | confortável | आरामदायक | 舒服 | удобный
+cheap | bon marché | billig | barato | economico | barato | सस्ता | 便宜 | дешевый
+busy | occupé | beschäftigt | ocupado | occupato | ocupado | व्यस्त | 忙 | занятый
+bus stop | arrêt de bus | Bushaltestelle | parada de autobús | fermata dell'autobus | ponto de ônibus | बस स्टॉप | 公交车站 | автобусная остановка
+train station | gare | Bahnhof | estación de tren | stazione | estação de trem | रेल स्टेशन | 火车站 | вокзал

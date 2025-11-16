@@ -1,0 +1,65 @@
+doctor | docteur | Arzt | doctor | dottore | médico | डॉक्टर | 医生 | врач | Dokter
+patient | patient | Patient | paciente | paziente | paciente | मरीज | 病人 | пациент | Patient
+nurse | infirmière | Krankenschwester | enfermera | infermiera | enfermeira | नर्स | 护士 | медсестра | Krankeschwester
+hospital | hôpital | Krankenhaus | hospital | ospedale | hospital | अस्पताल | 医院 | больница | Spidol
+medicine | médecine | Medizin | medicina | medicina | medicina | दवा | 药 | лекарство | Medikament
+waiting room | salle d'attente | Wartezimmer | sala de espera | sala d'attesa | sala de espera | प्रतीक्षालय | 等候室 | ожидательная | Warteraum
+appointment | rendez-vous | Termin | cita | appuntamento | consulta | अपॉइंटमेंट | 预约 | запись | Rendez-vous
+symptom | symptôme | Symptom | síntoma | sintomo | sintoma | लक्षण | 症状 | симптом | Symptom
+treatment | traitement | Behandlung | tratamiento | trattamento | tratamento | उपचार | 治疗 | лечение | Behandlung
+check-up | examen | Untersuchung | chequeo | controllo | exame | जांच | 检查 | осмотр | Kontrolle
+prescription | ordonnance | Rezept | receta | prescrizione | receita | पर्ची | 处方 | рецепт | Preskription
+bandage | bandage | Verband | venda | benda | bandagem | पट्टी | 绷带 | бандаж | Bandage
+surgery | chirurgie | Chirurgie | cirugía | chirurgia | cirurgia | सर्जरी | 外科手术 | хирургия | Chirurgie
+emergency | urgence | Notfall | emergencia | emergenza | emergência | आपातकाल | 紧急情况 | экстренный | Notfall
+pain | douleur | Schmerz | dolor | dolore | dor | दर्द | 疼痛 | боль | Scherz
+report | rapport | Bericht | informe | rapporto | relatório | रिपोर्ट | 报告 | отчет | Bericht
+diagnosis | diagnostic | Diagnose | diagnóstico | diagnosi | diagnóstico | निदान | 诊断 | диагноз | Diagnos
+blood test | analyse sanguine | Bluttest | análisis de sangre | esame del sangue | exame de sangue | रक्त परीक्षण | 血液检查 | анализ крови | Bluttest
+temperature | température | Temperatur | temperatura | temperatura | temperatura | तापमान | 温度 | температура | Temperatur
+infection | infection | Infektion | infección | infezione | infecção | संक्रमण | 感染 | инфекция | Infektioun
+bedding | literie | Bettwäsche | ropa de cama | biancheria da letto | roupa de cama | बिस्तर की चादर | 床上用品 | постельное бельё | Beddingt
+doctor's office | cabinet médical | Arztpraxis | consultorio médico | ambulatorio | consultório médico | डॉक्टर का कार्यालय | 医生办公室 | кабинет врача | Doktersbürou
+wheelchair | fauteuil roulant | Rollstuhl | silla de ruedas | sedia a rotelle | cadeira de rodas | व्हीलचेयर | 轮椅 | инвалидная коляска | Rollstuhl
+first aid | premiers secours | Erste Hilfe | primeros auxilios | primo soccorso | primeiros socorros | प्राथमिक चिकित्सा | 急救 | первая помощь | Éischt Hëllef
+health | santé | Gesundheit | salud | salute | saúde | स्वास्थ्य | 健康 | здоровье | Gesondheet
+consultation | consultation | Beratung | consulta | consultazione | consulta | परामर्श | 咨询 | консультация | Consultatioun
+therapy | thérapie | Therapie | terapia | terapia | terapia | चिकित्सा | 治疗 | терапия | Therapie
+x-ray | radiographie | Röntgen | radiografía | radiografia | radiografia | एक्स-रे | X光 | рентген | Röntgen
+operation | opération | Operation | operación | operazione | operação | ऑपरेशन | 手术 | операция | Operatioun
+stethoscope | stéthoscope | Stethoskop | estetoscopio | stetoscopio | estetoscópio | स्टेथोस्कोप | 听诊器 | стетоскоп | Stethoskop
+nurse's station | poste des infirmières | Schwesternstation | estación de enfermeras | stazione degli infermieri | estação de enfermagem | नर्स स्टेशन | 护士站 | кабинет медсестры | Sëcherheetstation
+doctor's bag | mallette du médecin | Arzttasche | bolsa del doctor | borsa del medico | bolsa do médico | डॉक्टर का बैग | 医生包 | сумка врача | Dokterstasch
+breathe | respirer | atmen | respirar | respirare | respirar | सांस लेना | 呼吸 | дышать | riewen
+heal | guérir | heilen | curar | guarire | curar | ठीक करना | 治愈 | исцелять | heelen
+examine | examiner | untersuchen | examinar | esaminare | examinar | जांचना | 检查 | осматривать | ënnersichen
+assist | aider | helfen | asistir | assistere | ajudar | मदद करना | 帮助 | помогать | hëllefen
+test | tester | testen | probar | testare | testar | परखना | 测试 | тестировать | testen
+advise | conseiller | raten | aconsejar | consigliare | aconselhar | सलाह देना | 建议 | советовать | raten
+recover | récupérer | sich erholen | recuperar | riprendersi | recuperar | ठीक होना | 恢复 | восстанавливаться | recuperéieren
+monitor | surveiller | überwachen | monitorear | monitorare | monitorar | निगरानी करना | 监测 | контролировать | iwwerwaachen
+communicate | communiquer | kommunizieren | comunicar | comunicare | comunicar | संप्रेषित करना | 交流 | общаться | kommunizéieren
+instruct | instruire | anweisen | instruir | istruire | instruir | निर्देश देना | 指导 | инструктировать | instruéieren
+observe | observer | beobachten | observar | osservare | observar | देखना | 观察 | наблюдать | observéieren
+measure | mesurer | messen | medir | misurare | medir | मापना | 测量 | измерять | moossen
+relieve | soulager | erleichtern | aliviar | alleviare | aliviar | राहत देना | 缓解 | облегчать | erliichten
+stretch | étirer | dehnen | estirar | allungare | esticar | खींचना | 拉伸 | растягивать | strecken
+talk | parler | sprechen | hablar | parlare | falar | बात करना | 说 | говорить | schwätzen
+stay | rester | bleiben | quedarse | restare | ficar | ठहरना | 停留 | оставаться | bleiwen
+rest | repos | ruhen | descansar | riposare | descansar | आराम करना | 休息 | отдых | raschten
+help | aider | helfen | ayudar | aiutare | ajudar | मदद करना | 帮助 | помогать | hëllefen
+feel | sentir | fühlen | sentir | sentire | sentir | महसूस करना | 感觉 | чувствовать | fillen
+look | regarder | schauen | mirar | guardare | olhar | देखना | 看 | смотреть | kucken
+ask | demander | fragen | preguntar | chiedere | perguntar | पूछना | 问 | спрашивать | froen
+trust | faire confiance | vertrauen | confiar | fidarsi | confiar | विश्वास करना | 信任 | доверять | vertraue
+scared | effrayé | verängstigt | asustado | spaventato | assustado | डरना | 害怕 | испуганный | angsteg
+tired | fatigué | müde | cansado | stanco | cansado | थका हुआ | 疲倦 | усталый | miedeg
+sick | malade | krank | enfermo | malato | doente | बीमार | 生病 | больной | krank
+safe | sûr | sicher | seguro | sicuro | seguro | सुरक्षित | 安全 | безопасный | sécher
+strong | fort | stark | fuerte | forte | forte | मजबूत | 强壮 | сильный | staark
+good | bon | gut | bueno | buono | bom | अच्छा | 好 | хороший | gutt
+bad | mauvais | schlecht | malo | cattivo | mau | बुरा | 坏 | плохой | schlecht
+quick | rapide | schnell | rápido | veloce | rápido | तेज | 快 | быстрый | schnell
+nice | agréable | nett | agradable | carino | agradável | अच्छा | 好 | приятный | nett
+new | nouveau | neu | nuevo | nuovo | novo | नया | 新 | новый | neu
+urgent | urgent | dringend | urgente | urgente | urgente | स्वास्थ्य | 紧急 | срочный | dringend

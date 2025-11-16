@@ -1,0 +1,55 @@
+event | événement | Veranstaltung | evento | evento | evento | कार्यक्रम | 活动 | мероприятие | Event
+venue | lieu | Veranstaltungsort | lugar | sede | local | स्थल | 场地 | площадка | Plaz
+badge | badge | Namensschild | credencial | badge | crachá | बैज | 胸牌 | бейдж | Badge
+company | entreprise | Firma | empresa | azienda | empresa | कंपनी | 公司 | компания | Firma
+industry | secteur | Branche | sector | settore | setor | उद्योग | 行业 | отрасль | Branche
+role | rôle | Rolle | rol | ruolo | função | भूमिका | 角色 | роль | Roll
+goal | objectif | Ziel | objetivo | obiettivo | objetivo | लक्ष्य | 目标 | цель | Zil
+contact | contact | Kontakt | contacto | contatto | contato | संपर्क | 联系人 | контакт | Kontakt
+network | réseau | Netzwerk | red | rete | rede | नेटवर्क | 网络 | сеть | Netzwierk
+connection | connexion | Verbindung | conexión | connessione | conexão | कनेक्शन | 连接 | связь | Verbindung
+profile | profil | Profil | perfil | profilo | perfil | प्रोफ़ाइल | 个人资料 | профиль | Profil
+conversation | conversation | Gespräch | conversación | conversazione | conversa | बातचीत | 对话 | разговор | Gespréich
+question | question | Frage | pregunta | domanda | pergunta | सवाल | 问题 | вопрос | Fro
+skill | compétence | Fähigkeit | habilidad | abilità | habilidade | कौशल | 技能 | навык | Fäegkeet
+project | projet | Projekt | proyecto | progetto | projeto | प्रोजेक्ट | 项目 | проект | Projet
+opportunity | occasion | Gelegenheit | oportunidad | opportunità | oportunidade | मौका | 机会 | возможность | Geleeënheet
+schedule | horaire | Zeitplan | horario | orario | horário | कार्यक्रम | 日程 | расписание | Zäitplang
+speaker | orateur | Redner | orador | oratore | palestrante | वक्ता | 演讲者 | докладчик | Riedner
+audience | public | Publikum | público | pubblico | público | श्रोता | 听众 | аудитория | Publikum
+recruiter | recruteur | Recruiter | reclutador | recruiter | recrutador | भर्तीकर्ता | 招聘人员 | рекрутер | Recruteur
+booth | stand | Stand | stand | stand | estande | स्टॉल | 展位 | стенд | Stand
+small talk | petite conversation | Smalltalk | charla informal | chiacchiere | conversa informal | हल्की-फुल्की बातचीत | 闲聊 | светская беседа | Smalltalk
+business card | carte de visite | Visitenkarte | tarjeta de visita | biglietto da visita | cartão de visita | विज़िटिंग कार्ड | 名片 | визитная карточка | Visittekaart
+job opening | offre d'emploi | offene Stelle | vacante | posto vacante | vaga de emprego | खाली पद | 职位空缺 | вакансия | fräi Aarbechtsplaz
+introduce | présenter | vorstellen | presentar | presentare | apresentar | परिचय देना | 介绍 | представить | virstellen
+greet | saluer | grüßen | saludar | salutare | cumprimentar | अभिवादन करना | 打招呼 | приветствовать | begréissen
+smile | sourire | lächeln | sonreír | sorridere | sorrir | मुस्कुराना | 微笑 | улыбаться | lächelen
+listen | écouter | zuhören | escuchar | ascoltare | escutar | सुनना | 听 | слушать | lauschteren
+ask | demander | fragen | preguntar | chiedere | perguntar | पूछना | 问 | спрашивать | froen
+respond | répondre | antworten | responder | rispondere | responder | जवाब देना | 回答 | отвечать | äntweren
+share | partager | teilen | compartir | condividere | compartilhar | साझा करना | 分享 | делиться | deelen
+Explain | expliquer | erklären | explicar | spiegare | explicar | समझाना | 解释 | объяснять | erklären
+describe | décrire | beschreiben | describir | descrivere | descrever | वर्णन करना | 描述 | описывать | beschreiwen
+connect | entrer en contact | sich vernetzen | conectar | connettersi | conectar | जुड़ना | 联系 | связываться | sech vernetzen
+attend | assister | teilnehmen | asistir | partecipare | participar | शामिल होना | 参加 | посещать | deelhuelen
+invite | inviter | einladen | invitar | invitare | convidar | बुलाना | 邀请 | приглашать | alueden
+mingle | réseauter | netzwerken | socializar | socializzare | socializar | घुलना-मिलना | 社交 | общаться | netzwierken
+thank | remercier | danken | agradecer | ringraziare | agradecer | धन्यवाद देना | 感谢 | благодарить | danken
+present | présenter | präsentieren | presentar | presentare | apresentar | पेश करना | 展示 | представлять | presentéieren
+exchange card | échanger des cartes de visite | Visitenkarten austauschen | intercambiar tarjetas de visita | scambiare biglietti da visita | trocar cartões de visita | विज़िटिंग कार्ड का आदान-प्रदान करना | 交换名片 | обмениваться визитками | Visittekaarte auswiesselen
+follow up | relancer | nachfassen | volver a contactar | ricontattare | entrar em contato novamente | पुनः संपर्क करना | 跟进 | связаться повторно | nohaken
+keep in touch | rester en contact | in Kontakt bleiben | mantener el contacto | rimanere in contatto | manter contato | संपर्क में रहना | 保持联系 | оставаться на связи | a Kontakt bleiwen
+friendly | amical | freundlich | amigable | amichevole | amigável | मिलनसार | 友好 | дружелюбный | frëndlech
+polite | poli | höflich | educado | educato | educado | विनम्र | 礼貌的 | вежливый | héiflech
+confident | confiant | selbstbewusst | seguro | sicuro | confiante | आत्मविश्वासी | 自信的 | уверенный | selbstsécher
+clear | clair | klar | claro | chiaro | claro | स्पष्ट | 清楚的 | ясный | kloer
+open | ouvert | offen | abierto | aperto | aberto | खुला | 开放的 | открытый | op
+curious | curieux | neugierig | curioso | curioso | curioso | जिज्ञासु | 好奇的 | любопытный | virwëtzeg
+professional | professionnel | professionell | profesional | professionale | profissional | पेशेवर | 专业的 | профессиональный | professionell
+brief | bref | kurz | breve | breve | breve | संक्षिप्त | 简短的 | краткий | kuerz
+flexible | souple | flexibel | flexible | flessibile | flexível | लचीला | 灵活的 | гибкий | flexibel
+relevant | pertinent | relevant | relevante | rilevante | relevante | प्रासंगिक | 相关的 | уместный | relevant
+helpful | utile | hilfreich | útil | utile | útil | मददगार | 有帮助的 | полезный | hëllefräich
+interested | intéressé | interessiert | interesado | interessato | interessado | इच्छुक | 感兴趣的 | заинтересованный | interesséiert
+available | disponible | verfügbar | disponible | disponibile | disponível | उपलब्ध | 可用的 | доступный | verfügbar

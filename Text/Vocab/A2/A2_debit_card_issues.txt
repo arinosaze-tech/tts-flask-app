@@ -1,0 +1,55 @@
+account | compte | Konto | cuenta | conto | conta | खाता | 账户 | счёт | Kont
+bank | banque | Bank | banco | banca | banco | बैंक | 银行 | банк | Bank
+atm | distributeur de billets | Geldautomat | cajero automático | bancomat | caixa eletrônico | एटीएम | 自动取款机 | банкомат | Geldautomat
+pin | code PIN | PIN | PIN | PIN | PIN | पिन | PIN码 | PIN-код | PIN
+chip | puce | Chip | chip | chip | chip | चिप | 芯片 | чип | Chip
+limit | limite | Limit | límite | limite | limite | सीमा | 限额 | лимит | Limit
+fee | commission | Gebühr | comisión | commissione | taxa | शुल्क | 手续费 | комиссия | Tax
+charge | facturer | berechnen | cobrar | addebitare | cobrar | वसूलना | 收费 | взимать | fakturéieren
+balance | solde | Kontostand | saldo | saldo | saldo | बैलेंस | 余额 | баланс | Saldo
+branch | agence | Filiale | sucursal | filiale | agência | शाखा | 分行 | отделение | Filial
+refund | remboursement | Rückerstattung | reembolso | rimborso | reembolso | रिफंड | 退款 | возврат | Zréckbezuelung
+receipt | reçu | Quittung | recibo | scontrino | recibo | रसीद | 收据 | чек | Quittung
+statement | relevé | Kontoauszug | extracto | estratto conto | extrato | स्टेटमेंट | 对账单 | выписка | Kontoauszug
+purchase | achat | Kauf | compra | acquisto | compra | खरीद | 购买 | покупка | Akaaf
+payment | paiement | Zahlung | pago | pagamento | pagamento | भुगतान | 付款 | платеж | Bezuelung
+machine | machine | Maschine | máquina | macchina | máquina | मशीन | 机器 | машина | Maschinn
+reader | lecteur | Leser | lector | lettore | leitor | पाठक | 读者 | читатель | Lieser
+error | erreur | Fehler | error | errore | erro | गलती | 错误 | ошибка | Feeler
+problem | problème | Problem | problema | problema | problema | समस्या | 问题 | проблема | Problem
+signature | signature | Unterschrift | firma | firma | assinatura | हस्ताक्षर | 签名 | подпись | Ënnerschrëft
+store | magasin | Geschäft | tienda | negozio | loja | दुकान | 商店 | магазин | Buttek
+cash | espèces | Bargeld | efectivo | contanti | dinheiro | नकद | 现金 | наличные | Bargeld
+security | sécurité | Sicherheit | seguridad | sicurezza | segurança | सुरक्षा | 安全 | безопасность | Sécherheet
+passport | passeport | Reisepass | pasaporte | passaporto | passaporte | पासपोर्ट | 护照 | паспорт | Reespass
+pay | payer | bezahlen | pagar | pagare | pagar | भुगतान करना | 付款 | платить | bezuelen
+swipe | glisser | durchziehen | pasar | strisciare | passar | स्वाइप करना | 刷卡 | провести | duerchzéien
+tap | appuyer | tippen | tocar | toccare | tocar | टैप करना | 点击 | нажать | tippen
+insert | insérer | einführen | insertar | inserire | inserir | डालना | 插入 | вставить | asetzen
+enter | entrer | eingeben | introducir | digitare | digitar | दर्ज करना | 输入 | ввести | aginn
+verify | vérifier | prüfen | comprobar | controllare | verificar | जांच करना | 验证 | проверить | kontrolléieren
+confirm | confirmer | bestätigen | confirmar | confermare | confirmar | पुष्टि करना | 确认 | подтвердить | bestätegen
+block | bloquer | sperren | bloquear | bloccare | bloquear | ब्लॉक करना | 冻结 | заблокировать | blockéieren
+freeze | geler | einfrieren | congelar | congelare | congelar | जमाना | 冻结 | замораживать | afréieren
+cancel | annuler | stornieren | cancelar | annullare | cancelar | रद्द करना | 取消 | отменять | annuléieren
+replace | remplacer | ersetzen | reemplazar | sostituire | substituir | बदलना | 更换 | заменять | ersetzen
+report | signaler | melden | informar | segnalare | informar | सूचित करना | 报告 | сообщать | mellen
+dispute | contester | reklamieren | reclamar | contestare | contestar | शिकायत करना | 投诉 | оспаривать | reklaméieren
+update | mettre à jour | aktualisieren | actualizar | aggiornare | atualizar | अपडेट करना | 更新 | обновлять | aktualiséieren
+check | vérifier | prüfen | comprobar | controllare | verificar | जांचना | 检查 | проверять | kontrolléieren
+withdraw | retirer | abheben | retirar | prelevare | sacar | निकालना | 取款 | снимать | ofhiewen
+call | appeler | anrufen | llamar | chiamare | ligar | फोन करना | 打电话 | звонить | uruffen
+expired | expiré | abgelaufen | caducado | scaduto | vencido | समाप्त | 过期 | просроченный | ofgelaf
+damaged | abîmé | beschädigt | dañado | danneggiato | danificado | क्षतिग्रस्त | 销坏的 | поврежденный | beschiedegt
+blocked | bloqué | gesperrt | bloqueado | bloccato | bloqueado | ब्लॉक | 被封 | заблокированный | gespaart
+wrong | faux | falsch | equivocado | sbagliato | errado | गलत | 不对 | неправильный | falsch
+invalid | non valide | ungültig | no válido | non valido | inválido | अमान्य | 无效 | недействительный | ongülteg
+unknown | inconnu | unbekannt | desconocido | sconosciuto | desconhecido | अज्ञात | 未知 | неизвестный | onbekannt
+secure | sécurisé | sicher | seguro | sicuro | seguro | सुरक्षित | 安全 | безопасный | sécher
+available | disponible | verfügbar | disponible | disponibile | disponível | उपलब्ध | 可用 | доступный | verfügbar
+debit card | carte de débit | Debitkarte | tarjeta de débito | carta di debito | cartão de débito | डेबिट कार्ड | 借记卡 | дебетовая карта | Debitkaart
+lost card | carte perdue | verlorene Karte | tarjeta perdida | carta smarrita | cartão perdido | खोया हुआ कार्ड | 丢失的卡 | потерянная карта | verluer Kaart
+stolen card | carte volée | gestohlene Karte | tarjeta robada | carta rubata | cartão roubado | चुराया हुआ कार्ड | 被盗卡 | украденная карта | geklaut Kaart
+daily limit | plafond quotidien | Tageslimit | límite diario | limite giornaliero | limite diário | दैनिक सीमा | 每日限额 | дневной лимит | Dageslimit
+security code | code de sécurité | Sicherheitscode | código de seguridad | codice di sicurezza | código de segurança | सुरक्षा कोड | 安全码 | код безопасности | Sécherheetscode
+customer service | service client | Kundenservice | servicio al cliente | servizio clienti | atendimento ao cliente | ग्राहक सेवा | 客户服务 | служба поддержки | Clientservice

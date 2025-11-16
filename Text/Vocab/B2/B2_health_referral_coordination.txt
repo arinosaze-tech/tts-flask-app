@@ -1,0 +1,65 @@
+referral | référence | Überweisung | derivación | riferimento | referência | संदर्भ | 推荐 | направление | Überweisung
+coordination | coordination | Koordination | coordinación | coordinamento | coordenação | समन्वय | 协调 | координация | Koordinatioun
+healthcare | soins de santé | Gesundheitswesen | atención médica | assistenza sanitaria | cuidados de saúde | स्वास्थ्य सेवा | 医疗 | здравоохранение | Gesondheetsversuergung
+provider | fournisseur | Anbieter | proveedor | fornitore | proveedor | प्रदाता | 提供者 | поставщик | Fournisseur
+patient | patient | Patient | paciente | paziente | paciente | रोगी | 病人 | пациент | Patient
+communication | communication | Kommunikation | comunicación | comunicazione | comunicação | संचार | 沟通 | коммуникация | Kommunikatioun
+assessment | évaluation | Bewertung | evaluación | valutazione | avaliação | मूल्यांकन | 评估 | оценка | Bewäertung
+appointment | rendez-vous | Termin | cita | appuntamento | consulta | नियुक्ति | 预约 | запись | Rendez-Vu
+treatment | traitement | Behandlung | tratamiento | trattamento | tratamento | उपचार | 治疗 | лечение | Behandlung
+support | soutien | Unterstützung | apoyo | supporto | suporte | समर्थन | 支持 | поддержка | Unterstützung
+doctor | docteur | Arzt | doctor | dottore | médico | डॉक्टर | 医生 | врач | Dokter
+specialist | spécialiste | Spezialist | especialista | specialista | especialista | विशेषज्ञ | 专家 | специалист | Spezialist
+follow-up | suivi | Nachsorge | seguimiento | follow-up | acompanhamento | फॉलो-अप | 跟进 | отслеживание | Follow-up
+case | cas | Fall | caso | caso | caso | मामला | 案件 | случай | Fall
+management | gestion | Management | gestión | gestione | gerenciamento | प्रबंधन | 管理 | управление | Management
+evaluation | évaluation | Bewertung | evaluación | valutazione | avaliação | मूल्यांकन | 评估 | оценка | Evaluatioun
+collaboration | collaboration | Zusammenarbeit | colaboración | collaborazione | colaboração | सहयोग | 合作 | сотрудничество | Zusammenarbeit
+information | information | Information | información | informazione | informação | जानकारी | 信息 | информация | Informatioun
+query | requête | Anfrage | consulta | richiesta | consulta | प्रश्न | 查询 | запрос | Ufro
+resource | ressource | Ressource | recurso | risorsa | recurso | संसाधन | 资源 | ресурс | Ressource
+access | accès | Zugang | acceso | accesso | acesso | पहुँच | 访问 | доступ | Zougang
+guideline | directive | Richtlinie | directriz | linea guida | diretriz | दिशा-निर्देश | 指南 | руководство | Richtliїn
+criteria | critères | Kriterien | criterios | criteri | critérios | मानदंड | 标准 | критерии | Critèren
+service | service | Dienst | servicio | servizio | serviço | सेवा | 服务 | услуга | Service
+intervention | intervention | Intervention | intervención | intervento | intervenção | हस्तक्षेप | 干预 | вмешательство | Interventioun
+prescription | prescription | Rezept | receta | prescrizione | prescrição | प्रिस्क्रिप्शन | 处方 | рецепт | Rezept
+rehabilitation | réhabilitation | Rehabilitation | rehabilitación | riabilitazione | reabilitação | पुनर्वास | 康复 | реабилитация | Rehabilitatioun
+facility | établissement | Einrichtung | instalación | struttura | instalação | सुविधा | 设施 | учреждение | Facilitéit
+diagnosis | diagnostic | Diagnose | diagnóstico | diagnosi | diagnóstico | निदान | 诊断 | диагноз | Diagnos
+therapy | thérapie | Therapie | terapia | terapia | terapia | चिकित्सा | 治疗 | терапия | Therapi
+engagement | engagement | Engagement | compromiso | impegno | compromisso | समर्पण | 参与 | вовлечение | Engagement
+care | soin | Pflege | cuidado | cura | cuidado | देखभाल | 护理 | забота | Sorg
+record | enregistrement | Aufzeichnung | registro | registrazione | registro | रिकॉर्ड | 记录 | запись | Rekord
+system | système | System | sistema | sistema | sistema | प्रणाली | 系统 | система | System
+process | processus | Prozess | proceso | processo | processo | प्रक्रिया | 过程 | процесс | Prozess
+network | réseau | Netzwerk | red | rete | rede | नेटवर्क | 网络 | сеть | Netzwierk
+outcome | résultat | Ergebnis | resultado | risultato | resultado | परिणाम | 结果 | результат | Resultat
+consultation | consultation | Beratung | consulta | consulenza | consulta | परामर्श | 咨询 | консультация | Consultatioun
+solution | solution | Lösung | solución | soluzione | solução | समाधान | 解决方案 | решение | Léisung
+insurance | assurance | Versicherung | seguro | assicurazione | seguro | बीमा | 保险 | страхование | Versécherung
+transfer | transfert | Übertragung | transferencia | trasferimento | transferência | हस्तांतरण | 转移 | передача | Transfer
+continuity | continuité | Kontinuität | continuidad | continuità | continuidade | निरंतरता | 连续性 | непрерывность | Kontinuité
+involvement | implication | Beteiligung | participación | coinvolgimento | envolvimento | भागीदारी | 参与 | участие | Beteiligung
+feedback | retour d'information | Rückmeldung | retroalimentación | feedback | feedback | प्रतिक्रिया | 反馈 | обратная связь | Feedback
+monitoring | suivi | Überwachung | monitoreo | monitoraggio | monitoramento | निगरानी | 监测 | мониторинг | Monitoring
+outreach | sensibilisation | Outreach | alcance | sensibilizzazione | alcance | पहुँच | 外展 | охват | Outreach
+connection | connexion | Verbindung | conexión | connessione | conexão | कनेक्शन | 连接 | связь | Verbindung
+advocacy | plaidoyer | Advocacy | defensa | difesa | defesa | वकालत | 倡导 | адвокация | Advocacy
+planning | planification | Planung | planificación | pianificazione | planejamento | योजना | 规划 | планирование | Planung
+strategy | stratégie | Strategie | estrategia | strategia | estratégia | रणनीति | 策略 | стратегия | Strategie
+operation | opération | Operation | operación | operazione | operação | संचालन | 运营 | операция | Operation
+expectation | attente | Erwartung | expectativa | aspettativa | expectativa | उम्मीद | 预期 | ожидание | Erwartung
+satisfaction | satisfaction | Zufriedenheit | satisfacción | soddisfazione | satisfação | संतोष | 满意 | удовлетворение | Zufriedenheit
+teamwork | travail d'équipe | Teamarbeit | trabajo en equipo | lavoro di squadra | trabalho em equipe | टीमवर्क | 团队合作 | командная работа | Teamwork
+tracking | suivi | Verfolgung | seguimiento | tracciamento | rastreamento | ट्रैकिंग | 跟踪 | отслеживание | Verfolgung
+recommendation | recommandation | Empfehlung | recomendación | raccomandazione | recomendação | सिफारिश | 推荐 | рекомендация | Empfehlung
+priority | priorité | Priorität | prioridad | priorità | prioridade | प्राथमिकता | 优先 | приоритет | Prioritéit
+quality | qualité | Qualität | calidad | qualità | qualidade | गुणवत्ता | 质量 | качество | Qualität
+workforce | main-d'œuvre | Arbeitskräfte | mano de obra | forza lavoro | força de trabalho | श्रम शक्ति | 劳动力 | рабочая сила | Aarbechtskräften
+interdisciplinary | interdisciplinaire | interdisziplinär | interdisciplinario | interdisciplinare | interdisciplinar | अंतःविषय | 跨学科 | междисциплинарный | interdisziplinär
+alliance | alliance | Allianz | alianza | alleanza | aliança | संधि | 联盟 | альянс | Allianz
+responsibility | responsabilité | Verantwortung | responsabilidad | responsabilità | responsabilidade | ज़िम्मेदारी | 责任 | ответственность | Verantwortung
+referral form | formulaire de recommandation | Überweisungsformular | formulario de referencia | modulo di riferimento | formulário de referência | संदर्भ फॉर्म | 介绍信 | направление | Empfehlungsscheine
+workflow | flux de travail | Arbeitsablauf | flujo de trabajo | flusso di lavoro | fluxo de trabalho | कार्य प्रवाह | 工作流程 | рабочий процесс | Aarbechtsfluss
+hospital | hôpital | Krankenhaus | hospital | ospedale | hospital | अस्पताल | 医院 | больница | Spidol

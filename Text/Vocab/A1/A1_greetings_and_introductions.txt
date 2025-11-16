@@ -1,0 +1,65 @@
+hello | bonjour | hallo | hola | ciao | olá | नमस्ते | 你好 | привет
+hi | salut | hi | hola | ciao | oi | नमस्ते | 嗨 | привет
+goodbye | au revoir | auf Wiedersehen | adiós | addio | adeus | अलविदा | 再见 | до свидания
+morning | matin | Morgen | mañana | mattina | manhã | सुबह | 早上 | утро
+afternoon | après-midi | Nachmittag | tarde | pomeriggio | tarde | अपराह्न | 下午 | после полудня
+evening | soir | Abend | tarde | sera | noite | शाम | 晚上 | вечер
+name | nom | Name | nombre | nome | nome | नाम | 名字 | имя
+friend | ami | Freund | amigo | amico | amigo | मित्र | 朋友 | друг
+people | personne | Person | persona | persona | pessoa | व्यक्ति | 人 | человек
+family | famille | Familie | familia | famiglia | família | परिवार | 家庭 | семья
+teacher | professeur | Lehrer | profesor | insegnante | professor | शिक्षक | 老师 | учитель
+student | étudiant | Schüler | estudiante | studente | estudante | छात्र | 学生 | студент
+city | ville | Stadt | ciudad | città | cidade | शहर | 城市 | город
+country | pays | Land | país | paese | país | देश | 国家 | страна
+language | langue | Sprache | idioma | lingua | língua | भाषा | 语言 | язык
+meet | rencontrer | treffen | encontrar | incontrare | encontrar | मिलना | 见面 | встречать
+greet | saluer | begrüßen | saludar | salutare | cumprimentar | नमस्कार करना | 打招呼 | приветствовать
+say | dire | sagen | decir | dire | dizer | कहना | 说 | говорить
+speak | parler | sprechen | hablar | parlare | falar | बोलना | 说 | говорить
+talk | discuter | plaudern | charlar | parlare | conversar | बात करना | 聊天 | говорить
+listen | écouter | hören | escuchar | ascoltare | ouvir | सुनना | 听 | слушать
+reply | répondre | antworten | responder | rispondere | responder | उत्तर देना | 回复 | отвечать
+question | question | Frage | pregunta | domanda | pergunta | प्रश्न | 问题 | вопрос
+answer | répondre | antworten | responder | rispondere | responder | उत्तर | 答案 | ответ
+nice | joli | nett | agradable | carino | legal | अच्छा | 漂亮 | хороший
+happy | heureux | glücklich | feliz | felice | feliz | खुश | 快乐 | счастливый
+welcome | bienvenue | willkommen | bienvenido | benvenuto | bem-vindo | स्वागत है | 欢迎 | добро пожаловать
+this | ce | dieses | este | questo | este | यह | 这 | это
+that | ce | das | ese | quel | aquele | वह | 那 | тот
+who | qui | wer | quién | chi | quem | कौन | 谁 | кто
+how | comment | wie | cómo | come | como | कैसे | 怎么 | как
+where | où | wo | dónde | dove | onde | कहाँ | 哪里 | где
+what | quoi | was | qué | che | o que | क्या | 什么 | что
+yes | oui | ja | sí | sì | sim | हां | 是 | да
+no | non | nein | no | no | não | नहीं | 不是 | нет
+maybe | peut-être | vielleicht | quizás | forse | talvez | शायद | 也许 | может быть
+please | s'il vous plaît | bitte | por favor | per favore | por favor | कृपया | 请 | пожалуйста
+thank you | merci | danke | gracias | grazie | obrigado | धन्यवाद | 谢谢 | спасибо
+sorry | désolé | tut mir leid | lo siento | mi dispiace | desculpe | माफ करना | 对不起 | извините
+excuse me | excusez-moi | entschuldigen Sie | disculpe | mi scusi | com licença | माफ कीजिए | 劳驾 | извините меня
+good | bon | gut | bueno | buono | bom | अच्छा | 好 | хороший
+bad | mauvais | schlecht | malo | cattivo | mau | बुरा | 坏 | плохой
+same | même | gleich | mismo | stesso | mesmo | वही | 一样 | одинаковый
+different | différent | anders | diferente | diverso | diferente | अलग | 不同 | разный
+new | nouveau | neu | nuevo | nuovo | novo | नया | 新 | новый
+old | vieux | alt | viejo | vecchio | velho | पुराना | 旧 | старый
+beautiful | beau | schön | bonito | bello | bonito | सुंदर | 漂亮 | красивый
+interesting | intéressant | interessant | interesante | interessante | interessante | दिलचस्प | 有趣 | интересный
+help | aider | helfen | ayudar | aiutare | ajudar | मदद करना | 帮助 | помогать
+understand | comprendre | verstehen | entender | capire | entender | समझना | 理解 | понимать
+together | ensemble | zusammen | juntos | insieme | juntos | साथ | 一起 | вместе
+again | encore | wieder | otra vez | di nuovo | de novo | फिर | 再 | снова
+quick | rapide | schnell | rápido | veloce | rápido | तेज़ | 快 | быстрый
+slow | lent | langsam | lento | lento | lento | धीमा | 慢 | медленный
+short | court | kurz | corto | corto | curto | छोटा | 短 | короткий
+long | long | lang | largo | lungo | longo | लंबा | 长 | длинный
+smile | sourire | lächeln | sonrisa | sorriso | sorriso | मुस्कान | 微笑 | улыбка
+wave | saluer | winken | onda | ondeggiare | acenar | लहर | 挥手 | волна
+hug | câlin | umarmen | abrazo | abbraccio | abraço | आलिंगन | 拥抱 | объятие
+kiss | embrasser | küssen | beso | bacio | beijo | चुम्बन | 吻 | поцелуй
+handshake | poignée de main | handshake | apreton de manos | stretta di mano | aperto de mão | हाथ मिलाना | 握手 | рукопожатие
+phone call | appel téléphonique | Anruf | llamada telefónica | chiamata | chamada telefônica | फोन कॉल | 电话 | телефонный звонок
+introduction | introduction | Einführung | introducción | introduzione | introdução | परिचय | 介绍 | введение
+conversation | conversation | Gespräch | conversación | conversazione | conversa | वार्ता | 对话 | беседа
+party | fête | Party | fiesta | festa | festa | पार्टी | 聚会 | вечеринка

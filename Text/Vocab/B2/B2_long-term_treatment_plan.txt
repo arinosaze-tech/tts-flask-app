@@ -1,0 +1,65 @@
+treatment | traitement | Behandlung | tratamiento | trattamento | tratamento | इलाज | 处理 | лечение | Behandlung
+plan | plan | Plan | plan | piano | plano | योजना | 计划 | план | Plang
+strategy | stratégie | Strategie | estrategia | strategia | estratégia | रणनीति | 策略 | стратегия | Strategie
+consultation | consultation | Konsultation | consulta | consultazione | consulta | परामर्श | 咨询 | консультация | Consultatioun
+healthcare | soins de santé | Gesundheitsversorgung | atención médica | assistenza sanitaria | cuidados de saúde | स्वास्थ्य सेवा | 医疗保健 | здравоохранение | Gesondheetsbetreiung
+patient | patient | Patient | paciente | paziente | paciente | मरीज | 患者 | пациент | Patient
+progress | progrès | Fortschritt | progreso | progresso | progresso | प्रगति | 进展 | прогресс | Fortschrëtt
+assessment | évaluation | Bewertung | evaluación | valutazione | avaliação | मूल्यांकन | 评估 | оценка | Evaluatioun
+monitoring | surveillance | Überwachung | monitoreo | monitoraggio | monitoramento | निगरानी | 监测 | мониторинг | Überwachung
+medication | médicament | Medication | medicamento | medicinale | medicação | औषधि | 药物 | лекарство | Medikament
+adherence | adhésion | Einhaltung | adherencia | adesione | adesão | पालन | 遵守 | соблюдение | Einhaltung
+symptoms | symptômes | Symptome | síntomas | sintomi | sintomas | लक्षण | 症状 | симптомы | Symptomer
+diagnosis | diagnostic | Diagnose | diagnóstico | diagnosi | diagnóstico | निदान | 诊断 | диагноз | Diagnose
+goals | objectifs | Ziele | objetivos | obiettivi | metas | लक्ष्य | 目标 | цели | Ziler
+intervention | intervention | Intervention | intervención | intervento | intervenção | हस्तक्षेप | 干预 | вмешательство | Interventioun
+support | soutien | Unterstützung | apoyo | supporto | apoio | समर्थन | 支持 | поддержка | Ënnerschotung
+therapy | thérapie | Therapie | terapia | terapia | terapia | चिकित्सा | 疗法 | терапия | Therapie
+lifestyle | mode de vie | Lebensstil | estilo de vida | stile di vita | estilo de vida | जीवनशैली | 生活方式 | образ жизни | Lifestyles
+changes | changements | Änderungen | cambios | cambiamenti | mudanças | परिवर्तन | 变化 | изменения | Ännerungen
+routine | routine | Routine | rutina | routine | rotina | दिनचर्या | 日常 | рутина | Routine
+communication | communication | Kommunikation | comunicación | comunicazione | comunicação | संचार | 沟通 | коммуникация | Kommunikatioun
+follow-up | suivi | Nachverfolgung | seguimiento | follow-up | acompanhamento | फॉलो-अप | 后续 | фоллоу-ап | Follow-up
+appointment | rendez-vous | Termin | cita | appuntamento | consulta | नियुक्ति | 约会 | встреча | Rendez-vous
+evaluation | évaluation | Bewertung | evaluación | valutazione | avaliação | मूल्यांकन | 评估 | оценка | Evaluatioun
+nutrition | nutrition | Ernährung | nutrición | nutrizione | nutrição | पोषण | 营养 | питание | Ernährung
+physical activity | activité physique | körperliche Aktivität | actividad física | attività fisica | atividade física | शारीरिक गतिविधि | 体育活动 | физическая активность | physesche Aktivitéit
+risk factors | facteurs de risque | Risikofaktoren | factores de riesgo | fattori di rischio | fatores de risco | जोखिम कारक | 风险因素 | факторы риска | Risikofaktoren
+counseling | conseils | Beratung | asesoramiento | consulenza | aconselhamento | परामर्श | 咨询 | консультация | Berodung
+feedback | rétroaction | Rückmeldung | retroalimentación | feedback | feedback | फीडबैक | 反馈 | обратная связь | Feedback
+resources | ressources | Ressourcen | recursos | risorse | recursos | संसाधन | 资源 | ресурсы | Ressourcen
+emotional well-being | bien-être émotionnel | emotionale Gesundheit | bienestar emocional | benessere emotivo | bem-estar emocional | भावनात्मक कल्याण | 情感健康 | эмоциональное благополучие | emotionalt Wuel
+cooperation | coopération | Zusammenarbeit | cooperación | cooperazione | cooperação | सहयोग | 合作 | сотрудничество | Zesummenaarbecht
+teamwork | travail d'équipe | Teamarbeit | trabajo en equipo | lavoro di squadra | trabalho em equipe | टीम वर्क | 团队合作 | командная работа | Teamarbeit
+rehabilitation | réhabilitation | Rehabilitation | rehabilitación | riabilitazione | reabilitação | पुनर्वास | 康复 | реабилитация | Rehabilitatioun
+motivation | motivation | Motivation | motivación | motivazione | motivação | प्रेरणा | 动力 | мотивация | Motivatioun
+self-care | soins personnels | Selbstpflege | autocuidado | cura di sé | autocuidado | आत्म-देखभाल | 自我照顾 | забота о себе | Selbstpfleg
+engagement | engagement | Engagement | compromiso | impegno | compromisso | संलग्नता | 参与 | вовлеченность | Engagement
+outsourcing | externalisation | Outsourcing | externalización | esternalizzazione | terceirização | आउटसोर्सिंग | 外包 | аутсорсинг | Outsourcing
+collaboration | collaboration | Zusammenarbeit | colaboración | collaborazione | colaboração | सहयोग | 合作 | сотрудничество | Zesummenaarbecht
+prevention | prévention | Prävention | prevención | prevenzione | prevenção | रोकथाम | 预防 | предотвращение | Präventioun
+chronic | chronique | chronisch | crónico | cronico | crônico | पुराना | 慢性的 | хронический | chronisch
+condition | état | Zustand | condición | condizione | condição | स्थिति | 状况 | состояние | Bedingung
+wellness | bien-être | Wohlbefinden | bienestar | benessere | bem-estar | स्वास्थ्य | 健康 | благополучие | Gesondheet
+improvement | amélioration | Verbesserung | mejora | miglioramento | melhoria | सुधार | 改进 | улучшение | Verbesserung
+education | éducation | Bildung | educación | istruzione | educação | शिक्षा | 教育 | образование | Bildung
+information | information | Informationen | información | informazione | informação | जानकारी | 信息 | информация | Informatioun
+track | suivre | verfolgen | seguir | seguire | acompanhar | ट्रैक करना | 跟踪 | отслеживать | verfolgen
+analysis | analyse | Analyse | análisis | analisi | análise | विश्लेषण | 分析 | анализ | Analyse
+outcome | résultat | Ergebnis | resultado | risultato | resultado | परिणाम | 结果 | результат | résultat
+direction | direction | Richtung | dirección | direzione | direção | दिशा | 方向 | направление | Richtung
+mindfulness | pleine conscience | Achtsamkeit | atención plena | consapevolezza | atenção plena | माइंडफुलनेस | 正念 | внимательность | Achtsamkeit
+report | rapport | Bericht | informe | rapporto | relatório | रिपोर्ट | 报告 | отчет | Rapport
+decisions | décisions | Entscheidungen | decisiones | decisioni | decisões | निर्णय | 决策 | решения | Entscheedungen
+sustainability | durabilité | Nachhaltigkeit | sostenibilidad | sostenibilità | sustentabilidade | स्थिरता | 可持续性 | устойчивость | Nachhaltigkeit
+commitment | engagement | Engagement | compromiso | impegno | compromisso | प्रतिबद्धता | 承诺 | обязательство | Engagement
+recommendation | recommandation | Empfehlung | recomendación | raccomandazione | recomendação | सिफारिश | 推荐 | рекомендация | Empfehlung
+schedule | emploi du temps | Zeitplan | horario | programma | calendário | कार्यक्रम | 日程安排 | расписание | Fahrplan
+barrier | barrière | Barriere | barrera | barriera | barreira | बाधा | 障碍 | барьер | Barrière
+success | succès | Erfolg | éxito | successo | sucesso | सफलता | 成功 | успех | Succès
+tools | outils | Werkzeuge | herramientas | strumenti | ferramentas | उपकरण | 工具 | инструменты | Werkzeuge
+standards | normes | Standards | estándares | standard | padrões | मानक | 标准 | стандарты | Standards
+individualized | individualisé | individualisiert | individualizado | personalizzato | individualizado | व्यक्तिगत | 个性化 | индивидуализированный | individualisé
+techniques | techniques | Techniken | técnicas | tecniche | técnicas | तकनीकें | 技术 | техники | techniques
+approach | approche | Ansatz | enfoque | approccio | abordagem | दृष्टिकोण | 方法 | подход | Ansatz
+adjustment | ajustement | Anpassung | ajuste | aggiustamento | ajuste | समायोजन | 调整 | корректировка | Justierung

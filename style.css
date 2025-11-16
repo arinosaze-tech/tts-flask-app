@@ -1,0 +1,397 @@
+:root{
+  --bg:#0f1115; --card:#151923; --txt:#e9eef7; --muted:#98a2b3;
+  --elev:#0b0e14; --border:#222735; --accent:#4f46e5;
+  --ok:#10b981; --warn:#f59e0b; --err:#ef4444;
+  --shadow:0 10px 30px rgba(0,0,0,.25);
+}
+
+/* Light theme overrides */
+html[data-theme="light"]{
+  --bg:#f7f8fa; --card:#ffffff; --txt:#0f172a; --muted:#6b7280;
+  --elev:#f1f5f9; --border:#e5e7eb; --accent:#3b82f6;
+  --shadow:0 10px 30px rgba(0,0,0,.08);
+}
+
+/* Base layout */
+*{ box-sizing: border-box; }
+body{ margin:0; font:14px/1.6 Inter, system-ui, -apple-system, Segoe UI, Roboto, Arial; background:var(--bg); color:var(--txt); }
+.app-header{ padding:16px 20px; border-bottom:1px solid var(--border); display:flex; align-items:center; justify-content:space-between; }
+h1{ margin:0; font-size:20px; }
+main{ padding:16px; }
+.grid{ display:grid; grid-template-columns: 1fr; gap:16px; }
+@media (min-width: 980px){ .grid{ grid-template-columns: 1fr 1fr; } }
+
+.card{ background:var(--card); border:1px solid var(--border); border-radius:16px; padding:14px; box-shadow: var(--shadow); }
+.card h2{ margin-top:0; }
+.card h3{ margin:8px 0; color:var(--muted); font-weight:600; }
+.toolbar{ display:flex; gap:8px; margin-bottom:12px; flex-wrap:wrap; }
+
+/* Buttons */
+button{ background:var(--accent); color:#fff; border:0; padding:8px 12px; border-radius:10px; cursor:pointer; }
+button:disabled{ opacity:.5; cursor:not-allowed; }
+.btn.danger{ background:var(--err); }
+.btn.outline{ background:transparent; color:var(--txt); border:1px solid var(--border); }
+.icon-btn{
+  background:transparent; color:var(--txt); border:1px solid var(--border); padding:8px 10px; border-radius:999px;
+  display:inline-flex; align-items:center; gap:8px;
+}
+.icon-btn:hover{ background:var(--elev); }
+
+/* Theme button visuals */
+#btnTheme .icon-label{ font-size:12px; opacity:.7; }
+html[data-theme="dark"] #btnTheme .icon-sun{ display:none; }
+html[data-theme="dark"] #btnTheme .icon-moon{ display:inline; }
+html[data-theme="light"] #btnTheme .icon-sun{ display:inline; }
+html[data-theme="light"] #btnTheme .icon-moon{ display:none; }
+
+/* Form */
+label{ display:block; margin:6px 0; }
+.checkbox{ display:flex; align-items:center; gap:8px; }
+input,select{
+  width:100%; padding:10px 12px; border-radius:10px; border:1px solid var(--border);
+  background:var(--elev); color:var(--txt);
+}
+input:focus, select:focus{ outline:2px solid #93c5fd; outline-offset:2px; border-color:#3b82f6; }
+.row{ display:flex; gap:12px; align-items:flex-end; flex-wrap:wrap; }
+.row > label{ flex:1 1 260px; }
+
+.badge{ display:inline-block; padding:4px 8px; border-radius:999px; font-size:12px; background:#222735; color:#e9eef7; }
+.badge.success{ background:var(--ok); color:#fff; }
+.badge.warn{ background:var(--warn); color:#111827; }
+
+/* Details / summaries */
+.details summary{
+  cursor:pointer; user-select:none; padding:8px 12px; margin:8px 0 12px;
+  background:#0e131b; border:1px solid #242a39; border-radius:12px;
+}
+.details[open] summary{ border-color:#30384f; background:#0c1118; }
+html[data-theme="light"] .details summary{
+  background:#eef2f7; border-color:#dbe2ea;
+}
+html[data-theme="light"] .details[open] summary{
+  background:#e9eff8; border-color:#cfd9e6;
+}
+
+/* Outputs */
+.outputs-list{ display:flex; flex-wrap:wrap; gap:10px; }
+.outputs-list a{
+  display:inline-flex; align-items:center; gap:8px; padding:8px 10px;
+  background:#0e131b; border:1px solid #242a39; border-radius:10px; text-decoration:none; color:#60a5fa;
+}
+.outputs-list a:hover{ border-color:#2e3a54; }
+html[data-theme="light"] .outputs-list a{
+  background:#f1f5f9; border-color:#e5e7eb; color:#2563eb;
+}
+
+/* Log view + collapsible */
+.log-view{
+  background:var(--elev); padding:12px; border-radius:10px; min-height:220px;
+  white-space:pre-wrap; overflow:auto; font-family:ui-monospace,SFMono-Regular,Consolas,Monaco,monospace;
+}
+details summary{
+  cursor:pointer; user-select:none; padding:10px 12px; margin:-4px -4px 10px;
+  background:#0e131b; border:1px solid #2a3143; border-radius:10px; list-style:none;
+}
+details[open] summary{ background:#0c1118; border-color:#30384f; }
+details summary::-webkit-details-marker{ display:none; }
+html[data-theme="light"] details summary{ background:#eef2f7; border-color:#dbe2ea; }
+html[data-theme="light"] details[open] summary{ background:#e9eff8; border-color:#cfd9e6; }
+
+/* Toasts */
+.toasts{ position:fixed; right:16px; bottom:16px; z-index:100; display:flex; flex-direction:column; gap:8px; }
+.toast{
+  background:#0e131b; border:1px solid #2a3143; color:var(--txt); padding:10px 12px; border-radius:10px;
+  box-shadow:var(--shadow); animation:slideIn .2s ease-out;
+}
+.toast.ok{ border-color: rgba(16,185,129,.6); }
+.toast.warn{ border-color: rgba(245,158,11,.7); }
+.toast.err{ border-color: rgba(239,68,68,.7); }
+@keyframes slideIn{ from{ transform:translateY(8px); opacity:0; } to{ transform:translateY(0); opacity:1; } }
+html[data-theme="light"] .toast{ background:#ffffff; border-color:#e5e7eb; }
+
+/* Result Card (latest output) */
+.result-card{
+  position:fixed; left:50%; transform:translateX(-50%); bottom:18px; z-index:110;
+  background:var(--card); border:1px solid var(--border); box-shadow:var(--shadow);
+  border-radius:14px; padding:10px 12px; min-width:260px;
+}
+.result-card.hidden{ display:none; }
+.rc-body{ display:flex; align-items:center; gap:12px; }
+.rc-title{ font-weight:700; margin-bottom:2px; }
+.rc-link{ text-decoration:none; font-weight:600; color:#60a5fa; }
+html[data-theme="light"] .rc-link{ color:#2563eb; }
+.rc-close{ margin-left:auto; }
+
+/* Busy overlay */
+.busy{ position:fixed; inset:0; display:grid; place-items:center; background:rgba(0,0,0,.55); z-index:200; }
+.busy.hidden{ display:none; }
+.busy-panel{
+  background:var(--card); border:1px solid var(--border); border-radius:16px; padding:22px;
+  width:min(92vw, 420px); box-shadow:var(--shadow);
+}
+.ring{ position:relative; width:120px; height:120px; margin:0 auto 10px; }
+.ring svg{ width:120px; height:120px; transform:rotate(-90deg); }
+.ring .track{ fill:none; stroke:rgba(255,255,255,.10); stroke-width:12; stroke-linecap:round; }
+html[data-theme="light"] .ring .track{ stroke:rgba(0,0,0,.08); }
+.ring .fill{ --p:0; fill:none; stroke:#4f46e5; stroke-width:12; stroke-linecap:round;
+  stroke-dasharray:339; stroke-dashoffset:calc(339 * (1 - var(--p)/100)); transition:stroke-dashoffset .25s ease;
+}
+.ring-center{ position:absolute; inset:0; display:flex; align-items:center; justify-content:center; font-weight:700; font-size:20px; }
+.busy-text{ font-size:14px; color:#cbd5e1; display:flex; align-items:center; gap:6px; justify-content:center; margin-bottom:10px; }
+html[data-theme="light"] .busy-text{ color:#475569; }
+.dots b{ display:inline-block; animation:blink 1.2s infinite; }
+.dots b:nth-child(2){ animation-delay:.15s; }
+.dots b:nth-child(3){ animation-delay:.3s; }
+@keyframes blink{ 0%,80%,100%{ opacity:.25 } 40%{ opacity:1 } }
+
+/* Linear progress */
+.progress{ width:100%; height:8px; background:#121826; border:1px solid #2a3143; border-radius:999px; overflow:hidden; }
+.progress .bar{ width:0%; height:100%; background:linear-gradient(90deg,#4f46e5,#6366f1); transition:width .25s ease; }
+html[data-theme="light"] .progress{ background:#eef2f7; border-color:#e5e7eb; }
+
+.busy-actions{ display:flex; gap:8px; margin-top:6px; }
+
+@media (max-width:480px){
+  .busy-panel{ width:min(96vw, 360px); padding:16px; }
+  .ring{ width:100px; height:100px; }
+  .ring svg{ width:100px; height:100px; }
+}
+
+
+/* --- Responsive fixes (append-only patch) --- */
+
+/* Tablet & down: one-column layout */
+@media (max-width: 1024px){
+  /* اگر الان دو ستونه است، این خط به تک‌ستونه تغییرش می‌دهد */
+  .grid{ grid-template-columns: 1fr !important; }
+
+  /* فیلدهای فرم تمام‌عرض بشن */
+  .row > label{ flex: 1 1 100% !important; }
+
+  /* فاصله‌ها کمی بیشتر برای خوانایی */
+  .card{ padding: 16px !important; }
+}
+
+/* Mobile: stacked fields + larger tap targets */
+@media (max-width: 640px){
+  /* فرم‌ها ستونی و کشیده */
+  .row{ flex-direction: column !important; align-items: stretch !important; }
+  .row > label, .row > input, .row > select{ width: 100% !important; }
+
+  /* دکمه‌ها تاچ‌فرندلی */
+  button{ min-height: 44px; padding: 12px 14px; }
+
+  /* اندازه‌ی فونت و فاصله‌ی ورودی‌ها برای خوانایی بهتر */
+  input, select{ padding: 12px 14px; font-size: 16px; }
+
+  /* لاگ فشرده‌تر تا جا نگیرد */
+  .log-view{ min-height: 140px; max-height: 50vh; }
+
+  /* پنل Busy و حلقه‌ی پروگرس کمی کوچک‌تر */
+  .busy-panel{ width: min(96vw, 360px); padding: 16px; }
+  .ring{ width: 100px; height: 100px; }
+  .ring svg{ width: 100px; height: 100px; }
+}
+
+/* Very small phones: جلوگیری از اسکرول افقی اتفاقی */
+@media (max-width: 380px){
+  body{ overflow-x: hidden; }
+  .toolbar{ gap: 6px; }
+}
+
+
+/* اگر .grid فقط یک فرزند داشته باشد، کارت تمام عرض را بگیرد */
+.grid > *:only-child { grid-column: 1 / -1; }
+
+/* در مرورگرهایی که :has را دارند، همان حالت را به یک‌ستونه تبدیل کن */
+@supports selector(:has(*)) {
+  .grid:has(> *:only-child) { grid-template-columns: 1fr; }
+}
+
+/* --- Hamburger button --- */
+.icon-btn.hamburger .ham{ position:relative; width:18px; height:14px; display:inline-block; }
+.icon-btn.hamburger .ham i{
+  position:absolute; left:0; right:0; height:2px; background:currentColor; border-radius:2px; transition:.2s transform,.2s opacity,.2s top;
+}
+.icon-btn.hamburger .ham i:nth-child(1){ top:0; }
+.icon-btn.hamburger .ham i:nth-child(2){ top:6px; }
+.icon-btn.hamburger .ham i:nth-child(3){ top:12px; }
+.icon-btn.hamburger[aria-expanded="true"] .ham i:nth-child(1){ top:6px; transform:rotate(45deg); }
+.icon-btn.hamburger[aria-expanded="true"] .ham i:nth-child(2){ opacity:0; }
+.icon-btn.hamburger[aria-expanded="true"] .ham i:nth-child(3){ top:6px; transform:rotate(-45deg); }
+
+/* --- Sheet (menu) --- */
+.sheet-backdrop{
+  position:fixed; inset:0; background:rgba(0,0,0,.35); z-index:250; -webkit-backdrop-filter: blur(2px); backdrop-filter: blur(2px);
+}
+.sheet{
+  position:fixed; top:64px; right:16px; z-index:260; width:300px;
+  background:var(--card); border:1px solid var(--border); border-radius:14px; box-shadow:var(--shadow);
+  padding:10px 10px 12px; animation: menuIn .14s ease-out;
+}
+@keyframes menuIn{ from{ opacity:0; transform: translateY(-6px); } to{ opacity:1; transform:none; } }
+
+.sheet-sec{ padding:8px 8px 10px; border-bottom:1px solid var(--border); }
+.sheet-sec:last-of-type{ border-bottom:0; }
+.sheet-title{ font-weight:700; font-size:13px; color:var(--muted); margin:2px 2px 6px; text-transform:uppercase; letter-spacing:.4px; }
+.sheet-item{
+  width:100%; text-align:left; display:flex; gap:10px; align-items:center; padding:10px 12px;
+  border-radius:10px; background:transparent; border:0; color:var(--txt); cursor:pointer;
+}
+.sheet-item:hover{ background:var(--elev); }
+.sheet-hint{ padding:6px 10px 2px; font-size:12px; color:var(--muted); text-align:right; }
+
+/* Light theme tweaks */
+html[data-theme="light"] .sheet{ background:#fff; }
+html[data-theme="light"] .sheet-item:hover{ background:#f2f5fb; }
+
+/* Mobile: make it a top sheet */
+@media (max-width: 640px){
+  .sheet{ right:10px; left:10px; width:auto; top:56px; }
+}
+
+/* === Pretty switches only for 'Manual items' & 'Enable bilingual' === */
+input[type="checkbox"]#items_override,
+input[type="checkbox"]#enable_bilingual{
+  appearance: none;
+  -webkit-appearance: none;
+  width: 44px;
+  height: 24px;
+  background: var(--elev);
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  position: relative;
+  vertical-align: middle;
+  cursor: pointer;
+  transition: background .2s ease, border-color .2s ease, box-shadow .2s ease;
+  outline: none;
+  margin-right: 8px; /* فاصله تا متن کنار سوییچ */
+}
+
+/* Knob */
+input#items_override::after,
+input#enable_bilingual::after{
+  content:"";
+  position:absolute;
+  top: 2px;
+  left: 2px;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background: #fff; /* در تم تیره و روشن خوب دیده می‌شود */
+  box-shadow: 0 1px 2px rgba(0,0,0,.35);
+  transition: transform .2s ease;
+}
+
+/* Checked state */
+input#items_override:checked,
+input#enable_bilingual:checked{
+  background: linear-gradient(90deg, var(--accent), #6366f1);
+  border-color: #6366f1;
+}
+input#items_override:checked::after,
+input#enable_bilingual:checked::after{
+  transform: translateX(20px);
+}
+
+/* Focus ring برای دسترس‌پذیری */
+input#items_override:focus-visible,
+input#enable_bilingual:focus-visible{
+  box-shadow: 0 0 0 3px rgba(147,197,253,.55);
+}
+
+/* Disabled look (اگر جایی غیرفعال شوند) */
+input#items_override:disabled,
+input#enable_bilingual:disabled{
+  opacity:.55; filter: grayscale(.35); cursor:not-allowed;
+}
+
+/* چینش بهتر وقتی داخل label.checkbox هستند */
+label.checkbox{
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  cursor: pointer;
+}
+
+/* تم روشن: حاشیه‌ی کمی روشن‌تر تا سوییچ واضح بماند */
+html[data-theme="light"] input#items_override,
+html[data-theme="light"] input#enable_bilingual{
+  background: #eef2f7;
+  border-color: #dbe2ea;
+}
+
+
+/* === Compact & Minimal UI (desktop only) === */
+@media (min-width: 641px){
+  /* دکمه‌ها جمع‌وجورتر و مینیمال */
+  .toolbar button{
+    min-height: 34px;
+    padding: 6px 10px;
+    font-size: 13px;
+    border-radius: 8px;
+  }
+  /* دکمه‌ی Activate خیلی توی ذوق نزنه */
+  #btnActivate{
+    background: transparent;
+    color: var(--txt);
+    border: 1px solid var(--border);
+  }
+  #btnActivate:hover{
+    background: var(--elev);
+  }
+
+  /* ورودی‌ها و سلکتورها کوتاه‌تر و لطیف‌تر */
+  input, select{
+    height: 38px;              /* ارتفاع کنترل‌ها */
+    padding: 6px 10px;         /* کمتر از قبل */
+    border-radius: 10px;       /* گوشه نرم ولی نه زیاد */
+    background: var(--elev);   /* ظاهر مینیمال */
+    border: 1px solid var(--border);
+  }
+
+  /* عددِ Manual items عریض دیده نشه */
+  #llm_items_basic{
+    max-width: 140px;          /* اندازه منطقی */
+  }
+}
+
+/* ردیف‌هایی که سوییچ دارند، عمودی هم‌تراز بشن (برای ظاهر تمیز) */
+@supports selector(:has(*)) {
+  .row:has(#items_override),
+  .row:has(#enable_bilingual){
+    align-items: center !important;  /* به جای flex-end */
+  }
+}
+
+/* مینیمال‌تر کردن افکت‌های فوکِس */
+input:focus, select:focus, .toolbar button:focus{
+  outline: 2px solid rgba(147,197,253,.55);
+  outline-offset: 2px;
+  box-shadow: none;
+}
+
+/* دکمه‌ها در حالت روشن/تیره همچنان خوانا */
+html[data-theme="light"] .toolbar button{
+  box-shadow: none;
+}
+
+/* برای ثبات، فاصله‌ی لیبلِ کنار سوییچ‌ها کمی بهتر شود */
+label.checkbox{
+  gap: 10px;
+}
+
+/* اگر جایی دکمه‌ها خیلی کشیده شد، اجازه نده ارتفاع بیشتر از حد شود */
+button{
+  line-height: 1.15;
+}
+
+/* Center the Cancel button in the busy overlay */
+.busy-actions{
+  justify-content: center !important;  /* center horizontally */
+}
+
+.busy-actions .btn{
+  margin: 0 auto;                      /* ensure button sits in the middle */
+  min-width: 112px;                    /* optional: a tidy width */
+}

@@ -1,0 +1,65 @@
+landlord | propriétaire | Vermieter | inquilino | locatario | senhorio | मकान मालिक | 房东 | арендодатель | Hausbesitzer
+tenant | locataire | Mieter | inquilino | locatario | inquilino | किरायेदार | 租户 | жилец | Mieter
+rent | louer | mieten | alquilar | affittare | alugar | किराया | 租金 | аренда | Miete
+lease | bail | Mietvertrag | contrato | contratto | contrato | अनुबंध | 租约 | контракт | Lease
+deposit | dépôt | Kaution | depósito | deposito | depósito | जमा | 押金 | залог | Depot
+notice | avis | Mitteilung | aviso | preavviso | aviso | नोटिस | 通知 | уведомление | Mitteilung
+contract | contrat | Vertrag | contrato | contratto | contrato | अनुबंध | 合同 | контракт | Vertrag
+repair | réparer | reparieren | reparar | riparare | reparar | मरम्मत करना | 修理 | ремонт | Reparatur
+maintenance | entretien | Wartung | mantenimiento | manutenzione | manutenção | रखरखाव | 维护 | обслуживание | Wartung
+utility | utilité | Dienstprogramm | utilidad | utilità | utilidade | उपयोगिता | 公用事业 | полезность | Dienstprogramm
+bill | facture | Rechnung | factura | fattura | conta | बिल | 账单 | счёт | Rechnung
+deadline | échéance | Frist | plazo | scadenza | prazo | अंतिम तिथि | 截止日期 | крайний срок | Frist
+condition | condition | Zustand | condición | condizione | condição | स्थिति | 状况 | состояние | Bedingung
+damage | dommage | Schaden | daño | danno | dano | क्षति | 损坏 | ущерб | Schaden
+refund | remboursement | Rückerstattung | reembolso | rimborso | reembolso | वापसी | 退款 | возврат | Rückerstattung
+receipt | reçu | Quittung | recibo | ricevuta | recibo | रसीद | 收据 | квитанция | Quittung
+budget | budget | Budget | presupuesto | budget | orçamento | बजट | 预算 | бюджет | Budget
+cost | coût | Kosten | costo | costo | custo | लागत | 成本 | стоимость | Kost
+apartment | appartement | Wohnung | apartamento | appartamento | apartamento | अपार्टमेंट | 公寓 | квартира | Appartement
+fee | frais | Gebühr | tarifa | tassa | taxa | फीस | 费用 | сбор | Gebühr
+policy | politique | Politik | política | politica | política | नीति | 政策 | политика | Politik
+rule | règle | Regel | regla | regola | regra | नियम | 规则 | правило | Regel
+right | droit | Recht | derecho | diritto | direito | अधिकार | 权利 | право | Recht
+letter | lettre | Brief | carta | lettera | carta | पत्र | 信 | письмо | Bréif
+complaint | plainte | Beschwerde | queja | reclamo | reclamação | शिकायत | 投诉 | жалоба | Beschwerde
+lease agreement | contrat de location | Mietvertrag | contrato de arrendamiento | contratto di locazione | contrato de locação | पट्टा | 租赁协议 | договор аренды | Mietvertrag
+security deposit | dépôt de garantie | Kaution | depósito de seguridad | deposito cauzionale | caução | सुरक्षा जमा | 安全押金 | залог | Garantie
+notice period | préavis | Kündigungsfrist | período de aviso | preavviso | período de aviso | नोटिस अवधि | 通知期 | срок уведомления | Kündigungsfrist
+monthly rent | loyer mensuel | Monatsmiete | alquiler mensual | affitto mensile | aluguel mensal | मासिक किराया | 月租 | месячная аренда | monatliche Miete
+late fee | frais de retard | Verspätungsgebühr | cargo por demora | penale per ritardo | taxa de atraso | देर शुल्क | 延迟费用 | штраф за просрочку | Verspätungsgebühr
+market rate | taux du marché | Marktpreis | tarifa de mercado | tassa di mercato | taxa de mercado | बाजार दर | 市场价格 | рыночная ставка | Marktpreis
+payment plan | plan de paiement | Zahlungsplan | plan de pagos | piano di pagamento | plano de pagamento | भुगतान योजना | 付款计划 | план платежей | Zahlungsplan
+negotiate | négocier | verhandeln | negociar | negoziare | negociar | बातचीत करना | 谈判 | вести переговоры | verhandelen
+discuss | discuter | besprechen | discutir | discutere | discutir | चर्चा करना | 讨论 | обсуждать | diskutéieren
+request | demander | anfragen | solicitar | richiedere | pedir | अनुरोध करना | 请求 | запрашивать | ufroen
+ask | demander | fragen | preguntar | chiedere | perguntar | पूछना | 询问 | спрашивать | froen
+explain | expliquer | erklären | explicar | spiegare | explicar | समझाना | 解释 | объяснять | erklären
+accept | accepter | akzeptieren | aceptar | accettare | aceitar | स्वीकार करना | 接受 | принимать | akzeptéieren
+decline | décliner | ablehnen | declinar | rifiutare | recusar | अस्वीकार करना | 拒绝 | отклонять | ofhalen
+propose | proposer | vorschlagen | proponer | proporre | propor | प्रस्ताव रखना | 提议 | предлагать | proposéieren
+agree | d'accord | zustimmen | estar de acuerdo | concordare | concordar | सहमत होना | 同意 | соглашаться | zustimmen
+disagree | ne pas être d'accord | nicht zustimmen | estar en desacuerdo | non concordare | discordar | असहमत होना | 不同意 | не соглашаться | neduerfen
+respond | répondre | antworten | responder | rispondere | responder | प्रतिक्रिया देना | 回应 | отвечать | äntwerten
+reduce | réduire | reduzieren | reducir | ridurre | reduzir | कम करना | 减少 | уменьшать | reduzéieren
+increase | augmenter | erhöhen | aumentar | aumentare | aumentar | बढ़ाना | 增加 | увеличивать | erhéijen
+adjust | ajuster | anpassen | ajustar | regolare | ajustar | समायोजित करना | 调整 | регулировать | ajustéieren
+renew | renouveler | erneuern | renovar | rinnovare | renovar | नवीनीकरण करना | 更新 | обновлять | erneieren
+sign | signer | unterschreiben | firmar | firmare | assinar | हस्ताक्षर करना | 签署 | подписывать | ënnerschreiwen
+pay | payer | zahlen | pagar | pagare | pagar | भुगतान करना | 付款 | платить | bezuelen
+confirm | confirmer | bestätigen | confirmar | confermare | confirmar | पुष्टि करना | 确认 | подтвердить | Bestätegen
+schedule | planifier | planen | programar | pianificare | agendar | कार्यक्रम बनाना | 安排 | расписание | terminéieren
+move out | déménager | ausziehen | mudarse | traslocare | mudar-se | बाहर जाना | 搬出 | выехать | wegzéien
+fair | juste | fair | justo | equo | justo | उचित | 公平 | справедливый | gerecht
+reasonable | raisonnable | vernünftig | razonable | ragionevole | razoável | उचित | 合理 | разумный | raisonnabel
+affordable | abordable | erschwinglich | asequible | accessibile | acessível | वहन करने योग्य | 合理的 | доступный | bezuelbar
+expensive | cher | teuer | caro | costoso | caro | महंगा | 昂贵 | дорогой | deier
+flexible | flexible | flexibel | flexible | flessibile | flexível | लचीला | 灵活 | гибкий | flexibel
+firm | ferme | fest | firme | solido | firme | दृढ़ | 坚定 | твердый | fest
+polite | poli | höflich | educado | cortese | educado | विनम्र | 有礼貌 | вежливый | höflech
+respectful | respectueux | respektvoll | respetuoso | rispettoso | respeitoso | सम्मानजनक | 尊重 | уважительный | respektvoll
+clear | clair | klar | claro | chiaro | claro | स्पष्ट | 清晰 | ясный | kloer
+honest | honnête | ehrlich | honesto | onesto | honesto | ईमानदार | 诚实 | честный | éierlech
+urgent | urgent | dringend | urgente | urgente | urgente | तत्काल | 紧急 | срочный | dréngend
+written | écrit | geschrieben | escrito | scritto | escrito | लिखित | 书面 | письменный | geschriwwen
+legal | légal | legal | legal | legale | legal | कानूनी | 合法 | законный | gesetzlech

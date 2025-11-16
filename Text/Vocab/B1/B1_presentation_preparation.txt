@@ -1,0 +1,55 @@
+presentation | présentation | Präsentation | presentación | presentazione | apresentação | प्रस्तुति | 演示 | презентация | Presentatioun
+slide | diapositive | Folie | diapositiva | diapositiva | slide | स्लाइड | 幻灯片 | слайд | Folie
+audience | public | Publikum | público | pubblico | público | श्रोता | 听众 | аудитория | Public
+topic | sujet | Thema | tema | tema | tema | विषय | 主题 | тема | Thema
+outline | plan | Gliederung | esquema | scaletta | roteiro | रूपरेखा | 提纲 | план | Glidderung
+goal | objectif | Ziel | objetivo | obiettivo | objetivo | लक्ष्य | 目标 | цель | Zil
+message | message | Botschaft | mensaje | messaggio | mensagem | संदेश | 信息 | сообщение | Message
+example | exemple | Beispiel | ejemplo | esempio | exemplo | उदाहरण | 例子 | пример | Beispill
+fact | fait | Tatsache | hecho | fatto | fato | तथ्य | 事实 | факт | Tatsaach
+chart | tableau | Diagramm | tabla | tabella | tabela | चार्ट | 图表 | диаграмма | Diagramm
+graph | graphique | Grafik | gráfico | grafico | gráfico | ग्राफ | 图形 | график | Grafik
+image | image | Bild | imagen | immagine | imagem | छवि | 图片 | изображение | Bild
+summary | résumé | Zusammenfassung | resumen | riassunto | resumo | सारांश | 摘要 | сводка | Zesummefaassung
+timer | minuteur | Timer | temporizador | timer | temporizador | टाइमर | 计时器 | таймер | Timer
+note | note | Notiz | nota | nota | nota | नोट | 笔记 | заметка | Notiz
+feedback | retour | Rückmeldung | comentario | feedback | feedback | प्रतिक्रिया | 反馈 | обратная связь | Réckmeldung
+laptop | ordinateur portable | Laptop | portátil | computer portatile | computador portátil | लैपटॉप | 笔记本电脑 | ноутбук | Laptop
+projector | projecteur | Beamer | proyector | proiettore | projetor | प्रोजेक्टर | 投影仪 | проектор | Projektor
+microphone | micro | Mikrofon | micrófono | microfono | microfone | माइक्रोफोन | 麦克风 | микрофон | Mikrofon
+handout | fiche | Handout | hoja informativa | dispensa | folha informativa | हैंडआउट | 讲义 | раздаточный материал | Handout
+agenda | ordre du jour | Tagesordnung | orden del día | ordine del giorno | ordem do dia | कार्यसूची | 议程 | повестка дня | Dagesuerdnung
+stage | scène | Bühne | escenario | palco | palco | मंच | 舞台 | сцена | Bühn
+plan | planifier | planen | planear | pianificare | planejar | योजना बनाना | 计划 | планировать | plangen
+prepare | préparer | vorbereiten | preparar | preparare | preparar | तैयार करना | 准备 | подготовить | virbereeden
+research | faire des recherches | forschen | investigar | fare ricerca | pesquisar | शोध करना | 研究 | исследовать | fuerschen
+organize | organiser | organisieren | organizar | organizzare | organizar | व्यवस्थित करना | 组织 | организовать | organiséieren
+rehearse | répéter | proben | ensayar | provare | ensaiar | पूर्वाभ्यास करना | 排练 | репетировать | prouwen
+write | écrire | schreiben | escribir | scrivere | escrever | लिखना | 写 | писать | schreiwen
+edit | modifier | bearbeiten | editar | modificare | editar | संपादित करना | 编辑 | редактировать | editéieren
+check | vérifier | prüfen | revisar | controllare | verificar | जांच करना | 检查 | проверить | kontrolléieren
+test | tester | testen | probar | testare | testar | परीक्षण करना | 测试 | тестировать | testen
+design | concevoir | entwerfen | diseñar | progettare | desenhar | डिज़ाइन करना | 设计 | проектировать | designéieren
+highlight | souligner | hervorheben | destacar | evidenziare | destacar | उजागर करना | 突出 | подчёркивать | hervorhiewen
+Explain | expliquer | erklären | explicar | spiegare | explicar | समझाना | 解释 | объяснять | erklären
+support | soutenir | unterstützen | apoyar | sostenere | apoiar | समर्थन करना | 支持 | поддерживать | ënnerstëtzen
+involve | impliquer | einbeziehen | involucrar | coinvolgere | envolver | शामिल करना | 涉及 | вовлекать | abezéien
+connect | relier | verbinden | conectar | collegare | conectar | जोड़ना | 连接 | соединять | verknëppen
+summarize | résumer | zusammenfassen | resumir | riassumere | resumir | संक्षेप करना | 总结 | резюмировать | zesummefaassen
+practice | s'entraîner | üben | practicar | praticare | praticar | अभ्यास करना | 练习 | практиковаться | üben
+clear | clair | klar | claro | chiaro | claro | स्पष्ट | 清楚 | ясный | kloer
+simple | simple | einfach | simple | semplice | simples | सरल | 简单 | простой | einfacht
+short | court | kurz | corto | corto | curto | छोटा | 短 | короткий | kuerz
+main | principal | zentral | principal | principale | principal | मुख्य | 主要 | основной | haapt
+key | clé | wichtig | clave | chiave | chave | महत्वपूर्ण | 关键 | ключевой | wichteg
+strong | fort | stark | fuerte | forte | forte | मजबूत | 强 | сильный | staark
+confident | confiant | selbstbewusst | seguro | sicuro | confiante | आत्मविश्वासी | 自信 | уверенный | selbstbewosst
+visual | visuel | visuell | visual | visivo | visual | दृश्य | 视觉的 | визуальный | visuell
+logical | logique | logisch | lógico | logico | lógico | तार्किक | 有逻辑的 | логичный | logesch
+formal | formel | formell | formal | formale | formal | औपचारिक | 正式 | формальный | formell
+friendly | amical | freundlich | amable | amichevole | amigável | दोस्ताना | 友好 | дружелюбный | frëndlech
+body language | langage corporel | Körpersprache | lenguaje corporal | linguaggio del corpo | linguagem corporal | शारीरिक भाषा | 肢体语言 | язык тела | Kierpersprooch
+eye contact | contact visuel | Blickkontakt | contacto visual | contatto visivo | contato visual | आँखों का संपर्क | 眼神接触 | зрительный контакт | Aenkontakt
+key message | message clé | Kernbotschaft | mensaje clave | messaggio chiave | mensagem principal | मुख्य संदेश | 关键信息 | ключевое сообщение | Haaptbotschaft
+time limit | limite de temps | Zeitlimit | límite de tiempo | limite di tempo | limite de tempo | समय सीमा | 时间限制 | ограничение по времени | Zäitlimit
+cue card | fiche mémo | Stichwortkarte | tarjeta de apoyo | scheda promemoria | cartão de apoio | संकेत कार्ड | 提示卡 | карточка-подсказка | Hiweiskaart

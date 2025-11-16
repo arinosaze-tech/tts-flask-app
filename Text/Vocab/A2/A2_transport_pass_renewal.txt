@@ -1,0 +1,55 @@
+pass | passeport | Pass | pasaporte | passaporto | passaporte | पासपोर्ट | 护照 | паспорт | Pass
+ticket | billet | Ticket | billete | biglietto | bilhete | टिकट | 票 | билет | Ticket
+photo | photo | Foto | foto | foto | foto | फोटो | 照片 | фото | Foto
+form | formulaire | Formular | formulario | modulo | formulário | फॉर्म | 表格 | бланк | Formulaire
+office | bureau | Büro | oficina | ufficio | escritório | दफ्तर | 办公室 | офис | Büro
+machine | machine | Maschine | máquina | macchina | máquina | मशीन | 机器 | машина | Maschinn
+line | file | Schlange | fila | fila | fila | लाइन | 队 | очередь | Rei
+receipt | reçu | Quittung | recibo | scontrino | recibo | रसीद | 收据 | чек | Quittung
+student | étudiant | Student | estudiante | studente | estudante | छात्र | 学生 | студент | Student
+senior | senior | Senior | persona mayor | anziano | idoso | बुजुर्ग | 老人 | пенсионер | Senior
+zone | zone | Zone | zona | zona | zona | क्षेत्र | 区域 | зона | Zone
+station | gare | Bahnhof | estación | stazione | estação | स्टेशन | 车站 | станция | Gare
+stop | arrêt | Haltestelle | parada | fermata | parada | स्टॉप | 站 | остановка | Haltestell
+balance | solde | Guthaben | saldo | saldo | saldo | बैलेंस | 余额 | баланс | Saldo
+cash | espèces | Bargeld | efectivo | contanti | dinheiro | नकद | 现金 | наличные | Bargeld
+app | application | App | aplicación | app | app | ऐप | 应用 | приложение | App
+website | site web | Website | sitio web | sito web | site | वेबसाइट | 网站 | сайт | Websäit
+account | compte | Konto | cuenta | account | conta | खाता | 账号 | аккаунт | Kont
+fare | tarif | Fahrpreis | tarifa | tariffa | tarifa | किराया | 票价 | тариф | Fuerpräis
+fee | frais | Gebühr | cuota | tassa | taxa | शुल्क | 费用 | плата | Taxe
+bus | bus | Bus | autobús | autobus | ônibus | बस | 公交车 | автобус | Bus
+train | train | Zug | tren | treno | trem | ट्रेन | 火车 | поезд | Zuch
+metro | métro | U-Bahn | metro | metro | metrô | मेट्रो | 地铁 | метро | Metro
+monthly pass | abonnement mensuel | Monatskarte | abono mensual | abbonamento mensile | passe mensal | मासिक पास | 月票 | месячный проездной | Méintskaart
+annual pass | abonnement annuel | Jahreskarte | abono anual | abbonamento annuale | passe anual | वार्षिक पास | 年卡 | годовой абонемент | Joerskaart
+student discount | tarif étudiant | Studentenrabatt | descuento para estudiantes | sconto per studenti | desconto para estudantes | विद्यार्थी छूट | 学生折扣 | студенческая скидка | Remise fir Studenten
+id card | carte d'identité | Ausweis | documento de identidad | carta d'identità | cartão de identidade | पहचान पत्र | 身份证 | удостоверение личности | Identitéitskaart
+credit card | carte de crédit | Kreditkarte | tarjeta de crédito | carta di credito | cartão de crédito | क्रेडिट कार्ड | 信用卡 | кредитная карта | Kreditkaart
+proof of address | justificatif de domicile | Adressnachweis | comprobante de domicilio | prova di residenza | comprovante de endereço | पते का प्रमाण | 地址证明 | подтверждение адреса | Adressennachweis
+renew | renouveler | verlängern | renovar | rinnovare | renovar | नवीनीकरण करना | 续期 | продлить | verlängeren
+apply | faire une demande | beantragen | solicitar | fare domanda | solicitar | आवेदन करना | 申请 | подать заявку | ufroen
+pay | payer | bezahlen | pagar | pagare | pagar | भुगतान करना | 支付 | платить | bezuelen
+check | vérifier | prüfen | revisar | controllare | verificar | जांचना | 检查 | проверить | kontrolléieren
+choose | choisir | wählen | elegir | scegliere | escolher | चुनना | 选择 | выбрать | wielen
+submit | envoyer | senden | enviar | inviare | enviar | जमा करना | 提交 | отправить | areechen
+sign | signer | unterschreiben | firmar | firmare | assinar | हस्ताक्षर करना | 签名 | подписать | ënnerschreiwen
+confirm | confirmer | bestätigen | confirmar | confermare | confirmar | पुष्टि करना | 确认 | подтвердить | bestätegen
+update | mettre à jour | aktualisieren | actualizar | aggiornare | atualizar | अपडेट करना | 更新 | обновить | aktualiséieren
+change | changer | ändern | cambiar | cambiare | mudar | बदलना | 更改 | изменить | änneren
+top up | recharger | aufladen | recargar | ricaricare | recarregar | रिचार्ज करना | 充值 | пополнить | oplueden
+print | imprimer | drucken | imprimir | stampare | imprimir | प्रिंट करना | 打印 | печатать | drécken
+upload | mettre en ligne | hochladen | subir | caricare | enviar | अपलोड करना | 上传 | загрузить | eroplueden
+wait | attendre | warten | esperar | aspettare | esperar | इंतज़ार करना | 等待 | ждать | waarden
+collect | collecter | sammeln | recoger | raccogliere | coletar | इकट्ठा करना | 收集 | собирать | sammelen
+show | montrer | zeigen | mostrar | mostrare | mostrar | दिखाना | 显示 | показывать | weisen
+enter | saisir | eingeben | introducir | inserire | inserir | दर्ज करना | 输入 | ввести | androen
+valid | valide | gültig | válido | valido | válido | मान्य | 有效 | действительный | gëlteg
+invalid | non valide | ungültig | no válido | non valido | inválido | अमान्य | 无效 | недействительный | ongëlteg
+new | nouveau | neu | nuevo | nuovo | novo | नया | 新 | новый | nei
+current | actuel | aktuell | actual | attuale | atual | मौजूदा | 当前 | текущий | aktuell
+online | en ligne | online | en línea | online | online | ऑनलाइन | 在线 | онлайн | online
+offline | hors ligne | offline | sin conexión | fuori linea | offline | ऑफलाइन | 离线 | офлайн | offline
+local | local | lokal | local | locale | local | स्थानीय | 本地 | местный | lokal
+open | ouvert | offen | abierto | aperto | aberto | खुला | 开放 | открытый | op
+closed | fermé | geschlossen | cerrado | chiuso | fechado | बंद | 关闭 | закрытый | zou

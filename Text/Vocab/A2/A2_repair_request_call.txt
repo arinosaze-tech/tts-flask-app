@@ -1,0 +1,55 @@
+problem | problème | Problem | problema | problema | problema | समस्या | 问题 | проблема | Problem
+trouble | souci | Ärger | problema | problema | problema | मुसीबत | 麻烦 | проблема | Schwieregkeet
+repair | réparer | reparieren | reparar | riparare | consertar | ठीक करना | 修理 | ремонтировать | reparéieren
+service | service | Service | servicio | servizio | serviço | सेवा | 服务 | сервис | Service
+technician | technicien | Techniker | técnico | tecnico | técnico | तकनीशियन | 技术员 | техник | Techniker
+appointment | rendez-vous | Termin | cita | appuntamento | compromisso | अपॉइंटमेंट | 预约 | запись | Rendez-vous
+time | heure | Zeit | hora | ora | hora | समय | 时间 | время | Zäit
+date | date | Datum | fecha | data | data | तारीख | 日期 | дата | Datum
+address | adresse | Adresse | dirección | indirizzo | endereço | पता | 地址 | адрес | adress
+name | nom | Name | nombre | nome | nome | नाम | 名字 | имя | numm
+phone | téléphone | Telefon | teléfono | telefono | telefone | फोन | 电话 | телефон | telefon
+email | e-mail | E-Mail | correo electrónico | email | e-mail | ईमेल | 电子邮件 | электронная почта | e-mail
+warranty | garantie | Garantie | garantía | garanzia | garantia | वारंटी | 保修 | гарантия | garantie
+model | modèle | Modell | modelo | modello | modelo | मॉडल | 型号 | модель | modell
+brand | marque | Marke | marca | marca | marca | ब्रांड | 品牌 | бренд | mark
+appliance | appareil | Haushaltsgerät | electrodoméstico | elettrodomestico | eletrodoméstico | घरेलू उपकरण | 家电 | бытовая техника | hausapparat
+device | appareil | Gerät | aparato | dispositivo | aparelho | उपकरण | 设备 | устройство | Apparat
+fridge | frigo | Kühlschrank | nevera | frigorifero | geladeira | फ्रिज | 冰箱 | холодильник | Frigo
+oven | four | Backofen | horno | forno | forno | ओवन | 烤箱 | духовка | Uewen
+heater | radiateur | Heizung | calefactor | stufa | aquecedor | हीटर | 取暖器 | обогреватель | Heizung
+pipe | tuyau | Rohr | tubo | tubo | tubo | पाइप | 管子 | труба | Päif
+leak | fuite | Leck | fuga | perdita | vazamento | रिसाव | 漏水 | утечка | Leck
+sink | évier | Waschbecken | fregadero | lavandino | pia | सिंक | 水槽 | раковина | Spullsteen
+toilet | toilettes | Toilette | inodoro | gabinetto | sanita | कमोड | 马桶 | унитаз | Toilette
+call | appeler | anrufen | llamar | chiamare | ligar | कॉल करना | 打电话 | звонить | uruffen
+answer | répondre | antworten | responder | rispondere | responder | जवाब देना | 回答 | отвечать | äntwerten
+hold | tenir | halten | sujetar | tenere | segurar | पकड़ना | 拿 | держать | halen
+wait | attendre | warten | esperar | aspettare | esperar | इंतज़ार करना | 等 | ждать | waarden
+speak | parler | sprechen | hablar | parlare | falar | बोलना | 说话 | говорить | schwätzen
+explain | expliquer | erklären | explicar | spiegare | explicar | समझाना | 解释 | объяснять | erklären
+describe | décrire | beschreiben | describir | descrivere | descrever | वर्णन करना | 描述 | описывать | beschreiwen
+report | signaler | melden | informar | segnalare | informar | रिपोर्ट करना | 报告 | сообщать | mellen
+schedule | programmer | planen | programar | programmare | agendar | समय तय करना | 安排 | планировать | plangen
+reschedule | reprogrammer | verschieben | reprogramar | spostare | reagendar | समय बदलना | 改期 | перенести | verréckelen
+cancel | annuler | absagen | cancelar | annullare | cancelar | रद्द करना | 取消 | отменить | ofsoen
+confirm | confirmer | bestätigen | confirmar | confermare | confirmar | पुष्टि करना | 确认 | подтвердить | bestätegen
+check | vérifier | prüfen | revisar | controllare | verificar | जांच करना | 检查 | проверить | nokucken
+fix | réparer | reparieren | arreglar | riparare | consertar | ठीक करना | 修理 | починить | reparéieren
+replace | remplacer | ersetzen | reemplazar | sostituire | substituir | बदलना | 更换 | заменить | ersetzen
+send | envoyer | schicken | enviar | inviare | enviar | भेजना | 发送 | отправить | schécken
+arrive | arriver | ankommen | llegar | arrivare | chegar | पहुँचना | 到达 | приехать | ukommen
+broken | cassé | kaputt | roto | rotto | quebrado | टूटा | 坏 | сломанный | kaputt
+faulty | défectueux | defekt | defectuoso | difettoso | defeituoso | खराब | 有故障 | неисправный | defekt
+damaged | abîmé | beschädigt | dañado | danneggiato | danificado | क्षतिग्रस्त | 损坏的 | поврежденный | beschiedegt
+noisy | bruyant | laut | ruidoso | rumoroso | barulhento | शोरगुल वाला | 吵 | шумный | laut
+urgent | urgent | dringend | urgente | urgente | urgente | तत्काल | 紧急 | срочный | dréngend
+available | disponible | verfügbar | disponible | disponibile | disponível | उपलब्ध | 可用 | доступный | verfügbar
+busy | occupé | beschäftigt | ocupado | occupato | ocupado | व्यस्त | 忙 | занят | beschäftegt
+early | tôt | früh | temprano | presto | cedo | जल्दी | 早 | рано | fréi
+repair request | demande de réparation | Reparaturanfrage | solicitud de reparación | richiesta di riparazione | pedido de reparo | मरम्मत अनुरोध | 报修 | заявка на ремонт | Ufro fir Reparatur
+service call | appel de service | Serviceanruf | llamada de servicio | chiamata di servizio | chamada de serviço | सेवा कॉल | 服务电话 | сервисный звонок | Serviceuruff
+call back | rappeler | zurückrufen | volver a llamar | richiamare | voltar a ligar | वापस कॉल करना | 回电话 | перезвонить | zeréckruffen
+preferred time | heure préférée | bevorzugte Zeit | hora preferida | orario preferito | horário preferido | पसंदीदा समय | 首选时间 | предпочтительное время | preferéiert Zäit
+reference number | numéro de référence | Referenznummer | número de referencia | numero di riferimento | número de referência | संदर्भ संख्या | 参考编号 | номер обращения | Referenznummer
+confirmation email | e-mail de confirmation | Bestätigungsmail | correo de confirmación | email di conferma | e-mail de confirmação | पुष्टिकरण ईमेल | 确认邮件 | письмо с подтверждением | Confirmatiouns-E-Mail

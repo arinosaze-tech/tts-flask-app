@@ -1,0 +1,65 @@
+incident | incident | Vorfall | incidente | incidente | incidente | घटना | 事件 | инцидент | Vorfall
+report | rapport | Bericht | informe | rapporto | relatório | रिपोर्ट | 报告 | отчет | Rapport
+writing | écriture | Schreiben | escritura | scrittura | escrita | लेखन | 写作 | письмо | Schreif
+witness | témoin | Zeuge | testigo | testimone | testemunha | गवाह | 证人 | свидетель | Zeien
+accident | accident | Unfall | accidente | incidente | acidente | दुर्घटना | 事故 | авария | Accident
+description | description | Beschreibung | descripción | descrizione | descrição | वर्णन | 描述 | описание | Beschreiwung
+details | détails | Einzelheiten | detalles | dettagli | detalhes | विवरण | 细节 | детали | Detailler
+record | dossier | Aufzeichnung | registro | registrazione | registro | रिकॉर्ड | 记录 | запись | Record
+procedure | procédure | Prozedur | procedimiento | procedura | procedimento | प्रक्रिया | 程序 | процедура | Prozedur
+statement | déclaration | Aussage | declaración | dichiarazione | declaração | बयान | 声明 | заявление | Erklärung
+evidence | preuve | Beweis | evidencia | prova | evidência | साक्ष्य | 证据 | доказательство | Beweis
+injury | blessure | Verletzung | lesión | infortunio | lesão | चोट | 伤害 | травма | Verletzung
+investigation | enquête | Untersuchung | investigación | indagine | investigação | जांच | 调查 | следствие | Untersuchung
+consequence | conséquence | Konsequenz | consecuencia | conseguenza | consequência | परिणाम | 后果 | следствие | Konsequenz
+action | action | Handlung | acción | azione | ação | कार्रवाई | 行动 | действие | Handlung
+safety | sécurité | Sicherheit | seguridad | sicurezza | segurança | सुरक्षा | 安全 | безопасность | Sicherheit
+measure | mesurer | messen | medir | misurare | medir | मापना | 测量 | измерять | moossen
+protocol | protocole | Protokoll | protocolo | protocollo | protocolo | प्रोटोकॉल | 协议 | протокол | Protokoll
+summary | résumé | Zusammenfassung | resumen | riepilogo | resumo | सारांश | 摘要 | резюме | Zesumm
+response | réponse | Antwort | respuesta | risposta | resposta | प्रतिक्रिया | 回复 | ответ | Äntwert
+findings | conclusions | Ergebnisse | hallazgos | risultati | conclusões | निष्कर्ष | 发现 | выводы | Fändungen
+form | formulaire | Formular | formulario | modulo | formulário | फॉर्म | 表格 | форма | Form
+communication | communication | Kommunikation | comunicación | comunicazione | comunicação | संचार | 通信 | связь | Kommunikatioun
+feedback | retour d'information | Rückmeldung | retroalimentación | feedback | feedback | फीडबैक | 反馈 | отзыв | Rückmeldung
+cause | cause | Ursache | causa | causa | causa | कारण | 原因 | причина | Ursaach
+effect | effet | Wirkung | efecto | effetto | efeito | प्रभाव | 结果 | эффект | Effekt
+risk | risque | Risiko | riesgo | rischio | risco | जोखिम | 风险 | риск | Risiko
+assessment | évaluation | Bewertung | evaluación | valutazione | avaliação | मूल्यांकन | 评估 | оценка | Evaluatioun
+timing | synchronisation | Timing | temporización | sincronizzazione | cronometragem | समय निर्धारण | 时机 | тайминг | Timing
+location | emplacement | Standort | ubicación | posizione | localização | स्थान | 位置 | местоположение | Plaz
+participant | participant | Teilnehmer | participante | partecipante | participante | प्रतिभागी | 参与者 | участник | Participanten
+observation | observation | Beobachtung | observación | osservazione | observação | अवलोकन | 观察 | наблюдение | Beobachtung
+clarification | clarification | Klärung | aclaración | chiarimento | esclarecimento | स्पष्टता | 澄清 | разъяснение | Klärung
+documentation | documentation | Dokumentation | documentación | documentazione | documentação | दस्तावेज़ीकरण | 文档 | документация | Dokumentatioun
+breach | violation | Bruch | quebranto | violazione | violação | उल्लंघन | 违反 | нарушение | Verbriechen
+impact | impact | Auswirkung | impacto | impatto | impacto | प्रभाव | 影响 | влияние | Impakt
+analysis | analyse | Analyse | análisis | analisi | análise | विश्लेषण | 分析 | анализ | Analyse
+notification | notification | Benachrichtigung | notificación | notifica | notificação | सूचना | 通知 | уведомление | Notifikatioun
+interview | interview | Interview | entrevista | colloquio | entrevista | साक्षात्कार | 面试 | собеседование | Interview
+conclusion | conclusion | Schlussfolgerung | conclusión | conclusione | conclusão | निष्कर्ष | 结论 | вывод | Konklusioun
+recommendation | recommandation | Empfehlung | recomendación | raccomandazione | recomendação | अनुशंसा | 推荐 | рекомендация | Empfehlung
+follow-up | suivi | Nachverfolgung | seguimiento | follow-up | acompanhamento | अनुवर्ती | 跟进 | последующее действие | Nachverfolgung
+relevance | pertinence | Relevanz | relevancia | rilevanza | relevância | प्रासंगिकता | 相关性 | релевантность | Relevanz
+accuracy | précision | Genauigkeit | precisión | accuratezza | precisão | सटीकता | 精确 | точность | Genauigkeit
+emergency | urgence | Notfall | emergencia | emergenza | emergência | आपातकाल | 紧急情况 | чрезвычайная ситуация | Notfall
+team | équipe | Team | equipo | squadra | equipe | टीम | 队 | команда | Team
+condition | condition | Zustand | condición | condizione | condição | स्थिति | 条件 | состояние | Bedingung
+alert | alerte | Alarm | alerta | allerta | alerta | चेतावनी | 警报 | тревога | Alarm
+procedure | procédure | Verfahren | procedimiento | procedura | procedimento | प्रक्रिया | 程序 | процедура | Prozedur
+liability | responsabilité | Haftung | responsabilidad | responsabilità | responsabilidade | देनदारी | 责任 | ответственность | Haftung
+incident management | gestion d'incidents | Incidentmanagement | gestión de incidentes | gestione degli incidenti | gestão de incidentes | घटना प्रबंधन | 事件管理 | управление инцидентами | Incidentmanagement
+evaluation | évaluation | Bewertung | evaluación | valutazione | avaliação | मूल्यांकन | 评估 | оценка | Evaluatioun
+training | formation | Ausbildung | capacitación | formazione | formação | प्रशिक्षण | 培训 | обучение | Ausbildung
+prevention | prévention | Prävention | prevención | prevenzione | prevenção | रोकथाम | 预防 | предотвращение | Prävention
+communication plan | plan de communication | Kommunikationsplan | plan de comunicación | piano di comunicazione | plano de comunicação | संचार योजना | 沟通计划 | план коммуникации | Kommunikatiounsplanning
+responsibility | responsabilité | Verantwortung | responsabilidad | responsabilità | responsabilidade | जिम्मेदारी | 责任 | ответственность | Verantwortung
+statement of fact | énoncé de fait | Aussage von Fakt | declaración de hecho | dichiarazione di fatto | declaração de fato | तथ्य का बयान | 事实陈述 | заявление факта | Feststellung vum Fakt
+confidentiality | confidentialité | Vertraulichkeit | confidencialidad | riservatezza | confidencialidade | गोपनीयता | 保密性 | конфиденциальность | Vertraulichkeet
+resolution | résolution | Beschluss | resolución | risoluzione | resolução | समाधान | 解决方案 | резолюция | Resolutioun
+dispute | différend | Streit | disputa | controversia | disputa | विवाद | 争议 | спор | Sträit
+statement | déclaration | Erklärung | declaración | dichiarazione | declaração | बयान | 声明 | заявление | Déklaratioun
+analysis of events | analyse des événements | Analyse der Ereignisse | análisis de eventos | analisi degli eventi | análise de eventos | घटनाओं का विश्लेषण | 事件分析 | анализ событий | Analyse vun Ereignisser
+context | contexte | Kontext | contexto | contesto | contexto | संदर्भ | 上下文 | контекст | Kontext
+trend | tendance | Trend | tendencia | tendenza | tendência | प्रवृत्ति | 趋势 | тренд | Tendenz
+reporting system | système de reporting | Berichtssystem | sistema de informes | sistema di report | sistema de relatórios | रिपोर्टिंग सिस्टम | 报告系统 | система отчетности | Reporting-System

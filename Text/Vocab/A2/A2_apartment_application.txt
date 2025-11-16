@@ -1,0 +1,55 @@
+apartment | appartement | Wohnung | apartamento | appartamento | apartamento | फ्लैट | 公寓 | квартира | Appartement
+application | demande | Antrag | solicitud | domanda | solicitação | आवेदन | 申请 | заявка | Demande
+form | formulaire | Formular | formulario | modulo | formulário | फॉर्म | 表格 | бланк | Formulaire
+tenant | locataire | Mieter | inquilino | inquilino | inquilino | किरायेदार | 租客 | арендатор | Locataire
+landlord | propriétaire | Vermieter | propietario | proprietario | proprietário | मकान मालिक | 房东 | арендодатель | Proprietär
+agent | agent immobilier | Makler | agente inmobiliario | agente immobiliare | agente imobiliário | एजेंट | 中介 | риелтор | Immobiliensagent
+lease | bail | Mietvertrag | contrato de alquiler | contratto di affitto | contrato de aluguel | किरायानामा | 租约 | договор аренды | Locatiounsvertrag
+contract | contrat | Vertrag | contrato | contratto | contrato | करार | 合同 | договор | Kontrakt
+listing | annonce | Anzeige | anuncio | annuncio | anúncio | विज्ञापन | 房源 | объявление | Annonce
+unit | appartement | Wohnung | apartamento | appartamento | apartamento | फ्लैट | 公寓 | квартира | Wunneng
+floor | étage | Stockwerk | planta | piano | andar | मंजिल | 楼层 | этаж | Stack
+building | bâtiment | Gebäude | edificio | edificio | prédio | इमारत | 楼 | здание | Gebai
+address | adresse | Adresse | dirección | indirizzo | endereço | पता | 地址 | адрес | Adress
+city | ville | Stadt | ciudad | città | cidade | शहर | 城市 | город | Stad
+parking | parking | Parkplatz | aparcamiento | parcheggio | estacionamento | पार्किंग | 停车位 | парковка | Parking
+elevator | ascenseur | Aufzug | ascensor | ascensore | elevador | लिफ्ट | 电梯 | лифт | Lift
+laundry | laverie | Waschküche | lavandería | lavanderia | lavanderia | लॉन्ड्री | 洗衣房 | прачечная | Wäschkichen
+utility | charges | Nebenkosten | suministros | utenze | contas | बिजली-पानी | 水电费 | коммунальные услуги | Niewenskäschten
+water | eau | Wasser | agua | acqua | água | पानी | 水 | вода | Waasser
+electricity | électricité | Strom | electricidad | elettricità | eletricidade | बिजली | 电 | электричество | Stroum
+gas | gaz | Gas | gas | gas | gás | गैस | 燃气 | газ | Gas
+internet | internet | Internet | internet | internet | internet | इंटरनेट | 网络 | интернет | Internet
+pet | animal de compagnie | Haustier | mascota | animale domestico | animal de estimação | पालतू जानवर | 宠物 | домашнее животное | Hausdéier
+roommate | colocataire | Mitbewohner | compañero de piso | coinquilino | colega de quarto | रूममेट | 室友 | сосед по комнате | Matbewunner
+apply | postuler | sich bewerben | solicitar | fare domanda | candidatar-se | आवेदन करना | 申请 | подать заявку | sech bewerben
+rent | louer | mieten | alquilar | affittare | alugar | किराए पर लेना | 租 | снимать | lounen
+pay | payer | bezahlen | pagar | pagare | pagar | भुगतान करना | 付钱 | платить | bezuelen
+sign | signer | unterschreiben | firmar | firmare | assinar | हस्ताक्षर करना | 签字 | подписать | ënnerschreiwen
+fill | remplir | ausfüllen | rellenar | compilare | preencher | भरना | 填写 | заполнить | ausfëllen
+submit | déposer | einreichen | presentar | presentare | apresentar | जमा करना | 提交 | подать | areechen
+attach | joindre | anhängen | adjuntar | allegare | anexar | संलग्न करना | 附上 | прикрепить | bäifügen
+send | envoyer | schicken | enviar | inviare | enviar | भेजना | 发送 | отправить | schécken
+email | e-mail | E-Mail | correo electrónico | email | e-mail | ईमेल | 电子邮件 | электронная почта | E-Mail
+call | appeler | anrufen | llamar | chiamare | ligar | फोन करना | 打电话 | звонить | uruffen
+visit | visiter | besuchen | visitar | visitare | visitar | मुलाकात करना | 参观 | посетить | besichen
+schedule | planifier | planen | programar | programmare | agendar | समय तय करना | 安排 | планировать | plangen
+view | voir | ansehen | ver | vedere | ver | देखना | 查看 | смотреть | kucken
+tour | visite | Tour | recorrido | tour | passeio | दौरा | 游览 | экскурсия | Tour
+check | vérifier | prüfen | revisar | controllare | verificar | जांच करना | 检查 | проверить | préifen
+approve | approuver | genehmigen | aprobar | approvare | aprovar | मंजूर करना | 批准 | одобрить | approuvéieren
+deny | refuser | ablehnen | rechazar | rifiutare | recusar | मना करना | 拒绝 | отказаться | ofleenen
+available | disponible | verfügbar | disponible | disponibile | disponível | उपलब्ध | 可用 | доступный | verfügbar
+clean | propre | sauber | limpio | pulito | limpo | साफ | 干净 | чистый | propper
+quiet | calme | ruhig | tranquilo | tranquillo | tranquilo | शांत | 安静 | тихий | roueg
+furnished | meublé | möbliert | amueblado | arredato | mobiliado | सुसज्जित | 带家具 | меблированный | möbléiert
+unfurnished | non meublé | unmöbliert | sin amueblar | non arredato | sem mobília | बिना फर्नीचर | 不带家具 | без мебели | onmöbléiert
+private | privé | privat | privado | privato | privado | निजी | 私人 | частный | privat
+shared | partagé | geteilt | compartido | condiviso | compartilhado | साझा | 共用 | общий | gedeelt
+affordable | abordable | bezahlbar | asequible | accessibile | acessível | किफायती | 负担得起 | доступный | bezuelbar
+security deposit | dépôt de garantie | Kaution | depósito de seguridad | deposito cauzionale | caução | सुरक्षा जमा | 押金 | залог | Kautioun
+photo id | pièce d'identité avec photo | Ausweis mit Foto | identificación con foto | documento d'identità con foto | documento com foto | फोटो पहचान पत्र | 带照片的证件 | удостоверение личности с фото | Ausweis mat Foto
+proof of income | preuve de revenus | Einkommensnachweis | comprobante de ingresos | prova di reddito | comprovante de renda | आय का प्रमाण | 收入证明 | справка о доходах | Akommesbeweis
+reference letter | lettre de recommandation | Empfehlungsschreiben | carta de recomendación | lettera di raccomandazione | carta de recomendação | सिफारिश पत्र | 推荐信 | рекомендательное письмо | Referenzbréif
+monthly rent | loyer mensuel | monatliche Miete | alquiler mensual | affitto mensile | aluguel mensal | मासिक किराया | 月租 | ежемесячная арендная плата | monatleche Loyer
+move in date | date d'emménagement | Einzugsdatum | fecha de mudanza | data di ingresso | data de entrada | प्रवेश तिथि | 入住日期 | дата заселения | Datum vum Plënneren

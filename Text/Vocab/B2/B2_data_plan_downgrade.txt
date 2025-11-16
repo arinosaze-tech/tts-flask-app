@@ -1,0 +1,65 @@
+data | données | Daten | datos | dati | dados | डेटा | 数据 | данные | Daten
+plan | plan | Plan | plan | piano | plano | योजना | 计划 | план | Plang
+downgrade | rétrograder | herabstufen | degradar | degradare | rebaixar | डाउनग्रेड करना | 降级 | понижать | downgradéieren
+subscription | abonnement | Abonnement | suscripción | abbonamento | assinatura | सदस्यता | 订阅 | подписка | Abonnements
+network | réseau | Netzwerk | red | rete | rede | नेटवर्क | 网络 | сеть | Netzwierk
+provider | fournisseur | Anbieter | proveedor | fornitore | provedor | प्रदाता | 提供者 | провайдер | Fournisseur
+coverage | couverture | Abdeckung | cobertura | copertura | cobertura | कवरेज | 覆盖范围 | покрытие | Deckung
+speed | vitesse | Geschwindigkeit | velocidad | velocità | velocidade | गति | 速度 | скорость | Geschwindegkeit
+bandwidth | bande passante | Bandbreite | ancho de banda | larghezza di banda | largura de banda | बैंडविड्थ | 带宽 | пропускная способность | Bandbreite
+limit | limite | Grenze | límite | limite | limite | सीमा | 限制 | предел | Grenze
+data cap | limite de données | Datenobergrenze | límite de datos | limite di dati | limite de dados | डाटा कैप | 数据上限 | лимит данных | Datenobergrenze
+cost | coût | Kosten | costo | costo | custo | लागत | 成本 | стоимость | Käschte
+monthly fee | frais mensuels | monatliche Gebühr | tarifa mensual | tariffa mensile | taxa mensal | मासिक शुल्क | 月费 | ежемесячная плата | monatlech Gebühr
+contract | contrat | Vertrag | contrato | contratto | contrato | अनुबंध | 合同 | контракт | Kontrakt
+service | service | Dienst | servicio | servizio | serviço | सेवा | 服务 | услуга | Service
+upgrade | mise à niveau | Upgrade | actualización | aggiornamento | upgrade | उन्नयन | 升级 | обновление | Upgrade
+usage | usage | Nutzung | uso | uso | utilização | उपयोग | 使用 | использование | Nutzung
+device | appareil | Gerät | dispositivo | dispositivo | dispositivo | उपकरण | 设备 | устройство | Gerät
+unlimited | illimité | unbegrenzt | ilimitado | illimitato | ilimitado | अनंत | 无限制 | неограниченный | une limité
+value | valeur | Wert | valor | valore | valor | मूल्य | 价值 | стоимость | Wäert
+access | accès | Zugang | acceso | accesso | acesso | पहुंच | 访问 | доступ | Zougang
+internet | internet | Internet | internet | internet | internet | इंटरनेट | 互联网 | интернет | Internet
+mobile | mobile | mobil | móvil | mobile | móvel | मोबाइल | 移动 | мобильный | mobil
+reduction | réduction | Reduktion | reducción | riduzione | redução | कमी | 减少 | сокращение | Rechnug
+choice | choix | Wahl | opción | scelta | escolha | चुनाव | 选择 | выбор | Wiel
+criteria | critères | Kriterien | criterios | criteri | critérios | मानदंड | 标准 | критерии | Kriterien
+options | options | Optionen | opciones | opzioni | opções | विकल्प | 选项 | варианты | Optiounen
+customer | client | Kunde | cliente | cliente | cliente | ग्राहक | 客户 | клиент | Client
+service | service | Dienst | servicio | servizio | serviço | सेवा | 服务 | сервис | Service
+reliable | fiable | zuverlässig | fiable | affidabile | confiável | विश्वसनीय | 可靠 | надежный | Zouverlëch
+extra | supplémentaire | zusätzlich | extra | extra | extra | अतिरिक्त | 额外 | дополнительный | Extra
+offer | offrir | anbieten | ofrecer | offrire | oferecer | पेशकश करना | 提供 | предложение | Offeren
+terms | termes | Begriffe | términos | termini | termos | शर्तें | 条款 | условия | Bedingungen
+warning | avertissement | Warnung | advertencia | avviso | aviso | चेतावनी | 警告 | предупреждение | Warnung
+notification | notification | Benachrichtigung | notificación | notifica | notificação | सूचना | 通知 | уведомление | Benachrichtigung
+change | changer | ändern | cambiar | cambiare | mudar | परिवर्तन | 改变 | изменение | ändern
+fee | frais | Gebühr | tarifa | tassa | taxa | शुल्क | 费用 | плата | Gebühr
+terminate | terminer | kündigen | terminar | terminare | encerrar | समाप्त करना | 终止 | расторгнуть | kündigen
+renew | renouveler | erneuern | renovar | rinnovare | renovar | नवीनीकरण | 更新 | восстановить | erneuern
+contract | contrat | Vertrag | contrato | contratto | contrato | अनुबंध | 合同 | контракт | Vertrag
+period | période | Zeitraum | período | periodo | período | अवधि | 周期 | период | Periode
+subscription model | modèle d'abonnement | Abonnementmodell | modelo de suscripción | modello di abbonamento | modelo de assinatura | सदस्यता मॉडल | 订阅模型 | модель подписки | Abonnementsmodell
+promotion | promotion | Förderung | promoción | promozione | promoção | पदोन्नति | 促销 | продвижение | Promotion
+feature | caractéristique | Funktion | característica | caratteristica | recurso | विशेषता | 特征 | особенность | Merkmal
+requirement | exigence | Anforderung | requisito | requisito | requisito | आवश्यकता | 需求 | требование | Anforderung
+policy | politique | Politik | política | politica | política | नीति | 政策 | политика | Politik
+support | soutien | Unterstützung | apoyo | supporto | apoio | समर्थन | 支持 | поддержка | Unterstützung
+balance | équilibre | Gleichgewicht | equilibrio | equilibrio | equilíbrio | संतुलन | 平衡 | баланс | Gleichgewicht
+adjustment | ajustement | Anpassung | ajuste | aggiustamento | ajuste | समायोजन | 调整 | коррекция | Anpassung
+downtime | temps d'arrêt | Ausfallzeit | tiempo de inactividad | inattività | tempo de inatividade | डाउनटाइम | 停机 | время простоя | Stillstand
+connection | connexion | Verbindung | conexión | connessione | conexão | कनेक्शन | 连接 | соединение | Verbindung
+account | compte | Konto | cuenta | conto | conta | खाता | 账户 | счет | Konto
+termination | résiliation | Kündigung | terminación | cessazione | rescisão | समाप्ति | 终止 | прекращение | Beendigung
+billing | facturation | Abrechnung | facturación | fatturazione | faturamento | बिलिंग | 账单 | выставление счета | Rechnungsstellung
+frequency | fréquence | Frequenz | frecuencia | frequenza | frequência | आवृत्ति | 频率 | частота | Frequenz
+limitations | limitations | Einschränkungen | limitaciones | limitazioni | limitações | सीमाएँ | 限制 | ограничения | Einschränkungen
+experience | expérience | Erfahrung | experiencia | esperienza | experiência | अनुभव | 经验 | опыт | Erfahrung
+satisfaction | satisfaction | Zufriedenheit | satisfacción | soddisfazione | satisfação | संतोष | 满意 | удовлетворение | Zefriddenheet
+reevaluate | réévaluer | neu bewerten | reevaluar | rivalutare | reavaliar | पुनः मूल्यांकन करना | 重新评估 | переоценить | nei bewerten
+analysis | analyse | Analyse | análisis | analisi | análise | विश्लेषण | 分析 | анализ | Analyse
+requirement | exigence | Anforderung | requisito | requisito | requisito | आवश्यकता | 要求 | требование | Afguerz
+agreement | accord | Vereinbarung | acuerdo | accordo | acordo | समझौता | 协议 | соглашение | Akommes
+benefits | avantages | Vorteile | beneficios | benefici | benefícios | लाभ | 益处 | выгоды | Virdeeg
+penalty | pénalité | Strafe | penalización | pena | penalização | दंड | 处罚 | штраф | Straf
+downgrade option | option de rétrogradation | Downgrademöglichkeit | opción de degradación | opzione di downgrade | opção de downgrade | डाउनग्रेड विकल्प | 降级选项 | вариант понижения | Downgrade-Option

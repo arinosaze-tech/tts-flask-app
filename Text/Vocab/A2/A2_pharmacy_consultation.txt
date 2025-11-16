@@ -1,0 +1,55 @@
+pharmacy | pharmacie | Apotheke | farmacia | farmacia | farmácia | दवा की दुकान | 药店 | аптека | Apdikt
+pharmacist | pharmacien | Apotheker | farmacéutico | farmacista | farmacêutico | फार्मासिस्ट | 药剂师 | фармацевт | Apdikter
+customer | client | Kunde | cliente | cliente | cliente | ग्राहक | 顾客 | покупатель | Client
+patient | patient | Patient | paciente | paziente | paciente | मरीज | 病人 | пациент | Patient
+prescription | ordonnance | Rezept | receta | ricetta | receita | पर्ची | 处方 | рецепт | Rezept
+medicine | médicament | Medikament | medicina | medicina | remédio | दवा | 药 | лекарство | Medikament
+pill | pilule | Pille | pastilla | pillola | pílula | गोली | 药丸 | пилюля | Pëll
+tablet | comprimé | Tablette | tableta | compressa | comprimido | टैबलेट | 药片 | таблетка | Tablett
+capsule | gélule | Kapsel | cápsula | capsula | cápsula | कैप्सूल | 胶囊 | капсула | kapsel
+syrup | sirop | Sirup | jarabe | sciroppo | xarope | सिरप | 糖浆 | сироп | sirop
+cream | crème | Creme | crema | crema | creme | क्रीम | 乳膏 | крем | crème
+ointment | pommade | Salbe | pomada | pomata | pomada | मलहम | 药膏 | мазь | zalef
+eye drop | gouttes pour les yeux | Augentropfen | colirio | collirio | colírio | आई ड्रॉप | 眼药水 | глазные капли | aendrëpsen
+dose | dose | Dosis | dosis | dose | dose | खुराक | 剂量 | доза | dosis
+label | étiquette | Etikett | etiqueta | etichetta | etiqueta | लेबल | 标签 | этикетка | etikett
+allergy | allergie | Allergie | alergia | allergia | alergia | एलर्जी | 过敏 | аллергия | allergie
+pain | douleur | Schmerz | dolor | dolore | dor | दर्द | 疼痛 | боль | Péng
+cough | toux | Husten | tos | tosse | tosse | खांसी | 咳嗽 | кашель | Houscht
+fever | fièvre | Fieber | fiebre | febbre | febre | बुखार | 发烧 | температура | Féiwer
+headache | mal de tête | Kopfschmerzen | dolor de cabeza | mal di testa | dor de cabeça | सिरदर्द | 头痛 | головная боль | Kappwéi
+rash | éruption cutanée | Ausschlag | sarpullido | eruzione cutanea | erupção cutânea | चकत्ते | 皮疹 | сыпь | Hautausschlag
+cold | rhume | Erkältung | resfriado | raffreddore | resfriado | जुकाम | 感冒 | простуда | Verkältung
+flu | grippe | Grippe | gripe | influenza | gripe | फ्लू | 流感 | грипп | Gripp
+bandage | bandage | Verband | vendaje | benda | bandagem | पट्टी | 绷带 | бинт | Verband
+ask | demander | fragen | preguntar | chiedere | perguntar | पूछना | 问 | спрашивать | froen
+answer | répondre | antworten | responder | rispondere | responder | जवाब देना | 回答 | отвечать | äntweren
+explain | expliquer | erklären | explicar | spiegare | explicar | समझाना | 解释 | объяснять | erklären
+check | vérifier | prüfen | revisar | controllare | verificar | जांचना | 检查 | проверять | kontrolléieren
+read | lire | lesen | leer | leggere | ler | पढ़ना | 读 | читать | liesen
+sign | signer | unterschreiben | firmar | firmare | assinar | साइन करना | 签字 | подписать | ënnerschreiwen
+pay | payer | bezahlen | pagar | pagare | pagar | भुगतान करना | 付钱 | платить | bezuelen
+wait | attendre | warten | esperar | aspettare | esperar | इंतज़ार करना | 等 | ждать | waarden
+fill | remplir | füllen | llenar | riempire | encher | भरना | 装满 | наполнять | fëllen
+take | prendre | nehmen | tomar | prendere | tomar | लेना | 拿 | брать | huelen
+swallow | avaler | schlucken | tragar | ingoiare | engolir | निगलना | 吞下 | глотать | schlécken
+chew | mâcher | kauen | masticar | masticare | mastigar | चबाना | 嚼 | жевать | kauen
+apply | appliquer | anwenden | aplicar | applicare | aplicar | लगाना | 涂 | применять | uwenden
+use | utiliser | benutzen | usar | usare | usar | इस्तेमाल करना | 用 | использовать | benotzen
+measure | mesurer | messen | medir | misurare | medir | नापना | 量 | измерять | moossen
+shake | secouer | schütteln | agitar | scuotere | agitar | हिलाना | 摇 | трясти | schëddelen
+store | magasin | Laden | tienda | negozio | loja | दुकान | 商店 | магазин | Buttek
+sick | malade | krank | enfermo | malato | doente | बीमार | 生病 | больной | krank
+healthy | en bonne santé | gesund | sano | sano | saudável | स्वस्थ | 健康 | здоровый | gesond
+safe | sûr | sicher | seguro | sicuro | seguro | सुरक्षित | 安全 | безопасный | sécher
+strong | fort | stark | fuerte | forte | forte | मजबूत | 强壮 | сильный | staark
+pregnant | enceinte | schwanger | embarazada | incinta | grávida | गर्भवती | 怀孕 | беременная | schwanger
+cheap | bon marché | billig | barato | economico | barato | सस्ता | 便宜 | дешёвый | bëlleg
+expensive | cher | teuer | caro | caro | caro | महंगा | 贵 | дорогой | deier
+available | disponible | verfügbar | disponible | disponibile | disponível | उपलब्ध | 可用 | доступный | verfügbar
+side effect | effet secondaire | Nebenwirkung | efecto secundario | effetto collaterale | efeito colateral | दुष्प्रभाव | 副作用 | побочный эффект | Niewewierkung
+over the counter | sans ordonnance | rezeptfrei | sin receta | senza ricetta | sem receita | बिना पर्चे | 非处方 | без рецепта | ouni Rezept
+take with food | prendre avec de la nourriture | mit dem Essen einnehmen | tomar con comida | prendere con il cibo | tomar com comida | भोजन के साथ लेना | 随餐服用 | принимать с едой | mat Iessen anhuelen
+with water | avec de l'eau | mit Wasser | con agua | con acqua | com água | पानी के साथ | 用水 | с водой | mat Waasser
+once a day | une fois par jour | einmal am Tag | una vez al día | una volta al giorno | uma vez por dia | दिन में एक बार | 一天一次 | один раз в день | eemol am Dag
+sore throat | mal de gorge | Halsschmerzen | dolor de garganta | mal di gola | dor de garganta | गले में खराश | 喉咙痛 | боль в горле | Halswéi

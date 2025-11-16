@@ -1,0 +1,65 @@
+appointment | rendez-vous | Termin | cita | appuntamento | compromisso | अपॉइंटमेंट | 预约 | встреча
+time | temps | Zeit | tiempo | tempo | tempo | समय | 时间 | время
+date | date | Datum | fecha | data | data | तारीख | 日期 | дата
+day | jour | Tag | día | giorno | dia | दिन | 日 | день
+week | semaine | Woche | semana | settimana | semana | सप्ताह | 周 | неделя
+month | mois | Monat | mes | mese | mês | महीना | 月 | месяц
+morning | matin | Morgen | mañana | mattina | manhã | सुबह | 早上 | утро
+afternoon | après-midi | Nachmittag | tarde | pomeriggio | tarde | दोपहर | 下午 | день
+evening | soir | Abend | tarde | sera | noite | शाम | 晚上 | вечер
+hour | heure | Stunde | hora | ora | hora | घंटा | 小时 | час
+minute | minute | Minute | minuto | minuto | minuto | मिनट | 分钟 | минута
+slot | créneau | Zeitfenster | ranura | slot | slot | स्लॉट | 插槽 | слот
+schedule | horaire | Zeitplan | horario | programma | agenda | अनुसूची | 日程 | расписание
+calendar | calendrier | Kalender | calendario | calendario | calendário | कैलेंडर | 日历 | календарь
+phone | téléphone | Telefon | teléfono | telefono | telefone | फोन | 电话 | телефон
+email | courriel | E-Mail | correo electrónico | email | email | ईमेल | 电子邮件 | электронная почта
+message | message | Nachricht | mensaje | messaggio | mensagem | संदेश | 信息 | сообщение
+text | texte | Text | texto | testo | texto | टेक्स्ट | 文本 | текст
+reception | réception | Rezeption | recepción | reception | recepção | रिसेप्शन | 前台 | приёмная
+receptionist | réceptionniste | Rezeptionist | recepcionista | receptionist | recepcionista | रिसेप्शनिस्ट | 接待员 | администратор
+clinic | clinique | Klinik | clínica | clinica | clínica | क्लिनिक | 诊所 | клиника
+doctor | médecin | Arzt | médico | medico | médico | डॉक्टर | 医生 | врач
+nurse | infirmier | Krankenpfleger | enfermero | infermiere | enfermeiro | नर्स | 护士 | медсестра
+patient | patient | Patient | paciente | paziente | paciente | मरीज | 病人 | пациент
+dentist | dentiste | Zahnarzt | dentista | dentista | dentista | दंत चिकित्सक | 牙医 | стоматолог
+hospital | hôpital | Krankenhaus | hospital | ospedale | hospital | अस्पताल | 医院 | больница
+office | bureau | Büro | oficina | ufficio | escritório | दफ्तर | 办公室 | офис
+room | chambre | Zimmer | habitación | stanza | quarto | कमरा | 房间 | комната
+form | formulaire | Formular | formulario | modulo | formulário | फॉर्म | 表格 | бланк
+id | carte d'identité | Ausweis | identificación | documento | identificação | पहचान पत्र | 身份证 | удостоверение
+address | adresse | Adresse | dirección | indirizzo | endereço | पता | 地址 | адрес
+name | nom | Name | nombre | nome | nome | नाम | 名字 | имя
+reason | raison | Grund | razón | motivo | razão | कारण | 理由 | причина
+book | livre | Buch | libro | libro | livro | किताब | 书 | книга
+cancel | annuler | stornieren | cancelar | annullare | cancelar | रद्द करना | 取消 | отменить
+reschedule | reprogrammer | umplanen | reprogramar | riprogrammare | remarcar | नए सिरे से समय तय करना | 重新安排 | перенести
+confirm | confirmer | bestätigen | confirmar | confermare | confirmar | पुष्टि करना | 确认 | подтвердить
+call | appeler | anrufen | llamar | chiamare | chamar | कॉल करना | 打电话 | звонить
+arrive | arriver | ankommen | llegar | arrivare | chegar | पहुंचना | 到达 | прибыть
+wait | attendre | warten | esperar | aspettare | esperar | इंतजार करना | 等待 | ждать
+speak | parler | sprechen | hablar | parlare | falar | बोलना | 说 | говорить
+ask | demander | fragen | preguntar | chiedere | perguntar | पूछना | 询问 | спрашивать
+check | vérifier | überprüfen | comprobar | controllare | verificar | जांचना | 检查 | проверять
+find | trouver | finden | encontrar | trovare | encontrar | ढूंढना | 找到 | находить
+choose | choisir | wählen | elegir | scegliere | escolher | चुनना | 选择 | выбирать
+plan | planifier | planen | planear | pianificare | planejar | योजना बनाना | 计划 | планировать
+need | avoir besoin | brauchen | necesitar | avere bisogno | precisar | ज़रूरत होना | 需要 | нуждаться
+change | changer | ändern | cambiar | cambiare | mudar | बदलना | 改变 | менять
+open | ouvrir | öffnen | abrir | aprire | abrir | खुला | 打开 | открыть
+close | fermer | schließen | cerrar | chiudere | fechar | बंद | 关闭 | закрыть
+visit | visiter | besuchen | visitar | visitare | visitar | दौरा करना | 访问 | посетить
+available | disponible | verfügbar | disponible | disponibile | disponível | उपल्ब्ध | 可用 | доступный
+busy | occupé | beschäftigt | ocupado | occupato | ocupado | व्यस्त | 忙 | занятый
+free | gratuit | frei | gratis | libero | grátis | मुफ्त | 免费 | бесплатный
+early | tôt | früh | temprano | presto | cedo | जल्दी | 早 | рано
+late | tard | spät | tarde | tardi | tarde | देर से | 晚 | поздно
+urgent | urgent | dringend | urgente | urgente | urgente | आवश्यक | 紧急 | срочный
+next | suivant | nächste | siguiente | successivo | próximo | अगला | 下一个 | следующий
+first | premier | erste | primero | primo | primeiro | पहला | 第一 | первый
+same | même | gleich | mismo | stesso | mesmo | वही | 同样 | тот же
+possible | possible | möglich | posible | possibile | possível | संभव | 可能 | возможный
+make appointment | prendre rendez-vous | einen Termin vereinbaren | hacer una cita | fissare un appuntamento | marcar consulta | अपॉइंटमेंट बनाना | 预约 | записаться на прием
+next week | la semaine prochaine | nächste Woche | la próxima semana | la prossima settimana | próxima semana | अगला सप्ताह | 下周 | следующей неделе
+this morning | ce matin | heute Morgen | esta mañana | questa mattina | esta manhã | आज सुबह | 今早 | сегодня утром
+time slot | créneau horaire | Zeitfenster | franja horaria | fascia oraria | faixa horária | समय अंतराल | 时段 | интервал

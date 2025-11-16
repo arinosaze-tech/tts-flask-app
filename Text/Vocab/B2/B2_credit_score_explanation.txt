@@ -1,0 +1,65 @@
+credit | crédit | Kredit | crédito | credito | crédito | श्रेणी | 信用 | кредит | Kredit
+score | score | Punktzahl | puntuación | punteggio | pontuação | स्कोर | 分数 | балл | Score
+rating | évaluation | Bewertung | calificación | valutazione | avaliação | रेटिंग | 评级 | рейтинг | Bewertung
+history | histoire | Geschichte | historia | storia | história | इतिहास | 历史 | история | Geschicht
+report | rapport | Bericht | informe | rapporto | relatório | रिपोर्ट | 报告 | отчет | Rapport
+lender | prêteur | Kreditgeber | prestamista | prestatore | credor | उधारकर्ता | 贷款人 | кредитор | Kreditgeber
+borrower | emprunteur | Kreditnehmer | prestatario | mutuatario | mutuário | उधारी | 借款人 | заемщик | Kreditnehmer
+loan | prêt | Darlehen | préstamo | prestito | empréstimo | ऋण | 贷款 | заем | Darlehen
+debt | dette | Schulden | deuda | debito | dívida | ऋण | 债务 | долг | Schuld
+payment | paiement | Zahlung | pago | pagamento | pagamento | भुगतान | 付款 | платеж | Bezuelung
+interest | intérêt | Zinsen | interés | interesse | juros | ब्याज | 利息 | интерес | Zins
+risk | risque | Risiko | riesgo | rischio | risco | खतरा | 风险 | риск | Risiko
+financial | financier | finanziell | financiero | finanziario | financeiro | वित्तीय | 财务 | финансовый | finanziell
+trust | confiance | Vertrauen | confianza | fiducia | confiança | विश्वास | 信任 | доверие | Vertrauen
+agency | agence | Agentur | agencia | agenzia | agência | एजेन्सी | 机构 | агентство | Agence
+evaluation | évaluation | Bewertung | evaluación | valutazione | avaliação | मूल्यांकन | 评估 | оценка | Evaluatioun
+assessment | évaluation | Bewertung | evaluación | valutazione | avaliação | आकलन | 评估 | оценка | Bewertung
+personal | personnel | persönlich | personal | personale | pessoal | व्यक्तिगत | 个人 | личный | perséinlech
+information | information | Information | información | informazione | informação | जानकारी | 信息 | информация | Informatioun
+credit card | carte de crédit | Kreditkarte | tarjeta de crédito | carta di credito | cartão de crédito | क्रेडिट कार्ड | 信用卡 | кредитная карта | Kéierkaart
+default | défaut | Standard | defecto | default | padrão | डिफॉल्ट | 默认 | дефолт | Defaut
+balance | solde | Saldo | saldo | saldo | saldo | संतुलन | 余额 | баланс | Bilanz
+term | terme | Betrag | término | termine | termo | अवधि | 期限 | срок | Begrëff
+limit | limite | Grenze | límite | limite | limite | सीमा | 限制 | лимит | Limit
+apply | appliquer | anwenden | aplicar | applicare | aplicar | लागू करना | 申请 | одобрить | applizéieren
+approve | approuver | genehmigen | aprobar | approvare | aprovar | मंजूर करना | 批准 | одобрять | genehegen
+deny | refuser | ablehnen | negar | negare | negar | इनकार करना | 拒绝 | отвергать | weigeren
+manage | gérer | verwalten | gestionar | gestire | gerir | प्रबंधित करना | 管理 | управлять | verwalten
+payment plan | plan de paiement | Zahlungsplan | plan de pago | piano di pagamento | plano de pagamento | भुगतान योजना | 付款计划 | план оплаты | Paiementsplan
+late | en retard | spät | tarde | in ritardo | atrasado | देर | 晚 | поздно | spéit
+bill | facture | Rechnung | factura | fattura | fatura | बिल | 账单 | счет | Rechnung
+statement | relevé | Ausweis | declaración | dichiarazione | declaração | विवरण | 申明 | выписка | Aussoichtung
+amount | montant | Betrag | cantidad | importo | montante | राशि | 金额 | сумма | Betrag
+calculate | calculer | berechnen | calcular | calcolare | calcular | गणना करना | 计算 | рассчитывать | rechnen
+monitor | surveiller | überwachen | monitorear | monitorare | monitorar | निगरानी करना | 监控 | контролировать | überwachen
+increase | augmenter | erhöhen | aumentar | aumentare | aumentar | बढ़ाना | 增加 | увеличивать | erhöhen
+decrease | diminuer | verringern | disminuir | ridurre | diminuir | घटाना | 减少 | уменьшать | verringern
+criteria | critères | Kriterien | criterios | criteri | critérios | मानदंड | 标准 | критерии | Kriterien
+affordability | abordabilité | Erschwinglichkeit | asequibilidad | accessibilità | acessibilidade | सामर्थ्य | 负担能力 | доступность | Erschwinglichkeit
+credit bureau | bureau de crédit | Kreditauskunft | buró de crédito | ufficio di credito | agência de crédito | क्रेडिट ब्यूरो | 信用局 | кредитное бюро | Créditbüro
+secure | sécurisé | sicher | seguro | sicuro | seguro | सुरक्षित | 安全 | безопасный | geséchert
+unsuccessful | infructueux | erfolglos | infructuoso | non riuscito | sem êxito | असफल | 不成功 | неуспешный | erfolglos
+prospective | prospectif | potenziell | prospective | potenziale | prospectivo | संभावित | 未来的 | потенциальный | prospektiv
+options | options | Optionen | opciones | opzioni | opções | विकल्प | 选项 | варианты | Optiounen
+terms | termes | Bedingungen | términos | termini | termos | शर्तें | 条款 | условия | Begrëffer
+responsibility | responsabilité | Verantwortung | responsabilidad | responsabilità | responsabilidade | जिम्मेदारी | 责任 | ответственность | Verantwortung
+obligation | obligation | Verpflichtung | obligación | obbligo | obrigação | कर्तव्य | 义务 | обязательство | Obligatioun
+factors | facteurs | Faktoren | factores | fattori | fatores | कारक | 因素 | факторы | Faktoren
+transaction | transaction | Transaktion | transacción | transazione | transação | लेनदेन | 交易 | транзакция | Transaktioun
+settle | régler | sich niederlassen | establecer | risolvere | resolver | समझौता करना | 解决 | улаживать | régléieren
+caution | prudence | Vorsicht | precaución | cautela | cautela | सावधानी | 注意 | осторожность | Virdeeg
+behavior | comportement | Verhalten | comportamiento | comportamento | comportamento | व्यवहार | 行为 | поведение | Verhalen
+performance | performance | Leistung | actuación | performance | desempenho | प्रदर्शन | 表现 | производительность | Leeschtung
+understanding | compréhension | Verständnis | comprensión | comprensione | compreensão | समझ | 理解 | понимание | Verständnis
+demonstrate | démontrer | zeigen | demostrar | dimostrare | demonstrar | प्रदर्शित करना | 展示 | демонстрировать | weisen
+importance | importance | Bedeutung | importancia | importanza | importância | महत्व | 重要性 | важность | Wichtegkeit
+access | accéder | zugreifen | acceder | accedere | acessar | पहुँचना | 访问 | доступ | zoufassen
+building | bâtiment | Gebäude | edificio | edificio | construção | भवन | 建筑 | здание | Gebäude
+maintain | maintenir | warten | mantener | mantenere | manter | बनाए रखना | 维护 | поддерживать | behalen
+financial health | santé financière | finanzielle Gesundheit | salud financiera | salute finanziaria | saúde financeira | वित्तीय स्वास्थ्य | 财务健康 | финансовое здоровье | finanziell Gesondheet
+investigate | enquêter | untersuchen | investigar | indagare | investigar | जांच करना | 调查 | расследовать | ënvestigéieren
+dispute | litige | Streit | disputa | controversia | disputa | विवाद | 争议 | спор | sträit
+correct | corriger | korrigieren | corregir | correggere | corrigir | सही करना | 纠正 | исправить | korrigéieren
+update | mettre à jour | aktualisieren | actualizar | aggiornare | atualizar | अद्यतन करना | 更新 | обновить | aktualiséieren
+review | réviser | überprüfen | revisar | rivedere | revisar | समीक्षा करना | 复习 | рецензировать | iwwerpréiwen

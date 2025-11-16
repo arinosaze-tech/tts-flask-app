@@ -1,0 +1,65 @@
+café | café | Café | café | caffè | café | कैफे | 咖啡馆 | кафе | Kaffi
+table | table | Tisch | mesa | tavolo | mesa | तालिका | 表 | стол | Tëfel
+chair | chaise | Stuhl | silla | sedia | cadeira | कुर्सी | 椅子 | стул | Stull
+menu | menu | Menü | menú | menu | menu | मेन्यू | 菜单 | меню | Menü
+coffee | café | Kaffee | café | caffè | café | कॉफी | 咖啡 | кофе | Kaffi
+tea | thé | Tee | té | tè | chá | चाय | 茶 | чай | Té
+water | eau | Wasser | agua | acqua | água | पानी | 水 | вода | Waasser
+cake | gâteau | Kuchen | pastel | torta | bolo | केक | 蛋糕 | торт | Kuch
+sandwich | sandwich | Sandwich | sándwich | panino | sanduíche | सैंडविच | 三明治 | сэндвич | Sandwich
+breakfast | petit déjeuner | Frühstück | desayuno | colazione | café da manhã | नाश्ता | 早餐 | завтрак | Frühstück
+lunch | déjeuner | Mittagessen | almuerzo | pranzo | almoço | दोपहर का खाना | 午餐 | обед | Mëss
+dinner | dîner | Abendessen | cena | cena | jantar | रात का खाना | 晚餐 | ужин | Diner
+order | commander | bestellen | pedir | ordinare | pedir | ऑर्डर करना | 订购 | заказывать | bestellen
+bill | facture | Rechnung | cuenta | conto | conta | बिल | 账单 | счёт | Rechnung
+waiter | serveur | Kellner | camarero | cameriere | garçom | वेटर | 服务员 | официант | Kellner
+waitress | serveuse | Kellnerin | camarera | cameriera | garçonete | वेट्रेस | 女服务员 | официантка | Kellnerin
+customer | client | Kunde | cliente | cliente | cliente | ग्राहक | 客户 | клиент | Client
+drink | boire | trinken | beber | bere | beber | पीना | 饮料 | пить | Drénken
+sugar | sucre | Zucker | azúcar | zucchero | açúcar | चीनी | 糖 | сахар | Zocker
+milk | lait | Milch | leche | latte | leite | दूध | 牛奶 | молоко | Mëllech
+cream | crème | Sahne | crema | panna | creme | मलाई | 奶油 | сливки | Crème
+juice | jus | Saft | jugo | succo | suco | रस | 果汁 | сок | Jus
+ice | glace | Eis | hielo | ghiaccio | gelo | बर्फ | 冰 | лёд | Äis
+fruit | fruit | Obst | fruta | frutta | fruta | फल | 水果 | фрукт | Uebst
+cookie | biscuit | Keks | galleta | biscotto | biscoito | कुकी | 曲奇 | печенье | Keks
+pastry | pâtisserie | Gebäck | pastelería | pasticceria | pastelaria | पेस्ट्री | 糕点 | выпечка | Gebäck
+tablecloth | nappe | Tischdecke | mantel | tovaglia | toalha | मेज़पोश | 台布 | скатерть | Tischdecke
+fork | fourchette | Gabel | tenedor | forchetta | garfo | कांटा | 叉 | вилка | Gabel
+knife | couteau | Messer | cuchillo | coltello | faca | चाकू | 刀 | нож | Messer
+spoon | cuillère | Löffel | cuchara | cucchiaio | colher | चम्मच | 勺子 | ложка | Löffel
+plate | assiette | Teller | plato | piatto | prato | प्लेट | 盘子 | тарелка | Teller
+napkin | serviette | Serviette | servilleta | tovagliolo | guardanapo | नैपकिन | 餐巾 | салфетка | Servietten
+tasty | savoureux | lecker | sabroso | gustoso | saboroso | स्वादिष्ट | 美味 | вкусный | lecker
+hot | chaud | heiß | caliente | caldo | quente | गर्म | 热 | горячий | heiss
+cold | froid | kalt | frío | freddo | frio | ठंडा | 冷 | холодный | kal
+sweet | sucré | süß | dulce | dolce | doce | मीठा | 甜 | сладкий | séiss
+sour | acide | sauer | agrio | aspro | azedo | खट्टा | 酸 | кислый | sauer
+fried | frit | gebraten | frito | fritto | frito | तला हुआ | 炸 | жареный | fritt
+baked | cuit | gebacken | horneado | cotto | assado | बेक किया हुआ | 烘焙 | запеченный | gebak
+fresh | frais | frisch | fresco | fresco | fresco | ताजा | 新鲜 | свежий | frësch
+crowded | bondé | überfüllt | lleno | affollato | cheio | भरा हुआ | 拥挤 | переполненный | overcrowded
+quiet | calme | ruhig | tranquilo | tranquillo | calmo | शांत | 安静 | тихий | roueg
+busy | occupé | beschäftigt | ocupado | impegnato | ocupado | व्यस्त | 繁忙 | занятый | beschäftegt
+friendly | amical | freundlich | amigable | amichevole | amigável | दोस्ताना | 友好 | дружелюбный | frëndlech
+happy | heureux | glücklich | feliz | felice | feliz | खुश | 高兴 | счастливый | glücklich
+sad | triste | traurig | triste | triste | triste | उदास | 伤心 | грустный | traureg
+eat | manger | essen | comer | mangiare | comer | खाना | 吃 | есть | iessen
+drink | boire | trinken | beber | bere | beber | पीना | 喝 | пить | ­drénke
+ask | demander | fragen | preguntar | chiedere | perguntar | पूछना | 询问 | спрашивать | froen
+pay | payer | bezahlen | pagar | pagare | pagar | भुगतान करना | 支付 | платить | bezuelen
+sit | s'asseoir | sitzen | sentarse | sedere | sentar | बैठना | 坐 | сидеть | sëtzen
+wait | attendre | warten | esperar | aspettare | esperar | इंतज़ार करना | 等待 | ждать | waarden
+like | aimer | mögen | gustar | piacere | gostar | पसंद करना | 喜欢 | нравиться | derfen
+enjoy | profiter | genießen | disfrutar | godere | desfrutar | मज़ा करना | 享受 | наслаждаться | genéissen
+suggest | suggérer | vorschlagen | sugerir | suggerire | sugerir | सुझाव देना | 建议 | предлагать | viruede
+reserve | réserver | reservieren | reservar | riservare | reservar | आरक्षित करना | 预订 | резервировать | reservéieren
+taste | goûter | schmecken | gustar | assaporare | provar | चखना | 味道 | вкус | degustéieren
+look | regarder | schauen | mirar | guardare | olhar | देखना | 看 | смотреть | kucken
+talk | parler | sprechen | hablar | parlare | falar | बात करना | 说 | говорить | schwätzen
+share | partager | teilen | compartir | condividere | compartilhar | साझा करना | 分享 | делиться | deelen
+call | appeler | anrufen | llamar | chiamare | chamar | बुलाना | 叫 | звонить | ruffen
+smell | sentir | riechen | oler | annusare | cheirar | सूंघना | 闻 | нюхать | richen
+bring | apporter | bringen | llevar | portare | trazer | लाना | 带 | приносить | bréngen
+check | vérifier | überprüfen | comprobar | controllare | verificar | जांचना | 检查 | проверять | kontrolléieren
+cook | cuisiner | kochen | cocinar | cucinare | cozinhar | पकाना | 烹饪 | готовить | kachen

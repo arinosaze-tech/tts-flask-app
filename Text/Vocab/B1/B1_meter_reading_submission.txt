@@ -1,0 +1,65 @@
+smart meter | compteur intelligent | intelligenter Zähler | contador inteligente | contatore intelligente | medidor inteligente | स्मार्ट मीटर | 智能表 | умный счетчик | intelligente Meter
+meter reading | relevé de compteur | Zählerstand | lectura del contador | lettura del contatore | leitura do medidor | मीटर रीडिंग | 表读数 | показание счетчика | Zählerstand
+enter reading | entrer le relevé | Zählerstand eingeben | ingresar lectura | inserire lettura | inserir leitura | रीडिंग दर्ज करें | 输入读数 | ввести показания | Leserstand eingeben
+send reading | envoyer le relevé | Zählerstand senden | enviar lectura | inviare lettura | enviar leitura | रीडिंग भेजें | 发送读数 | отправить показания | Leserstand senden
+take photo | prendre une photo | Foto machen | tomar foto | fare foto | tirar foto | फोटो लेना | 拍照 | сделать фото | Foto maachen
+due date | date d'échéance | Fälligkeitsdatum | fecha de vencimiento | scadenza | data de vencimento | अंतिम तिथि | 到期日期 | дата платежа | Fristdatum
+account number | numéro de compte | Kontonummer | número de cuenta | numero di conto | número da conta | खाता संख्या | 帐号 | номер счета | Kontonummert
+meter number | numéro de compteur | Zählernummer | número de medidor | numero di contatore | número do medidor | मीटर संख्या | 表号 | номер счетчика | Zählernummer
+meter | mètre | Meter | medidor | metro | medidor | मीटर | 米 | метр | Meter
+reading | lecture | Lesen | lectura | lettura | leitura | पढ़ाई | 阅读 | чтение | Liesen
+submission | soumission | Einreichung | envío | invio | submissão | प्रस्तुत करना | 提交 | представление | Rentrée
+bill | facture | Rechnung | factura | fattura | fatura | बिल | 账单 | счёт | Rechnung
+account | compte | Konto | cuenta | conto | conta | खाता | 账户 | счёт | Kont
+customer | client | Kunde | cliente | cliente | cliente | ग्राहक | 客户 | клиент | Cliente
+provider | fournisseur | Anbieter | proveedor | fornitore | fornecedor | प्रदाता | 供应商 | поставщик | Provider
+utility | utilité | Nutzen | utilidad | utilità | utilidade | उपयोगिता | 效用 | утилита | Utilitéit
+gas | gaz | Gas | gas | gas | gás | गैस | 燃气 | газ | Gas
+electricity | électricité | Elektrizität | electricidad | elettricità | eletricidade | बिजली | 电 | электричество | Elektrizitéit
+water | eau | Wasser | agua | acqua | água | पानी | 水 | вода | Waasser
+app | application | Anwendung | aplicación | app | aplicativo | ऐप | 应用 | приложение | Applikatioun
+website | site web | Webseite | sitio web | sito web | site | वेबसाइट | 网站 | веб-сайт | Websäit
+portal | portail | Portal | portal | portale | portal | पोर्टल | 门户 | портал | Portal
+form | formulaire | Formular | formulario | modulo | formulário | फॉर्म | 表单 | форма | Form
+field | champ | Feld | campo | campo | campo | क्षेत्र | 领域 | поле | Feld
+button | bouton | Knopf | botón | pulsante | botão | बटन | 按钮 | кнопка | Knop
+error | erreur | Fehler | error | errore | erro | त्रुटि | 错误 | ошибка | Feeler
+support | soutenir | unterstützen | apoyo | supporto | suporte | समर्थन | 支持 | поддержка | Ënnerstetzung
+address | adresse | Adresse | dirección | indirizzo | endereço | पता | 地址 | адрес | Adress
+postcode | code postal | Postleitzahl | código postal | codice postale | código postal | पोस्टकोड | 邮政编码 | почтовый индекс | Postcode
+photo | photo | Foto | foto | foto | foto | फोटो | 照片 | фото | Foto
+screen | écran | Bildschirm | pantalla | schermo | tela | स्क्रीन | 屏幕 | экран | Bildschierm
+deadline | date limite | Frist | plazo | scadenza | prazo | समय सीमा | 截止日期 | крайний срок | Frist
+usage | utilisation | Nutzung | consumo | utilizzo | consumo | उपयोग | 用法 | использование | Gebrauch
+consumption | consommation | Verbrauch | consumo | consumo | consumo | उपभोग | 消费 | потребление | Verbrauch
+current | actuel | aktuell | actual | attuale | atual | वर्तमान | 当前 | текущий | aktuell
+previous | précédent | vorherig | anterior | precedente | anterior | पहले | 以前 | предыдущий | vorherg
+correct | correct | korrekt | correcto | corretto | correto | सही | 正确 | правильный | korrekt
+wrong | faux | falsch | incorrecto | sbagliato | errado | गलत | 错误 | неправильный | falsch
+accurate | précis | genau | preciso | preciso | preciso | सटीक | 精确 | точный | genau
+clear | clair | klar | claro | chiaro | claro | स्पष्ट | 清晰 | ясный | klar
+blurry | flou | verschwommen | borroso | sfocato | borrado | धुंधला | 模糊 | размытый | verschwommen
+required | requis | erforderlich | requerido | richiesto | obrigatório | आवश्यक | 必要 | необходимый | erforderlich
+optional | optionnel | optional | opcional | facoltativo | opcional | वैकल्पिक | 可选 | необязательный | optional
+online | en ligne | online | en línea | online | online | ऑनलाइन | 在线 | онлайн | online
+monthly | mensuel | monatlich | mensual | mensile | mensal | मासिक | 每月 | ежемесячный | monatlich
+overdue | en retard | überfällig | atrasado | scaduto | atrasado | देरी से | 逾期 | просроченный | verspätet
+digital | numérique | digital | digital | digitale | digital | डिजिटल | 数字 | цифровой | digital
+submit | soumettre | einreichen | enviar | inviare | submeter | जमा करना | 提交 | представить | overgweien
+enter | entrer | eintreten | entrar | entrare | entrar | प्रवेश करना | 进入 | войти | enter
+upload | télécharger | hochladen | subir | caricare | enviar | अपलोड करना | 上传 | загрузить | uploade
+attach | joindre | anhängen | adjuntar | allegare | anexar | संलग्न करना | 附加 | прикрепить | uflag
+take | prendre | nehmen | tomar | prendere | pegar | लेना | 拿 | взять | huelen
+read | lire | lesen | leer | leggere | ler | पढ़ना | 阅读 | читать | lies
+check | vérifier | überprüfen | comprobar | controllare | verificar | जांच करना | 检查 | проверить | iwwerpréiwen
+confirm | confirmer | bestätigen | confirmar | confermare | confirmar | पुष्टि करना | 确认 | подтвердить | confirméieren
+verify | vérifier | überprüfen | verificar | verificare | verificar | सत्यापित करना | 验证 | проверить | veriféieren
+save | enregistrer | speichern | guardar | salvare | salvar | बचाना | 保存 | сохранить | späicheren
+update | mettre à jour | aktualisieren | actualizar | aggiornare | atualizar | अपडेट करना | 更新 | обновить | aktualiséieren
+cancel | annuler | stornieren | cancelar | annullare | cancelar | रद्द करना | 取消 | отменить | annuléieren
+contact | contacter | kontaktieren | contactar | contattare | contatar | संपर्क करना | 联系 | контакт | kontaktéieren
+call | appeler | anrufen | llamar | chiamare | ligar | बुलाना | 打电话 | звонить | anrufen
+email | envoyer un email | E-Mail senden | enviar un correo | inviare un'email | enviar um email | ईमेल भेजना | 发送电子邮件 | отправить письмо | e-mailen
+open | ouvrir | öffnen | abrir | aprire | abrir | खोलना | 打开 | открыть | opmaachen
+scan | scanner | scannen | escanear | scansionare | escanear | स्कैन करना | 扫描 | сканировать | scannen
+send | envoyer | schicken | enviar | mandare | enviar | भेजना | 发送 | отправить | schécken

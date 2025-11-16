@@ -1,0 +1,65 @@
+request | demande | Anfrage | solicitud | richiesta | pedido | अनुरोध | 请求 | запрос | Anfrage
+extension | prolongation | Verlängerung | extensión | estensione | extensão | विस्तार | 延长 | продление | Verlängerung
+deadline | date limite | Frist | plazo | scadenza | prazo final | समय सीमा | 截止日期 | крайний срок | Frist
+justification | justification | Rechtfertigung | justificación | giustificazione | justificativa | औचित्य | 理由 | обоснование | Rechtfertigung
+reason | raison | Grund | razón | motivo | razão | कारण | 原因 | причина | Grund
+circumstance | circonstance | Umstand | circunstancia | circostanza | circunstância | परिस्थिति | 情况 | обстоятельство | Umstand
+situation | situation | Situation | situación | situazione | situação | स्थिति | 情况 | ситуация | Situation
+difficulty | difficulté | Schwierigkeit | dificultad | difficoltà | dificuldade | कठिनाई | 困难 | трудность | Schwierigkeit
+challenge | défi | Herausforderung | desafío | sfida | desafio | चुनौती | 挑战 | вызов | Herausforderung
+submit | soumettre | einreichen | presentar | presentare | submeter | जमा करना | 提交 | представить | einreichen
+plan | planifier | planen | planear | pianificare | planejar | योजना बनाना | 计划 | планировать | planen
+organize | organiser | organisieren | organizar | organizzare | organizar | संगठित करना | 组织 | организовать | organiséieren
+task | tâche | Aufgabe | tarea | compito | tarefa | कार्य | 任务 | задание | Aufgab
+project | projet | Projekt | proyecto | progetto | projeto | परियोजना | 项目 | проект | Projet
+workload | charge de travail | Arbeitsbelastung | carga de trabajo | carico di lavoro | carga de trabalho | कार्यभार | 工作量 | рабочая нагрузка | Arbecht
+prioritize | prioriser | priorisieren | priorizar | dare priorità | priorizar | प्राथमिकता देना | 优先考虑 | приоритизировать | prioriséieren
+manage | gérer | verwalten | gestionar | gestire | gerenciar | प्रबंधित करना | 管理 | управлять | verwalten
+support | soutenir | unterstützen | apoyar | supportare | apoiar | समर्थन करना | 支持 | поддерживать | unterstützen
+communication | communication | Kommunikation | comunicación | comunicazione | comunicação | संचार | 交流 | коммуникация | Kommunikation
+clarification | clarification | Klarstellung | clarificación | chiarimento | esclarecimento | स्पष्टीकरण | 澄清 | разъяснение | Klärung
+expectation | attente | Erwartung | expectativa | aspettativa | expectativa | आशा | 期望 | ожидание | Erwëchtung
+timeframe | délai | Zeitrahmen | plazo | termine | prazo | समय सीमा | 时间框架 | временной промежуток | Zeitrahmen
+resource | ressource | Ressource | recurso | risorsa | recurso | संसाधन | 资源 | ресурс | Ressource
+schedule | horaire | Zeitplan | horario | programma | cronograma | कार्यक्रम | 日程 | расписание | Zäitplang
+proposal | proposition | Vorschlag | propuesta | proposta | proposta | प्रस्ताव | 提议 | предложение | Vorschlag
+agreement | accord | Vereinbarung | acuerdo | accordo | acordo | समझौता | 协议 | соглашение | Einverständnis
+discussion | discussion | Diskussion | discusión | discussione | discussão | चर्चा | 讨论 | обсуждение | Diskussion
+approval | approbation | Genehmigung | aprobación | approvazione | aprovação | स्वीकृति | 批准 | одобрение | Genehmigung
+flexibility | flexibilité | Flexibilität | flexibilidad | flessibilità | flexibilidade | लचीलापन | 灵活性 | гибкость | Flexibilité
+commitment | engagement | Engagement | compromiso | impegno | compromisso | प्रतिबद्धता | 承诺 | обязательство | Engagement
+effort | effort | Anstrengung | esfuerzo | sforzo | esforço | प्रयास | 努力 | усилие | Anstrengung
+clarity | clarté | Klarheit | claridad | chiarezza | clareza | स्पष्टता | 清晰 | ясность | Klarheit
+feedback | retour | Rückmeldung | retroalimentación | feedback | retorno | फीडबैक | 反馈 | обратная связь | Feedback
+process | processus | Prozess | proceso | processo | processo | प्रक्रिया | 过程 | процесс | Prozess
+responsibility | responsabilité | Verantwortung | responsabilidad | responsabilità | responsabilidade | ज़िम्मेदारी | 责任 | ответственность | Verantwortung
+assistance | assistance | Unterstützung | asistencia | assistenza | assistência | सहायता | 援助 | помощь | Assistenz
+collaboration | collaboration | Zusammenarbeit | colaboración | collaborazione | colaboração | सहयोग | 合作 | сотрудничество | Zusammenarbeit
+understanding | compréhension | Verständnis | comprensión | comprensione | compreensão | समझ | 理解 | понимание | Verständnis
+consequence | conséquence | Konsequenz | consecuencia | conseguenza | consequência | परिणाम | 结果 | следствие | Konsequenz
+impact | impact | Einfluss | impacto | impatto | impacto | प्रभाव | 影响 | влияние | Einfluss
+quality | qualité | Qualität | calidad | qualità | qualidade | गुणवत्ता | 质量 | качество | Qualitéit
+assessment | évaluation | Bewertung | evaluación | valutazione | avaliação | आकलन | 评估 | оценка | Bewäertung
+prior | précédent | vorherige | previo | precedente | anterior | पूर्व | 之前 | предыдущий | prior
+negotiate | négocier | verhandeln | negociar | negoziare | negociar | बातचीत करना | 谈判 | вести переговоры | verhandelen
+result | résultat | Ergebnis | resultado | risultato | resultado | परिणाम | 结果 | результат | Resultat
+option | option | Option | opción | opzione | opção | विकल्प | 选项 | опция | Optioun
+outcome | résultat | Ergebnis | resultado | esito | resultado | परिणाम | 结果 | результат | Resultat
+goal | objectif | Ziel | objetivo | obiettivo | meta | लक्ष्य | 目标 | цель | Ziléiert
+improvement | amélioration | Verbesserung | mejora | miglioramento | melhoria | सुधार | 改进 | улучшение | Verbesserung
+balance | équilibre | Gleichgewicht | equilibrio | equilibrio | equilíbrio | संतुलन | 平衡 | баланс | Balance
+emphasis | accent | Betonung | énfasis | enfasi | ênfase | जोर | 强调 | акцент | Akzent
+importance | importance | Wichtigkeit | importancia | importanza | importância | महत्व | 重要性 | важность | Wichtigkeit
+focus | concentration | Fokus | enfoque | concentrazione | foco | ध्यान | 集中 | внимание | Konzentration
+approach | approche | Ansatz | enfoque | approccio | abordagem | दृष्टिकोण | 方法 | подход | Ansatz
+solution | solution | Lösung | solución | soluzione | solução | समाधान | 解决方案 | решение | Lösung
+innovation | innovation | Innovation | innovación | innovazione | inovação | नवाचार | 创新 | инновация | Innovation
+commitment | engagement | Verpflichtung | compromiso | impegno | compromisso | प्रतिबद्धता | 承诺 | обязательство | Engagement
+accountability | responsabilité | Verantwortlichkeit | responsabilidad | responsabilità | responsabilização | जवाबदेही | 责任 | ответственность | Verantwortung
+evaluation | évaluation | Bewertung | evaluación | valutazione | avaliação | मूल्यांकन | 评估 | оценка | Bewertung
+performance | performance | Leistung | rendimiento | prestazione | desempenho | प्रदर्शन | 表现 | производительность | Leistung
+success | succès | Erfolg | éxito | successo | sucesso | सफलता | 成功 | успех | Erfolgs
+adaptation | adaptation | Anpassung | adaptación | adattamento | adaptação | अनुकूलन | 适应 | адаптация | Anpassung
+revisions | révisions | Überarbeitungen | revisiones | revisioni | revisões | संशोधन | 修订 | исправления | Revisionen
+guidance | orientation | Anleitung | orientación | guida | orientação | मार्गदर्शन | 指导 | руководство | Anleitung
+feedback | retour | Rückmeldung | retroalimentación | feedback | feedback | फीडबैक | 反馈 | обратная связь | Feedback

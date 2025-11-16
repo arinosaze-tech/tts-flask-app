@@ -1,0 +1,65 @@
+scope | portée | Umfang | alcance | portata | escopo | दायरा | 范围 | объем | Umfang
+change | changement | Veränderung | cambio | cambiamento | mudança | परिवर्तन | 变化 | изменение | Veränderung
+project | projet | Projekt | proyecto | progetto | projeto | परियोजना | 项目 | проект | Projet
+management | gestion | Verwaltung | gestión | gestione | gestão | प्रबंधन | 管理 | управление | Gestion
+stakeholder | partie prenante | Interessengruppen | parte interesada | portatore di interesse | partes interessadas | हितधारक | 利益相关者 | заинтересованная сторона | Interessengrupp
+requirement | exigence | Anforderung | requisito | requisito | requisito | आवश्यकता | 要求 | требование | Anforderung
+deadline | date limite | Frist | fecha límite | scadenza | prazo | समयसीमा | 截止日期 | крайний срок | Frist
+resource | ressource | Ressource | recurso | risorsa | recurso | संसाधन | 资源 | ресурс | Ressource
+allocation | allocation | Zuweisung | asignación | assegnazione | alocação | आवंटन | 分配 | распределение | Allokatioun
+risk | risque | Risiko | riesgo | rischio | risco | जोखिम | 风险 | риск | Risiko
+assessment | évaluation | Bewertung | evaluación | valutazione | avaliação | आकलन | 评估 | оценка | Bewäertung
+approval | approbation | Genehmigung | aprobación | approvazione | aprovação | अनुमोदन | 批准 | одобрение | Genehmegung
+budget | budget | Budget | presupuesto | bilancio | orçamento | बजट | 预算 | бюджет | Budget
+timeline | chronologie | Zeitachse | cronograma | cronologia | linha do tempo | समयरेखा | 时间线 | временная шкала | Zäitraum
+plan | plan | Plan | plan | piano | plano | योजना | 计划 | план | Plang
+progress | progrès | Fortschritt | progreso | progresso | progresso | प्रगति | 进展 | прогресс | Fortgang
+evaluation | évaluation | Bewertung | evaluación | valutazione | avaliação | मूल्यांकन | 评价 | оценка | Bewertung
+implementation | mise en œuvre | Umsetzung | implementación | attuazione | implementação | कार्यान्वयन | 实施 | внедрение | Implementatioun
+feedback | retour | Rückmeldung | retroalimentación | feedback | retorno | फीडबैक | 反馈 | обратная связь | Rentrée
+adjustment | ajustement | Anpassung | ajuste | aggiustamento | ajuste | समायोजन | 调整 | корректировка | Réajustement
+collaboration | collaboration | Zusammenarbeit | colaboración | collaborazione | colaboração | सहयोग | 合作 | сотрудничество | Zesummenaarbecht
+communication | communication | Kommunikation | comunicación | comunicazione | comunicação | संचार | 交流 | коммуникация | Kommunikatioun
+update | mise à jour | Aktualisierung | actualización | aggiornamento | atualização | अद्यतन | 更新 | обновление | Update
+task | tâche | Aufgabe | tarea | compito | tarefa | कार्य | 任务 | задача | Aufgab
+schedule | emploi du temps | Zeitplan | horario | programma | cronograma | कार्यक्रम | 日程 | расписание | Zeitplang
+goal | objectif | Ziel | meta | obiettivo | meta | लक्ष्य | 目标 | цель | Zil
+outcome | résultat | Ergebnis | resultado | risultato | resultado | परिणाम | 结果 | результат | Resultat
+deliverable | livrable | Lieferung | entregable | consegna | entregável | डिलिवरेबल | 可交付物 | результат | Liefert
+analysis | analyse | Analyse | análisis | analisi | análise | विश्लेषण | 分析 | анализ | Analyse
+clarification | clarification | Klarstellung | aclaración | chiarimento | esclarecimento | स्पष्टता | 澄清 | разъяснение | Klärung
+consultation | consultation | Konsultation | consulta | consultazione | consulta | परामर्श | 咨询 | консультация | Consultatioun
+decision | décision | Entscheidung | decisión | decisione | decisão | निर्णय | 决定 | решение | Decisioun
+action | action | Handlung | acción | azione | ação | कार्य | 行动 | действие | Aktioun
+priority | priorité | Priorität | prioridad | priorità | prioridade | प्राथमिकता | 优先事项 | приоритет | Prioritéit
+impact | impact | Auswirkung | impacto | impatto | impacto | प्रभाव | 影响 | влияние | Impakt
+challenge | défi | Herausforderung | desafío | sfida | desafio | चुनौती | 挑战 | вызов | Erausfuerderung
+method | méthode | Methode | método | metodo | método | विधि | 方法 | метод | Method
+protocol | protocole | Protokoll | protocolo | protocollo | protocolo | प्रोटोकॉल | 协议 | протокол | Protokoll
+strategy | stratégie | Strategie | estrategia | strategia | estratégia | रणनीति | 战略 | стратегия | Strategie
+expectation | attente | Erwartung | expectativa | aspettativa | expectativa | उम्मीद | 期望 | ожидание | Erwëchtung
+review | revue | Überprüfung | revisión | revisione | revisão | समीक्ष | 评审 | обзор | Überpréiwung
+proposal | proposition | Vorschlag | propuesta | proposta | proposta | प्रस्ताव | 提议 | предложение | Propos
+regulation | règlement | Verordnung | regulación | regolamento | regulamento | विनियमन | 规章 | регулирование | Reglementer
+constraint | contrainte | Einschränkung | restricción | vincolo | restrição | बाध्यता | 限制 | ограничение | Zwang
+monitoring | surveillance | Überwachung | monitoreo | monitoraggio | monitoramento | निगरानी | 监控 | мониторинг | Iwwerwaachung
+revision | révision | Überarbeitung | revisión | revisione | revisão | पुनरीक्षण | 修订 | пересмотр | Revisioun
+milestone | étape | Meilenstein | hito | traguardo | marco | मील का पत्थर | 里程碑 | веха | Méilestone
+objective | objectif | Ziel | objetivo | obiettivo | objetivo | उद्देश्य | 目标 | цель | Objektiv
+status | statut | Status | estado | stato | status | स्थिति | 状态 | статус | Status
+clarity | clarté | Klarheit | claridad | chiarezza | clareza | स्पष्टता | 清晰度 | ясность | Kloerheet
+engagement | engagement | Engagement | compromiso | impegno | compromisso | सहभागिता | 参与 | вовлеченность | Engagement
+framework | cadre | Rahmen | marco | cornice | estrutura | ढांचा | 框架 | структура | Kader
+transparency | transparence | Transparenz | transparencia | trasparenza | transparência | पारदर्शिता | 透明度 | прозрачность | Transparenz
+documentation | documentation | Dokumentation | documentación | documentazione | documentação | दस्तावेज़ | 文档 | документация | Dokumentatioun
+responsibility | responsabilité | Verantwortung | responsabilidad | responsabilità | responsabilidade | जिम्मेदारी | 责任 | ответственность | Verantwortung
+teamwork | travail d'équipe | Teamarbeit | trabajo en equipo | lavoro di squadra | trabalho em equipe | टीमवर्क | 团队合作 | командная работа | Teamarbeit
+ownership | propriété | Eigentum | propiedad | proprietà | propriedade | स्वामित्व | 所有权 | собственность | Eigentum
+performance | performance | Leistung | rendimiento | prestazione | desempenho | प्रदर्शन | 表现 | производительность | Performance
+confirmation | confirmation | Bestätigung | confirmación | conferma | confirmação | पुष्टि | 确认 | подтверждение | Bestätigung
+engagement | engagement | Engagement | compromiso | impegno | compromisso | सगाई | 参与 | вовлеченность | Engagement
+change request | demande de changement | Änderungsantrag | solicitud de cambio | richiesta di modifica | pedido de mudança | परिवर्तन अनुरोध | 更改请求 | запрос на изменение | Änderungsantrag
+intervention | intervention | Intervention | intervención | intervento | intervenção | हस्तक्षेप | 干预 | вмешательство | Interventioun
+negotiation | négociation | Verhandlung | negociación | negoziazione | negociação | वार्ता | 谈判 | переговоры | Négotiatioun
+flexibility | flexibilité | Flexibilität | flexibilidad | flessibilità | flexibilidade | लचीलापन | 灵活性 | гибкость | Flexibilité
+alignment | alignement | Ausrichtung | alineación | allineamento | alinhamento | संरेखण | 对齐 | выравнивание | Ausrichtung

@@ -1,0 +1,65 @@
+doctor | médecin | Arzt | médico | dottore | médico | डॉक्टर | 医生 | доктор
+nurse | infirmière | Krankenschwester | enfermera | infermiera | enfermeira | नर्स | 护士 | медсестра
+patient | patient | Patient | paciente | paziente | paciente | रोगी | 病人 | пациент
+clinic | clinique | Klinik | clínica | clinica | clínica | क्लिनिक | 诊所 | клиника
+hospital | hôpital | Krankenhaus | hospital | ospedale | hospital | अस्पताल | 医院 | больница
+appointment | rendez-vous | Termin | cita | appuntamento | compromisso | अपॉइंटमेंट | 预约 | встреча
+receptionist | réceptionniste | Empfangsmitarbeiter | recepcionista | receptionist | recepcionista | रिसेप्शनिस्ट | 接待员 | регистратор
+medicine | médecine | Medizin | medicina | medicina | medicina | चिकित्सा | 医学 | медицина
+prescription | ordonnance | Rezept | receta | ricetta | receita | नुस्खा | 处方 | рецепт
+symptom | symptôme | Symptom | síntoma | sintomo | sintoma | लक्षण | 症状 | симптом
+pain | douleur | Schmerz | dolor | dolore | dor | दर्द | 疼痛 | боль
+fever | fièvre | Fieber | fiebre | febbre | febre | बुखार | 发烧 | жар
+cough | toux | Husten | tos | tosse | tosse | खांसी | 咳嗽 | кашель
+cold | rhume | Erkältung | resfriado | raffreddore | resfriado | जुकाम | 感冒 | простуда
+throat | gorge | Hals | garganta | gola | garganta | गला | 喉咙 | горло
+head | tête | Kopf | cabeza | testa | cabeça | सिर | 头 | голова
+stomach | estomac | Magen | estómago | stomaco | estômago | पेट | 胃 | желудок
+ear | oreille | Ohr | oído | orecchio | ouvido | कान | 耳 | ухо
+eye | œil | Auge | ojo | occhio | olho | आंख | 眼睛 | глаз
+nose | nez | Nase | nariz | naso | nariz | नाक | 鼻子 | нос
+mouth | bouche | Mund | boca | bocca | boca | मुंह | 嘴 | рот
+chest | poitrine | Brust | pecho | petto | peito | छाती | 胸部 | грудь
+back | dos | Rücken | espalda | schiena | costas | पीठ | 背部 | спина
+arm | bras | Arm | brazo | braccio | braço | हाथ | 手 | рука
+leg | jambe | Bein | pierna | gamba | perna | पैर | 腿 | нога
+tooth | dent | Zahn | diente | dente | dente | दांत | 牙 | зуб
+wound | plaie | Wunde | herida | ferita | ferida | घाव | 伤口 | рана
+bandage | pansement | Verband | venda | benda | curativo | पट्टी | 绷带 | бинт
+injection | injection | Spritze | inyección | iniezione | injeção | इंजेक्शन | 注射 | укол
+vaccine | vaccin | Impfstoff | vacuna | vaccino | vacina | टीका | 疫苗 | вакцина
+temperature | température | Temperatur | temperatura | temperatura | temperatura | तापमान | 温度 | температура
+allergy | allergie | Allergie | alergia | allergia | alergia | एलर्जी | 过敏 | аллергия
+pharmacy | pharmacie | Apotheke | farmacia | farmacia | farmácia | फार्मेसी | 药店 | аптека
+see | voir | sehen | ver | vedere | ver | देखना | 看 | видеть
+examine | examiner | untersuchen | examinar | esaminare | examinar | जांचना | 检查 | проверять
+check | vérifier | überprüfen | chequear | controllare | verificar | जांचना | 检查 | проверять
+feel | sentir | fühlen | sentir | sentire | sentir | महसूस करना | 感觉 | чувствовать
+hurt | blesser | verletzen | herir | ferire | machucar | चोट पहुँचाना | 伤 | причинять боль
+ache | douleur | Schmerz | dolor | dolore | dor | दर्द | 痛 | боль
+breathe | respirer | atmen | respirar | respirare | respirar | साँस लेना | 呼吸 | дышать
+sneeze | éternuer | niesen | estornudar | starnutire | espirrar | छींकना | 打喷嚏 | чихать
+vomit | vomir | erbrechen | vomitar | vomitare | vomitar | उल्टी करना | 呕吐 | рвать
+take | prendre | nehmen | tomar | prendere | tomar | लेना | 拿 | брать
+prescribe | prescrire | verschreiben | recetar | prescrivere | prescrever | नुस्खा लिखना | 开处方 | прописать
+measure | mesurer | messen | medir | misurare | medir | मापना | 测量 | измерять
+listen | écouter | zuhören | escuchar | ascoltare | ouvir | सुनना | 听 | слушать
+rest | se reposer | sich ausruhen | descansar | riposare | descansar | आराम करना | 休息 | отдыхать
+sleep | dormir | schlafen | dormir | dormire | dormir | सोना | 睡觉 | спать
+call | appeler | anrufen | llamar | chiamare | chamar | बुलाना | 打电话 | звонить
+wait | attendre | warten | esperar | aspettare | esperar | इंतज़ार करना | 等待 | ждать
+book | réserver | buchen | reservar | prenotare | reservar | बुक करना | 预订 | забронировать
+arrive | arriver | ankommen | llegar | arrivare | chegar | पहुँचना | 到达 | прибыть
+pay | payer | bezahlen | pagar | pagare | pagar | भुगतान करना | 支付 | платить
+sick | malade | krank | enfermo | malato | doente | बीमार | 生病 | больной
+well | bien | gut | bien | bene | bem | अच्छा | 好 | хороший
+healthy | sain | gesund | saludable | sano | saudável | स्वस्थ | 健康 | здоровый
+painful | douloureux | schmerzhaft | doloroso | doloroso | doloroso | दर्दनाक | 疼痛 | болезненный
+high | haut | hoch | alto | alto | alto | ऊँचा | 高 | высокий
+low | bas | niedrig | bajo | basso | baixo | नीचा | 低 | низкий
+serious | grave | ernst | serio | serio | sério | गंभीर | 严重 | серьезный
+minor | mineur | gering | menor | minore | menor | छोटा | 小 | незначительный
+contagious | contagieux | ansteckend | contagioso | contagioso | contagiosa | संक्रामक | 传染性 | заразный
+dizzy | dizzy | schwindelig | mareado | vertiginoso | tonto | चक्कर आ रहा | 头晕 | головокружительный
+sore throat | mal de gorge | Halsschmerzen | dolor de garganta | mal di gola | dor de garganta | गले में खराश | 喉痛 | боль в горле
+blood pressure | tension artérielle | Blutdruck | presión arterial | pressione arteriosa | pressão arterial | रक्तचाप | 血压 | артериальное давление

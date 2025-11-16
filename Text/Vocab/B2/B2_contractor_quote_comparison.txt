@@ -1,0 +1,65 @@
+quote | citation | Zitat | cita | citazione | citação | उद्धरण | 引用 | цитата | Zitat
+contractor | entrepreneur | Auftragnehmer | contratista | appaltatore | contratante | ठेकेदार | 承包商 | подрядчик | Unternehmer
+comparison | comparaison | Vergleich | comparación | confronto | comparação | तुलना | 比较 | сравнение | Verglachung
+cost | coût | Kosten | costo | costo | custo | लागत | 成本 | стоимость | Käschte
+estimate | estimation | Schätzung | estimación | stima | estimativa | अनुमान | 估算 | смета | Schätzung
+labor | travail | Arbeit | trabajo | lavoro | trabalho | श्रम | 劳动 | труд | Aarbecht
+materials | matériaux | Materialien | materiales | materiali | materiais | सामग्री | 材料 | материалы | Materialien
+service | service | Dienstleistung | servicio | servizio | serviço | सेवा | 服务 | услуга | Service
+scope | champ | Umfang | ámbito | ambito | escopo | दायरा | 范围 | сфера | Umfang
+project | projet | Projekt | proyecto | progetto | projeto | परियोजना | 项目 | проект | Projet
+budget | budget | Budget | presupuesto | bilancio | orçamento | बजट | 预算 | бюджет | Budget
+approval | approbation | Genehmigung | aprobación | approvazione | aprovação | अनुमोदन | 批准 | одобрение | Genehmigung
+requirements | exigences | Anforderungen | requisitos | requisiti | requisitos | आवश्यकताएँ | 需求 | требования | Anforderungen
+timeline | chronologie | Zeitrahmen | cronograma | cronologia | cronograma | समयरेखा | 时间表 | график | Termin
+deliverables | livrables | Ergebnisse | entregables | risultati | entregáveis | डिलीवेरेबल्स | 可交付成果 | результаты | Ergebnisse
+performance | performance | Leistung | rendimiento | performance | desempenho | प्रदर्शन | 表现 | производительность | Leistung
+quality | qualité | Qualität | calidad | qualità | qualidade | गुणवत्ता | 质量 | качество | Qualität
+specifications | spécifications | Spezifikationen | especificaciones | specifiche | especificações | विनिर्देशन | 规格 | спецификации | Spezifizéierungen
+client | client | Kunde | cliente | cliente | cliente | ग्राहक | 客户 | клиент | Client
+negotiation | négociation | Verhandlung | negociación | negoziazione | negociação | वार्ता | 谈判 | переговоры | Négociatioun
+terms | termes | Bedingungen | términos | termini | termos | शर्तें | 条款 | условия | Begrëffer
+conditions | conditions | Bedingungen | condiciones | condizioni | condições | शर्तें | 条件 | условия | Bedéngungen
+invoice | facture | Rechnung | factura | fattura | fatura | चालान | 发票 | счет-фактура | Rechnungen
+payment | paiement | Zahlung | pago | pagamento | pagamento | भुगतान | 付款 | платеж | Bezuelung
+warranty | garantie | Garantie | garantía | garanzia | garantia | वारंटी | 保修 | гарантия | Garantie
+support | soutien | Unterstützung | apoyo | supporto | apoio | समर्थन | 支持 | поддержка | Unterstützung
+subcontractor | sous-traitant | Subunternehmer | subcontratista | subappaltatore | subcontratado | उपठेकेदार | 分包商 | субподрядчик | Sous-traitant
+workmanship | savoir-faire | Handwerk | mano de obra | manodopera | habilidade | कारीगरी | 工艺 | качество работы | Handwierk
+schedule | emploi du temps | Zeitplan | horario | programma | agenda | कार्यक्रम | 日程 | расписание | Zäitplang
+communication | communication | Kommunikation | comunicación | comunicazione | comunicação | संचार | 交流 | связь | Kommunikatioun
+contract | contrat | Vertrag | contrato | contratto | contrato | अनुबंध | 合同 | контракт | Kontrakt
+agreement | accord | Vereinbarung | acuerdo | accordo | acordo | सहमति | 协议 | соглашение | Accord
+offer | offrir | anbieten | ofrecer | offrire | oferecer | देना | 提供 | предложение | anbieten
+bid | enchérir | bieten | pujar | fare un'offerta | licitar | बोली लगाना | 出价 | ставка | bieden
+assessment | évaluation | Bewertung | evaluación | valutazione | avaliação | मूल्यांकन | 评估 | оценка | Bewertung
+criteria | critères | Kriterien | criterios | criteri | critérios | मानदंड | 标准 | критерии | Kriterien
+experience | expérience | Erfahrung | experiencia | esperienza | experiência | अनुभव | 经验 | опыт | Erfahrung
+expertise | expertise | Fachkenntnis | pericia | competenza | expertise | विशेषज्ञता | 专业知识 | экспертиза | Expertise
+trust | confiance | Vertrauen | confianza | fiducia | confiança | विश्वास | 信任 | доверие | Vertrauen
+reputation | réputation | Ruf | reputación | reputazione | reputação | प्रतिष्ठा | 声誉 | репутация | Ruf
+feedback | retour | Rückmeldung | retroalimentación | feedback | feedback | फीडबैक | 反馈 | обратная связь | Feedback
+revision | révision | Überarbeitung | revisión | revisione | revisão | संशोधन | 修订 | пересмотр | Revisioun
+deadline | date limite | Frist | plazo | scadenza | prazo | समय सीमा | 截止日期 | крайний срок | Frist
+submission | soumission | Einreichung | presentación | invio | envio | प्रस्तुतीकरण | 提交 | подача | Ofgiew
+approval | approbation | Genehmigung | aprobación | approvazione | aprovação | स्वीकृति | 批准 | одобрение | Genehmegung
+details | détails | Einzelheiten | detalles | dettagli | detalhes | विवरण | 细节 | детали | Détailler
+clarification | clarification | Klärung | aclaración | chiarimento | esclarecimento | स्पष्टीकरण | 澄清 | разъяснение | Klärung
+proposal | proposition | Vorschlag | propuesta | proposta | proposta | प्रस्ताव | 提案 | предложение | Proposatioun
+sign | signe | Zeichen | signo | segnale | sinal | संकेत | 标志 | знак | Zeichen
+complete | complet | vollständig | completar | completare | completar | पूरा करना | 完成 | завершить | komplett
+execute | exécuter | ausführen | ejecutar | eseguire | executar | कार्यान्वित करना | 执行 | выполнять | ausféieren
+finalize | finaliser | abschließen | finalizar | finalizzare | finalizar | अंतिम रूप देना | 完成 | завершить | finaliséieren
+evaluation | évaluation | Bewertung | evaluación | valutazione | avaliação | मूल्यांकन | 评估 | оценка | Evaluatioun
+reference | référence | Referenz | referencia | riferimento | referência | संदर्भ | 参考 | ссылка | Referenz
+success | succès | Erfolg | éxito | successo | sucesso | सफलता | 成功 | успех | Success
+risk | risque | Risiko | riesgo | rischio | risco | जोखिम | 风险 | риск | Risiko
+value | valeur | Wert | valor | valore | valor | मूल्य | 价值 | ценность | Wäert
+solution | solution | Lösung | solución | soluzione | solução | समाधान | 解决方案 | решение | Léisung
+inspector | inspecteur | Inspektor | inspector | ispettore | inspetor | निरीक्षक | 检查员 | инспектор | Inspektor
+satisfaction | satisfaction | Zufriedenheit | satisfacción | soddisfazione | satisfação | संतोष | 满意 | удовлетворение | Zefriddenheet
+outcome | résultat | Ergebnis | resultado | risultato | resultado | परिणाम | 结果 | исход | Resultat
+projector | projecteur | Projektor | proyector | proiettore | projetor | प्रक्षिप्तक | 投影仪 | проектор | Projetor
+collaboration | collaboration | Zusammenarbeit | colaboración | collaborazione | colaboração | सहयोग | 合作 | сотрудничество | Zesummenaarbecht
+transparency | transparence | Transparenz | transparencia | trasparenza | transparência | पारदर्शिता | 透明 | прозрачность | Transparenz
+liability | responsabilité | Haftung | responsabilidad | responsabilità | responsabilidade | देयता | 责任 | ответственность | Verantwortung

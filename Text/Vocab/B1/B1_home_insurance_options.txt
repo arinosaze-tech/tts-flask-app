@@ -1,0 +1,65 @@
+home insurance | assurance habitation | Wohnungsversicherung | seguro de hogar | assicurazione casa | seguro residencial | गृह बीमा | 家庭保险 | домашняя страховка | Hausversicherung
+policy holder | souscripteur | Versicherungsnehmer | titular de la póliza | intestatario | tomador do seguro | पॉलिसीधारक | 保单持有人 | держатель полиса | Policéinhaber
+replacement cost | coût de remplacement | Wiederbeschaffungskosten | costo de reemplazo | costo di sostituzione | custo de reposição | प्रतिस्थापन लागत | 替换成本 | стоимость замены | Ersatzkosten
+accidental damage | dommage accidentel | Unfallbeschädigung | daño accidental | danno accidentale | dano acidental | आकस्मिक क्षति | 意外损坏 | случайный ущерб | Unfallsschaden
+personal property | propriété personnelle | persönliche Eigentum | propiedad personal | proprietà personale | propriedade pessoal | व्यक्तिगत संपत्ति | 个人财产 | личная собственность | Perséinlechen Eigentum
+coverage limit | limite de couverture | Deckungsgrenze | límite de cobertura | limite di copertura | limite de cobertura | कवरेज सीमा | 保障限额 | лимит покрытия | Deckungsgrenz
+renewal date | date de renouvellement | Erneuerungsdatum | fecha de renovación | data di rinnovo | data de renovação | नवीनीकरण की तारीख | 更新日期 | дата продления | Erneierungdatum
+coverage | couverture | Deckung | cobertura | copertura | cobertura | कवरेज | 保障 | покрытие | Deckung
+premium | prime | Prämie | prima | premio | prêmio | प्रीमियम | 优质 | премия | Premium
+policy | politique | Richtlinie | póliza | polizza | política | नीति | 政策 | политика | Politik
+claim | réclamer | Anspruch | reclamar | rivendicare | reivindicar | दावा | 索赔 | требование | Forderung
+deductible | déductible | Selbstbehalt | deducible | detraibile | dedutível | कटौती योग्य | 可扣除 | франшиза | Selbstbehalt
+fire | feu | Feuer | fuego | fuoco | fogo | आग | 火 | огонь | Feier
+theft | vol | Diebstahl | robo | furto | furto | चोरी | 盗窃 | кража | Dief
+flood | inondation | Überschwemmung | inundación | alluvione | inundação | बाढ़ | 洪水 | наводнение | Flutt
+storm | tempête | Sturm | tormenta | tempesta | tempestade | तूफान | 风暴 | шторм | Sturm
+earthquake | tremblement de terre | Erdbeben | terremoto | terremoto | terremoto | भूकंप | 地震 | землетрясение | Erdbiewen
+liability | responsabilité | Haftung | responsabilidad | responsabilità | responsabilidade | जवाबदेही | 责任 | ответственность | Haftung
+property | propriété | Eigentum | propiedad | proprietà | propriedade | संपत्ति | 财产 | собственность | Eegentum
+contents | contenu | Inhalt | contenido | contenuto | conteúdo | सामग्री | 内容 | содержание | Inhalt
+appliance | appareil | Gerät | electrodoméstico | elettrodomestico | eletrodoméstico | उपकरण | 器具 | прибор | Apparat
+roof | toit | Dach | techo | tetto | telhado | छत | 屋顶 | крыша | Dach
+window | fenêtre | Fenster | ventana | finestra | janela | खिड़की | 窗口 | окно | Fënster
+door | porte | Tür | puerta | porta | porta | दरवाजा | 门 | дверь | Duer
+garage | garage | Garage | garaje | garage | garagem | गैरेज | 车库 | гараж | Garasje
+basement | sous-sol | Keller | sótano | seminterrato | porão | बेसमेंट | 地下室 | подвал | Buedem
+landlord | propriétaire | Vermieter | casero | proprietario | senhorio | मकान मालिक | 房东 | арендодатель | Hausbesitzer
+tenant | locataire | Mieter | inquilino | inquilino | inquilino | किरायेदार | 租户 | жилец | Mieter
+agent | agent | Agent | agente | agente | agente | एजेंट | 代理 | агент | Agent
+insurer | assureur | Versicherer | asegurador | assicuratore | seguradora | बीमा कंपनी | 保险公司 | страховщик | Versécher
+homeowner | propriétaire | Hauseigentümer | propietario | proprietario | proprietário | घर मालिक | 屋主 | домовладелец | Eegentümer
+discount | remise | Rabatt | descuento | sconto | desconto | छूट | 折扣 | скидка | Remise
+risk | risque | Risiko | riesgo | rischio | risco | जोखिम | 风险 | риск | Risiko
+emergency | urgence | Notfall | emergencia | emergenza | emergência | आपातकाल | 紧急情况 | чрезвычайная ситуация | Notfall
+insure | assurer | versichern | asegurar | assicurare | segurar | बीमा करना | 保险 | застраховать | versichern
+cover | couvrir | abdecken | cubrir | coprire | cobrir | ढकना | 覆盖 | покрывать | abdecken
+protect | protéger | schützen | proteger | proteggere | proteger | रक्षा करना | 保护 | защищать | schützen
+pay | payer | zahlen | pagar | pagare | pagar | भुगतान करना | 支付 | платить | bezuelen
+renew | renouveler | erneuern | renovar | rinnovare | renovar | नवीनीकरण करना | 更新 | обновить | erneieren
+cancel | annuler | stornieren | cancelar | annullare | cancelar | रद्द करना | 取消 | отменить | annuléieren
+file | fichier | Datei | archivo | file | arquivo | फ़ाइल | 文件 | файл | Datei
+replace | remplacer | ersetzen | reemplazar | sostituire | substituir | प्रतिस्थापित करना | 替换 | заменять | ersetzen
+repair | réparer | reparieren | reparar | riparare | consertar | मरम्मत करना | 修理 | ремонтировать | reparéieren
+assess | évaluer | bewerten | evaluar | valutare | avaliar | आंकलन करना | 评估 | оценивать | bewäerten
+estimate | estimer | schätzen | estimar | stimare | estimar | अनुमान लगाना | 估计 | оценивать | schätzen
+report | rapporter | berichten | informar | riferire | relatar | रिपोर्ट करना | 报告 | сообщать | berichterzielen
+choose | choisir | wählen | elegir | scegliere | escolher | चुनना | 选择 | выбирать | wielen
+compare | comparer | vergleichen | comparar | confrontare | comparar | तुलना करना | 比较 | сравнивать | vergläichen
+save | sauver | speichern | guardar | salvare | salvar | बचाना | 保存 | сохранить | retten
+bundle | paquet | Bündel | paquete | pacchetto | pacote | बंडल | 捆绑 | пакет | Package
+include | inclure | einbeziehen | incluir | includere | incluir | शामिल करना | 包括 | включать | inklusiv
+increase | augmenter | erhöhen | aumentar | aumentare | aumentar | बढ़ाना | 增加 | увеличивать | vergréisseren
+reduce | réduire | reduzieren | reducir | ridurre | reduzir | घटाना | 减少 | сокращать | reduzéieren
+affordable | abordable | erschwinglich | asequible | accessibile | acessível | सस्ता | 实惠 | доступный | bezuelbar
+basic | de base | grundlegend | básico | di base | básico | बुनियादी | 基本 | основной | grondsätzlech
+comprehensive | complet | umfassend | completo | completo | abrangente | समग्र | 综合 | комплексный | ëmfaassend
+optional | optionnel | optional | opcional | facoltativo | opcional | वैकल्पिक | 可选的 | необязательный | fakultativ
+personal | personnel | persönlich | personal | personale | pessoal | व्यक्तिगत | 个人的 | личный | perséinlech
+monthly | mensuel | monatlich | mensual | mensile | mensal | मासिक | 每月的 | ежемесячный | mensal
+annual | annuel | jährlich | anual | annuale | anual | वार्षिक | 年度的 | годовой | järeleche
+urgent | urgent | dringend | urgente | urgente | urgente | तुरंत | 紧急的 | срочный | urgent
+eligible | éligible | berechtigt | elegible | idoneo | elegível | योग्य | 有资格的 | имеющий право | éierlech
+available | disponible | verfügbar | disponible | disponibile | disponível | उपलब्ध | 可用的 | доступный | verfügbar
+reliable | fiable | zuverlässig | fiable | affidabile | confiável | विश्वसनीय | 可靠的 | надежный | zouverlëch
+secure | sûr | sicher | seguro | sicuro | seguro | सुरक्षित | 安全 | безопасный | sécher

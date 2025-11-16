@@ -1,0 +1,65 @@
+apple | pomme | Apfel | manzana | mela | maçã | सेब | 苹果 | яблоко
+banana | banane | Banane | plátano | banana | banana | केला | 香蕉 | банан
+orange | orange | Orange | naranja | arancia | laranja | संतरा | 橙子 | апельсин
+pear | poire | Birne | pera | pera | pêra | नाशपाती | 梨 | груша
+grape | raisin | Traube | uva | uva | uva | अंगूर | 葡萄 | виноград
+strawberry | fraise | Erdbeere | fresa | fragola | morango | स्ट्रॉबेरी | 草莓 | клубника
+cherry | cerise | Kirsche | cereza | ciliegia | cereja | चेरी | 樱桃 | вишня
+peach | pêche | Pfirsich | melocotón | pesca | pêssego | आड़ू | 桃子 | персик
+melon | melon | Melone | melón | melone | melão | खरबूजा | 甜瓜 | дыня
+watermelon | pastèque | Wassermelone | sandía | anguria | melancia | तरबूज | 西瓜 | арбуз
+pineapple | ananas | Ananas | piña | ananas | abacaxi | अनानास | 菠萝 | ананас
+lemon | citron | Zitrone | limón | limone | limão | नींबू | 柠檬 | лимон
+lime | citron vert | Limette | lima | lime | lima | लाइम | 青柠 | лайм
+kiwi | kiwi | Kiwi | kiwi | kiwi | kiwi | कीवी | 猕猴桃 | киви
+mango | mangue | Mango | mango | mango | manga | आम | 芒果 | манго
+avocado | avocat | Avocado | aguacate | avocado | abacate | एवोकाडो | 牛油果 | авокадо
+tomato | tomate | Tomate | tomate | pomodoro | tomate | टमाटर | 西红柿 | помидор
+cucumber | concombre | Gurke | pepino | cetriolo | pepino | खीरा | 黄瓜 | огурец
+pepper | poivron | Paprika | pimiento | peperone | pimentão | शिमला मिर्च | 甜椒 | перец
+carrot | carotte | Karotte | zanahoria | carota | cenoura | गाजर | 胡萝卜 | морковь
+potato | pomme de terre | Kartoffel | patata | patata | batata | आलू | 土豆 | картофель
+onion | oignon | Zwiebel | cebolla | cipolla | cebola | प्याज | 洋葱 | лук
+garlic | ail | Knoblauch | ajo | aglio | alho | लहसुन | 大蒜 | чеснок
+lettuce | laitue | Salat | lechuga | lattuga | alface | सलाद पत्ता | 生菜 | салат
+spinach | épinard | Spinat | espinaca | spinacio | espinafre | पालक | 菠菜 | шпинат
+cabbage | chou | Kohl | repollo | cavolo | repolho | गोभी | 卷心菜 | капуста
+broccoli | brocoli | Brokkoli | brócoli | broccolo | brócolis | ब्रोकोली | 西兰花 | брокколи
+cauliflower | chou-fleur | Blumenkohl | coliflor | cavolfiore | couve-flor | फूलगोभी | 花椰菜 | цветная капуста
+mushroom | champignon | Pilz | hongo | fungo | cogumelo | मशरूम | 蘑菇 | гриб
+corn | maïs | Mais | maíz | mais | milho | मकई | 玉米 | кукуруза
+pea | pois | Erbse | guisante | pisello | ervilha | मटर | 豌豆 | горох
+bean | haricot | Bohne | frijol | fagiolo | feijão | बीन्स | 豆 | боб
+herbe | acheter | verkaufen | comprar | comprare | comprar | जड़ी-बूटी | 草药 | трава
+acheter | acheter | kaufen | comprar | acquistare | comprar | खरीदना | 买 | покупать
+vendre | verkaufen | verkaufen | vender | vendere | vender | बेचना | 卖 | продавать
+payer | bezahlen | bezahlen | pagar | pagare | pagar | चुकाना | 付 | платить
+peser | wiegen | wiegen | pesar | pesare | pesar | तौलना | 称重 | весить
+cueillir | pflücken | pflücken | recoger | raccogliere | colher | चुनना | 采摘 | собирать
+choisir | wählen | wählen | elegir | scegliere | escolher | चुनना | 选择 | выбирать
+goûter | probieren | probieren | probar | assaporare | provar | चखना | 尝 | пробовать
+cut | couper | schneiden | cortar | tagliare | cortar | काटना | 切 | резать
+slice | trancher | scheiben | rebanar | affettare | fatiar | स्लाइस करना | 切片 | нарезать
+chop | hacher | hacken | picar | tritare | picar | काटना | 剁 | рубить
+peel | éplucher | schälen | pelar | sbucciare | descascar | छीलना | 剥皮 | чистить
+wash | laver | waschen | lavar | lavare | lavar | धोना | 洗 | мыть
+rinse | rincer | spülen | enjuagar | risciacquare | enxaguar | धोना | 冲洗 | ополаскивать
+carry | porter | tragen | llevar | portare | carregar | ले जाना | 携带 | носить
+wrap | envelopper | einwickeln | envolver | avvolgere | embrulhar | लपेटना | 包裹 | заворачивать
+pack | faire un paquet | packen | empacar | imballare | embalar | पैक करना | 打包 | упаковать
+count | compter | zählen | contar | contare | contar | गिनना | 计数 | считать
+open | ouvrir | öffnen | abrir | aprire | abrir | खोलना | 打开 | открыть
+bargain | faire une bonne affaire | das Schnäppchen | ganga | affare | pechinchar | मोलभाव करना | 交易 | торговаться
+ask | demander | fragen | preguntar | chiedere | perguntar | पूछना | 询问 | спрашивать
+fresh | frais | frisch | fresco | fresco | fresco | ताजा | 新鲜 | свежий
+ripe | mûr | reif | maduro | maturo | maduro | पका हुआ | 成熟 | спелый
+juicy | juteux | saftig | jugoso | succoso | suculento | रसदार | 多汁 | сочный
+firm | ferme | fest | firme | solido | firme | ठोस | 坚固 | фирма
+soft | doux | weich | suave | morbido | macio | नरम | 柔软 | мягкий
+sweet | sucré | süß | dulce | dolce | doce | मीठा | 甜 | сладкий
+sour | aigre | sauer | ácido | acido | azedo | खट्टा | 酸 | кислый
+bitter | amer | bitter | amargo | amaro | amargo | कड़वा | 苦 | горький
+cheap | bon marché | billig | barato | economico | barato | सस्ता | 便宜 | дешевый
+price tag | étiquette de prix | Preisschild | etiqueta de precio | etichetta del prezzo | etiqueta de preço | मूल्य टैग | 价格标签 | ценник
+market stall | stand de marché | Marktstand | puesto de mercado | bancarella | barraca de mercado | बाजार की दुकान | 市场摊位 | рыночный киоск
+shopping bag | sac | Einkaufstasche | bolsa de compras | borsa della spesa | sacola de compras | शॉपिंग बैग | 购物袋 | сумка для покупок

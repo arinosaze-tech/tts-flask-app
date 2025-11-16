@@ -1,0 +1,65 @@
+offer | offrir | anbieten | ofrecer | offrire | oferecer | पेशकश करना | 提供 | предложение | offrir
+negotiation | négociation | Verhandlung | negociación | negoziazione | negociação | बातचीत | 谈判 | переговоры | Verhandlung
+salary | salaire | Gehalt | salario | stipendio | salário | वेतन | 薪水 | зарплата | Loun
+benefits | avantages | Vorteile | beneficios | benefici | benefícios | लाभ | 福利 | льготы | Virdeeler
+responsibilities | responsabilités | Verantwortung | responsabilidades | responsabilità | responsabilidades | जिम्मेदारियाँ | 责任 | обязанности | Verantwortung
+internship | stage | Praktikum | prácticas | tirocinio | estagio | इंटर्नशिप | 实习 | стажировка | Stage
+experience | expérience | Erfahrung | experiencia | esperienza | experiência | अनुभव | 经验 | опыт | Erfahrung
+skills | compétences | Fähigkeiten | habilidades | abilità | habilidades | कौशल | 技能 | навыки | Fäegkeeten
+company | entreprise | Firma | empresa | azienda | empresa | कंपनी | 公司 | компания | Firma
+contract | contrat | Vertrag | contrato | contratto | contrato | अनुबंध | 合同 | контракт | Vertrag
+agreement | accord | Vereinbarung | acuerdo | accordo | acordo | समझौता | 协议 | соглашение | Abmachung
+conditions | conditions | Bedingungen | condiciones | condizioni | condições | शर्तें | 条件 | условия | Bedingungen
+flexibility | flexibilité | Flexibilität | flexibilidad | flessibilità | flexibilidade | लचीलापन | 灵活性 | гибкость | Flexibilité
+full-time | temps plein | Vollzeit | tiempo completo | tempo pieno | tempo integral | पूर्णकालिक | 全职 | полный рабочий день | Vollzeit
+part-time | temps partiel | Teilzeit | tiempo parcial | part-time | tempo parcial | अंशकालिक | 兼职 | неполный рабочий день | Teilzeit
+mentor | mentor | Mentor | mentor | mentore | mentor | मार्गदर्शक | 导师 | наставник | Mentor
+feedback | retour | Rückmeldung | retroalimentación | feedback | retorno | प्रतिक्रिया | 反馈 | отзыв | Rückmeldung
+training | formation | Ausbildung | formación | formazione | formação | प्रशिक्षण | 培训 | обучение | Ausbildung
+development | développement | Entwicklung | desarrollo | sviluppo | desenvolvimento | विकास | 发展 | развитие | Entwécklung
+networking | réseautage | Netzwerk | creación de redes | networking | rede de contatos | नेटवर्किंग | 网络 | нетворкинг | Réseautage
+teamwork | travail d'équipe | Teamarbeit | trabajo en equipo | lavoro di squadra | trabalho em equipe | टीमवर्क | 团队合作 | командная работа | Teamwork
+communication | communication | Kommunikation | comunicación | comunicazione | comunicação | संचार | 交流 | связь | Kommunikatioun
+initiative | initiative | Initiative | iniciativa | iniziativa | iniciativa | पहल | 倡议 | инициатива | Initiativ
+project | projet | Projekt | proyecto | progetto | projeto | परियोजना | 项目 | проект | Projet
+deadline | date limite | Frist | fecha límite | scadenza | prazo | अंतिम तिथि | 截止日期 | срок | Frist
+expectations | attentes | Erwartungen | expectativas | aspettative | expectativas | अपेक्षाएँ | 期望 | ожидания | Erwartungen
+application | candidature | Bewerbung | solicitud | domanda | candidatura | आवेदन | 申请 | заявление | Kandidatur
+candidate | candidat | Kandidat | candidato | candidato | candidato | उम्मीदवार | 候选人 | кандидат | Kandidat
+proposal | proposition | Vorschlag | propuesta | proposta | proposta | प्रस्ताव | 提议 | предложение | proposta
+counteroffer | contre-offre | Gegenangebot | contraoferta | controproposta | contraproposta | प्रतिप्रस्ताव | 还价 | контрпредложение | Gegenangebot
+compensation | compensation | Entschädigung | compensación | compenso | compensação | मुआवजा | 补偿 | компенсация | Entschädigung
+workplace | lieu de travail | Arbeitsplatz | lugar de trabajo | luogo di lavoro | local de trabalho | कार्यस्थल | 工作场所 | рабочее место | Arbeitsplatz
+opportunity | occasion | Gelegenheit | oportunidad | opportunità | oportunidade | अवसर | 机会 | возможность | Gelegenheit
+growth | croissance | Wachstum | crecimiento | crescita | crescimento | वृद्धि | 增长 | рост | Wachstum
+performance | performance | Leistung | rendimiento | prestazione | desempenho | प्रदर्शन | 表现 | производительность | Leistung
+evaluation | évaluation | Bewertung | evaluación | valutazione | avaliação | मूल्यांकन | 评估 | оценка | Bewertung
+success | succès | Erfolg | éxito | successo | sucesso | सफलता | 成功 | успех | Erfolgn
+interview | entretien | Interview | entrevista | colloquio | entrevista | साक्षात्कार | 面试 | интервью | Interview
+discussion | discussion | Diskussion | discusión | discussione | discussão | चर्चा | 讨论 | обсуждение | Diskussion
+terms | conditions | Bedingungen | términos | termini | termos | शर्तें | 条款 | условия | Bedingungen
+value | valeur | Wert | valor | valore | valor | मूल्य | 价值 | ценность | Wäert
+professionalism | professionnalisme | Professionalität | profesionalismo | professionalità | profissionalismo | पेशेवरिता | 职业道德 | профессионализм | Beruff
+commitment | engagement | Engagement | compromiso | impegno | compromisso | प्रतिबद्धता | 承诺 | обязательство | Engagement
+availability | disponibilité | Verfügbarkeit | disponibilidad | disponibilità | disponibilidade | उपलब्धता | 可用性 | доступность | Disponibilité
+responsiveness | réactivité | Reaktionsfähigkeit | capacidad de respuesta | reattività | capacidade de resposta | संवेदीता | 反应能力 | отзывчивость | Reaktioun
+requirements | exigences | Anforderungen | requisitos | requisiti | requisitos | आवश्यकताएँ | 要求 | требования | Exigencen
+education | éducation | Bildung | educación | istruzione | educação | शिक्षा | 教育 | образование | Bildung
+qualifications | qualifications | Qualifikationen | calificaciones | qualifiche | qualificações | योग्यताएँ | 资格 | квалификации | Qualifikatiounen
+timeline | calendrier | Zeitachse | cronograma | cronologia | linha do tempo | समयरेखा | 时间线 | временная шкала | Zeil
+work-life balance | équilibre travail-vie | Work-Life-Balance | equilibrio trabajo-vida | equilibrio lavoro-vita | equilíbrio entre trabalho e vida | कार्य-जीवन संतुलन | 工作与生活平衡 | баланс работы и жизни | Liewen-Gesäin
+improvement | amélioration | Verbesserung | mejora | miglioramento | melhoria | सुधार | 改进 | улучшение | Verbesserung
+challenges | défis | Herausforderungen | desafíos | sfide | desafios | चुनौतियाँ | 挑战 | вызовы | Erausfuerderungen
+presentation | présentation | Präsentation | presentación | presentazione | apresentação | प्रस्तुति | 演示 | презентация | Presentatioun
+persuasion | persuasion | Überzeugung | persuasión | persuasione | persuasão | मनाने की कला | 说服 | убеждение | Iwwersuergung
+decision | décision | Entscheidung | decisión | decisione | decisão | निर्णय | 决定 | решение | Entscheedung
+support | soutien | Unterstützung | apoyo | supporto | apoio | समर्थन | 支持 | поддержка | Supportéieren
+engagement | engagement | Engagement | compromiso | impegno | compromisso | सगाई | 参与 | вовлечение | Engagement
+relations | relations | Beziehungen | relaciones | relazioni | relações | संबंध | 关系 | отношения | Relatiounen
+fit | convenir | passen | encajar | adattarsi | ajustar-se | फिट होना | 适合 | подходить | passen
+reputation | réputation | Ruf | reputación | reputazione | reputação | प्रतिष्ठा | 名声 | репутация | Reputation
+choices | choix | Entscheidungen | elecciones | scelte | escolhas | विकल्प | 选择 | выбор | Wieler
+alignment | alignement | Ausrichtung | alineación | allineamento | alinhamento | संरेखण | 对齐 | выравнивание | Alignement
+clarity | clarté | Klarheit | claridad | chiarezza | clareza | स्पष्टता | 清晰 | ясность | Klarheit
+transparency | transparence | Transparenz | transparencia | trasparenza | transparência | पारदर्शिता | 透明 | прозрачность | Transparenz
+strategy | stratégie | Strategie | estrategia | strategia | estratégia | रणनीति | 战略 | стратегия | Strategie

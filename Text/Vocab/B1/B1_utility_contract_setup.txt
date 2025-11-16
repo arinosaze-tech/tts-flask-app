@@ -1,0 +1,65 @@
+utility | utilité | Nutznießung | utilidad | utilità | utilidade | उपयोगिता | 效用 | полезность | Nutzungsrecht
+electricity | électricité | Elektrizität | electricidad | elettricità | eletricidade | बिजली | 电 | электричество | Elektrizität
+gas | gaz | Gas | gas | gas | gás | गैस | 气 | газ | Gas
+water | eau | Wasser | agua | acqua | água | पानी | 水 | вода | Waasser
+internet | internet | Internet | internet | internet | internet | इंटरनेट | 互联网 | интернет | Internet
+heating | chauffage | Heizung | calefacción | riscaldamento | aquecimento | हीटिंग | 供暖 | отопление | Erwäermung
+contract | contrat | Vertrag | contrato | contratto | contrato | अनुबंध | 合同 | контракт | Kontrakt
+service | service | Dienst | servicio | servizio | serviço | सेवा | 服务 | услуга | Service
+provider | prestataire | Anbieter | proveedor | fornitore | fornecedor | प्रदाता | 提供者 | провайдер | Anbieter
+supplier | fournisseur | Lieferant | suministro | fornitore | fornecedor | आपूर्तिकर्ता | 供应商 | поставщик | Lieferant
+customer | client | Kunde | cliente | cliente | cliente | ग्राहक | 客户 | клиент | Klient
+tenant | locataire | Mieter | inquilino | inquilino | inquilino | किरायेदार | 租户 | арендатор | Mieter
+landlord | propriétaire | Vermieter | casero | padrone | senhorio | मकान मालिक | 房东 | домовладелец | Vermieter
+address | adresse | Adresse | dirección | indirizzo | endereço | पता | 地址 | адрес | Adress
+apartment | appartement | Wohnung | apartamento | appartamento | apartamento | अपार्टमेंट | 公寓 | квартира | Appartement
+account | compte | Konto | cuenta | conto | conta | खाता | 账户 | счет | Konto
+bill | facture | Rechnung | factura | fattura | fatura | बिल | 账单 | счет | Rechnung
+payment | paiement | Zahlung | pago | pagamento | pagamento | भुगतान | 支付 | оплата | Zoul
+deposit | dépôt | Einzahlung | depósito | deposito | depósito | जमा | 存款 | депозит | Depot
+fee | frais | Gebühr | tarifa | tassa | taxa | शुल्क | 费用 | сбор | Gebühr
+rate | tarif | Rate | tasa | tariffa | tarifa | दर | 费率 | ставка | Rüf
+plan | plan | Plan | plan | piano | plano | योजना | 计划 | план | Plang
+meter | compteur | Zähler | medidor | misuratore | medidor | मीटर | 表 | метр | Meter
+connection | connexion | Verbindung | conexión | connessione | conexão | संबंध | 连接 | соединение | Verbindung
+installation | installation | Installation | instalación | installazione | instalação | स्थापना | 安装 | установка | Installatioun
+identification | identification | Identifizierung | identificación | identificazione | identificação | पहचान | 识别 | идентификация | Identifikatioun
+apply | appliquer | anwenden | aplicar | applicare | aplicar | आवेदन करना | 申请 | применять | Uwendungen
+sign | signer | unterschreiben | firmar | firmare | assinar | हस्ताक्षर करना | 签名 | подписывать | engagéieren
+register | s'inscrire | registrieren | registrarse | registrare | registrar | पंजीकरण करना | 注册 | регистрировать | anmächten
+choose | choisir | wählen | elegir | scegliere | escolher | चुनना | 选择 | выбирать | wielen
+change | changer | ändern | cambiar | cambiare | mudar | बदलना | 变化 | менять | änneren
+start | commencer | anfangen | empezar | iniziare | começar | शुरू करना | 开始 | начинать | starten
+end | fin | Ende | fin | fine | fim | अंत | 结束 | конец | Enn
+cancel | annuler | stornieren | cancelar | annullare | cancelar | रद्द करना | 取消 | отменить | annuléieren
+renew | renouveler | erneuern | renovar | rinnovare | renovar | नवीनीकरण करना | 更新 | обновить | erneieren
+confirm | confirmer | bestätigen | confirmar | confermare | confirmar | पुष्टि करना | 确认 | подтвердить | confirméieren
+provide | fournir | bereitstellen | proporcionar | fornire | fornecer | प्रदान करना | 提供 | обеспечить | zur Verfügung stellen
+submit | soumettre | einreichen | enviar | inviare | enviar | जमा करना | 提交 | подать | ofginn
+attach | attacher | anhängen | adjuntar | allegare | anexar | संलग्न करना | 附加 | прикрепить | ugebonnen
+upload | télécharger | hochladen | subir | caricare | fazer upload | अपलोड करना | 上传 | загрузить | eroplueden
+schedule | horaire | Zeitplan | horario | programma | cronograma | कार्यक्रम | 计划 | расписание | Zäitplan
+connect | se connecter | verbinden | conectar | collegare | conectar | जोड़ना | 连接 | подключить | verbannen
+install | installer | installieren | instalar | installare | instalar | स्थापित करना | 安装 | установить | installéieren
+verify | vérifier | überprüfen | verificar | verificare | verificar | सत्यापित करना | 验证 | подтвердить | veriféieren
+read | lire | lesen | leer | leggere | ler | पढ़ना | 阅读 | читать | liesen
+contact | contacter | kontaktieren | contactar | contattare | contatar | संपर्क करना | 联系 | контактировать | kontaktéieren
+monthly | mensuel | monatlich | mensual | mensile | mensal | मासिक | 每月 | ежемесячный | monatlech
+annual | annuel | jährlich | anual | annuale | anual | वार्षिक | 年度 | ежегодный | jAnnual
+final | final | endgültig | final | finale | final | अंतिम | 最终 | финальный | final
+basic | de base | grundlegend | básico | di base | básico | मूल | 基础 | базовый | grondsätzlech
+standard | standard | Standard | estándar | standard | padrão | मानक | 标准 | стандарт | Standard
+fixed | fixe | fest | fijo | fisso | fixo | निश्चित | 固定 | фиксированный | fest
+variable | variable | variabel | variable | variabile | variável | परिवर्तनशील | 可变 | переменная | variabel
+available | disponible | verfügbar | disponible | disponibile | disponível | उपलब्ध | 可用 | доступный | verfügbar
+local | local | lokal | local | locale | local | स्थानीय | 当地 | местный | lokal
+current | actuel | aktuell | actual | attuale | atual | वर्तमान | 当前 | текущий | aktuell
+previous | précédent | vorhergehende | anterior | precedente | anterior | पूर्ववर्ती | 之前 | предыдущий | vorhergehende
+total | total | insgesamt | total | totale | total | कुल | 总计 | итого | total
+late | tard | spät | tarde | in ritardo | atrasado | देर | 晚 | поздно | spéit
+start date | date de début | Startdatum | fecha de inicio | data di inizio | data de início | प्रारंभ तिथि | 开始日期 | дата начала | Startdatum
+meter reading | relevé du compteur | Zählerstand | lectura del medidor | lettura del contatore | leitura do medidor | मीटर रीडिंग | 表读数 | показание счетчика | Zählerstand
+account number | numéro de compte | Kontonummer | número de cuenta | numero di conto | número de conta | खाता संख्या | 帐号 | номер счёта | Kontonummer
+customer service | service client | Kundenservice | servicio al cliente | servizio clienti | atendimento ao cliente | ग्राहक सेवा | 客户服务 | служба поддержки | Clientëservice
+move in | emménager | einziehen | mudarse | trasferirsi | mudar-se | में प्रवेश करना | 搬入 | вселяться | emménager
+proof of address | justificatif de domicile | Adressnachweis | comprobante de domicilio | prova di residenza | comprovante de residência | पते का प्रमाण | 地址证明 | подтверждение адреса | Beweis vun der Adress

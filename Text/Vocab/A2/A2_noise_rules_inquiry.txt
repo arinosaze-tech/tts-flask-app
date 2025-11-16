@@ -1,0 +1,55 @@
+noise | bruit | Lärm | ruido | rumore | barulho | शोर | 噪音 | шум | Kaméidi
+rule | règle | Regel | regla | regola | regra | नियम | 规则 | правило | Reegel
+law | loi | Gesetz | ley | legge | lei | कानून | 法律 | закон | Gesetz
+policy | politique | Politik | política | politica | política | नीति | 政策 | политика | Politik
+limit | limite | Grenze | límite | limite | limite | सीमा | 限制 | предел | Limitt
+level | niveau | Niveau | nivel | livello | nível | स्तर | 水平 | уровень | Niveau
+hour | heure | Stunde | hora | ora | hora | घंटा | 小时 | час | Stonn
+night | nuit | Nacht | noche | notte | noite | रात | 夜晚 | ночь | Nuecht
+neighbor | voisin | nachbar | vecino | vicino | vizinho | पड़ोसी | 邻居 | сосед | noper
+landlord | propriétaire | vermieter | propietario | proprietario | proprietário | मकान मालिक | 房东 | хозяин | hausbesëtzer
+tenant | locataire | mieter | inquilino | inquilino | inquilino | किरायेदार | 房客 | жилец | locataire
+building | bâtiment | gebäude | edificio | edificio | prédio | इमारत | 建筑 | здание | gebai
+apartment | appartement | wohnung | apartamento | appartamento | apartamento | फ्लैट | 公寓 | квартира | wunneng
+hallway | couloir | flur | pasillo | corridoio | corredor | गलियारा | 走廊 | коридор | gank
+party | fête | party | fiesta | festa | festa | पार्टी | 派对 | вечеринка | party
+music | musique | musik | música | musica | música | संगीत | 音乐 | музыка | musek
+speaker | haut-parleur | Lautsprecher | altavoz | altoparlante | alto-falante | स्पीकर | 音箱 | колонка | Lautspriecher
+dog | chien | Hund | perro | cane | cão | कुत्ता | 狗 | собака | Hond
+construction | construction | Bau | construcción | costruzione | construção | निर्माण | 施工 | стройка | Bau
+complaint | plainte | Beschwerde | queja | lamentela | reclamação | शिकायत | 投诉 | жалоба | Reklamatioun
+warning | avertissement | Warnung | advertencia | avvertimento | aviso | चेतावनी | 警告 | предупреждение | Warnung
+fine | amende | Geldstrafe | multa | multa | multa | जुर्माना | 罚款 | штраф | Geldstrof
+permit | permis | Genehmigung | permiso | permesso | licença | परमिट | 许可证 | разрешение | Geneemegung
+notice | avis | Hinweis | aviso | avviso | aviso | सूचना | 通知 | объявление | Hiweis
+police | police | Polizei | policía | polizia | polícia | पुलिस | 警察 | полиция | Police
+ask | demander | fragen | preguntar | chiedere | perguntar | पूछना | 问 | спрашивать | froen
+check | vérifier | kontrollieren | revisar | controllare | verificar | जांचना | 检查 | проверять | kontrolléieren
+follow | suivre | folgen | seguir | seguire | seguir | अनुसरण करना | 跟随 | следовать | follegen
+allow | permettre | erlauben | permitir | permettere | permitir | अनुमति देना | 允许 | разрешать | erlaben
+obey | obéir | gehorchen | obedecer | obbedire | obedecer | आज्ञा मानना | 服从 | подчиняться | befollegen
+keep | garder | behalten | mantener | tenere | manter | रखना | 保持 | держать | halen
+stop | arrêter | stoppen | parar | fermare | parar | रुकना | 停止 | остановить | ophalen
+reduce | réduire | reduzieren | reducir | ridurre | reduzir | घटाना | 减少 | уменьшать | reduzéieren
+bother | déranger | stören | molestar | disturbare | incomodar | परेशान करना | 打扰 | беспокоить | stéieren
+sleep | dormir | schlafen | dormir | dormire | dormir | सोना | 睡觉 | спать | schlofen
+complain | se plaindre | sich beschweren | quejarse | lamentarsi | reclamar | शिकायत करना | 抱怨 | жаловаться | sech beschwéieren
+report | informer | melden | informar | informare | informar | सूचित करना | 报告 | сообщать | mellen
+call | appeler | anrufen | llamar | chiamare | ligar | फोन करना | 打电话 | звонить | uruffen
+contact | contacter | kontaktieren | contactar | contattare | contatar | संपर्क करना | 联系 | связаться | kontaktéieren
+explain | expliquer | erklären | explicar | spiegare | explicar | समझाना | 解释 | объяснять | erklären
+play | jouer | spielen | jugar | giocare | jogar | खेलना | 玩 | играть | spillen
+shout | crier | schreien | gritar | gridare | gritar | चिल्लाना | 喊 | кричать | jäizen
+quiet | calme | ruhig | tranquilo | tranquillo | silencioso | शांत | 安静 | тихий | roueg
+loud | fort | laut | fuerte | forte | alto | तेज | 响 | громкий | héich
+noisy | bruyant | laut | ruidoso | rumoroso | barulhento | शोरगुल वाला | 吵 | шумный | kaméidiëg
+soft | doux | weich | suave | morbido | macio | नरम | 软 | мягкий | mëll
+late | tard | spät | tarde | tardi | tarde | देर से | 晚 | поздно | spéit
+early | tôt | früh | temprano | presto | cedo | जल्दी | 早 | рано | fréi
+local | local | lokal | local | locale | local | स्थानीय | 本地的 | местный | lokal
+strict | strict | streng | estricto | severo | rigoroso | सख्त | 严格 | строгий | streng
+quiet hours | heures de silence | Ruhezeiten | horas de silencio | ore di silenzio | horas de silêncio | शांत समय | 安静时间 | часы тишины | Rouzäiten
+noise complaint | plainte pour bruit | Lärmbeschwerde | queja por ruido | reclamo per il rumore | reclamação de barulho | शोर की शिकायत | 噪音投诉 | жалоба на шум | Reklamatioun wéinst Kaméidi
+noise level | niveau de bruit | Lärmpegel | nivel de ruido | livello di rumore | nível de ruído | शोर का स्तर | 噪音水平 | уровень шума | Niveau vum Kaméidi
+turn down | baisser | leiser stellen | bajar | abbassare | baixar | कम करना | 调低 | убавить | erofdréinen
+non emergency line | ligne non urgente | Nummer für nicht dringende Fälle | línea no urgente | numero non urgente | linha não urgente | गैर आपातकालीन लाइन | 非紧急热线 | номер для несрочных случаев | Linn fir net dréngend Fäll

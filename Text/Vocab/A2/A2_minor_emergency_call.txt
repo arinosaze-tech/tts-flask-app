@@ -1,0 +1,55 @@
+emergency | urgence | Notfall | emergencia | emergenza | emergência | इमरजेंसी | 紧急情况 | экстренный случай | Noutfall
+phone | téléphone | Telefon | teléfono | telefono | telefone | फोन | 电话 | телефон | Telefon
+battery | batterie | Akku | batería | batteria | bateria | बैटरी | 电池 | батарея | Batterie
+signal | signal | Signal | señal | segnale | sinal | सिग्नल | 信号 | сигнал | Signal
+location | position | Standort | ubicación | posizione | localização | स्थान | 位置 | местоположение | Standuert
+street | rue | Straße | calle | strada | rua | सड़क | 街道 | улица | Strooss
+apartment | appartement | Wohnung | apartamento | appartamento | apartamento | फ्लैट | 公寓 | квартира | Appartement
+name | nom | Name | nombre | nome | nome | नाम | 名字 | имя | Numm
+operator | opérateur | Bediener | operador | operatore | operador | ऑपरेटर | 操作员 | оператор | bedreiwer
+injury | blessure | Verletzung | lesión | ferita | lesão | चोट | 受伤 | травма | verletzung
+cut | coupure | Schnitt | corte | taglio | corte | काट | 割伤 | порез | schnëtt
+burn | brûlure | Verbrennung | quemadura | ustione | queimadura | जलन | 烧伤 | ожог | verbrennung
+bruise | bleu | blauer Fleck | moretón | livido | hematoma | नील | 淤青 | синяк | blo Fleck
+sprain | entorse | Verstauchung | esguince | storta | entorse | मोच | 扭伤 | растяжение | verstauchung
+swelling | gonflement | Schwellung | hinchazón | gonfiore | inchaço | सूजन | 肿胀 | отек | schwellung
+rash | éruption cutanée | Ausschlag | sarpullido | eruzione cutanea | erupção | चकत्ता | 皮疹 | сыпь | hautausschlag
+fever | fièvre | Fieber | fiebre | febbre | febre | बुखार | 发烧 | температура | Féiwer
+pain | douleur | Schmerz | dolor | dolore | dor | दर्द | 疼痛 | боль | Péng
+allergy | allergie | Allergie | alergia | allergia | alergia | एलर्जी | 过敏 | аллергия | Allergie
+sting | piqûre | Stich | picadura | puntura | picada | डंक | 蜇伤 | ужаление | Stach
+bite | morsure | Biss | mordedura | morso | mordida | काटना | 咬伤 | укус | Bëss
+nosebleed | saignement de nez | Nasenbluten | sangrado nasal | sangue dal naso | sangramento nasal | नाक से खून बहना | 流鼻血 | кровь из носа | Nuesblutt
+blood | sang | Blut | sangre | sangue | sangue | खून | 血 | кровь | Blutt
+bandage | pansement | Verband | vendaje | bendaggio | atadura | पट्टी | 绷带 | бинт | Verband
+call | appeler | anrufen | llamar | chiamare | ligar | फोन करना | 打电话 | звонить | uruffen
+dial | composer | wählen | marcar | comporre | discar | नंबर मिलाना | 拨号 | набирать | wielen
+answer | répondre | antworten | responder | rispondere | responder | जवाब देना | 回答 | отвечать | äntweren
+speak | parler | sprechen | hablar | parlare | falar | बोलना | 说话 | говорить | schwätzen
+ask | demander | fragen | preguntar | chiedere | perguntar | पूछना | 问 | спросить | froen
+tell | dire | sagen | decir | dire | dizer | बताना | 告诉 | сказать | soen
+explain | expliquer | erklären | explicar | spiegare | explicar | समझाना | 解释 | объяснить | erklären
+describe | décrire | beschreiben | describir | descrivere | descrever | बयान करना | 描述 | описать | beschreiwen
+listen | écouter | zuhören | escuchar | ascoltare | escutar | सुनना | 听 | слушать | lauschteren
+help | aider | helfen | ayudar | aiutare | ajudar | मदद करना | 帮助 | помогать | hëllefen
+need | avoir besoin | brauchen | necesitar | avere bisogno | precisar | ज़रूरत होना | 需要 | нуждаться | brauchen
+hurt | avoir mal | wehtun | doler | fare male | doer | दर्द होना | 疼 | болеть | wéidoen
+bleed | saigner | bluten | sangrar | sanguinare | sangrar | खून बहना | 流血 | кровоточить | bludden
+wash | laver | waschen | lavar | lavare | lavar | धोना | 洗 | мыть | wäschen
+press | appuyer | drücken | presionar | premere | pressionar | दबाना | 按 | нажимать | drécken
+cover | couvrir | abdecken | cubrir | coprire | cobrir | ढकना | 盖 | накрыть | decken
+check | vérifier | prüfen | revisar | controllare | verificar | जांचना | 检查 | проверить | nokucken
+minor | léger | leicht | leve | lieve | leve | हल्का | 轻微 | лёгкий | liicht
+urgent | urgent | dringend | urgente | urgente | urgente | तत्काल | 紧急 | срочный | dréngend
+safe | sans danger | sicher | seguro | sicuro | seguro | सुरक्षित | 安全 | безопасный | sécher
+conscious | conscient | bei Bewusstsein | consciente | cosciente | consciente | होश में | 清醒 | в сознании | bei Bewosstsinn
+dizzy | étourdi | schwindelig | mareado | stordito | tonto | चक्कर आना | 头晕 | головокружение | schwindlech
+weak | faible | schwach | débil | debole | fraco | कमजोर | 虚弱 | слабый | schwaach
+swollen | enflé | geschwollen | hinchado | gonfio | inchado | सूजा हुआ | 肿胀 | опухший | geschwollen
+painful | douloureux | schmerzhaft | doloroso | doloroso | doloroso | दर्दनाक | 疼 | болезненный | wéidoend
+first aid | premiers secours | Erste Hilfe | primeros auxilios | primo soccorso | primeiros socorros | प्राथमिक उपचार | 急救 | первая помощь | Éischt Hëllef
+emergency number | numéro d'urgence | Notrufnummer | número de emergencia | numero di emergenza | número de emergência | आपातकालीन नंबर | 紧急号码 | номер экстренной службы | Noutnummer
+stay calm | rester calme | ruhig bleiben | mantener la calma | stare calmo | manter a calma | शांत रहना | 保持冷静 | сохранять спокойствие | roueg bleiwen
+phone call | appel | Anruf | llamada | telefonata | chamada | फोन कॉल | 电话 | звонок | Uruff
+ice pack | sac de glace | Eisbeutel | bolsa de hielo | borsa del ghiaccio | bolsa de gelo | बर्फ की थैली | 冰袋 | пакет со льдом | Äisbeutel
+home address | adresse du domicile | Wohnadresse | dirección de casa | indirizzo di casa | endereço de casa | घर का पता | 家庭地址 | домашний адрес | Heemadress

@@ -1,0 +1,65 @@
+claim | revendication | Anspruch | reclamación | richiesta | reivindicação | दावा | 主张 | требование | Anspruch
+denial | déni | Ablehnung | negación | rifiuto | negação | अस्वीकार | 否认 | отказ | Verweigerung
+appeal | appel | Berufung | apelación | appello | apelação | अपील | 上诉 | апелляция | Appell
+insurance | assurance | Versicherung | seguro | assicurazione | seguro | बीमा | 保险 | страхование | Assurance
+coverage | couverture | Deckung | cobertura | copertura | cobertura | कवरेज | 保障 | покрытие | Deckung
+policy | politique | Richtlinie | política | politica | política | नीति | 政策 | политика | Politik
+document | document | Dokument | documento | documento | documento | दस्तावेज़ | 文件 | документ | Dokument
+evidence | preuve | Beweis | evidencia | prova | evidência | साक्ष्य | 证据 | доказательство | Beweis
+decision | décision | Entscheidung | decisión | decisione | decisão | निर्णय | 决策 | решение | Entscheedung
+review | révision | Überprüfung | revisión | revisione | revisão | समीक्षा | 评审 | обзор | Iwwerpréiwung
+process | processus | Prozess | proceso | processo | processo | प्रक्रिया | 过程 | процесс | Prozess
+decision letter | lettre de décision | Entscheidungsbrief | carta de decisión | lettera di decisione | carta de decisão | निर्णय पत्र | 决策信 | письмо с решением | Entscheedungsbriecht
+reason | raison | Grund | razón | ragione | razão | कारण | 理由 | причина | Grond
+outcome | résultat | Ergebnis | resultado | risultato | resultado | परिणाम | 结果 | результат | Resultat
+support | soutien | Unterstützung | apoyo | supporto | apoio | समर्थन | 支持 | поддержка | Ënnerstëtzung
+argument | argument | Argument | argumento | argomento | argumento | तर्क | 论点 | аргумент | Argument
+response | réponse | Antwort | respuesta | risposta | resposta | प्रतिक्रिया | 回复 | ответ | Antwort
+request | demande | Anfrage | solicitud | richiesta | solicitação | अनुरोध | 请求 | запрос | Antrag
+claimant | demandeur | Kläger | demandante | richiedente | requerente | दावेदार | 申诉人 | истец | Antragsteller
+access | accès | Zugang | acceso | accesso | acesso | पहुँच | 访问 | доступ | Zugang
+information | information | Information | información | informazione | informação | जानकारी | 信息 | информация | Informatioun
+timeframe | délai | Zeitrahmen | plazo | intervallo | prazo | समय सीमा | 时间框架 | срок | Frist
+authorization | autorisation | Genehmigung | autorización | autorizzazione | autorização | अनुमोदन | 授权 | разрешение | Genehmegung
+benefits | avantages | Vorteile | beneficios | benefici | benefícios | लाभ | 好处 | льготы | Virdeeler
+procedure | procédure | Verfahren | procedimiento | procedura | procedimento | प्रक्रिया | 程序 | процедура | Prozedur
+dispute | litige | Streit | disputa | controversia | disputa | विवाद | 纠纷 | спор | Streit
+complaint | plainte | Beschwerde | queja | reclamo | reclamação | शिकायत | 投诉 | жалоба | Beschwer
+verification | vérification | Überprüfung | verificación | verifica | verificação | सत्यापन | 验证 | проверка | Verifikation
+assessment | évaluation | Bewertung | evaluación | valutazione | avaliação | मूल्यांकन | 评估 | оценка | Bewertung
+suspension | suspension | Aussetzung | suspensión | sospensione | suspensão | निलंबन | 暂停 | приостановка | Suspendierung
+adjuster | ajusteur | Sachverständiger | ajustador | regolatore | ajustador | समायोजक | 调节器 | регулятор | Anpasser
+statement | déclaration | Erklärung | declaración | dichiarazione | declaração | बयान | 声明 | заявление | Erklärung
+explanation | explication | Erklärung | explicación | spiegazione | explicação | स्पष्टीकरण | 解释 | объяснение | Erklärung
+guidelines | directives | Richtlinien | pautas | linee guida | diretrizes | दिशा-निर्देश | 指南 | руководства | Richtlinien
+criteria | critères | Kriterien | criterios | criteri | critérios | मानदंड | 标准 | критерии | Kriterien
+reviewer | examinateur | Gutachter | revisor | revisore | revisor | समीक्षक | 审稿人 | рецензент | Prüfer
+reconsider | reconsidérer | überdenken | reconsiderar | riconsiderare | reconsiderar | पुनर्विचार करना | 重新考虑 | пересмотреть | überdenken
+findings | résultats | Ergebnisse | hallazgos | risultati | descobertas | निष्कर्ष | 发现 | результаты | Ergebnisse
+inspector | inspecteur | Inspektor | inspector | ispettore | inspetor | निरीक्षक | 检查员 | инспектор | Inspektor
+policyholder | assuré | Versicherungsnehmer | tomador | contraente | segurado | बीमाधारक | 保险持有人 | страховщик | Versicherungsnehmer
+agreement | accord | Vereinbarung | acuerdo | accordo | acordo | समझौता | 协议 | соглашение | Aussoierung
+conditions | conditions | Bedingungen | condiciones | condizioni | condições | शर्तें | 条件 | условия | Bedingungen
+exclusions | exclusions | Ausschlüsse | exclusiones | esclusioni | exclusões | अपवाद | 排除 | исключения | Auschlëss
+failure | échec | Misserfolg | fracaso | fallimento | falha | असफलता | 失败 | неудача | Feeler
+submission | soumission | Einreichung | presentación | presentazione | submissão | प्रस्तुतिकरण | 提交 | подача | Ofgëltung
+clarification | clarification | Klarstellung | aclaración | chiarimento | esclarecimento | स्पष्टता | 澄清 | разъяснение | Klärung
+entitlement | droit | Anspruch | derecho | diritto | direito | अधिकार | 权利 | право | Recht
+entitlement | droit | Anspruch | derecho | diritto | direito | अधिकार | 权利 | право | Recht
+alternative | alternative | Alternative | alternativa | alternativa | alternativa | विकल्प | 替代方案 | альтернатива | Alternativ
+resolution | résolution | Lösung | resolución | risoluzione | resolução | संकल्प | 解决方案 | разрешение | Entschlossenheit
+mediation | médiation | Mediation | mediación | mediazione | mediação | मध्यस्थता | 调解 | посредничество | Mediation
+communication | communication | Kommunikation | comunicación | comunicazione | comunicação | संचार | 沟通 | коммуникация | Kommunikatioun
+documentation | documentation | Dokumentation | documentación | documentazione | documentação | दस्तावेज़ | 文档 | документация | Dokumentatioun
+submission | soumission | Einreichung | presentación | presentazione | submissão | प्रस्तुति | 提交 | подача | Ofreegung
+resolution | résolution | Lösung | resolución | risoluzione | resolução | संकल्प | 解决方案 | разрешение | Entschlossenheit
+follow-up | suivi | Nachverfolgung | seguimiento | follow-up | acompanhamento | अनुवर्ती | 跟进 | последующий | Nohalteg
+retraction | rétractation | Widerruf | retractación | ritrattazione | retratação | वापस लेना | 撤回 | отказ | Widderhuelung
+correspondence | correspondance | Korrespondenz | correspondencia | corrispondenza | correspondência | पत्राचार | 信件 | переписка | Korrespondenz
+case | cas | Fall | caso | caso | caso | मामला | 案件 | случай | Fall
+risk | risque | Risiko | riesgo | rischio | risco | जोखिम | 风险 | риск | Risiko
+situation | situation | Situation | situación | situazione | situação | स्थिति | 情况 | ситуация | Situatioun
+delay | retard | Verzögerung | retraso | ritardo | atraso | देरी | 延迟 | задержка | Verspéidung
+information | information | Information | información | informazione | informação | जानकारी | 信息 | информация | Informatioun
+intervention | intervention | Intervention | intervención | intervento | intervenção | हस्तक्षेप | 干预 | вмешательство | Interventioun
+contract | contrat | Vertrag | contrato | contratto | contrato | अनुबंध | 合同 | контракт | Kontrakt

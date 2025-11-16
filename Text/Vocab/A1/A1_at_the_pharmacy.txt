@@ -1,0 +1,65 @@
+medicine | médicament | Medizin | medicina | medicina | medicamento | दवा | 药 | медицина | Medikament
+painkiller | antidouleur | Schmerzmittel | analgésico | analgesico | analgésico | दर्द निवारक | 镇痛药 | обезболивающее | Schmerzmittel
+antibiotic | antibiotique | Antibiotikum | antibiótico | antibiotico | antibiótico | एंटीबायोटिक | 抗生素 | антибиотик | Antibiotikum
+tablet | comprimé | Tablette | tableta | compressa | comprimido | गोली | 片剂 | таблетка | Tablet
+capsule | gélule | Kapsel | cápsula | capsula | cápsula | कैप्सूल | 胶囊 | капсула | Kapsel
+cream | crème | Creme | crema | crema | creme | क्रीम | 奶油 | крем | Crème
+ointment | pommade | Salbe | ungüento | unguento | pomada | मलहम | 油膏 | мазь | Salbe
+syrup | sirop | Sirup | jarabe | sciroppo | xarope | सिरप | 糖浆 | сироп | Sirup
+bandage | bandage | Verband | venda | benda | bandagem | पट्टी | 绷带 | бинт | Bandage
+prescription | prescription | Rezept | receta | ricetta | receita | प्रिस्क्रिप्शन | 处方 | рецепт | Verschreibung
+pharmacist | pharmacien | Apotheker | farmacéutico | farmacista | farmacêutico | फार्मासिस्ट | 药剂师 | аптекарь | Apotheker
+customer | client | Kunde | cliente | cliente | cliente | ग्राहक | 客户 | клиент | Klient
+store | magasin | Geschäft | tienda | negozio | loja | दुकान | 商店 | магазин | Buttek
+counter | comptoir | Theke | mostrador | banco | balcão | काउंटर | 柜台 | стойка | Zähler
+shelf | étagère | Regal | estante | scaffale | prateleira | शेल्फ | 架子 | полка | Regal
+medicine cabinet | armoire à médicaments | Arzneischrank | botiquín | armadietto | gabinete de remédios | दवा कैबिनेट | 药柜 | аптечка | Medikamenteschaf
+health | santé | Gesundheit | salud | salute | saúde | स्वास्थ्य | 健康 | здоровье | Gesundheit
+illness | maladie | Krankheit | enfermedad | malattia | doença | बीमारी | 疾病 | болезнь | Krankheet
+cold | rhume | Erkältung | resfriado | raffreddore | resfriado | सर्दी | 感冒 | простуда | Rësech
+cough | toux | Husten | tos | tosse | tosse | खाँसी | 咳嗽 | кашель | Hëst
+fever | fièvre | Fieber | fiebre | febbre | febre | बुखार | 发烧 | температура | Féiwer
+headache | mal de tête | Kopfschmerz | dolor de cabeza | mal di testa | dor de cabeça | सिरदर्द | 头痛 | головная боль | Koppestres
+allergy | allergie | Allergie | alergia | allergia | alergia | एलर्जी | 过敏 | аллергия | Allergie
+vitamin | vitamine | Vitamin | vitamina | vitamina | vitamina | विटामिन | 维生素 | витамин | Vitamin
+dosage | posologie | Dosierung | dosis | dosaggio | dosagem | खुराक | 剂量 | доза | Doséit
+risk | risque | Risiko | riesgo | rischio | risco | जोखिम | 风险 | риск | Risiko
+side effect | effet secondaire | Nebenwirkung | efecto secundario | effetto collaterale | efeito colateral | साइड इफेक्ट | 副作用 | побочный эффект | Nebeneffekt
+treatment | traitement | Behandlung | tratamiento | trattamento | tratamento | उपचार | 治疗 | лечение | Behandlung
+check-up | bilan de santé | Untersuchung | chequeo | controllo | exame de saúde | जांच | 检查 | осмотр | Gesondheetskontrolle
+symptom | symptôme | Symptom | síntoma | sintomo | sintoma | लक्षण | 症状 | симптом | Symptom
+remedy | remède | Heilmittel | remedio | rimedio | remédio | उपचार | 补救 | средство | Remède
+advice | conseil | Rat | consejo | consiglio | conselho | सलाह | 建议 | совет | Ratschlag
+cost | coût | Kosten | costo | costo | custo | लागत | 成本 | стоимость | Käschte
+price | prix | Preis | precio | prezzo | preço | मूल्य | 价格 | цена | Präis
+money | argent | Geld | dinero | denaro | dinheiro | पैसे | 钱 | деньги | Geld
+buy | acheter | kaufen | comprar | comprare | comprar | खरीदना | 买 | купить | kafen
+take | prendre | nehmen | tomar | prendere | pegar | लेना | 取 | брать | huelen
+use | utiliser | benutzen | usar | usare | usar | उपयोग करना | 使用 | использовать | benotzen
+open | ouvrir | öffnen | abrir | aprire | abrir | खोलना | 打开 | открывать | opene
+apply | appliquer | anwenden | aplicar | applicare | aplicar | आवेदन करना | 申请 | применять | uewenden
+mix | mélanger | mischen | mezclar | mescolare | misturar | मिलाना | 混合 | смешивать | mëschen
+consult | consulter | konsultieren | consultar | consultare | consultar | परामर्श करना | 咨询 | консультировать | beroden
+help | aider | helfen | ayudar | aiutare | ajudar | मदद करना | 帮助 | помогать | hëllefen
+improve | améliorer | verbessern | mejorar | migliorare | melhorar | सुधारना | 改进 | улучшать | verbesseren
+recommend | recommander | empfehlen | recomendar | raccomandare | recomendar | सिफारिश करना | 推荐 | рекомендовать | recommandéieren
+ask | demander | fragen | preguntar | chiedere | perguntar | पूछना | 询问 | спрашивать | froen
+find | trouver | finden | encontrar | trovare | encontrar | ढूंढना | 找到 | находить | fannen
+look for | chercher | suchen | buscar | cercare | procurar | तलाश करना | 寻找 | искать | sich ëmkuerfen
+need | avoir besoin | brauchen | necesitar | aver bisogno | precisar | चाहिए | 需要 | нуждаться | brauchen
+want | vouloir | wollen | querer | volere | querer | चाहिए | 想要 | хотеть | wëllen
+feel | sentir | fühlen | sentir | sentire | sentir | महसूस करना | 感觉 | чувствовать | fillen
+safe | sûr | sicher | seguro | sicuro | seguro | सुरक्षित | 安全 | безопасный | séchereg
+easy | facile | einfach | fácil | facile | fácil | आसान | 简单 | легкий | einfach
+quick | rapide | schnell | rápido | veloce | rápido | तेज | 快 | быстрый | séier
+free | libre | frei | libre | libero | livre | स्वतंत्र | 自由 | свободный | gratis
+bad | mauvais | schlecht | malo | cattivo | mau | बुरा | 坏 | плохой | schlecht
+good | bon | gut | bueno | buono | bom | अच्छा | 好 | хороший | gutt
+new | nouveau | neu | nuevo | nuovo | novo | नया | 新 | новый | nei
+important | important | wichtig | importante | importante | importante | महत्वपूर्ण | 重要 | важный | wichteg
+common | commun | gemeinsam | común | comune | comum | सामान्य | 常见 | общий | geméngt
+serious | sérieux | ernst | serio | serio | sério | गंभीर | 严肃 | серьезный | sérieux
+famous | célèbre | berühmt | famoso | famoso | famoso | प्रसिद्ध | 著名 | знаменитый | berühmt
+daily | quotidien | täglich | diario | quotidiano | diário | दैनिक | 每日 | ежедневный | dagelijks
+normal | normal | normal | normal | normale | normal | सामान्य | 正常 | нормальный | normal
+regular | régulier | regelmäßig | regular | regolare | regular | नियमित | 常规 | регулярный | regular

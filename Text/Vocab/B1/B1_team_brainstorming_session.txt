@@ -1,0 +1,55 @@
+team | équipe | Team | equipo | squadra | equipe | टीम | 团队 | команда | Ekipp
+session | session | Sitzung | sesión | sessione | sessão | सत्र | 场次 | сессия | Sëtzung
+idea | idée | Idee | idea | idea | ideia | विचार | 想法 | идея | Iddi
+meeting | réunion | Besprechung | reunión | riunione | reunião | बैठक | 会议 | встреча | Reunioun
+agenda | ordre du jour | Tagesordnung | orden del día | ordine del giorno | pauta | कार्यसूची | 议程 | повестка | Dagesuerdnung
+leader | chef | Leiter | líder | leader | líder | नेता | 领导 | лидер | Leader
+note | note | Notiz | nota | nota | nota | नोट | 笔记 | заметка | Notiz
+whiteboard | tableau blanc | Whiteboard | pizarra blanca | lavagna bianca | quadro branco | व्हाइटबोर्ड | 白板 | белая доска | Whiteboard
+marker | marqueur | Marker | marcador | pennarello | marcador | मार्कर | 记号笔 | маркер | Marker
+laptop | ordinateur portable | Laptop | portátil | portatile | computador portátil | लैपटॉप | 笔记本电脑 | ноутбук | Laptop
+room | salle | Raum | sala | sala | sala | कमरा | 房间 | комната | Zëmmer
+time | temps | Zeit | tiempo | tempo | tempo | समय | 时间 | время | Zäit
+goal | objectif | Ziel | objetivo | obiettivo | objetivo | लक्ष्य | 目标 | цель | Zil
+task | tâche | Aufgabe | tarea | compito | tarefa | कार्य | 任务 | задача | Aufgab
+project | projet | Projekt | proyecto | progetto | projeto | प्रोजेक्ट | 项目 | проект | Projet
+deadline | date limite | Abgabetermin | fecha límite | scadenza | prazo | अंतिम तिथि | 截止日期 | крайний срок | Frist
+problem | problème | Problem | problema | problema | problema | समस्या | 问题 | проблема | Problem
+solution | solution | Lösung | solución | soluzione | solução | समाधान | 解决办法 | решение | Léisung
+topic | sujet | Thema | tema | tema | tema | विषय | 话题 | тема | Thema
+question | question | Frage | pregunta | domanda | pergunta | प्रश्न | 问题 | вопрос | Fro
+feedback | retour | Rückmeldung | comentario | feedback | feedback | प्रतिक्रिया | 反馈 | обратная связь | Rëckmeldung
+summary | résumé | Zusammenfassung | resumen | riassunto | resumo | सारांश | 总结 | краткое содержание | Zesummefaassung
+meet | rencontrer | treffen | reunirse | incontrare | reunir-se | मिलना | 见面 | встречаться | sech treffen
+brainstorm | brainstormer | brainstormen | hacer una lluvia de ideas | brainstormare | fazer uma tempestade de ideias | विचार-मंथन करना | 头脑风暴 | проводить мозговой штурм | brainstormen
+discuss | discuter | besprechen | discutir | discutere | discutir | चर्चा करना | 讨论 | обсуждать | diskutéieren
+share | partager | teilen | compartir | condividere | compartilhar | साझा करना | 分享 | делиться | deelen
+suggest | proposer | vorschlagen | sugerir | suggerire | sugerir | सुझाव देना | 建议 | предлагать | virschloen
+listen | écouter | zuhören | escuchar | ascoltare | ouvir | सुनना | 听 | слушать | lauschteren
+ask | demander | fragen | preguntar | chiedere | perguntar | पूछना | 问 | спрашивать | froen
+answer | répondre | antworten | responder | rispondere | responder | जवाब देना | 回答 | отвечать | äntweren
+write | écrire | schreiben | escribir | scrivere | escrever | लिखना | 写 | писать | schreiwen
+plan | planifier | planen | planear | pianificare | planejar | योजना बनाना | 计划 | планировать | plangen
+decide | décider | entscheiden | decidir | decidere | decidir | फैसला करना | 决定 | решить | entscheeden
+choose | choisir | wählen | elegir | scegliere | escolher | चुनना | 选择 | выбрать | auswielen
+agree | être d'accord | zustimmen | estar de acuerdo | essere d'accordo | concordar | सहमत होना | 同意 | согласиться | averstanen sinn
+disagree | ne pas être d'accord | nicht zustimmen | no estar de acuerdo | non essere d'accordo | discordar | असहमत होना | 不同意 | не согласиться | net averstanen sinn
+present | présenter | vorstellen | presentar | presentare | apresentar | पेश करना | 介绍 | представлять | virstellen
+organize | organiser | organisieren | organizar | organizzare | organizar | आयोजित करना | 组织 | организовать | organiséieren
+review | vérifier | überprüfen | revisar | rivedere | revisar | समीक्षा करना | 检查 | проверять | iwwerpréiwen
+creative | créatif | kreativ | creativo | creativo | criativo | रचनात्मक | 有创意的 | творческий | kreativ
+open | ouvert | offen | abierto | aperto | aberto | खुला | 开放 | открытый | op
+clear | clair | klar | claro | chiaro | claro | साफ | 清楚 | ясный | kloer
+friendly | sympathique | freundlich | amable | amichevole | amigável | दोस्ताना | 友好 | дружелюбный | frëndlech
+helpful | serviable | hilfsbereit | servicial | disponibile | prestativo | मददगार | 乐于助人 | отзывчивый | hëllefsbereet
+active | actif | aktiv | activo | attivo | ativo | सक्रिय | 活跃 | активный | aktiv
+positive | positif | positiv | positivo | positivo | positivo | सकारात्मक | 积极 | позитивный | positiv
+flexible | flexible | flexibel | flexible | flessibile | flexível | लचीला | 灵活 | гибкий | flexibel
+simple | simple | einfach | sencillo | semplice | simples | सरल | 简单 | простой | einfach
+quick | rapide | schnell | rápido | veloce | rápido | तेज़ | 快 | быстрый | séier
+fair | juste | gerecht | justo | giusto | justo | न्यायपूर्ण | 公平 | справедливый | gerecht
+give feedback | donner un retour | Rückmeldung geben | dar comentarios | dare un feedback | dar um retorno | प्रतिक्रिया देना | 给反馈 | дать обратную связь | Réckmeldung ginn
+set a goal | fixer un objectif | sich ein Ziel setzen | poner una meta | fissare un obiettivo | definir uma meta | लक्ष्य तय करना | 设定目标 | поставить цель | e Zil setzen
+follow up | relancer | nachfassen | hacer seguimiento | ricontattare | acompanhar | पुनः संपर्क करना | 跟进 | связаться повторно | nogoen
+ask a question | poser une question | eine Frage stellen | hacer una pregunta | fare una domanda | fazer uma pergunta | सवाल पूछना | 提问 | задать вопрос | eng Fro stellen
+take a break | faire une pause | eine Pause machen | tomar un descanso | fare una pausa | fazer uma pausa | विराम लेना | 休息一下 | сделать перерыв | eng Paus maachen

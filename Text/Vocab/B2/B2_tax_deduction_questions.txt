@@ -1,0 +1,65 @@
+tax | impôt | Steuer | impuesto | tassa | imposto | कर | 税 | налог | Steier
+deduction | déduction | Abzug | deducción | detrazione | dedução | कटौती | 扣除 | вычет | Abzug
+income | revenu | Einkommen | ingreso | reddito | rendimento | आय | 收入 | доход | Einkommen
+expense | dépense | Ausgabe | gasto | spesa | despesa | खर्च | 支出 | расход | Ausgab
+receipt | reçu | Quittung | recibo | ricevuta | recibo | रसीद | 收据 | квитанция | Quittung
+claim | réclamation | Antrag | reclamación | richiesta | reivindicação | दावा | 声明 | требование | Forderung
+credit | crédit | Kredit | crédito | credito | crédito | क्रेडिट | 信用 | кредит | Kredit
+refund | remboursement | Rückerstattung | reembolso | rimborso | reembolso | रिफंड | 退款 | возврат | Rückerstattung
+financial | financier | finanzielle | financiero | finanziario | financeiro | वित्तीय | 财务 | финансовый | finanziell
+filing | dépôt | Einreichung | presentación | deposito | arquivamento | फाइलिंग | 归档 | подача | Archivatioun
+return | retour | Rückkehr | retorno | ritorno | retorno | वापसी | 退还 | возврат | Retour
+eligibility | éligibilité | Berechtigung | elegibilidad | idoneità | elegibilidade | पात्रता | 资格 | право | Eligibility
+itemize | détailler | auflisten | detallar | elencare | itemizar | वस्तु सूचीबद्ध करना | 列出 | перечислять | Itemiséieren
+schedule | horaire | Zeitplan | horario | programma | cronograma | कार्यक्रम | 时间表 | расписание | Zäitplang
+audit | audit | Prüfung | auditoría | audit | auditoria | ऑडिट | 审计 | аудит | Audit
+assets | actifs | Vermögenswerte | activos | attivi | ativos | संपत्ति | 资产 | активы | Verméigen
+liabilities | passifs | Verbindlichkeiten | pasivos | passività | passivos | आश्रित | 负债 | обязательства | Verbindlechkeet
+exempt | exonéré | befreit | exento | esente | isento | छूट | 免税 | освобожденный | exonéiert
+charitable | charitable | wohltätig | caritativo | benefico | caritativo | दानात्मक | 慈善 | благотворительный | karitativ
+donation | don | Spende | donación | donazione | doação | दान | 捐赠 | пожертвование | Spënd
+contribution | contribution | Beitrag | contribución | contributo | contribuição | योगदान | 贡献 | вклад | Beitrags
+dependents | personnes à charge | Angehörige | dependientes | persone a carico | dependentes | आश्रित | 受抚养人 | иждивенцы | Lasten
+expenses | dépenses | Ausgaben | gastos | spese | despesas | खर्च | 费用 | расходы | Ausgaben
+standard deduction | déduction forfaitaire | Pauschalbetrag | deducción estándar | detrazione standard | dedução padrão | मानक कटौती | 标准扣除 | стандартный вычет | Standardabzug
+taxable | imposable | steuerpflichtig | imponible | tassabile | tributável | कर लगाने योग्य | 应纳税的 | налогооблагаемый | steuerbar
+net income | revenu net | Nettoeinkommen | ingreso neto | reddito netto | rendimento líquido | शुद्ध आय | 净收入 | чистый доход | Nettoeinkommen
+employment | emploi | Beschäftigung | empleo | occupazione | emprego | रोजगार | 就业 | занятость | Beschäftigung
+business | entreprise | Geschäft | negocio | affari | negócio | व्यापार | 商业 | бизнес | Geschäft
+personal | personnel | persönlich | personal | personale | pessoal | व्यक्तिगत | 个人 | личный | perséinlech
+investment | investissement | Investition | inversión | investimento | investimento | निवेश | 投资 | инвестиция | Investissement
+information | information | Information | información | informazione | informação | जानकारी | 信息 | информация | Informatioun
+reporting | reporting | Berichterstattung | informes | rapporto | relatórios | रिपोर्टिंग | 报告 | отчетность | Berichterstattung
+requirements | exigences | Anforderungen | requisitos | requisiti | requisitos | आवश्यकताएँ | 要求 | требования | Anforderungen
+allowance | allocation | Zulage | asignación | indennità | subsídio | भत्ता | 津贴 | пособие | Zuelassung
+refund claim | demande de remboursement | Erstattungsantrag | solicitud de reembolso | richiesta di rimborso | pedido de reembolso | रिफंड दावा | 退款申请 | заявление на возврат | Rückerstattungsantrag
+profit | bénéfice | Gewinn | beneficio | profitto | lucro | लाभ | 利润 | прибыль | Profit
+loss | perte | Verlust | pérdida | perdita | perda | हानि | 损失 | убыток | Verloscht
+records | dossiers | Aufzeichnungen | registros | registri | registros | अभिलेख | 记录 | записи | Akten
+documentation | documentation | Dokumentation | documentación | documentazione | documentação | दस्तावेज़ीकरण | 文档 | документация | Dokumentatioun
+payment | paiement | Zahlung | pago | pagamento | pagamento | भुगतान | 支付 | платеж | Bezuelung
+government | gouvernement | Regierung | gobierno | governo | governo | सरकार | 政府 | правительство | Regierung
+taxpayer | contribuable | Steuerzahler | contribuyente | contribuente | contribuinte | करदाता | 纳税人 | налогоплательщик | Steierpär
+yearly | annuel | jährlich | anual | annuale | anual | वार्षिक | 每年的 | ежегодный | jäerlech
+self-employed | travailleur indépendant | Selbständiger | autónomo | lavoratore autonomo | trabalhador por conta própria | स्वतंत्र | 自雇 | самозанятый | selwerstaan
+adjustment | ajustement | Anpassung | ajuste | aggiustamento | ajuste | समायोजन | 调整 | корректировка | Anpassung
+calculation | calcul | Berechnung | cálculo | calcolo | cálculo | गणना | 计算 | вычисление | Berechnung
+incentive | incitation | Anreiz | incentivo | incentivo | incentivo | प्रोत्साहन | 激励 | стимул | Anreiz
+threshold | seuil | Schwelle | umbral | soglia | limiar | सीमा | 门槛 | порог | Schwelle
+rights | droits | Rechte | derechos | diritti | direitos | अधिकार | 权利 | права | Rechter
+obligation | obligation | Verpflichtung | obligación | obbligo | obrigação | दायित्व | 义务 | обязательство | Verpflichtung
+penalty | pénalité | Strafe | penalización | penalità | penalidade | दंड | 罚款 | наказание | Strofe
+review | révision | Überprüfung | revisión | revisione | revisão | समीक्षा | 复审 | пересмотр | Revue
+statement | déclaration | Erklärung | declaración | dichiarazione | declaração | बयान | 声明 | заявление | Erklärung
+disclosure | divulgation | Offenlegung | divulgación | divulgazione | divulgação | प्रकटीकरण | 披露 | раскрытие | Offenbarung
+verification | vérification | Überprüfung | verificación | verifica | verificação | सत्यापन | 验证 | проверка | Vérifikation
+guidelines | lignes directrices | Richtlinien | pautas | linee guida | diretrizes | दिशा-निर्देश | 指导方针 | руководящие принципы | Richtlinien
+policy | politique | Politik | política | politica | política | नीति | 政策 | политика | Politik
+procedure | procédure | Verfahren | procedimiento | procedura | procedimento | प्रक्रिया | 过程 | процедура | Prozedur
+planning | planification | Planung | planificación | pianificazione | planejamento | योजना | 规划 | планирование | Planung
+strategy | stratégie | Strategie | estrategia | strategia | estratégia | रणनीति | 战略 | стратегия | Strategie
+benefit | avantage | Vorteil | beneficio | beneficio | benefício | लाभ | 益处 | выгода | Vorteil
+evaluation | évaluation | Bewertung | evaluación | valutazione | avaliação | मूल्यांकन | 评估 | оценка | Bewertung
+allocation | allocation | Zuweisung | asignación | allocazione | alocação | आवंटन | 分配 | распределение | Zuteilung
+balance | équilibre | Gleichgewicht | equilibrio | equilibrio | equilíbrio | संतुलन | 平衡 | баланс | Balance
+savings | économies | Ersparnisse | ahorros | risparmi | poupança | बचत | 储蓄 | сбережения | spaarsummen

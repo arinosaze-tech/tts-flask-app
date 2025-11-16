@@ -1,0 +1,65 @@
+bus | bus | Bus | autobús | autobus | ônibus | बस | 公交车 | автобус
+ticket | billet | Fahrkarte | billete | biglietto | bilhete | टिकट | 车票 | билет
+driver | chauffeur | Fahrer | conductor | autista | motorista | चालक | 司机 | водитель
+stop | arrêt | Haltestelle | parada | fermata | parada | स्टॉप | 站 | остановка
+station | gare | Bahnhof | estación | stazione | estação | स्टेशन | 车站 | станция
+timetable | horaire | Fahrplan | horario | orario | horário | समय सारणी | 时刻表 | расписание
+fare | tarif | Fahrpreis | tarifa | tariffa | tarifa | किराया | 票价 | тариф
+platform | quai | Bahnsteig | andén | binario | plataforma | प्लेटफॉर्म | 站台 | платформа
+office | bureau | Büro | oficina | ufficio | escritório | कार्यालय | 办公室 | офис
+queue | file | Warteschlange | cola | coda | fila | कतार | 队列 | очередь
+cash | espèces | Bargeld | efectivo | contante | dinheiro | नकद | 现金 | наличные
+card | carte | Karte | tarjeta | carta | cartão | कार्ड | 卡片 | карта
+coin | pièce | Münze | moneda | moneta | moeda | सिक्का | 硬币 | монета
+note | billet | Note | billete | nota | nota | नोट | 钞票 | купюра
+seat | siège | Sitz | asiento | posto | assento | सीट | 座位 | место
+map | carte | Karte | mapa | mappa | mapa | मानचित्र | 地图 | карта
+route | itinéraire | Route | ruta | percorso | rota | मार्ग | 路线 | маршрут
+journey | voyage | Reise | viaje | viaggio | viagem | यात्रा | 旅行 | путешествие
+line | ligne | Linie | línea | linea | linha | रेखा | 线 | линия
+schedule | horaire | Fahrplan | horario | programma | calendário | कार्यक्रम | 日程 | расписание
+change | changer | ändern | cambiar | cambiare | mudar | बदलना | 改变 | менять
+machine | machine | Maschine | máquina | macchina | máquina | मशीन | 机器 | машина
+window | fenêtre | Fenster | ventana | finestra | janela | खिड़की | 窗口 | окно
+receipt | reçu | Quittung | recibo | ricevuta | recibo | रसीद | 收据 | квитанция
+price | prix | Preis | precio | prezzo | preço | मूल्य | 价格 | цена
+discount | remise | Rabatt | descuento | sconto | desconto | छूट | 折扣 | скидка
+pass | laisser passer | passieren | pasar | passare | passar | पास | 通过 | пропуск
+zone | zone | Zone | zona | zona | zona | क्षेत्र | 区域 | зона
+destination | destination | Ziel | destino | meta | destino | गंतव्य | 目的地 | место назначения
+service | service | Dienst | servicio | servizio | serviço | सेवा | 服务 | служба
+direction | direction | Richtung | dirección | direzione | direção | दिशा | 方向 | направление
+time | temps | Zeit | tiempo | tempo | tempo | समय | 时间 | время
+company | entreprise | Firma | empresa | azienda | empresa | कंपनी | 公司 | компания
+buy | acheter | kaufen | comprar | comprare | comprar | खरीदना | 买 | покупать
+pay | payer | bezahlen | pagar | pagare | pagar | देना | 支付 | платить
+show | montrer | zeigen | mostrar | mostrare | mostrar | दिखाना | 显示 | показывать
+get | recevoir | bekommen | recibir | ricevere | receber | पाना | 得到 | получать
+take | prendre | nehmen | tomar | prendere | tomar | लेना | 拿 | брать
+wait | attendre | warten | esperar | aspettare | esperar | इंतजार करना | 等 | ждать
+arrive | arriver | ankommen | llegar | arrivare | chegar | पहुंचना | 到达 | прибывать
+leave | laisser | verlassen | salir | lasciare | deixar | छोड़ना | 离开 | уйти
+ask | demander | fragen | preguntar | chiedere | perguntar | पूछना | 询问 | спрашивать
+need | avoir besoin | brauchen | necesitar | aver bisogno | precisar | ज़रूरत होना | 需要 | нуждаться
+check | vérifier | überprüfen | comprobar | controllare | verificar | जांचना | 检查 | проверять
+board | monter | einsteigen | embarcar | salire | embarcar | चढ़ना | 登机 | садиться
+find | trouver | finden | encontrar | trovare | encontrar | ढूंढना | 找到 | находить
+choose | choisir | wählen | elegir | scegliere | escolher | चुनना | 选择 | выбирать
+collect | collecter | sammeln | coleccionar | raccogliere | colecionar | इकट्ठा करना | 收集 | собирать
+print | imprimer | drucken | imprimir | stampare | imprimir | छापना | 打印 | печатать
+insert | insérer | einfügen | insertar | inserire | inserir | डालना | 插入 | вставлять
+open | ouvrir | öffnen | abrir | aprire | abrir | खोलना | 打开 | открывать
+close | fermer | schließen | cerrar | chiudere | fechar | बंद करना | 关闭 | закрывать
+use | utiliser | benutzen | usar | usare | usar | इस्तेमाल करना | 使用 | использовать
+cheap | bon marché | billig | barato | economico | barato | सस्ता | 便宜 | дешёвый
+expensive | cher | teuer | caro | caro | caro | महंगा | 贵 | дорогой
+valid | valide | gültig | válido | valido | válido | मान्य | 有效 | действительный
+single | seul | allein | soltero | single | único | अकेला | 单身 | один
+return | retourner | zurückgeben | devolver | restituire | devolver | वापस करना | 归还 | вернуть
+correct | correct | richtig | correcto | corretto | correto | सही | 正确 | верный
+late | tard | spät | tarde | tardi | tarde | देर | 晚 | поздний
+early | tôt | früh | temprano | presto | cedo | जल्दी | 早 | ранний
+nearby | à proximité | in der Nähe | cercano | vicino | perto | पास | 附近 | рядом
+bus stop | arrêt de bus | Bushaltestelle | parada de autobús | fermata dell'autobus | ponto de ônibus | बस स्टॉप | 公交车站 | автобусная остановка
+ticket machine | distributeur de billets | Fahrkartenautomat | máquina expendedora de billetes | macchina dei biglietti | máquina de bilhetes | टिकट मशीन | 售票机 | билетный автомат
+platform number | numéro de quai | Gleisnummer | número de andén | numero del binario | número da plataforma | प्लेटफ़ॉर्म नंबर | 站台号 | номер платформы

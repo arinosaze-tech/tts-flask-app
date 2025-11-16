@@ -1,0 +1,65 @@
+procurement | approvisionnement | Beschaffung | adquisición | approvvigionamento | aquisição | आपूर्ति | 采购 | закупка | Beschaffung
+request | demande | Anfrage | solicitud | richiesta | solicitação | अनुरोध | 请求 | запрос | Ufrogreed
+proposal | proposition | Vorschlag | propuesta | proposta | proposta | प्रस्ताव | 提案 | предложение | Proposéierung
+briefing | exposé | Briefing | reunión informativa | briefing | reunião informativa | ब्रीफिंग | 简报 | брифинг | Briefing
+supplier | fournisseur | Lieferant | proveedor | fornitore | fornecedor | आपूर्तिकर्ता | 供应商 | поставщик | Liewerant
+contract | contrat | Vertrag | contrato | contratto | contrato | अनुबंध | 合同 | контракт | Kontrakt
+evaluation | évaluation | Bewertung | evaluación | valutazione | avaliação | मूल्यांकन | 评估 | оценка | Evaluatioun
+criteria | critères | Kriterien | criterios | criteri | critérios | मानदंड | 标准 | критерии | Kritèren
+bid | offre | Gebot | oferta | offerta | lance | बोली | 投标 | ставка | Gebot
+cost | coût | Kosten | costo | costo | custo | लागत | 成本 | стоимость | Käschte
+budget | budget | Haushalt | presupuesto | bilancio | orçamento | बजट | 预算 | бюджет | Budget
+negotiation | négociation | Verhandlung | negociación | negoziazione | negociação | बातचीत | 谈判 | переговоры | Verhandlung
+terms | conditions | Bedingungen | términos | termini | termos | शर्तें | 条款 | условия | Bedingungen
+deadline | date limite | Frist | fecha límite | scadenza | prazo final | समयसीमा | 截止日期 | крайний срок | Frist
+requirements | exigences | Anforderungen | requisitos | requisiti | requisitos | आवश्यकताएँ | 要求 | требования | Anforderungen
+specifications | spécifications | Spezifikationen | especificaciones | specifiche | especificações | विशिष्टताएँ | 规格 | спецификации | Spezifizéierungen
+submission | soumission | Einreichung | presentación | sottomissione | submissão | प्रस्तुति | 提交 | подача | Einreichung
+process | processus | Prozess | proceso | processo | processo | प्रक्रिया | 过程 | процесс | Prozess
+revenue | revenu | Einnahmen | ingresos | entrate | receita | राजस्व | 收入 | доход | Einnahmen
+quality | qualité | Qualität | calidad | qualità | qualidade | गुणवत्ता | 质量 | качество | Qualität
+performance | performance | Leistung | rendimiento | prestazione | desempenho | प्रदर्शन | 性能 | производительность | Leistung
+management | gestion | Management | gestión | gestione | gestão | प्रबंधन | 管理 | управление | Verwaltung
+strategy | stratégie | Strategie | estrategia | strategia | estratégia | रणनीति | 战略 | стратегия | Strategie
+vendor | fournisseur | Verkäufer | proveedor | fornitore | fornecedor | विक्रेता | 供应商 | поставщик | Fournisseur
+timeline | chronologie | Zeitachse | cronograma | cronologia | linha do tempo | समयरेखा | 时间线 | временная линия | Zäitlinne
+clarification | clarification | Klarstellung | clarificación | chiarimento | esclarecimento | स्पष्टता | 阐明 | разъяснение | Klärung
+stakeholder | partie prenante | Interessensvertreter | interesado | parte interessata | parte interessada | भागीदार | 利益相关者 | заинтересованная сторона | Stakeholder
+collaboration | collaboration | Zusammenarbeit | colaboración | collaborazione | colaboração | सहयोग | 合作 | сотрудничество | Zesummenaarbecht
+innovation | innovation | Innovation | innovación | innovazione | inovação | नवाचार | 创新 | инновация | Innovatioun
+resource | ressource | Ressource | recurso | risorsa | recurso | संसाधन | 资源 | ресурс | Ressource
+feedback | retour | Rückmeldung | retroalimentación | feedback | feedback | फीडबैक | 反馈 | обратная связь | Feedback
+risk | risque | Risiko | riesgo | rischio | risco | जोखिम | 风险 | риск | Risiko
+solution | solution | Lösung | solución | soluzione | solução | समाधान | 解决方案 | решение | Léisung
+compliance | conformité | Compliance | cumplimiento | conformità | conformidade | अनुपालन | 遵守 | соблюдение | Konformitéit
+market | marché | Markt | mercado | mercato | mercado | बाजार | 市场 | рынок | Mart
+analysis | analyse | Analyse | análisis | analisi | análise | विश्लेषण | 分析 | анализ | Analyse
+document | document | Dokument | documento | documento | documento | दस्तावेज़ | 文档 | документ | Dokument
+approval | approbation | Genehmigung | aprobación | approvazione | aprovação | स्वीकृति | 批准 | одобрение | Geneemegung
+meeting | réunion | Meeting | reunión | incontro | reunião | बैठक | 会议 | встреча | Sëtz
+presentation | présentation | Präsentation | presentación | presentazione | apresentação | प्रस्तुतिकरण | 演示 | презентация | Presentatioun
+timeline | chronologie | Zeitachse | línea de tiempo | linea temporale | cronograma | टाइमलाइन | 时间线 | линия времени | Zeitligne
+objective | objectif | Ziel | objetivo | obiettivo | objetivo | उद्देश्य | 目标 | цель | Objetiv
+procedure | procédure | Verfahren | procedimiento | procedura | procedimento | प्रक्रिया | 程序 | процедура | Prozedur
+partnership | partenariat | Partnerschaft | asociación | partnership | parceria | साझेदारी | 合作伙伴关系 | партнерство | Partnerschap
+delivery | livraison | Lieferung | entrega | consegna | entrega | डिलीवरी | 交付 | доставка | Liwerg
+quotation | citation | Zitat | cotización | citazione | citação | उद्धरण | 报价 | цитата | Zitat
+assessment | évaluation | Bewertung | evaluación | valutazione | avaliação | मूल्यांकन | 评估 | оценка | Evaluatioun
+sustainability | durabilité | Nachhaltigkeit | sostenibilidad | sostenibilità | sustentabilidade | टिकाऊपन | 可持续性 | устойчивость | Nohaltegkeet
+methodology | méthodologie | Methode | metodología | metodologia | metodologia | विधि | 方法 | методология | Methodologie
+scope | portée | Umfang | alcance | ambito | escopo | दायरा | 范围 | объём | Umfang
+engagement | engagement | Engagement | compromiso | impegno | compromisso | संलग्नता | 参与 | участие | Engagement
+support | soutien | Unterstützung | apoyo | supporto | apoio | समर्थन | 支持 | поддержка | Unterstützung
+communication | communication | Kommunikation | comunicación | comunicazione | comunicação | संचार | 沟通 | коммуникация | Kommunikation
+transparency | transparence | Transparenz | transparencia | trasparenza | transparência | पारदर्शिता | 透明 | прозрачность | Transparenz
+report | rapport | Bericht | informe | rapporto | relatório | रिपोर्ट | 报告 | отчёт | Rapport
+plan | plan | Plan | plan | piano | plano | योजना | 计划 | план | Plan
+role | rôle | Rolle | papel | ruolo | papel | भूमिका | 角色 | роль | Roll
+contractor | entrepreneur | Auftragnehmer | contratista | contraente | empreiteiro | ठेकेदार | 承包商 | подрядчик | Kontraktor
+success | succès | Erfolg | éxito | successo | sucesso | सफलता | 成功 | успех | Succès
+detail | détail | Detail | detalle | dettaglio | detalhe | विवरण | 细节 | деталь | Detail
+expertise | expertise | Fachwissen | experiencia | competenza | experiência | विशेषज्ञता | 专业知识 | экспертиза | Expertise
+implementation | mise en œuvre | Umsetzung | implementación | attuazione | implementação | कार्यान्वयन | 实施 | внедрение | Umsetzung
+investment | investissement | Investition | inversión | investimento | investimento | निवेश | 投资 | инвестиция | Investissement
+outcomes | résultats | Ergebnisse | resultados | risultati | resultados | परिणाम | 结果 | результаты | Resultater
+alignment | alignement | Ausrichtung | alineación | allineamento | alinhamento | संरेखन | 对齐 | выравнивание | Alignement

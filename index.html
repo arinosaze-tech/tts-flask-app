@@ -1,0 +1,249 @@
+<!doctype html>
+<html lang="en" dir="ltr" data-theme="dark">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>TTS + Video — Web UI</title>
+  <link rel="stylesheet" href="/static/style.css" />
+</head>
+<body>
+  <header class="app-header">
+    <div class="header-left">
+      <h1>TTS + Video</h1>
+    </div>
+    <div class="header-right">
+      <button id="btnTheme" class="icon-btn" aria-label="Toggle theme" title="Toggle theme">
+        <!-- icon switches by CSS -->
+        <span class="icon-sun" aria-hidden="true">☀️</span>
+        <span class="icon-moon" aria-hidden="true">🌙</span>
+        <span class="icon-label">Theme</span>
+      </button>
+
+      <button id="btnHamburger" class="icon-btn hamburger" aria-haspopup="true" aria-expanded="false" aria-label="Menu" title="Menu">
+      <span class="ham" aria-hidden="true"><i></i><i></i><i></i></span>
+      <span class="icon-label">Menu</span>
+      </button>
+
+    </div>
+  </header>
+
+  <!-- Hamburger sheet + backdrop -->
+  <div id="hamburgerBackdrop" class="sheet-backdrop" hidden></div>
+  <nav id="hamburgerMenu" class="sheet" role="menu" aria-label="Main menu" aria-hidden="true" hidden>
+    <div class="sheet-sec">
+      <div class="sheet-title">Quick actions</div>
+      <button class="sheet-item" data-act="run">▶ Run pipeline</button>
+      <button class="sheet-item" data-act="stop">⏹ Stop</button>
+      <button class="sheet-item" data-act="save">💾 Save settings</button>
+    </div>
+
+    <div class="sheet-sec">
+      <div class="sheet-title">View</div>
+      <button class="sheet-item" data-act="open">🎬 Open last video</button>
+      <button class="sheet-item" data-act="toggle-log">📄 Toggle run log</button>
+      <button class="sheet-item" data-act="theme">🌓 Toggle theme</button>
+    </div>
+
+    <div class="sheet-sec">
+      <div class="sheet-title">Maintenance</div>
+      <button class="sheet-item" data-act="clear-cache">🧹 Clear cache</button>
+      <button class="sheet-item" data-act="clear-output">🗂 Clear output</button>
+    </div>
+
+    <div class="sheet-hint">Press Esc to close</div>
+  </nav>
+
+
+  <main>
+    <section class="toolbar">
+      <button id="btnSave">Save settings</button>
+      <button id="btnRun">Run pipeline</button>
+      <button id="btnStop" disabled>Stop</button>
+      <button id="btnClearCache">Clear cache</button>
+      <button id="btnClearOutput">Clear output</button>
+    </section>
+
+    <div class="grid">
+      <section class="card">
+        <h2>Basics</h2>
+
+        <div class="row">
+          <label>Edition
+            <select id="edition">
+              <option>Free</option>
+              <option>Premium</option>
+            </select>
+            <span class="badge warn" data-lock-badge>Premium: locked</span>
+          </label>
+        </div>
+
+        <div class="row">
+          <input type="password" id="premium_code" placeholder="Enter Premium code (12345678)" />
+          <button id="btnActivate">Activate</button>
+        </div>
+
+        <div class="row">
+          <label>Content source
+            <select id="content_source">
+              <option>From .txt file</option>
+              <option>Generate with LLM</option>
+            </select>
+          </label>
+          <label>Mode
+            <select id="mode"><option>Vocab</option><option>Scenario</option></select>
+          </label>
+          <label>Level
+            <select id="level"><option>A1</option><option>A2</option><option>B1</option><option>B2</option></select>
+          </label>
+        </div>
+
+        <div class="row">
+          <label>Text file
+            <select id="text_file"></select>
+          </label>
+          <label>LLM topic
+            <input id="llm_topic_basic" placeholder="e.g. airport check-in" />
+          </label>
+        </div>
+
+        <div class="row">
+          <label>Target duration
+            <select id="target_duration">
+              <option>Short (~5 min)</option>
+              <option selected>Medium (~10 min)</option>
+              <option>Long (~15 min)</option>
+            </select>
+          </label>
+          <label><input type="checkbox" id="items_override" /> Manual items</label>
+          <input type="number" id="llm_items_basic" min="1" max="99" value="20" disabled />
+          <span id="estimated_items" style="margin-left:8px;">Estimated items: 20</span>
+        </div>
+
+        <div class="row">
+          <label class="checkbox"><input type="checkbox" id="enable_bilingual" checked /> Enable bilingual (primary + translation)</label>
+        </div>
+
+        <details class="details">
+          <summary>Advanced</summary>
+
+          <h3>Languages</h3>
+          <div class="row">
+            <label>Primary language
+              <select id="primary_lang">
+                <option>en</option><option>fr</option><option>de</option><option>es</option>
+              </select>
+            </label>
+            <label>Secondary language
+              <select id="secondary_lang">
+                <option>fr</option><option>en</option><option>de</option><option>es</option>
+              </select>
+            </label>
+          </div>
+
+          <h3>TTS providers</h3>
+          <div class="row">
+            <label>Primary TTS
+              <select id="tts_primary">
+                <option value="gtts">gTTS (Free)</option>
+                <option value="elevenlabs" data-premium="1">ElevenLabs (Premium)</option>
+                <option value="piper" data-premium="1">Piper (local, Premium)</option>
+              </select>
+            </label>
+            <label>Secondary TTS
+              <select id="tts_secondary">
+                <option value="gtts">gTTS (Free)</option>
+                <option value="elevenlabs" data-premium="1">ElevenLabs (Premium)</option>
+                <option value="piper" data-premium="1">Piper (local, Premium)</option>
+              </select>
+            </label>
+          </div>
+
+          <h3>Vocab timing</h3>
+          <div class="row">
+            <label>Main repeats: <input type="number" id="vocab_primary" min="1" max="20" value="1"/></label>
+            <label>Translation repeats: <input type="number" id="vocab_secondary" min="0" max="20" value="2"/></label>
+          </div>
+          <div class="row">
+            <label>Pause between repeats (ms): <input type="number" id="vocab_pause_rep" min="0" max="20000" value="2500"/></label>
+            <label>Pause between words (ms): <input type="number" id="vocab_pause_sent" min="0" max="20000" value="2500"/></label>
+          </div>
+
+          <h3>Scenario timing</h3>
+          <div class="row">
+            <label>Main repeats: <input type="number" id="scen_primary" min="1" max="20" value="1"/></label>
+            <label>Translation repeats: <input type="number" id="scen_secondary" min="0" max="20" value="2"/></label>
+          </div>
+          <div class="row">
+            <label>Pause between repeats (ms): <input type="number" id="scen_pause_rep" min="0" max="20000" value="2500"/></label>
+            <label>Pause between sentences (ms): <input type="number" id="scen_pause_sent" min="0" max="20000" value="3500"/></label>
+          </div>
+
+          <h3>Video & background</h3>
+          <div class="row">
+            <label>Background mode
+              <select id="bg_mode"><option>Per sentence</option><option>Static (single image)</option><option>None</option></select>
+            </label>
+            <label class="checkbox"><input type="checkbox" id="bg_enabled" checked /> Enable background music</label>
+          </div>
+          <div class="row">
+            <label>Video size (WxH): <input id="video_size" value="1920x1080"/></label>
+            <label>FPS: <input type="number" id="video_fps" min="1" max="120" value="30"/></label>
+          </div>
+        </details>
+      </section>
+    </div>
+
+    <section class="card">
+      <h2>Outputs</h2>
+      <div id="outputs" class="outputs-list"></div>
+    </section>
+
+    <section class="card">
+      <details id="logDetails">
+        <summary>Run log</summary>
+        <pre id="log" class="log-view" aria-live="polite"></pre>
+      </details>
+    </section>
+  </main>
+
+  <!-- Toasts -->
+  <div id="toasts" class="toasts" aria-live="polite" aria-atomic="true"></div>
+
+  <!-- Result Card (auto-open after run) -->
+  <div id="resultCard" class="result-card hidden" aria-live="polite" role="dialog" aria-label="Latest result">
+    <div class="rc-body">
+      <div class="rc-text">
+        <div class="rc-title">Latest output is ready</div>
+        <a id="rcLink" class="rc-link" href="#" target="_blank" rel="noreferrer">Open video</a>
+      </div>
+      <button id="rcClose" class="icon-btn rc-close" aria-label="Close">✕</button>
+    </div>
+  </div>
+
+  <!-- Busy overlay -->
+  <div id="busy" class="busy hidden" aria-hidden="true" role="dialog" aria-label="Working">
+    <div class="busy-panel">
+      <div class="ring" aria-hidden="true">
+        <svg viewBox="0 0 120 120" id="progressRing" aria-valuemin="0" aria-valuemax="100" aria-valuenow="0">
+          <circle class="track" cx="60" cy="60" r="54"></circle>
+          <circle class="fill" id="ringFill" cx="60" cy="60" r="54"></circle>
+        </svg>
+        <div class="ring-center"><div id="busyPercent">0%</div></div>
+      </div>
+
+      <div class="busy-text">
+        <span id="busyStage">Working…</span>
+        <span class="dots" aria-hidden="true"><b>.</b><b>.</b><b>.</b></span>
+      </div>
+
+      <div class="progress" aria-hidden="true"><div class="bar" id="busyBar"></div></div>
+
+      <div class="busy-actions">
+        <button id="btnCancel" class="btn danger outline" type="button" aria-label="Cancel current run">Cancel</button>
+      </div>
+    </div>
+  </div>
+
+  <script src="/static/app.js"></script>
+</body>
+</html>

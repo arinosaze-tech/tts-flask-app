@@ -1,0 +1,65 @@
+time | temps | Zeit | tiempo | tempo | tempo | समय | 时间 | время
+hour | heure | Stunde | hora | ora | hora | घंटा | 小时 | час
+minute | minute | Minute | minuto | minuto | minuto | मिनट | 分钟 | минута
+second | seconde | Sekunde | segundo | secondo | segundo | सेकंड | 秒 | секунда
+clock | horloge | Uhr | reloj | orologio | relógio | घड़ी | 钟 | часы
+watch | montre | Uhr | reloj | orologio | relógio | घड़ी | 表 | наручные часы
+face | visage | Gesicht | cara | faccia | rosto | चेहरा | 脸 | лицо
+hand | main | Hand | mano | mano | mão | हाथ | 手 | рука
+alarm | alarme | Alarm | alarma | allarme | alarme | अलार्म | 警报 | сигнал
+schedule | horaire | Fahrplan | horario | programma | horário | कार्यक्रम | 日程表 | расписание
+appointment | rendez-vous | Termin | cita | appuntamento | compromisso | अपॉइंटमेंट | 预约 | встреча
+bus | bus | Bus | autobús | autobus | ônibus | बस | 公交车 | автобус
+train | train | Zug | tren | treno | trem | ट्रेन | 火车 | поезд
+meeting | réunion | Sitzung | reunión | incontro | reunião | बैठक | 会议 | встреча
+calendar | calendrier | Kalender | calendario | calendario | calendário | कैलेंडर | 日历 | календарь
+morning | matin | Morgen | mañana | mattina | manhã | सुबह | 早上 | утро
+afternoon | après-midi | Nachmittag | tarde | pomeriggio | tarde | अपराह्न | 下午 | вечер
+evening | soir | Abend | noche | sera | noite | शाम | 晚上 | вечер
+night | nuit | Nacht | noche | notte | noite | रात | 夜 | ночь
+noon | midi | Mittag | mediodía | mezzogiorno | meio-dia | दोपहर | 中午 | полдень
+midnight | minuit | Mitternacht | medianoche | mezzanotte | meia-noite | मध्यरात्रि | 午夜 | полночь
+quarter | quart | Viertel | cuarto | quarto | quarto | चौथाई | 四分之一 | четверть
+half | moitié | Hälfte | medio | metà | metade | आधा | 一半 | половина
+minute hand | aiguille des minutes | Minutenzeiger | manecilla de los minutos | lancetta dei minuti | ponteiro dos minutos | मिनट हाथ | 分针 | минутная стрелка
+second hand | seconde main | Sekunde | segunda mano | lancetta | ponteiro | सेकंड हैंड | 二手 | секундомер
+digital clock | horloge numérique | Digitaluhr | reloj digital | orologio digitale | relógio digital | डिजिटल घड़ी | 数字时钟 | цифровые часы
+wall clock | horloge murale | Wanduhr | reloj de pared | orologio da parete | relógio de parede | दीवार घड़ी | 壁钟 | настенные часы
+phone | téléphone | Telefon | teléfono | telefono | telefone | फोन | 电话 | телефон
+time zone | fuseau horaire | Zeitzone | zona horaria | fuso orario | fuso horário | समय क्षेत्र | 时区 | часовой пояс
+bell | cloche | Glocke | campana | campana | sino | घंटी | 钟 | колокол
+timer | minuteur | Timer | temporizador | timer | cronômetro | टाइमर | 计时器 | таймер
+stopwatch | chronomètre | Stoppuhr | cronómetro | cronometro | cronômetro | स्टॉपवॉच | 秒表 | секундомер
+display | afficher | anzeigen | mostrar | mostrare | exibir | दिखाना | 显示 | показывать
+ask | demander | fragen | preguntar | chiedere | perguntar | पूछना | 询问 | спрашивать
+tell | dire | erzählen | decir | raccontare | contar | बताना | 告诉 | рассказывать
+know | savoir | wissen | saber | sapere | saber | जानना | 知道 | знать
+say | dire | sagen | decir | dire | dizer | कहना | 说 | сказать
+read | lire | lesen | leer | leggere | ler | पढ़ना | 阅读 | читать
+show | montrer | zeigen | mostrar | mostrare | mostrar | दिखाना | 显示 | показывать
+look | regarder | schauen | mirar | guardare | olhar | देखना | 看 | смотреть
+check | vérifier | überprüfen | comprobar | controllare | verificar | जांचना | 检查 | проверять
+wait | attendre | warten | esperar | aspettare | esperar | इंतज़ार करना | 等待 | ждать
+arrive | arriver | ankommen | llegar | arrivare | chegar | पहुंचना | 到达 | прибывать
+leave | partir | verlassen | salir | partire | sair | छोड़ना | 离开 | покинуть
+set | mettre | setzen | poner | mettere | definir | सेट करना | 设置 | устанавливать
+change | changer | ändern | cambiar | cambiare | mudar | बदलना | 改变 | менять
+ring | appeler | klingeln | llamar | chiamare | ligar | बजना | 响 | звонить
+sound | son | Klang | sonido | suono | som | ध्वनि | 声音 | звук
+count | compter | zählen | contar | contare | contar | गिनना | 计数 | счёт
+point | point | Punkt | punto | punto | ponto | बिंदु | 点 | точка
+plan | plan | planen | plan | pianificare | plano | योजना | 计划 | план
+miss | manquer | vermissen | perder | mancare | perder | चूकना | 错过 | пропустить
+hear | entendre | hören | oír | sentire | ouvir | सुनना | 听 | слышать
+late | tard | spät | tarde | tardi | tarde | देर | 晚 | поздно
+early | tôt | früh | temprano | presto | cedo | सुबह | 早 | рано
+exact | exact | genau | exacto | esatto | exato | सही | 精确 | точный
+correct | correct | richtig | correcto | corretto | correto | सही | 对 | верный
+wrong | faux | falsch | incorrecto | sbagliato | errado | गलत | 错 | неверный
+punctual | ponctuel | pünktlich | puntual | puntuale | pontual | समय पर | 准时 | пунктуальный
+busy | occupé | beschäftigt | ocupado | impegnato | ocupado | व्यस्त | 忙 | занятый
+slow | lent | langsam | lento | lento | lento | धीमा | 慢 | медленный
+what time | quelle heure | wie spät | qué hora | che ore | que horas | क्या समय है | 现在几点 | который час
+o clock | heure | Uhr | en punto | in punto | em ponto | बजे | 点 | часов
+half past | et demie | halb | y media | e mezzo | e meia | साढ़े | 半 | половина
+quarter past | et quart | Viertel nach | y cuarto | e un quarto | e um quarto | सवा | 一刻 | четверть

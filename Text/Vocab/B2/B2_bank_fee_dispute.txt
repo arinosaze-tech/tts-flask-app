@@ -1,0 +1,65 @@
+bank | banque | Bank | banco | banca | banco | बैंक | 银行 | банк | Bank
+fee | frais | Gebühr | tarifa | tassa | taxa | शुल्क | 费用 | сбор | Gebühr
+dispute | litige | Streit | disputa | controversia | disputa | विवाद | 争议 | спор | Streit
+transaction | transaction | Transaktion | transacción | transazione | transação | लेन-देन | 交易 | транзакция | Transaktion
+charge | frais | Gebühr | cargo | carico | cobrança | शुल्क | 收费 | сбор | Gebühr
+statement | relevé | Auszug | estado | estratto | extrato | विवरण | 报表 | выписка | Auszug
+refund | remboursement | Rückerstattung | reembolso | rimborso | reembolso | धनवापसी | 退款 | возврат | Rückerstattung
+balance | solde | Bilanz | saldo | saldo | saldo | संतुलन | 余额 | баланс | Bilanz
+error | erreur | Fehler | error | errore | erro | त्रुटि | 错误 | ошибка | Fehler
+customer | client | Kunde | cliente | cliente | cliente | ग्राहक | 客户 | клиент | Client
+service | service | Dienst | servicio | servizio | serviço | सेवा | 服务 | сервис | Service
+contact | contact | Kontakt | contacto | contatto | contato | संपर्क | 联系 | контакт | Kontakt
+representative | représentant | Vertreter | representante | rappresentante | representante | प्रतिनिधि | 代表 | представитель | Vertreter
+resolve | résoudre | lösen | resolver | risolvere | resolver | हल करना | 解决 | решить | Lösen
+issue | problème | Problem | problema | problema | questão | मुद्दा | 问题 | вопрос | Thema
+agreement | accord | Vereinbarung | acuerdo | accordo | acordo | समझौता | 协议 | соглашение | Vereinbarung
+policy | politique | Politik | política | politica | política | नीति | 政策 | политика | Politik
+complaint | plainte | Beschwerde | queja | reclamo | reclamação | शिकायत | 投诉 | жалоба | Beschwer
+proof | preuve | Beweis | prueba | prova | prova | सबूत | 证明 | доказательство | Beweis
+investigation | enquête | Untersuchung | investigación | indagine | investigação | जांच | 调查 | расследование | Untersuchung
+authorization | autorisation | Genehmigung | autorización | autorizzazione | autorização | अनुमति | 授权 | разрешение | Genehmigung
+account | compte | Konto | cuenta | conto | conta | खाता | 账户 | счет | Konto
+funds | fonds | Mittel | fondos | fondi | fundos | निधियाँ | 资金 | средства | Fongen
+withdrawal | retrait | Abhebung | retiro | prelievo | retirada | निकासी | 取款 | снятие | Abhebung
+deposit | dépôt | Einzahlung | depósito | deposito | depósito | जमा | 存款 | депозит | Dépôt
+insurance | assurance | Versicherung | seguro | assicurazione | seguro | बीमा | 保险 | страхование | Versécherung
+interest | intérêt | Zinsen | interés | interesse | juros | ब्याज | 利息 | интерес | Zins
+penalty | pénalité | Strafe | penalización | penalità | penalidade | दंड | 罚款 | штраф | Pénalité
+documentation | documentation | Dokumentation | documentación | documentazione | documentação | दस्तावेज़ | 文档 | документация | Dokumentatioun
+limit | limite | Grenze | límite | limite | limite | सीमा | 限制 | лимит | Grenz
+access | accès | Zugang | acceso | accesso | acesso | पहुंच | 访问 | доступ | Zougang
+transactional | transactionnel | transaktional | transaccional | transazionale | transacional | लेन-देन का | 交易的 | транзакционный | Transaktionell
+clarification | clarification | Klarstellung | aclaración | chiarimento | esclarecimento | स्पष्टता | 澄清 | уточнение | Klärung
+authorization | autorisation | Genehmigung | autorización | autorizzazione | autorização | प्राधिकरण | 授权 | авторизация | Genehmigung
+signature | signature | Unterschrift | firma | firma | assinatura | हस्ताक्षर | 签名 | подпись | Unterschrift
+identity | identité | Identität | identidad | identità | identidade | पहचान | 身份 | идентичность | Identitéit
+communicate | communiquer | kommunizieren | comunicar | comunicare | comunicar | संवाद करना | 交流 | общаться | kommunizéieren
+negotiate | négocier | verhandeln | negociar | negoziare | negociar | बातचीत करना | 谈判 | вести переговоры | verhandelen
+discuss | discuter | diskutieren | discutir | discutere | discutir | चर्चा करना | 讨论 | обсуждать | diskutéieren
+suspension | suspension | Aussetzung | suspensión | sospensione | suspensão | निलंबन | 暂停 | приостановка | Suspensioun
+resolution | résolution | Beschluss | resolución | risoluzione | resolução | समाधान | 决议 | разрешение | Resolutioun
+agreement | accord | Vereinbarung | acuerdo | accordo | acordo | सहमति | 协议 | соглашение | Accord
+outline | plan | Umriss | esquema | linea guida | esboço | रूपरेखा | 轮廓 | контур | Umriss
+terms | conditions | Bedingungen | términos | termini | termos | शर्तें | 条款 | условия | Bedingunge
+conditions | conditions | Bedingungen | condiciones | condizioni | condições | परिस्थितियाँ | 条件 | условия | Bedingunge
+recourse | recours | Rechtsbehelf | recurso | ricorso | recurso | उपाय | 追索权 | средство | Recours
+log | journal | Protokoll | diario | registro | diário | लॉग | 日志 | журнал | Journal
+claim | réclamation | Anspruch | reclamación | richiesta | reclamação | दावा | 索赔 | требование | Reclamo
+evidence | preuve | Beweis | evidencia | prova | evidência | साक्ष्य | 证据 | доказательство | Beweis
+regulation | réglementation | Vorschrift | regulación | regolamento | regulação | विनियमन | 规定 | регулирование | Regulatioun
+notification | notification | Benachrichtigung | notificación | notifica | notificação | सूचना | 通知 | уведомление | Notifikatioun
+confirmation | confirmation | Bestätigung | confirmación | conferma | confirmação | पुष्टि | 确认 | подтверждение | Bestätegung
+deadline | date limite | Frist | fecha límite | scadenza | prazo | समय सीमा | 截止日期 | крайний срок | Frist
+update | mise à jour | Aktualisierung | actualización | aggiornamento | atualização | अद्यतन | 更新 | обновление | Aktualiséierung
+process | processus | Prozess | proceso | processo | processo | प्रक्रिया | 过程 | процесс | Prozess
+withdraw | retirer | abheben | retirar | ritirare | retirar | वापस लेना | 撤回 | снять | retirar
+support | soutenir | unterstützen | apoyar | supportare | apoiar | समर्थन | 支持 | поддержка | stëmmung
+escalate | escalader | eskalieren | escalar | escalare | escalar | बढ़ाना | 升级 | эскалировать | eskaléieren
+interaction | interaction | Interaktion | interacción | interazione | interação | अंतःक्रिया | 互动 | взаимодействие | Interaktioun
+conversation | conversation | Konversation | conversación | conversazione | conversa | बातचीत | 对话 | беседа | Konversatioun
+satisfaction | satisfaction | Zufriedenheit | satisfacción | soddisfazione | satisfação | संतोष | 满意 | удовлетворение | Zefriddenheet
+trust | faire confiance | Vertrauen | confianza | fiducia | confiança | विश्वास | 信任 | доверие | Vertrauen
+value | valeur | Wert | valor | valore | valor | मूल्य | 价值 | ценность | Wäert
+adjustment | ajustement | Anpassung | ajuste | adeguamento | ajuste | समायोजन | 调整 | корректировка | Justement
+transactional | transactionnel | transaktional | transaccional | transazionale | transacional | लेन-देन | 交易的 | транзакционный | transaktionell

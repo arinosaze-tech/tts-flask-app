@@ -1,0 +1,65 @@
+insurance | assurance | Versicherung | seguro | assicurazione | seguro | बीमा | 保险 | страхование | Versécherung
+coverage | couverture | Deckung | cobertura | copertura | cobertura | कवरेज | 保障 | покрытие | Deckung
+premium | prime | Prämie | prima | premio | prêmio | प्रीमियम | 保险费 | премия | Prämie
+claim | réclamation | Anspruch | reclamación | richiesta | reivindicação | दावा | 索赔 | требование | Forderung
+deductible | franchise | Selbstbehalt | deducible | franchigia | franquia | कटौती | 免赔额 | вычет | Fräiwierung
+exclusion | exclusion | Ausschluss | exclusión | esclusione | exclusão | बहिष्कार | 排除 | исключение | Exklusioun
+policy | police | Police | póliza | polizza | apólice | नीति | 政策 | полис | Police
+benefit | avantage | Vorteil | beneficio | beneficio | benefício | लाभ | 福利 | преимущество | Benefice
+risk | risque | Risiko | riesgo | rischio | risco | जोखिम | 风险 | риск | Risiko
+assessment | évaluation | Bewertung | evaluación | valutazione | avaliação | मूल्यांकन | 评估 | оценка | Beurteilung
+underwriting | souscription | Zeichnung | suscripción | sottoscrizione | subscrição | अंडरराइटिंग | 承保 | андеррайтинг | Underwriting
+adjuster | ajusteur | Schadensregulierer | ajustador | perito | ajustador | समायोजक | 调解人 | страховой регулятор | Regulierer
+liability | responsabilité | Haftung | responsabilidad | responsabilità | responsabilidade | देयता | 责任 | ответственность | Haftung
+security | sécurité | Sicherheit | seguridad | sicurezza | segurança | सुरक्षा | 安全 | безопасность | Sécherheid
+contract | contrat | Vertrag | contrato | contratto | contrato | अनुबंध | 合同 | контракт | Vertrag
+provider | fournisseur | Anbieter | proveedor | fornitore | provedor | प्रदाता | 供应商 | поставщик | Fournisseur
+insurer | assureur | Versicherer | aseguradora | assicuratore | seguradora | बीमा | 保险公司 | страховщик | Versicherer
+client | client | Klient | cliente | cliente | cliente | ग्राहक | 客户 | клиент | Klient
+terms | termes | Bedingungen | términos | termini | termos | शर्तें | 条款 | условия | Bedingungen
+conditions | conditions | Bedingungen | condiciones | condizioni | condições | परिस्थितियाँ | 条件 | условия | Bedingungen
+accident | accident | Unfall | accidente | incidente | acidente | दुर्घटना | 事故 | несчастный случай | Accident
+loss | perte | Verlust | pérdida | perdita | perda | हानि | 损失 | потеря | Verloscht
+payment | paiement | Zahlung | pago | pagamento | pagamento | भुगतान | 付款 | платеж | Bezuelung
+representative | représentant | Vertreter | representante | rappresentante | representante | प्रतिनिधि | 代表 | представитель | Vertreter
+review | révision | Überprüfung | revisión | revisione | revisão | समीक्षा | 复习 | рецензия | Überprüfung
+document | document | Dokument | documento | documento | documento | दस्तावेज | 文件 | документ | Dokument
+renewal | renouvellement | Erneuerung | renovación | rinnovo | renovação | नवीकरण | 更新 | продление | Erneuerung
+indemnity | indemnité | Entschädigung | indemnización | indennità | indenização | मुआवजा | 赔偿 | компенсация | Entschädigung
+coverage limit | limite de couverture | Deckungsgrenze | límite de cobertura | limite di copertura | limite de cobertura | कवरेज सीमा | 覆盖范围限制 | лимит покрытия | Deckungsgrenze
+loss adjuster | expert en sinistres | Schadensregulierer | ajustador de pérdidas | liquidatore | ajustador de perdas | क्षति समायोजक | 理赔调整员 | оценщик убытков | Schadensregulierer
+legal | légal | rechtlich | legal | legale | legal | कानूनी | 法律的 | юридический | rechtlech
+exemption | exemption | Ausnahme | exención | esenzione | isenção | छूट | 免除 | освобождение | Ausnahme
+agreement | accord | Vereinbarung | acuerdo | accordo | acordo | सहमति | 协议 | соглашение | Übereenkeen
+disclosure | divulgation | Offenlegung | divulgación | divulgazione | divulgação | खुलासा | 披露 | раскрытие | Offentlechung
+protection | protection | Schutz | protección | protezione | proteção | सुरक्षा | 保护 | защита | Schutz
+property | propriété | Eigentum | propiedad | proprietà | propriedade | संपत्ति | 财产 | собственность | Eegentum
+health | santé | Gesundheit | salud | salute | saúde | स्वास्थ्य | 健康 | здоровье | Gesondheet
+life | vie | Leben | vida | vita | vida | जीवन | 生活 | жизнь | Liewen
+auto | voiture | Auto | auto | auto | carro | कार | 汽车 | авто | Auto
+home | maison | Zuhause | casa | casa | casa | घर | 家 | дом | Haus
+journey | voyage | Reise | viaje | viaggio | viagem | यात्रा | 旅行 | путешествие | Reise
+personal | personnel | persönlich | personal | personale | pessoal | व्यक्तिगत | 个人 | личный | perséinlech
+business | entreprise | Geschäft | negocio | affari | negócio | व्यवसाय | 商业 | бизнес | Geschäft
+accident report | rapport d'accident | Unfallbericht | informe de accidente | rapporto d'incidente | relatório de acidente | दुर्घटना रिपोर्ट | 事故报告 | отчет об аварии | Accidentsrapport
+service | service | Dienst | servicio | servizio | serviço | सेवा | 服务 | служба | Service
+support | soutien | Unterstützung | apoyo | supporto | apoio | समर्थन | 支持 | поддержка | Ënnerstëtzung
+agent | agent | Agent | agente | agente | agente | एजेंट | 代理 | агент | Agent
+customer | client | Kunde | cliente | cliente | cliente | ग्राहक | 客户 | клиент | Klient
+consultation | consultation | Konsultation | consulta | consultazione | consulta | परामर्श | 咨询 | консультация | Consultatioun
+evaluation | évaluation | Bewertung | evaluación | valutazione | avaliação | मूल्यांकन | 评价 | оценка | Evaluatioun
+assessment | évaluation | Einschätzung | evaluación | valutazione | avaliação | आकलन | 评估 | оценка | Evaluatioun
+application | application | Anwendung | aplicación | applicazione | aplicação | आवेदन | 申请 | заявление | Applikatioun
+statement | déclaration | Erklärung | declaración | dichiarazione | declaração | बयान | 陈述 | заявление | Deklaratioun
+dispute | litige | Streit | disputa | controversia | disputa | विवाद | 争议 | спор | Streif
+settlement | règlement | Einigung | acuerdo | accordo | acordo | समझौता | 和解 | соглашение | Vunaarbecht
+reminder | rappel | Erinnerung | recordatorio | promemoria | lembrete | अनुस्मारक | 提醒 | напоминание | Erëmmertung
+documentation | documentation | Dokumentation | documentación | documentazione | documentação | दस्तावेज़ | 文档 | документация | Dokumentatioun
+explanation | explication | Erklärung | explicación | spiegazione | explicação | स्पष्टीकरण | 解释 | объяснение | Erkläarung
+timeline | chronologie | Zeitachse | cronología | cronologia | linha do tempo | समयरेखा | 时间线 | временная линия | Zäitlin
+investigation | enquête | Untersuchung | investigación | indagine | investigação | जांच | 调查 | расследование | Ënnersuchung
+verification | vérification | Überprüfung | verificación | verifica | verificação | सत्यापन | 验证 | проверка | Verifizéierung
+analysis | analyse | Analyse | análisis | analisi | análise | विश्लेषण | 分析 | анализ | Analyse
+network | réseau | Netzwerk | red | rete | rede | नेटवर्क | 网络 | сеть | Netzwierk
+out-of-pocket | hors de poche | aus eigener Tasche | de bolsillo | di tasca | do próprio bolso | अपनी जेब से | 自付 | из собственного кармана | aus der Täsch
+ante | avant | vor | ante | prima | antes | सामने | 在前 | перед | vorher

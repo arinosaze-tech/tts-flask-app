@@ -1,0 +1,65 @@
+street | rue | Straße | calle | via | rua | सड़क | 街 | улица
+road | route | Straße | carretera | strada | estrada | सड़क | 路 | дорога
+corner | coin | Ecke | esquina | angolo | esquina | कोना | 拐角 | угол
+map | carte | Karte | mapa | mappa | mapa | नक्शा | 地图 | карта
+sign | panneau | Schild | señal | cartello | sinal | चिन्ह | 标志 | знак
+intersection | carrefour | Kreuzung | cruce | incrocio | cruzamento | चौराहा | 十字路口 | перекресток
+traffic | circulation | Verkehr | tráfico | traffico | trânsito | यातायात | 交通 | движение
+station | gare | Bahnhof | estación | stazione | estação | स्टेशन | 站 | станция
+platform | quai | Bahnsteig | andén | binario | plataforma | प्लेटफ़ॉर्म | 站台 | платформа
+entrance | entrée | Eingang | entrada | ingresso | entrada | प्रवेश | 入口 | вход
+exit | sortie | Ausgang | salida | uscita | saída | निकास | 出口 | выход
+building | bâtiment | Gebäude | edificio | edificio | edifício | इमारत | 建筑 | здание
+block | bloc | Block | manzana | isolato | quarteirão | ब्लॉक | 街区 | квартал
+avenue | avenue | Allee | avenida | viale | avenida | एवेन्यू | 大道 | проспект
+square | place | Platz | plaza | piazza | praça | चौक | 广场 | площадь
+bridge | pont | Brücke | puente | ponte | ponte | पुल | 桥 | мост
+river | rivière | Fluss | río | fiume | rio | नदी | 河 | река
+lane | ruelle | Gasse | callejón | vicolo | beco | गली | 小巷 | переулок
+path | chemin | Pfad | sendero | sentiero | caminho | रास्ता | 路径 | путь
+route | itinéraire | Route | ruta | percorso | rota | मार्ग | 路线 | маршрут
+direction | direction | Richtung | dirección | direzione | direção | दिशा | 方向 | направление
+distance | distance | Entfernung | distancia | distanza | distância | दूरी | 距离 | расстояние
+landmark | point de repère | Wahrzeichen | hito | punto di riferimento | marco | लैंडमार्क | 地标 | ориентир
+shop | magasin | Laden | tienda | negozio | loja | दुकान | 商店 | магазин
+cafe | café | Café | café | caffè | café | कैफे | 咖啡馆 | кафе
+hotel | hôtel | Hotel | hotel | hotel | hotel | होटल | 酒店 | отель
+museum | musée | Museum | museo | museo | museu | संग्रहालय | 博物馆 | музей
+hospital | hôpital | Krankenhaus | hospital | ospedale | hospital | अस्पताल | 医院 | больница
+pharmacy | pharmacie | Apotheke | farmacia | farmacia | farmácia | फार्मेसी | 药店 | аптека
+office | bureau | Büro | oficina | ufficio | escritório | कार्यालय | 办公室 | офис
+roundabout | rond-point | Kreisverkehr | rotonda | rotonda | rotunda | गोलचक्कर | 环形交叉路口 | кольцо
+signpost | panneau | Wegweiser | cartel | cartello | placa | संकेत | 路标 | указатель
+house | maison | Haus | casa | casa | casa | घर | 房子 | дом
+go | aller | gehen | ir | andare | ir | जाना | 去 | идти
+turn | tourner | wenden | girar | girare | virar | मोड़ना | 转 | поворот
+walk | marcher | laufen | caminar | camminare | andar | चलना | 走 | идти
+continue | continuer | fortfahren | continuar | continuare | continuar | जारी रखना | 继续 | продолжать
+follow | suivre | folgen | seguir | seguire | seguir | अनुसरण करना | 跟随 | следовать
+cross | traverser | überqueren | cruzar | attraversare | atravessar | पार करना | 穿过 | пересекать
+ask | demander | fragen | preguntar | chiedere | perguntar | पूछना | 询问 | спрашивать
+stop | arrêter | stoppen | parar | fermare | parar | रोकना | 停止 | остановить
+take | prendre | nehmen | tomar | prendere | pegar | लेना | 拿 | взять
+arrive | arriver | ankommen | llegar | arrivare | chegar | आना | 到达 | приехать
+find | trouver | finden | encontrar | trovare | encontrar | ढूँढना | 找到 | найти
+look | regarder | schauen | mirar | guardare | olhar | देखना | 看 | смотреть
+point | montrer | zeigen | apuntar | indicare | apontar | इशारा करना | 指 | указывать
+show | montrer | zeigen | mostrar | mostrare | mostrar | दिखाना | 显示 | показать
+leave | quitter | verlassen | salir | lasciare | sair | छोड़ना | 离开 | покидать
+come | venir | kommen | venir | venire | vir | आना | 来 | приходить
+pass | passer | bestehen | pasar | passare | passar | गुजरना | 通过 | проходить
+search | chercher | suchen | buscar | cercare | procurar | खोजना | 搜索 | искать
+use | utiliser | benutzen | usar | usare | usar | उपयोग करना | 使用 | использовать
+guide | guider | führen | guiar | guidare | guiar | मार्गदर्शित करना | 指导 | вести
+left | gauche | links | izquierda | sinistra | esquerda | बायां | 左 | лево
+right | droit | rechts | derecho | destro | direito | दायां | 右 | право
+near | près | nahe | cerca | vicino | perto | करीब | 近 | близко
+far | loin | weit | lejos | lontano | longe | दूर | 远 | далеко
+straight | droit | gerade | recto | dritto | reto | सीधा | 直 | прямой
+opposite | opposé | gegenüber | opuesto | opposto | oposto | विपरीत | 反 | противоположный
+busy | occupé | beschäftigt | ocupado | occupato | ocupado | व्यस्त | 忙 | занятый
+main | principal | Haupt- | principal | principale | principal | मुख्य | 主要 | основной
+narrow | étroit | schmal | estrecho | stretto | estreito | संकीर्ण | 窄 | узкий
+bus stop | arrêt de bus | Bushaltestelle | parada de autobús | fermata dell'autobus | parada de ônibus | बस स्टॉप | 公交车站 | автобусная остановка
+train station | gare | Bahnhof | estación de tren | stazione ferroviaria | estação de trem | रेल्वे स्टेशन | 火车站 | вокзал
+street name | nom de la rue | Straßenname | nombre de la calle | nome della strada | nome da rua | सड़क का नाम | 街名 | название улицы

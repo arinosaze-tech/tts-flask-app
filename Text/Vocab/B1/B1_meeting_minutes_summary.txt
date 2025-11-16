@@ -1,0 +1,55 @@
+meeting | réunion | Besprechung | reunión | riunione | reunião | बैठक | 会议 | совещание | Reunioun
+agenda | ordre du jour | Tagesordnung | orden del día | ordine del giorno | ordem do dia | कार्यसूची | 议程 | повестка дня | Dagesuerdnung
+summary | résumé | Zusammenfassung | resumen | riassunto | resumo | सारांश | 总结 | резюме | Resumé
+attendee | participant | Teilnehmer | asistente | partecipante | participante | उपस्थित व्यक्ति | 与会者 | присутствующий | Participant
+participant | participant | Teilnehmer | participante | partecipante | participante | प्रतिभागी | 参与者 | участник | Participant
+chair | président | Vorsitzender | presidente | presidente | presidente | अध्यक्ष | 主持人 | председатель | President
+point | point | Punkt | punto | punto | ponto | बिंदु | 要点 | пункт | Punkt
+topic | sujet | Thema | tema | tema | tema | विषय | 主题 | тема | Thema
+issue | problème | Problem | problema | problema | problema | समस्या | 问题 | проблема | Problem
+decision | décision | Entscheidung | decisión | decisione | decisão | निर्णय | 决定 | решение | Decisioun
+action | action | Handlung | acción | azione | ação | कार्रवाई | 行动 | действие | Aktioun
+task | tâche | Aufgabe | tarea | compito | tarefa | कार्य | 任务 | задача | Aufgab
+deadline | date limite | Frist | fecha límite | scadenza | prazo | अंतिम तिथि | 截止日期 | крайний срок | Frist
+timeline | chronologie | Zeitplan | cronograma | cronologia | cronograma | समयरेखा | 时间线 | график | Zäitplang
+item | élément | Punkt | elemento | elemento | item | वस्तु | 项目 | пункт | Punkt
+goal | objectif | Ziel | objetivo | obiettivo | objetivo | लक्ष्य | 目标 | цель | Zil
+update | mise à jour | Aktualisierung | actualización | aggiornamento | atualização | अपडेट | 更新 | обновление | Aktualiséierung
+feedback | retour | Rückmeldung | opinión | parere | opinião | प्रतिक्रिया | 反馈 | обратная связь | Réckmeldung
+question | question | Frage | pregunta | domanda | pergunta | प्रश्न | 问题 | вопрос | Fro
+concern | inquiétude | Sorge | preocupación | preoccupazione | preocupação | चिंता | 担忧 | беспокойство | Suerg
+comment | commentaire | Kommentar | comentario | commento | comentário | टिप्पणी | 评论 | комментарий | Kommentar
+outline | plan | Gliederung | esquema | schema | esboço | रूपरेखा | 提纲 | план | Glidderung
+discuss | discuter | besprechen | discutir | discutere | discutir | चर्चा करना | 讨论 | обсуждать | diskutéieren
+note | note | Notiz | nota | nota | nota | नोट | 笔记 | заметка | Notiz
+record | enregistrer | aufzeichnen | grabar | registrare | gravar | रिकॉर्ड करना | 记录 | записывать | opzeechnen
+review | examiner | überprüfen | revisar | rivedere | revisar | समीक्षा करना | 查看 | просматривать | iwwerpréiwen
+plan | planifier | planen | planificar | pianificare | planejar | योजना बनाना | 计划 | планировать | plangen
+agree | être d'accord | zustimmen | estar de acuerdo | essere d'accordo | concordar | सहमत होना | 同意 | соглашаться | zoustëmmen
+decide | décider | entscheiden | decidir | decidere | decidir | फैसला करना | 决定 | решать | entscheeden
+schedule | programmer | ansetzen | programar | programmare | agendar | शेड्यूल करना | 安排 | назначать | festleeën
+assign | attribuer | zuweisen | asignar | assegnare | atribuir | सौंपना | 分配 | поручать | zoudeelen
+share | partager | teilen | compartir | condividere | compartilhar | साझा करना | 分享 | делиться | deelen
+report | rapport | Bericht | informe | rapporto | relatório | रिपोर्ट | 报告 | отчет | Rapport
+inform | informer | informieren | informar | informare | informar | सूचित करना | 通知 | сообщать | informéieren
+clarify | préciser | klären | aclarar | chiarire | esclarecer | स्पष्ट करना | 澄清 | уточнить | kloerstellen
+confirm | confirmer | bestätigen | confirmar | confermare | confirmar | पुष्टि करना | 确认 | подтвердить | bestätegen
+propose | proposer | vorschlagen | proponer | proporre | propor | प्रस्ताव करना | 建议 | предложить | virschloen
+approve | approuver | genehmigen | aprobar | approvare | aprovar | मंजूर करना | 批准 | одобрить | genehmegen
+main | principal | wichtig | principal | principale | principal | मुख्य | 主要 | главный | haaptsächlech
+key | clé | wichtig | clave | chiave | chave | महत्वपूर्ण | 关键 | ключевой | wichteg
+clear | effacer | leeren | limpiar | pulire | limpar | साफ़ करना | 清除 | очистить | eidelmaachen
+brief | bref | kurz | breve | breve | breve | संक्षिप्त | 简短 | краткий | kuerz
+final | final | endgültig | final | finale | final | अंतिम | 最终 | окончательный | definitiv
+previous | précédent | vorherig | anterior | precedente | anterior | पिछला | 上一个 | предыдущий | vireg
+current | actuel | aktuell | actual | attuale | atual | वर्तमान | 当前 | текущий | aktuell
+next | prochain | nächst | siguiente | prossimo | próximo | अगला | 下一个 | следующий | nächst
+open | ouvrir | öffnen | abrir | aprire | abrir | खोलना | 打开 | открыть | opmaachen
+urgent | urgent | dringend | urgente | urgente | urgente | तत्काल | 紧急 | срочный | dréngend
+important | important | wichtig | importante | importante | importante | महत्वपूर्ण | 重要 | важный | wichteg
+action item | tâche | Aufgabe | tarea | attività | tarefa | कार्य | 行动项 | задача | aufgab
+meeting minutes | compte rendu | Protokoll | acta | verbale | ata | बैठक विवरण | 会议纪要 | протокол | protokoll
+next steps | prochaines étapes | nächste Schritte | próximos pasos | prossimi passi | próximos passos | अगले कदम | 后续步骤 | следующие шаги | nächst schrëtt
+due date | date limite | Abgabetermin | fecha límite | scadenza | prazo | अंतिम तिथि | 截止日期 | срок | frist
+start time | heure de début | Startzeit | hora de inicio | ora di inizio | hora de início | शुरू होने का समय | 开始时间 | время начала | startzäit
+end time | heure de fin | Endzeit | hora de fin | ora di fine | hora de término | समाप्ति समय | 结束时间 | время окончания | ennzäit

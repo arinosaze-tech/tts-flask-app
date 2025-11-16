@@ -1,0 +1,55 @@
+contract | contrat | Vertrag | contrato | contratto | contrato | अनुबंध | 合同 | договор | Kontrakt
+bonus | prime | Bonus | bono | bonus | bônus | बोनस | 奖金 | премия | Bonus
+benefit | avantage | Vorteil | beneficio | beneficio | benefício | लाभ | 福利 | выгода | Virdeel
+position | poste | Stelle | puesto | posizione | cargo | पद | 职位 | должность | Posten
+role | rôle | Rolle | rol | ruolo | função | भूमिका | 角色 | роль | Roll
+duty | devoir | Pflicht | deber | dovere | dever | कर्तव्य | 职责 | обязанность | Flicht
+employer | employeur | Arbeitgeber | empleador | datore di lavoro | empregador | नियोक्ता | 雇主 | работодатель | Aarbechtsgeber
+employee | employé | Arbeitnehmer | empleado | dipendente | empregado | कर्मचारी | 员工 | сотрудник | Mataarbechter
+candidate | candidat | Kandidat | candidato | candidato | candidato | उम्मीदवार | 候选人 | кандидат | Kandidat
+clause | clause | Klausel | cláusula | clausola | cláusula | धारा | 条款 | пункт | Klausel
+term | durée | Laufzeit | plazo | termine | prazo | अवधि | 期限 | срок | Lafzäit
+condition | condition | Bedingung | condición | condizione | condição | शर्त | 条件 | условие | Bedingung
+schedule | horaire | Zeitplan | horario | orario | horário | समय-सारणी | 日程 | расписание | Zäitplang
+shift | équipe | Schicht | turno | turno | turno | शिफ्ट | 班次 | смена | Schicht
+allowance | indemnité | Zulage | asignación | indennità | subsídio | भत्ता | 津贴 | надбавка | Zouschlag
+commission | commission | Provision | comisión | commissione | comissão | कमीशन | 佣金 | комиссия | Provisioun
+pension | pension de retraite | Rente | pensión | pensione | aposentadoria | पेंशन | 退休金 | пенсия | Pensioun
+equipment | équipement | Ausrüstung | equipo | attrezzatura | equipamento | उपकरण | 设备 | оборудование | Ausrëschtung
+relocation | déménagement | Umzug | reubicación | trasferimento | transferência | स्थानांतरण | 搬迁 | переезд | Ëmzuch
+visa | visa | Visum | visado | visto | visto | वीज़ा | 签证 | виза | Visum
+negotiate | négocier | verhandeln | negociar | negoziare | negociar | मोलभाव करना | 谈判 | переговариваться | verhandelen
+discuss | discuter | besprechen | discutir | discutere | discutir | चर्चा करना | 讨论 | обсуждать | diskutéieren
+agree | être d'accord | zustimmen | estar de acuerdo | essere d'accordo | concordar | सहमत होना | 同意 | соглашаться | zoustëmmen
+sign | signer | unterschreiben | firmar | firmare | assinar | हस्ताक्षर करना | 签署 | подписать | ënnerschreiwen
+accept | accepter | akzeptieren | aceptar | accettare | aceitar | स्वीकार करना | 接受 | принять | akzeptéieren
+decline | refuser | ablehnen | rechazar | rifiutare | recusar | अस्वीकार करना | 拒绝 | отклонить | ofleenen
+request | demander | anfordern | solicitar | richiedere | solicitar | अनुरोध करना | 请求 | запросить | ufroen
+propose | proposer | vorschlagen | proponer | proporre | propor | प्रस्ताव करना | 提出 | предложить | proposéieren
+ask | demander | fragen | preguntar | chiedere | perguntar | पूछना | 问 | спросить | froen
+change | changer | ändern | cambiar | cambiare | mudar | बदलना | 改变 | изменить | änneren
+confirm | confirmer | bestätigen | confirmar | confermare | confirmar | पुष्टि करना | 确认 | подтвердить | confirméieren
+clarify | clarifier | klären | aclarar | chiarire | esclarecer | स्पष्ट करना | 澄清 | уточнить | klären
+compare | comparer | vergleichen | comparar | confrontare | comparar | तुलना करना | 比较 | сравнивать | vergläichen
+check | vérifier | prüfen | comprobar | controllare | verificar | जांचना | 检查 | проверять | kontrolléieren
+consider | considérer | überlegen | considerar | considerare | considerar | विचार करना | 考虑 | рассматривать | iwwerleeën
+adjust | ajuster | anpassen | ajustar | regolare | ajustar | समायोजित करना | 调整 | настраивать | upassen
+complete | terminer | beenden | terminar | finire | terminar | पूरा करना | 完成 | завершать | fäerdeg maachen
+fair | juste | gerecht | justo | giusto | justo | न्यायसंगत | 公平 | справедливый | gerecht
+reasonable | raisonnable | vernünftig | razonable | ragionevole | razoável | उचित | 合理 | разумный | vernënfteg
+flexible | souple | flexibel | flexible | flessibile | flexível | लचीला | 灵活 | гибкий | flexibel
+permanent | permanent | dauerhaft | permanente | permanente | permanente | स्थायी | 永久的 | постоянный | dauerhaft
+temporary | temporaire | vorübergehend | temporal | temporaneo | temporário | अस्थायी | 临时的 | временный | temporär
+remote | lointain | fern | lejano | lontano | distante | दूर | 偏远的 | отдалённый | ofgeleeën
+annual | annuel | jährlich | anual | annuale | anual | वार्षिक | 每年的 | ежегодный | jäerlech
+monthly | mensuel | monatlich | mensual | mensile | mensal | मासिक | 每月的 | ежемесячный | méintlech
+hourly | horaire | stündlich | por hora | orario | por hora | प्रति घंटा | 每小时的 | почасовой | stënnlech
+negotiable | négociable | verhandelbar | negociable | trattabile | negociável | मोलभाव योग्य | 可协商的 | договорной | verhandelbar
+clear | clair | klar | claro | chiaro | claro | स्पष्ट | 清楚的 | ясный | kloer
+job offer | offre d'emploi | Stellenangebot | oferta de trabajo | offerta di lavoro | oferta de emprego | नौकरी का प्रस्ताव | 录用通知 | предложение о работе | Aarbechtsangebot
+base salary | salaire de base | Grundgehalt | salario base | stipendio base | salário base | मूल वेतन | 基本工资 | базовый оклад | Grondgehalt
+notice period | préavis | Kündigungsfrist | período de preaviso | periodo di preavviso | período de aviso prévio | नोटिस अवधि | 通知期 | срок уведомления | Kënnegungsfrist
+starting date | date de début | Eintrittsdatum | fecha de inicio | data di inizio | data de início | प्रारंभ तिथि | 入职日期 | дата начала работы | Ufanksdatum
+probation period | période d'essai | Probezeit | período de prueba | periodo di prova | período de experiência | परिवीक्षा अवधि | 试用期 | испытательный срок | Probatiounszäit
+health insurance | assurance maladie | Krankenversicherung | seguro de salud | assicurazione sanitaria | seguro de saúde | स्वास्थ्य बीमा | 医疗保险 | медицинская страховка | Gesondheetsversécherung
+pay rise | augmentation de salaire | Gehaltserhöhung | aumento de sueldo | aumento di stipendio | aumento de salário | वेतन वृद्धि | 加薪 | повышение зарплаты | Gehaltserhéijung

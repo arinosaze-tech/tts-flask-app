@@ -1,0 +1,65 @@
+breakfast | petit déjeuner | Frühstück | desayuno | colazione | café da manhã | नाश्ता | 早餐 | завтрак
+lunch | déjeuner | Mittagessen | almuerzo | pranzo | almoço | दोपहर का खाना | 午饭 | обед
+dinner | dîner | Abendessen | cena | cena | jantar | रात का खाना | 晚饭 | ужин
+snack | goûter | Imbiss | merienda | spuntino | lanche | नाश्ता | 零食 | перекус
+water | eau | Wasser | agua | acqua | água | पानी | 水 | вода
+coffee | café | Kaffee | café | caffè | café | कॉफ़ी | 咖啡 | кофе
+tea | thé | Tee | té | tè | chá | चाय | 茶 | чай
+juice | jus | Saft | jugo | succo | suco | जूस | 果汁 | сок
+bread | pain | Brot | pan | pane | pão | रोटी | 面包 | хлеб
+egg | oeuf | Ei | huevo | uovo | ovo | अंडा | 鸡蛋 | яйцо
+fruit | fruit | Obst | fruta | frutta | fruta | फल | 水果 | фрукт
+cereal | céréale | Getreide | cereal | cereale | cereal | अनाज | 麦片 | зерно
+milk | lait | Milch | leche | latte | leite | दूध | 牛奶 | молоко
+schedule | horaire | Zeitplan | horario | orario | horário | कार्यक्रम | 时间表 | расписание
+habit | habitude | Gewohnheit | hábito | abitudine | hábito | आदत | 习惯 | привычка
+time | temps | Zeit | tiempo | tempo | tempo | समय | 时间 | время
+morning | matin | Morgen | mañana | mattina | manhã | सुबह | 早上 | утро
+afternoon | après-midi | Nachmittag | tarde | pomeriggio | tarde | दोपहर | 下午 | после полудня
+evening | soir | Abend | noche | sera | noite | शाम | 晚上 | вечер
+night | nuit | Nacht | noche | notte | noite | रात | 夜晚 | ночь
+homework | devoirs | Hausaufgaben | tarea | compito | lição de casa | गृहकार्य | 家庭作业 | домашнее задание
+school | école | Schule | escuela | scuola | escola | स्कूल | 学校 | школа
+study | étudier | studieren | estudiar | studiare | estudar | अध्ययन करना | 学习 | учиться
+work | travailler | arbeiten | trabajar | lavorare | trabalhar | काम करना | 工作 | работать
+exercise | exercice | Übung | ejercicio | esercizio | exercício | व्यायाम | 锻炼 | упражнение
+walk | marcher | gehen | caminar | camminare | andar | चलना | 走 | гулять
+wake up | se réveiller | aufwachen | despertarse | svegliarsi | acordar | उठना | 醒来 | проснуться
+go to bed | se coucher | ins Bett gehen | ir a la cama | andare a letto | ir pra cama | सोना | 上床 | ложиться спать
+brush teeth | se brosser les dents | Zähne putzen | cepillarse los dientes | lavarsi i denti | escovar os dentes | दांत ब्रश करना | 刷牙 | чистить зубы
+take a shower | prendre une douche | duschen | ducharse | fare una doccia | tomar banho | स्नान करना | 洗澡 | принимать душ
+get dressed | s'habiller | sich anziehen | vestirse | vestirsi | vestir | कपड़े पहनना | 穿衣服 | одеваться
+clean | nettoyer | reinigen | limpiar | pulire | limpar | साफ करना | 清理 | убирать
+relax | se détendre | entspannen | relajarse | rilassare | relaxar | आराम करना | 放松 | расслабляться
+watch TV | regarder la télévision | Fernsehen schauen | ver la televisión | guardare la TV | assistir TV | टीवी देखना | 看电视 | смотреть телевизор
+read | lire | lesen | leer | leggere | ler | पढ़ना | 阅读 | читать
+listen | écouter | zuhören | escuchar | ascoltare | ouvir | सुनना | 听 | слушать
+play | jouer | spielen | jugar | giocare | jogar | खेलना | 玩 | играть
+talk | parler | sprechen | hablar | parlare | falar | बात करना | 说 | говорить
+cook | cuisiner | kochen | cocinar | cucinare | cozinhar | खाना बनाना | 做饭 | готовить
+shop | faire du shopping | einkaufen | comprar | fare shopping | fazer compras | खरीदारी करना | 购物 | делать покупки
+meet friends | rencontrer des amis | Freunde treffen | conocer amigos | incontrare amici | encontrar amigos | मिलना दोस्तों | 见朋友 | встречать друзей
+drive | conduire | fahren | conducir | guidare | dirigir | चलाना | 驾驶 | водить
+bicycle | bicyclette | Fahrrad | bicicleta | bicicletta | bicicleta | साइकिल | 自行车 | велосипед
+help | aider | helfen | ayudar | aiutare | ajudar | मदद करना | 帮助 | помогать
+finish | finir | beenden | terminar | finire | acabar | समाप्त करना | 完成 | заканчивать
+start | commencer | anfangen | empezar | iniziare | começar | शुरू करना | 开始 | начинать
+enjoy | apprécier | genießen | disfrutar | godere | desfrutar | आनंद लेना | 享受 | наслаждаться
+busy | occupé | beschäftigt | ocupado | impegnato | ocupado | व्यस्त | 忙碌 | занятый
+happy | heureux | glücklich | feliz | felice | feliz | खुश | 高兴 | счастлив
+tired | fatigué | müde | cansado | stanco | cansado | थका | 疲惫 | уставший
+early | tôt | früh | temprano | presto | cedo | जल्दी | 早 | рано
+late | tard | spät | tarde | tardi | tarde | देर | 晚 | поздно
+quiet | tranquille | ruhig | tranquilo | tranquillo | calmo | शांत | 安静 | тихий
+fun | amusant | Spaß | divertido | divertente | divertido | मजेदार | 有趣 | весело
+simple | simple | einfach | simple | semplice | simples | सरल | 简单 | простой
+important | important | wichtig | importante | importante | importante | महत्वपूर्ण | 重要 | важный
+nice | joli | nett | agradable | carino | bonito | अच्छा | 好 | хороший
+daily | quotidien | täglich | diario | quotidiano | diário | दैनिक | 每日 | ежедневный
+usual | habituel | gewöhnlich | habitual | abituale | usual | सामान्य | 通常 | обычный
+favorite | préféré | Lieblings- | favorito | preferito | favorito | पसंदीदा | 最喜欢的 | любимый
+normal | normal | normal | normal | normale | normal | सामान्य | 正常 | нормальный
+routine | routine | Routine | rutina | routine | rotina | दिनचर्या | 常规 | рутина
+activity | activité | Aktivität | actividad | attività | atividade | गतिविधि | 活动 | деятельность
+break | pause | Pause | descanso | pausa | pausa | ब्रेक | 休息 | перерыв
+rest | se reposer | ausruhen | descansar | riposare | descansar | आराम करना | 休息 | отдыхать

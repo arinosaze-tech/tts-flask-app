@@ -1,0 +1,65 @@
+research | recherche | Forschung | investigación | ricerca | pesquisa | अनुसंधान | 研究 | исследование | Fuerschung
+ethics | éthique | Ethik | ética | etica | ética | नैतिकता | 伦理 | этика | Eethik
+approval | approbation | Genehmigung | aprobación | approvazione | aprovação | अनुमति | 批准 | одобрение | Genehmegung
+committee | comité | Ausschuss | comité | comitato | comissão | समिति | 委员会 | комитет | Komitee
+application | application | Antrag | solicitud | domanda | aplicação | आवेदन | 申请 | заявка | Applikatioun
+protocol | protocole | Protokoll | protocolo | protocollo | protocolo | प्रोटोकॉल | 协议 | протокол | Protokoll
+review | examen | Überprüfung | revisión | revisione | revisão | पुनरावलोकन | 审查 | обзор | Iwwerpréiwung
+guidelines | directives | Richtlinien | pautas | linee guida | diretrizes | दिशा-निर्देश | 指南 | рекомендации | Richtlienien
+participants | participants | Teilnehmer | participantes | partecipanti | participantes | प्रतिभागियों | 参与者 | участники | Teilnehmer
+consent | consentement | Zustimmung | consentimiento | consenso | consentimento | सहमति | 同意 | согласие | Zustimmung
+privacy | vie privée | Privatsphäre | privacidad | privacy | privacidade | गोपनीयता | 隐私 | конфиденциальность | Privatsphäre
+transparency | transparence | Transparenz | transparencia | trasparenza | transparência | पारदर्शिता | 透明度 | прозрачность | Transparenz
+accountability | responsabilité | Verantwortung | rendición de cuentas | responsabilità | responsabilização | जवाबदेही | 问责 | ответственность | Verantwortung
+data | données | Daten | datos | dati | dados | डेटा | 数据 | данные | Daten
+collection | collecte | Sammlung | recolección | raccolta | coleta | संग्रह | 收集 | сбор | Sammlung
+analysis | analyse | Analyse | análisis | analisi | análise | विश्लेषण | 分析 | анализ | Analyse
+approval process | processus d'approbation | Genehmigungsprozess | proceso de aprobación | processo di approvazione | processo de aprovação | स्वीकृति प्रक्रिया | 审批过程 | процесс одобрения | Genehmegungsprozess
+human subjects | sujets humains | menschliche Probanden | sujetos humanos | soggetti umani | sujeitos humanos | मानव विषय | 人体试验 | человеческие субъекты | Mënschlech Subjekter
+risk | risque | Risiko | riesgo | rischio | risco | खतरा | 风险 | риск | Risiko
+benefit | avantage | Nutzen | beneficio | beneficio | benefício | लाभ | 好处 | польза | Virdeel
+confidentiality | confidentialité | Vertraulichkeit | confidencialidad | riservatezza | confidencialidade | गोपनीयता | 保密性 | конфиденциальность | Vertraulichkeet
+misconduct | inconduite | Fehlverhalten | mala conducta | cattiva condotta | má conduta | misconduct | 失职 | проступок | Vergaangenheet
+integrity | intégrité | Integrität | integridad | integrità | integridade | अखंडता | 完整性 | целостность | Integritéit
+responsibility | responsabilité | Verantwortung | responsabilidad | responsabilità | responsabilidade | ज़िम्मेदारी | 责任 | ответственность | Verantwortung
+disclosure | divulgation | Offenlegung | divulgación | divulgazione | divulgação | प्रकटीकरण | 披露 | раскрытие | Offenbarung
+reliability | fiabilité | Zuverlässigkeit | fiabilidad | affidabilità | confiabilidade | विश्वसनीयता | 可靠性 | надежность | Zouverläscht
+validity | validité | Gültigkeit | validez | validità | validade | वैधता | 有效性 | действительность | Gültigkeit
+study design | conception d'étude | Forschungsdesign | diseño de estudio | progettazione dello studio | design de estudo | अध्ययन डिजाइन | 研究设计 | дизайн исследования | Studien-Design
+intervention | intervention | Intervention | intervención | intervento | intervenção | हस्तक्षेप | 干预 | вмешательство | Interventioun
+methodology | méthodologie | Methodologie | metodología | metodologia | metodologia | विध methodology | 方法论 | методология | Methodologie
+variables | variables | Variablen | variables | variabili | variáveis | चर | 变量 | переменные | Variabelen
+sample | échantillon | Probe | muestra | campione | amostra | नमूना | 样本 | выборка | Mënschheit
+population | population | Bevölkerung | población | popolazione | população | जनसंख्या | 人口 | население | Bevëlkerung
+informed consent | consentement éclairé | informierte Zustimmung | consentimiento informado | consenso informato | consentimento informado | सूचित सहमति | 知情同意 | информированное согласие | informéiert Zeechnen
+questionnaire | questionnaire | Fragebogen | cuestionario | questionario | questionário | प्रश्नावली | 问卷 | анкета | Fragenlëscht
+survey | enquête | Umfrage | encuesta | indagine | pesquisa | सर्वेक्षण | 调查 | опрос | Ënquête
+interview | entretien | Interview | entrevista | intervista | entrevista | साक्षात्कार | 面试 | интервью | Gespréich
+results | résultats | Ergebnisse | resultados | risultati | resultados | परिणाम | 结果 | результаты | Resultater
+findings | conclusions | Erkenntnisse | hallazgos | scoperte | descobertas | निष्कर्ष | 发现 | выводы | Conclusiounen
+publication | publication | Veröffentlichung | publicación | pubblicazione | publicação | प्रकाशन | 出版物 | публикация | Publiatioun
+dissemination | diffusion | Verbreitung | difusión | diffusione | difusão | dissemination | 传播 | распространение | Verbreitung
+stakeholder | partie prenante | Interessengruppen | interesado | portatore d'interessi | partes interessadas | हितधारक | 利益相关者 | заинтересованная сторона | Interessent
+collaboration | collaboration | Zusammenarbeit | colaboración | collaborazione | colaboração | सहयोग | 合作 | сотрудничество | Zusammenarbeit
+training | formation | Ausbildung | formación | formazione | treinamento | प्रशिक्षण | 培训 | обучение | Ausbildung
+monitoring | suivi | Überwachung | monitoreo | monitoraggio | monitoramento | निगरानी | 监控 | мониторинг | Überwachung
+feedback | retour | Rückmeldung | retroalimentación | feedback | feedback | फीडबैक | 反馈 | отзыв | Rückmeldung
+complaints | plaintes | Beschwerden | quejas | reclami | reclamações | शिकायतें | 投诉 | жалобы | Beschwerde
+disputes | différends | Streitigkeiten | disputas | controversie | disputas | विवाद | 争议 | споры | Streitfälle
+review board | comité de révision | Prüfungsausschuss | junta de revisión | comitato di revisione | comissão de revisão | समीक्षा बोर्ड | 评审委员会 | ревизионная комиссия | Revisionscomité
+protocol amendment | amendement de protocole | Protokolländerung | enmienda del protocolo | emendamento del protocollo | emenda de protocolo | प्रोटोकॉल संशोधन | 协议修正 | изменение протокола | Protokollännerung
+experiment | expérience | Experiment | experimento | esperimento | experimento | प्रयोग | 实验 | эксперимент | Experiment
+observational | observationnel | beobachtend | observacional | osservativo | observacional | प्रेक्षणात्मक | 观察的 | наблюдательный | Observational
+quantitative | quantitatif | quantitativ | cuantitativo | quantitativo | quantitativo | मात्रात्मक | 定量的 | количественный | Quantitativ
+qualitative | qualitatif | qualitativ | cualitativo | qualitativo | qualitativo | गुणात्मक | 定性 | качественный | Qualitativ
+analysis plan | plan d'analyse | Analyseplan | plan de análisis | piano di analisi | plano de análise | विश्लेषण योजना | 分析计划 | план анализа | Analyseplang
+data protection | protection des données | Datenschutz | protección de datos | protezione dei dati | proteção de dados | डेटा संरक्षण | 数据保护 | защита данных | Datenscéierung
+ethical standards | normes éthiques | ethische Standards | estándares éticos | standard etici | padrões éticos | नैतिक मानक | 伦理标准 | этические нормы | ethesch Norme
+researcher | chercheur | Forscher | investigador | ricercatore | pesquisador | शोधकर्ता | 研究员 | исследователь | Fuerscher
+supervisor | superviseur | Vorgesetzter | supervisor | supervisore | supervisor | पर्यवेक्षक | 监督者 | руководитель | Superviiseur
+institutional | institutionnel | institutionell | institucional | istituzionale | institucional | संस्थागत | 机构的 | институциональный | institutionell
+compliance | conformité | Compliance | cumplimiento | conformità | conformidade | अनुपालन | 合规 | соблюдение | Konformitéit
+safeguards | garanties | Schutzmaßnahmen | salvaguardas | garanzie | salvaguardas | सुरक्षाएँ | 保障措施 | гарантии | Garantien
+criteria | critères | Kriterien | criterios | criteri | critérios | मानदंड | 标准 | критерии | Kriteren
+justification | justification | Rechtfertigung | justificación | giustificazione | justificativa | औचित्य | 理由 | оправдание | Justifikatioun
+outcomes | résultats | Ergebnisse | resultados | risultati | resultados | परिणाम | 结果 | результаты | Ausgänge

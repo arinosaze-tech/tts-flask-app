@@ -1,0 +1,65 @@
+mortgage | hypothèque | Hypothek | hipoteca | mutuo | hipoteca | बंधक | 抵押贷款 | ипотека | Hypothek
+pre-approval | pré-approbation | Vorabgenehmigung | preaprobación | pre-approvazione | pré-aprovação | पूर्व-अनुमोदन | 预批准 | предварительное одобрение | Pre-Approval
+application | demande | Antrag | solicitud | richiesta | aplicação | आवेदन | 申请 | анкета | Applikatioun
+credit score | score de crédit | Kreditwürdigkeit | puntuación de crédito | punteggio di credito | pontuação de crédito | क्रेडिट स्कोर | 信用评分 | кредитный рейтинг | Kredit-Score
+interest rate | taux d'intérêt | Zinssatz | tasa de interés | tasso d'interesse | taxa de juro | ब्याज दर | 利率 | процентная ставка | Zinstaux
+loan amount | montant du prêt | Darlehensbetrag | monto del préstamo | importo del prestito | valor do empréstimo | ऋण राशि | 贷款金额 | сумма займа | Kreditsumme
+down payment | acompte | Anzahlung | pago inicial | pagamento iniziale | entrada | अग्रिम भुगतान | 首付款 | первоначальный взнос | Anzahlung
+monthly payment | paiement mensuel | monatliche Zahlung | pago mensual | pagamento mensile | pagamento mensal | मासिक भुगतान | 月供 | ежемесячный платеж | monatlecht Zahlung
+lender | prêteur | Kreditgeber | prestamista | prestatore | credor | ऋणदाता | 贷方 | кредитор | Lender
+borrower | emprunteur | Darlehensnehmer | prestatario | mutuatario | mutuário | उधारकर्ता | 借款人 | заемщик | Kreditnehmer
+terms | conditions | Bedingungen | términos | condizioni | termos | शर्तें | 条款 | условия | Bedingungen
+collateral | garantie | Sicherheiten | garantía | garanzia | garantia | जमानत | 担保 | залог | Garantie
+equity | capitaux propres | Eigenkapital | capital | capitale | patrimônio | इक्विटी | 股权 | собственный капитал | Eigenkapital
+affordability | abordabilité | Erschwinglichkeit | asequibilidad | accessibilità | acessibilidade | सामर्थ्य | 承受能力 | доступность | Erschwinglichkeit
+debt-to-income | ratio d'endettement | Verschuldungsquote | ratio deuda-ingresos | rapporto debito-reddito | relação dívida-renda | ऋण-से-आय अनुपात | 债务收入比 | соотношение долга к доходу | Schulden-Einkommens-Verhältnis
+financial statement | état financier | Finanzbericht | estado financiero | stato patrimoniale | demonstração financeira | वित्तीय विवरण | 财务报表 | финансовый отчет | Finanzbericht
+documentation | documentation | Dokumentation | documentación | documentazione | documentação | दस्तावेज़ | 文件 | документация | Dokumentatioun
+closing costs | frais de clôture | Abschlusskosten | costos de cierre | spese di chiusura | custos de fechamento | समापन लागत | 结算费用 | затраты на закрытие | Abschlusskäschten
+escrow account | compte séquestre | Treuhandkonto | cuenta de depósito en garantía | conto di deposito | conta de garantia | एस्क्रो खाता | 托管账户 | эскроу-счет | Escrowkonto
+fixed rate | taux fixe | fester Zinssatz | tasa fija | tasso fisso | taxa fixa | निश्चित दर | 固定利率 | фиксированная ставка | fest Zins
+adjustable rate | taux variable | variabler Zinssatz | tasa variable | tasso variabile | taxa variável | परिवर्तनीय दर | 可调利率 | плавающая ставка | variabel Zins
+pre-qualification | pré-qualification | Vorqualifizierung | pre-calificación | pre-qualificazione | pré-qualificação | प्री-क्वालिफ़िकेशन | 预审 | предварительная квалификация | Vorqualifikatioun
+underwriting | souscription | Underwriting | suscripción | sottoscrizione | subscrição | अंडरराइटिंग | 承保 | андеррайтинг | Underwriting
+amortization | amortissement | Amortisierung | amortización | ammortamento | amortização | अमॉर्टिज़ेशन | 摊销 | амортизация | Amortisation
+settlement | règlement | Siedlung | asentamiento | insediamento | assentamento | बस्तियों | 定居 | поселение | Ansiedlung
+real estate | immobilier | Immobilien | bienes raíces | immobili | propriedade | रियल एस्टेट | 房地产 | недвижимость | Immobilie
+property value | valeur de propriété | Immobilienwert | valor de propiedad | valore della proprietà | valor da propriedade | संपत्ति मूल्य | 房产价值 | стоимость недвижимости | Wärt vun der Immobilie
+home inspection | inspection de maison | Wohnungsinspektion | inspección de vivienda | ispezione della casa | inspeção da casa | घर निरीक्षण | 房屋检查 | домашняя проверка | Hausinspektioun
+appraisal | évaluation | Bewertung | tasación | valutazione | avaliação | मूल्यांकन | 评估 | оценка | Bewäertung
+budgeting | budgétisation | Budgetierung | presupuestación | pianificazione del budget | elaboração de orçamento | बजट बनाना | 预算 | составление бюджета | Budgetéierung
+housing market | marché du logement | Immobilienmarkt | mercado de vivienda | mercato immobiliare | mercado imobiliário | आवास बाजार | 住房市场 | рынок жилья | Wunnengsmaart
+property taxes | impôts fonciers | Grundsteuern | impuestos sobre la propiedad | tasse sulla proprietà | impostos sobre propriedades | संपत्ति कर | 物业税 | налог на имущество | Immobilsteier
+insurance | assurance | Versicherung | seguro | assicurazione | seguro | बीमा | 保险 | страховка | Versécherung
+federal guidelines | directives fédérales | bundesstaatliche Richtlinien | directrices federales | linee guida federali | diretrizes federais | संघीय दिशानिर्देश | 联邦指南 | федеральные рекомендации | federal Richtlinien
+bank statement | relevé bancaire | Kontoauszug | extracto bancario | estratto conto | extrato bancário | बैंक स्टेटमेंट | 银行对账单 | выписка из банка | Bankauszug
+savings account | compte d'épargne | Sparkonto | cuenta de ahorros | conto di risparmio | conta poupança | बचत खाता | 储蓄账户 | сберегательный счет | Spardskonto
+income verification | vérification des revenus | Einkommensüberprüfung | verificación de ingresos | verifica del reddito | verificação de renda | आय सत्यापन | 收入验证 | проверка дохода | Einkommensverifizierung
+asset | actif | Vermögen | activo | attivo | ativo | संपत्ति | 资产 | актив | Verméigen
+loan officer | agent de prêt | Kreditnehmer | oficial de préstamos | funzionario prestiti | oficial de crédito | ऋण अधिकारी | 贷款专员 | кредитный офицер | Darlehensoffizéier
+negotiation | négociation | Verhandlung | negociación | negoziazione | negociação | वार्ता | 谈判 | переговоры | Négotiatioun
+default | défaut | Standard | defecto | predefinito | padrão | डिफ़ॉल्ट | 默认 | дефолт | default
+withdrawal | retrait | Abhebung | retiro | prelievo | retirada | निकासी | 取款 | снятие | Rüef
+refinance | refinancer | refinanzieren | refinanciar | rifinanziare | refinanciar | पुनर्वित्त | 再融资 | рефинансировать | refinanzéieren
+credit history | historique de crédit | Kreditgeschichte | historial de crédito | storia creditizia | histórico de crédito | क्रेडिट इतिहास | 信用历史 | кредитная история | Kredithistorie
+fees | frais | Gebühren | tarifas | spese | taxas | शुल्क | 费用 | сборы | Käschten
+initial payment | paiement initial | Anfangszahlung | pago inicial | pagamento iniziale | pagamento inicial | प्रारंभिक भुगतान | 初付款 | первоначальный платеж | initial Bezahlung
+fixed mortgage | prêt fixe | Festhypothek | hipoteca fija | mutuo fisso | hipoteca fixa | निश्चित बंधक | 固定抵押 | фиксированная ипотека | fest Hypothek
+open mortgage | hypothèque ouverte | offene Hypothek | hipoteca abierta | mutuo aperto | hipoteca aberta | खुला बंधक | 开放抵押 | открытая ипотека | offe Hypothek
+secured loan | prêt sécurisé | gesicherter Kredit | préstamo garantizado | prestito garantito | empréstimo garantido | सुरक्षित ऋण | 担保贷款 | защищенный заем | gesécherten Dënscht
+unscrupulous lender | prêteur sans scrupules | skrupelloser Kreditgeber | prestamista sin escrúpulos | prestatore senza scrupoli | credor inescrupuloso | बेईमान ऋणदाता | 不择手段的贷款人 | недобросовестный кредитор | skrupuleg Kreditgeber
+loan term | durée du prêt | Darlehenslaufzeit | plazo del préstamo | durata del prestito | prazo do empréstimo | ऋण अवधि | 贷款期限 | срок займа | Duerch vum Kredit
+first-time buyer | primo acheteur | Ersterwerber | comprador por primera vez | acquirente alla prima casa | comprador de primeira viagem | पहली बार खरीदार | 首次购房者 | покупатель впервые | éischte Kaf
+closing date | date de clôture | Abschlussdatum | fecha de cierre | data di chiusura | data de fechamento | समापन तिथि | 闭合日期 | дата закрытия | Ofschlossdatum
+payment schedule | calendrier de paiement | Zahlungsplan | calendario de pagos | piano di pagamento | cronograma de pagamentos | भुगतान कार्यक्रम | 付款计划 | график платежей | Zuelhëfplang
+financial planning | planification financière | Finanzplanung | planificación financiera | pianificazione finanziaria | planejamento financeiro | वित्तीय योजना | 财务规划 | финансовое планирование | finanziell Planung
+interest only | remboursement d'intérêts uniquement | nur Zinsen | solo intereses | solo interessi | apenas juros | केवल ब्याज | 仅付利息 | только проценты | nëmmen Zinsen
+variable interest | intérêt variable | variable Zinssatz | interés variable | tasso variabile | juro variável | परिवर्तनीय ब्याज | 可变利率 | переменная ставка | variabel Zins
+mortgage broker | courtier hypothécaire | Hypothekenmakler | corredor de hipotecas | mediatore ipotecario | corretor de hipoteca | बंधक ब्रोकर | 抵押贷款经纪人 | ипотечный брокер | Hypotheker Broker
+homebuyer | acheteur de maison | Hauseigentümer | comprador de vivienda | acquirente di casa | comprador de casa | घर खरीदने वाला | 买房者 | покупатель дома | Hauskäufer
+loan agreement | contrat de prêt | Darlehensvertrag | contrato de préstamo | contratto di prestito | contrato de empréstimo | ऋण अनुबंध | 贷款协议 | кредитное соглашение | Doudlehensvertrag
+settlement statement | état de règlement | Abschlussrechnung | estado de liquidación | dichiarazione di liquidazione | declaração de liquidação | निपटान विवरण | 结算说明 | расчетный список | Ofschlossstaat
+cash reserves | réserves de trésorerie | Bargeldreserven | reservas de efectivo | riserve di liquidità | reservas de caixa | नकद आरक्षित | 现金储备 | денежные резервы | Bäichreserv
+risk assessment | évaluation des risques | Risikobewertung | evaluación de riesgos | valutazione del rischio | avaliação de riscos | जोखिम मूल्यांकन | 风险评估 | оценка рисков | Risiikbewäertung
+repayment plan | plan de remboursement | Rückzahlungsplan | plan de reembolso | piano di rimborso | plano de pagamento | पुनर्भुगतान योजना | 还款计划 | план погашения | Remboursplan
+financial advisor | conseiller financier | Finanzberater | asesor financiero | consulente finanziario | consultor financeiro | वित्तीय सलाहकार | 财务顾问 | финансовый консультант | finansielle Berater

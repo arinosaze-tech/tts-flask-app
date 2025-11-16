@@ -1,0 +1,65 @@
+passport | passeport | Reisepass | pasaporte | passaporto | passaporte | पासपोर्ट | 护照 | паспорт | Pass
+lose | perdre | verlieren | perder | perdere | perder | खोना | 失去 | терять | verléieren
+report | rapport | Bericht | informe | rapporto | relatório | रिपोर्ट | 报告 | отчет | Bericht
+procedure | procédure | Verfahren | procedimiento | procedura | procedimento | प्रक्रिया | 程序 | процедура | Prozedur
+application | demande | Antrag | solicitud | domanda | aplicação | आवेदन | 申请 | заявка | Uwendung
+identity | identité | Identität | identidad | identità | identidade | पहचान | 身份 | идентичность | Identitéit
+travel | voyager | reisen | viajar | viaggiare | viajar | यात्रा | 旅行 | путешествовать | Rees
+emergency | urgence | Notfall | emergencia | emergenza | emergência | आपातकाल | 紧急情况 | экстренная ситуация | Nohilf
+identify | identifier | identifizieren | identificar | identificare | identificar | पहचानना | 识别 | идентифицировать | identifizieren
+official | officiel | offiziell | oficial | ufficiale | oficial | आधिकारिक | 官方 | официальный | offiziell
+document | document | Dokument | documento | documento | documento | दस्तावेज़ | 文档 | документ | Dokument
+photo | photo | Foto | foto | foto | foto | फोटो | 照片 | фото | Foto
+form | formulaire | Formular | formulario | modulo | formulário | फॉर्म | 表格 | форма | Formular
+fee | frais | Gebühr | tarifa | tassa | taxa | शुल्क | 费用 | сбор | Gebühr
+government | gouvernement | Regierung | gobierno | governo | governo | सरकार | 政府 | правительство | Regierung
+embassy | ambassade | Botschaft | embajada | ambasciata | embaixada | दूतावास | 大使馆 | посольство | Botschaft
+consulate | consulat | Konsulat | consulado | consolato | consulado | वाणिज्य दूतावास | 领事馆 | консульство | Konsulant
+validation | validation | Validierung | validación | validazione | validação | प्रमाणीकरण | 验证 | валидация | Validatioun
+status | statut | Status | estado | stato | status | स्थिति | 状态 | статус | Status
+renew | renouveler | erneuern | renovar | rinnovare | renovar | नवीकरण करना | 更新 | обновить | Erneieren
+replace | remplacer | ersetzen | reemplazar | sostituire | substituir | प्रतिस्थापित करना | 替换 | заменить | Ersetzen
+traveling | voyager | reisen | viajar | viaggiare | viajar | यात्रा करना | 旅行 | путешествовать | Reesen
+notification | notification | Benachrichtigung | notificación | notifica | notificação | सूचना | 通知 | уведомление | Benotizing
+support | soutenir | unterstützen | apoyar | sostenere | apoiar | समर्थन करना | 支持 | поддержка | Ënnerstëtzen
+investigation | enquête | Untersuchung | investigación | indagine | investigação | जांच | 调查 | расследование | Untersuchung
+authority | autorité | Autorität | autoridad | autorità | autoridade | अधिकार | 权威 | власть | Autoritéit
+appointment | rendez-vous | Termin | cita | appuntamento | compromisso | नियुक्ति | 预约 | встреча | Rendez-vous
+evidence | preuve | Beweis | evidencia | prova | evidência | साक्ष्य | 证据 | доказательство | Beweis
+situation | situation | Situation | situación | situazione | situação | स्थिति | 情况 | ситуация | Situatioun
+checklist | liste de contrôle | Prüfungsbogen | lista de verificación | lista di controllo | lista de verificação | चेकलिस्ट | 清单 | контрольный список | Kontrolllëscht
+information | information | Information | información | informazione | informação | जानकारी | 信息 | информация | Informatioun
+guidelines | directives | Richtlinien | pautas | linee guida | diretrizes | दिशा-निर्देश | 指南 | рекомендации | Richtlinien
+handbook | manuel | Handbuch | manual | libro de instrucciones | manuale | manual | 使用手册 | руководство | Handbuch
+insurance | assurance | Versicherung | seguro | assicurazione | seguro | बीमा | 保险 | страховка | Versécherung
+entry | entrée | Eintritt | entrada | ingresso | entrada | प्रवेश | 入口 | вход | Entrée
+exit | sortie | Ausgang | salida | uscita | saída | निकास | 出口 | выход | Ausgang
+requirement | exigence | Anforderung | requisito | requisito | requisito | आवश्यकता | 要求 | требование | Uforderung
+process | processus | Prozess | proceso | processo | processo | प्रक्रिया | 过程 | процесс | Prozess
+signature | signature | Unterschrift | firma | firma | assinatura | हस्ताक्षर | 签名 | подпись | Unterschriëft
+seal | sceau | Siegel | sello | sigillo | selo | मुहर | 印章 | печать | Siegel
+stamp | timbre | Briefmarke | estampilla | francobollo | selo | डाक टिकट | 邮票 | марка | Briefmark
+contact | contact | Kontakt | contacto | contatto | contato | संपर्क | 联系 | контакт | Kontakt
+timeline | chronologie | Zeitleiste | línea de tiempo | linea del tempo | linha do tempo | समयरेखा | 时间线 | временная шкала | Zeitstrahl
+collection | collection | Sammlung | colección | collezione | coleção | संग्रह | 收集 | коллекция | Sammlung
+authorization | autorisation | Genehmigung | autorización | autorizzazione | autorização | अनुमति | 授权 | авторизация | Genehmigung
+verification | vérification | Überprüfung | verificación | verifica | verificação | सत्यापन | 验证 | проверка | Überprüfung
+photo ID | pièce d'identité | Lichtbildausweis | identificación con foto | documento d'identità | documento de identidade | फोटो पहचान पत्र | 照片身份证 | удостоверение личности | Fotoausweis
+date | date | Datum | fecha | data | data | तारीख | 日期 | дата | Datum
+country | pays | Land | país | paese | país | देश | 国家 | страна | Land
+location | emplacement | Standort | ubicación | posizione | localização | स्थान | 位置 | местоположение | Plaz
+policy | politique | Politik | política | politica | política | नीति | 政策 | политика | Politik
+details | détails | Einzelheiten | detalles | dettagli | detalhes | विवरण | 细节 | детали | Einzelheeten
+advice | conseil | Rat | consejo | consiglio | conselho | सलाह | 建议 | совет | Rotschléi
+procedure | procédure | Verfahren | procedimiento | procedura | procedimento | प्रक्रिया | 程序 | процедура | Prozedur
+instructions | instructions | Anweisungen | instrucciones | istruzioni | instruções | निर्देश | 指示 | инструкции | Instruktioune
+help | aide | Hilfe | ayuda | aiuto | ajuda | मदद | 帮助 | помощь | Hëllef
+question | question | Frage | pregunta | domanda | pergunta | प्रश्न | 问题 | вопрос | Frage
+statement | déclaration | Aussage | declaración | dichiarazione | declaração | बयान | 声明 | заявление | Erklärung
+response | réponse | Antwort | respuesta | risposta | resposta | उत्तर | 回应 | ответ | Antwort
+resolution | résolution | Lösung | resolución | risoluzione | resolução | समाधान | 解决 | разрешение | Lösung
+step | étape | Schritt | paso | passo | passo | कदम | 步骤 | шаг | Schritt
+protocol | protocole | Protokoll | protocolo | protocollo | protocolo | प्रोटोकॉल | 协议 | протокол | Protokoll
+confirmation | confirmation | Bestätigung | confirmación | conferma | confirmação | पुष्टि | 确认 | подтверждение | Bestätigung
+assistance | assistance | assistance | asistencia | assistenza | assistência | सहायता | 协助 | помощь | Hilfe
+agent | agent | Agent | agente | agente | agente | एजेंट | 代理 | агент | Agent

@@ -1,0 +1,55 @@
+feedback | retour | Feedback | comentario | feedback | feedback | फीडबैक | 反馈 | обратная связь | Feedback
+progress | progrès | Fortschritt | progreso | progresso | progresso | प्रगति | 进展 | прогресс | Fortschrëtt
+strength | force | Stärke | fortaleza | punto di forza | ponto forte | ताकत | 优点 | сильная сторона | Stäerkt
+weakness | faiblesse | Schwäche | debilidad | punto debole | ponto fraco | कमजोरी | 弱点 | слабая сторона | Schwächt
+performance | performance | Leistung | desempeño | prestazione | desempenho | प्रदर्शन | 表现 | эффективность | Leeschtung
+target | objectif | Ziel | objetivo | obiettivo | meta | लक्ष्य | 目标 | цель | Zil
+deadline | date limite | Frist | fecha límite | scadenza | prazo | समय सीमा | 截止日期 | крайний срок | Frist
+task | tâche | Aufgabe | tarea | compito | tarefa | कार्य | 任务 | задача | Aufgab
+role | rôle | Rolle | rol | ruolo | papel | भूमिका | 角色 | роль | Roll
+manager | responsable | Manager | gerente | responsabile | gerente | प्रबंधक | 经理 | менеджер | Manager
+employee | employé | Mitarbeiter | empleado | dipendente | funcionário | कर्मचारी | 员工 | сотрудник | Mataarbechter
+team | équipe | Team | equipo | squadra | equipe | टीम | 团队 | команда | Ekipp
+training | formation | Schulung | formación | formazione | formação | प्रशिक्षण | 培训 | обучение | Formatioun
+skill | compétence | Fähigkeit | habilidad | abilità | habilidade | कौशल | 技能 | навык | Fäegkeet
+result | résultat | Ergebnis | resultado | risultato | resultado | परिणाम | 结果 | результат | Resultat
+issue | problème | Problem | problema | problema | problema | समस्या | 问题 | проблема | Problem
+concern | préoccupation | Sorge | preocupación | preoccupazione | preocupação | चिंता | 担心 | беспокойство | Suerg
+attendance | présence | Anwesenheit | asistencia | presenza | presença | उपस्थिति | 出席 | присутствие | Presenz
+punctuality | ponctualité | Pünktlichkeit | puntualidad | puntualità | pontualidade | समयपालन | 守时 | пунктуальность | Pünktlechkeet
+attitude | attitude | Einstellung | actitud | atteggiamento | atitude | रवैया | 态度 | отношение | Astellung
+behavior | comportement | Verhalten | comportamiento | comportamento | comportamento | व्यवहार | 行为 | поведение | Verhalen
+improvement | amélioration | Verbesserung | mejora | miglioramento | melhoria | सुधार | 改进 | улучшение | Verbesserung
+discuss | discuter | besprechen | discutir | discutere | discutir | चर्चा करना | 讨论 | обсуждать | diskutéieren
+agree | être d'accord | zustimmen | estar de acuerdo | essere d'accordo | concordar | सहमत होना | 同意 | соглашаться | zoustëmmen
+set | fixer | festlegen | establecer | stabilire | definir | निर्धारित करना | 设定 | установить | festleeën
+plan | planifier | planen | planear | pianificare | planejar | योजना बनाना | 计划 | планировать | plangen
+achieve | atteindre | erreichen | lograr | raggiungere | alcançar | हासिल करना | 实现 | достичь | erreechen
+improve | améliorer | verbessern | mejorar | migliorare | melhorar | सुधारना | 改进 | улучшить | verbesseren
+perform | effectuer | durchführen | realizar | eseguire | realizar | करना | 执行 | выполнять | ausféieren
+meet | rencontrer | treffen | conocer | incontrare | conhecer | मिलना | 见面 | встречаться | begéinen
+listen | écouter | zuhören | escuchar | ascoltare | escutar | सुनना | 听 | слушать | nolauschteren
+communicate | communiquer | kommunizieren | comunicar | comunicare | comunicar | संचार करना | 沟通 | общаться | kommunizéieren
+clarify | clarifier | klären | aclarar | chiarire | esclarecer | स्पष्ट करना | 澄清 | уточнить | kloerstellen
+confirm | confirmer | bestätigen | confirmar | confermare | confirmar | पुष्टि करना | 确认 | подтвердить | bestätegen
+prepare | préparer | vorbereiten | preparar | preparare | preparar | तैयार करना | 准备 | подготовить | virbereeden
+complete | terminer | abschließen | terminar | terminare | terminar | पूरा करना | 完成 | завершить | ofschléissen
+check | vérifier | prüfen | comprobar | controllare | verificar | जांचना | 检查 | проверить | kontrolléieren
+extend | prolonger | verlängern | prolongar | prolungare | prolongar | बढ़ाना | 延长 | продлить | verlängeren
+clear | clair | klar | claro | chiaro | claro | स्पष्ट | 清楚 | ясный | kloer
+fair | juste | gerecht | justo | giusto | justo | न्यायसंगत | 公平 | справедливый | gerecht
+honest | honnête | ehrlich | honesto | onesto | honesto | ईमानदार | 诚实 | честный | éierlech
+timely | opportun | rechtzeitig | oportuno | tempestivo | oportuno | समय पर | 及时 | своевременный | rechtzäiteg
+positive | positif | positiv | positivo | positivo | positivo | सकारात्मक | 积极 | положительный | positiv
+negative | négatif | negativ | negativo | negativo | negativo | नकारात्मक | 消极 | отрицательный | negativ
+constructive | constructif | konstruktiv | constructivo | costruttivo | construtivo | रचनात्मक | 建设性 | конструктивный | konstruktiv
+achievable | réalisable | erreichbar | alcanzable | raggiungibile | atingível | साध्य | 可实现 | достижимый | erreechbar
+realistic | réaliste | realistisch | realista | realistico | realista | यथार्थवादी | 现实的 | реалистичный | realistesch
+specific | précis | konkret | específico | specifico | específico | विशिष्ट | 具体 | конкретный | konkret
+supportive | bienveillant | unterstützend | solidario | solidale | solidário | सहायक | 支持的 | поддерживающий | ënnerstëtzend
+probation review | bilan de période d'essai | Probezeitbeurteilung | evaluación del período de prueba | valutazione del periodo di prova | avaliação do período de experiência | परिवीक्षा अवधि की समीक्षा | 试用期评估 | оценка испытательного срока | Bewäertung vun der Probezäit
+probation meeting | entretien de période d'essai | Probezeitgespräch | reunión del período de prueba | colloquio del periodo di prova | reunião do período de experiência | परिवीक्षा बैठक | 试用期面谈 | встреча по испытательному сроку | Gespréich an der Probezäit
+probation period | période d'essai | Probezeit | período de prueba | periodo di prova | período de experiência | परिवीक्षा अवधि | 试用期 | испытательный срок | Probezäit
+action plan | plan d'action | Aktionsplan | plan de acción | piano d'azione | plano de ação | कार्य योजना | 行动计划 | план действий | Aktiounsplang
+performance goal | objectif de performance | Leistungsziel | objetivo de desempeño | obiettivo di rendimento | meta de desempenho | प्रदर्शन लक्ष्य | 绩效目标 | цель по производительности | Leeschtungszil
+meeting agenda | ordre du jour | Tagesordnung | orden del día | ordine del giorno | agenda da reunião | बैठक की कार्यसूची | 会议议程 | повестка встречи | Dagesuerdnung

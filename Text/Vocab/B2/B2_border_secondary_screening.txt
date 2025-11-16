@@ -1,0 +1,65 @@
+screening | dépistage | Screening | cribado | screening | triagem | जांच | 筛查 | скрининг | Screening
+border | frontière | Grenze | frontera | confine | fronteira | सीमा | 边界 | граница | Grenz
+customs | douane | Zoll | aduana | dogana | alfândega | कस्टम | 海关 | таможня | Zoll
+security | sécurité | Sicherheit | seguridad | sicurezza | segurança | सुरक्षा | 安全 | безопасность | Sécherheit
+check | vérifier | überprüfen | comprobar | controllare | verificar | चेक | 检查 | проверка | Kontroll
+passport | passeport | Reisepass | pasaporte | passaporto | passaporte | पासपोर्ट | 护照 | паспорт | Pass
+identity | identité | Identität | identidad | identità | identidade | पहचान | 身份 | личность | Identitéit
+document | document | Dokument | documento | documento | documento | दस्तावेज | 文件 | документ | Dokument
+procedure | procédure | Verfahren | procedimiento | procedura | procedimento | प्रक्रिया | 程序 | процедура | Prozedur
+inspect | inspecter | inspizieren | inspeccionar | ispezionare | inspecionar | निरीक्षण करना | 检查 | проверять | ënspektéieren
+contraband | contrebande | Schmuggelware | contrabando | beni importati | contrabando | तस्करी | 走私 | контрабанда | Schmuël
+baggage | bagages | Gepäck | equipaje | bagaglio | bagagem | सामान | 行李 | багаж | Gepäck
+official | officiel | offiziell | oficial | ufficiale | oficial | आधिकारिक | 官方 | официальный | offiziell
+formality | formalité | Formalität | formalidad | formalità | formalidade | औपचारिकता | 形式 | формальность | Formalitéit
+approval | approbation | Genehmigung | aprobación | approvazione | aprovação | स्वीकृति | 批准 | одобрение | Genehmegung
+interview | entretien | Interview | entrevista | colloquio | entrevista | साक्षात्कार | 面试 | интервью | Interviww
+question | question | Frage | pregunta | domanda | pergunta | प्रश्न | 问题 | вопрос | Frooper
+passenger | passager | Passagier | pasajero | passeggero | passageiro | यात्री | 乘客 | пассажир | Passagéier
+travel | voyager | reisen | viajar | viaggiare | viajar | यात्रा करना | 旅行 | путешествовать | Reesen
+void | vide | leer | vacío | vuoto | vazio | शून्य | 空 | пустота | Leer
+detain | détenir | festnehmen | detener | trattenere | deter | रोकना | 拘留 | задерживать | Festhalen
+examine | examiner | untersuchen | examinar | esaminare | examinar | जांचना | 检查 | исследовать | Uewerpréiwen
+authorization | autorisation | Genehmigung | autorización | autorizzazione | autorização | अधिकृत करना | 授权 | разрешение | Autorisatioun
+measure | mesurer | messen | medir | misurare | medir | मापना | 测量 | измерять | Mëspraangen
+checkpoints | points de contrôle | Kontrollpunkte | puntos de control | punti di controllo | pontos de controle | चेकपॉइंट्स | 检查点 | контрольные точки | Kontrollpunkt
+surveillance | surveillance | Überwachung | vigilancia | sorveglianza | vigilância | निगरानी | 监视 | наблюдение | Überwachung
+interaction | interaction | Interaktion | interacción | interazione | interação | इंटरएक्शन | 互动 | взаимодействие | Interaktion
+delay | délai | Verzögerung | retraso | ritardo | atraso | देरी | 延迟 | задержка | Verzögerung
+entry | entrée | Eintritt | entrada | ingresso | entrada | प्रवेश | 入口 | вход | Entrée
+clearance | autorisation | Genehmigung | autorización | autorizzazione | autorização | मंजूरी | 批准 | разрешение | Genehmigung
+alert | alerte | Alarm | alerta | allerta | alerta | चेतावनी | 警报 | сигнализация | Alarm
+violation | violation | Verletzung | violación | violazione | violação | उल्लंघन | 违反 | нарушение | Verletzung
+process | processus | Prozess | proceso | processo | processo | प्रक्रिया | 过程 | процесс | Prozess
+regulation | réglementation | Regelung | regulación | regolamento | regulação | नियम | 规则 | регулирование | Regulatioun
+agent | agent | Agent | agente | agente | agente | एजेंट | 代理 | агент | Agent
+suspicion | suspicion | Verdacht | sospecha | sospetto | suspeita | संदेह | 怀疑 | подозрение | Suspicion
+contradict | contredire | widersprechen | contradecir | contraddire | contradizer | विरोध करना | 反驳 | противоречить | widderstoen
+proceed | procéder | fortfahren | proceder | procedere | prosseguir | आगे बढ़ना | 进行 | продолжать | weiderfueren
+confirm | confirmer | bestätigen | confirmar | confermare | confirmar | पुष्टि करना | 确认 | подтверждать | bestätegen
+report | rapport | Bericht | informe | rapporto | relatório | रिपोर्ट | 报告 | отчет | Rapport
+alertness | vigilance | Wachsamkeit | alerta | vigilancia | alerta | सतर्कता | 警觉 | бдительность | Wachsamkeet
+pass | bestehen | bestehen | pasar | superare | passar | पास करना | 通过 | пройти | bestehen
+protocol | protokol | Protokoll | protocolo | protocollo | protocolo | प्रोटोकॉल | 协议 | протокол | Protokoll
+guideline | ligne directrice | Leitfaden | directriz | linea guida | diretriz | मार्गदर्शक | 指导方针 | руководство | Richtlijn
+profile | profil | Profil | perfil | profilo | perfil | प्रोफ़ाइल | 轮廓 | профиль | Profil
+evidence | preuve | Beweis | evidencia | prova | evidência | सबूत | 证据 | доказательство | Beweis
+entryway | entrée | Eingangsweg | entrada | ingresso | entrada | प्रवेशद्वार | 入口 | вход | Entrée
+compliance | conformité | Einhaltung | cumplimiento | conformità | conformidade | अनुपालन | 遵从 | соблюдение | Konformitéit
+identification | identification | Identifizierung | identificación | identificazione | identificação | पहचान | 识别 | идентификация | Identifikatioun
+authorization | autorisation | Autorisierung | autorización | autorizzazione | autorização | प्राधिकरण | 授权 | авторизация | Autorisatioun
+detector | détecteur | Detektor | detector | rivelatore | detector | डिटेक्टर | 探测器 | детектор | Detektor
+inspect | inspecter | inspizieren | inspeccionar | ispezionare | inspecionar | निरीक्षण करना | 检查 | инспектировать | Inspektéieren
+search | chercher | suchen | buscar | cercare | procurar | खोजना | 搜索 | искать | Sich
+inquiry | enquête | Anfrage | consulta | indagine | inquérito | जांच | 查询 | запрос | Ufro
+verification | vérification | Verifizierung | verificación | verifica | verificação | सत्यापन | 验证 | проверка | Verifizéierung
+procedure | procédure | Verfahren | procedimiento | procedura | procedimento | प्रक्रिया | 程序 | процедура | Prozedur
+queue | file d'attente | Warteschlange | cola | fila | fila | कतार | 排队 | очередь | Warteschluss
+route | itinéraire | Route | ruta | percorso | rota | मार्ग | 路线 | маршрут | Strooss
+passenger | passager | Passagier | pasajero | passeggero | passageiro | यात्री | 乘客 | пассажир | Passagéier
+risk | risque | Risiko | riesgo | rischio | risco | जोखिम | 风险 | риск | Risiko
+travel | voyager | reisen | viajar | viaggiare | viajar | यात्रा करना | 旅行 | путешествовать | Reesen
+exit | sortie | Ausgang | salida | uscita | saída | निकासी | 出口 | выход | Ausgang
+screen | écran | Bildschirm | pantalla | schermo | tela | स्क्रीन | 屏幕 | экран | Bildschier
+customer | client | Kunde | cliente | cliente | cliente | ग्राहक | 顾客 | клиент | Klient
+wait | attendre | warten | esperar | aspettare | esperar | इंतज़ार करना | 等待 | ждать | waarden

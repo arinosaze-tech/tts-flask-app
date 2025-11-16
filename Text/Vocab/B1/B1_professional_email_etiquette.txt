@@ -1,0 +1,55 @@
+email | email | E-Mail | correo electrónico | email | e-mail | ईमेल | 电子邮件 | электронная почта | E-Mail
+subject line | objet | Betreffzeile | asunto | oggetto | assunto | विषय | 主题 | тема | Betreff
+greeting | salutation | Anrede | saludo | saluto | saudação | अभिवादन | 问候 | приветствие | Begréissung
+closing | formule de politesse | Grußformel | despedida | chiusura | despedida | समापन | 结束语 | прощание | Ofschloss
+email signature | signature d'email | E-Mail-Signatur | firma de correo | firma email | assinatura de e-mail | ईमेल हस्ताक्षर | 邮件签名 | подпись в электронной почте | E-Mail-Signatur
+attachment | pièce jointe | Anhang | adjunto | allegato | anexo | संलग्नक | 附件 | вложение | Uschloss
+recipient | destinataire | Empfänger | destinatario | destinatario | destinatário | प्राप्तकर्ता | 收件人 | получатель | Empfänger
+sender | expéditeur | Absender | remitente | mittente | remetente | प्रेषक | 发件人 | отправитель | Verschécker
+inbox | boîte de réception | Posteingang | bandeja de entrada | posta in arrivo | caixa de entrada | इनबॉक्स | 收件箱 | входящие | Inbox
+draft | brouillon | Entwurf | borrador | bozza | rascunho | मसौदा | 草稿 | черновик | Brouillon
+deadline | date limite | Frist | fecha límite | scadenza | prazo | समय सीमा | 截止日期 | крайний срок | Frist
+meeting | réunion | Besprechung | reunión | riunione | reunião | बैठक | 会议 | встреча | Reunioun
+reminder | rappel | Erinnerung | recordatorio | promemoria | lembrete | रिमाइंडर | 提醒 | напоминание | Erënnerung
+feedback | retour | Rückmeldung | comentario | commento | comentário | प्रतिक्रिया | 反馈 | обратная связь | Réckmeldung
+issue | problème | Problem | problema | problema | problema | समस्या | 问题 | проблема | Problem
+availability | disponibilité | Verfügbarkeit | disponibilidad | disponibilità | disponibilidade | उपलब्धता | 空闲时间 | доступность | Verfügbarkeet
+error | erreur | Fehler | error | errore | erro | गलती | 错误 | ошибка | Feeler
+policy | politique | Richtlinie | política | politica | política | नीति | 政策 | политика | Richtlinn
+client | client | Kunde | cliente | cliente | cliente | ग्राहक | 客户 | клиент | Client
+email thread | fil d’e-mails | E-Mail-Verlauf | hilo de correo | conversazione email | conversa de e-mail | ईमेल थ्रेड | 邮件会话 | цепочка писем | E-Mail-Fuedem
+cc field | champ Cc | CC-Feld | campo CC | campo CC | campo Cc | सीसी फ़ील्ड | 抄送栏 | поле Копия | CC-Feld
+bcc field | champ Cci | BCC-Feld | campo CCO | campo Ccn | campo Cco | बीसीसी फ़ील्ड | 密送栏 | поле Скрытая копия | BCC-Feld
+time zone | fuseau horaire | Zeitzone | zona horaria | fuso orario | fuso horário | समय क्षेत्र | 时区 | часовой пояс | Zäitzon
+tone | ton | Ton | tono | tono | tom | लहजा | 语气 | тон | Toun
+courtesy | politesse | Höflichkeit | cortesía | cortesia | cortesia | शिष्टाचार | 礼貌 | вежливость | Héiflechkeet
+write | écrire | schreiben | escribir | scrivere | escrever | लिखना | 写 | писать | schreiwen
+send | envoyer | senden | enviar | inviare | enviar | भेजना | 发送 | отправить | schécken
+receive | recevoir | empfangen | recibir | ricevere | receber | प्राप्त करना | 收到 | получить | kréien
+reply | répondre | antworten | responder | rispondere | responder | जवाब देना | 回复 | ответить | äntweren
+reply all | répondre à tous | allen antworten | responder a todos | rispondere a tutti | responder a todos | सभी को जवाब देना | 回复全部 | ответить всем | all äntweren
+forward | transférer | weiterleiten | reenviar | inoltrare | encaminhar | आगे भेजना | 转发 | переслать | weiderleeden
+attach | joindre | anhängen | adjuntar | allegare | anexar | संलग्न करना | 附上 | прикрепить | bäifügen
+review | examiner | durchsehen | revisar | rivedere | revisar | समीक्षा करना | 查看 | просмотреть | iwwerpréiwen
+check | vérifier | prüfen | comprobar | controllare | verificar | जांचना | 检查 | проверить | iwwerpréiwen
+confirm | confirmer | bestätigen | confirmar | confermare | confirmar | पुष्टि करना | 确认 | подтвердить | confirméieren
+ask | demander | fragen | preguntar | chiedere | perguntar | पूछना | 问 | спросить | froen
+follow up | relancer | nachfragen | hacer un seguimiento | fare seguito | dar seguimento | फॉलो-अप करना | 跟进 | связаться повторно | nohaken
+apologize | s'excuser | sich entschuldigen | disculparse | scusarsi | pedir desculpas | माफी माँगना | 道歉 | извиниться | sech entschëllegen
+clarify | préciser | klären | aclarar | chiarire | esclarecer | स्पष्ट करना | 澄清 | уточнить | klären
+explain | expliquer | erklären | explicar | spiegare | explicar | समझाना | 解释 | объяснить | erklären
+remind | rappeler | erinnern | recordar | ricordare | lembrar | याद दिलाना | 提醒 | напоминать | erënneren
+schedule | horaire | Zeitplan | horario | orario | horário | समय सारणी | 时间表 | расписание | zäitplang
+format | format | Format | formato | formato | formato | प्रारूप | 格式 | формат | format
+polite | poli | höflich | educado | gentile | educado | विनम्र | 有礼貌 | вежливый | höflech
+clear | clair | klar | claro | chiaro | claro | स्पष्ट | 清楚 | ясный | kloer
+concise | concis | knapp | conciso | conciso | conciso | संक्षिप्त | 简洁 | краткий | kuerz
+formal | formel | formell | formal | formale | formal | औपचारिक | 正式 | официальный | formell
+professional | professionnel | professionell | profesional | professionale | profissional | पेशेवर | 专业 | профессиональный | professionell
+respectful | respectueux | respektvoll | respetuoso | rispettoso | respeitoso | सम्मानजनक | 恭敬的 | уважительный | respektvoll
+friendly | amical | freundlich | amigable | amichevole | amigável | दोस्ताना | 友好的 | дружелюбный | frëndlech
+urgent | urgent | dringend | urgente | urgente | urgente | तत्काल | 紧急的 | срочный | dréngend
+important | important | wichtig | importante | importante | importante | महत्वपूर्ण | 重要的 | важный | wichteg
+helpful | utile | hilfreich | útil | utile | útil | मददगार | 有帮助的 | полезный | hëllefräich
+appropriate | approprié | angemessen | adecuado | appropriato | adequado | उचित | 合适的 | уместный | passend
+neutral | neutre | neutral | neutro | neutrale | neutro | तटस्थ | 中立的 | нейтральный | neutral

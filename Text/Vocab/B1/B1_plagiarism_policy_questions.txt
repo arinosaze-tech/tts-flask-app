@@ -1,0 +1,55 @@
+plagiarism | plagiat | Plagiat | plagio | plagio | plágio | साहित्यिक चोरी | 抄袭 | плагиат | Plagiat
+policy | politique | Richtlinie | política | politica | política | नीति | 政策 | политика | Politik
+rule | règle | Regel | regla | regola | regra | नियम | 规则 | правило | Reegel
+guideline | consigne | Leitlinie | directriz | linea guida | diretriz | दिशानिर्देश | 指南 | рекомендация | Richtlinn
+source | source | Quelle | fuente | fonte | fonte | स्रोत | 来源 | источник | Quell
+reference | référence | Referenz | referencia | riferimento | referência | संदर्भ | 参考 | ссылка | Referenz
+citation | citation | Zitat | cita | citazione | citação | उद्धरण | 引用 | цитата | Zitat
+author | auteur | Autor | autor | autore | autor | लेखक | 作者 | автор | Auteur
+student | étudiant | Student | estudiante | studente | estudante | छात्र | 学生 | студент | Student
+teacher | professeur | Lehrer | profesor | insegnante | professor | शिक्षक | 老师 | учитель | Léierer
+classmate | camarade de classe | Mitschüler | compañero de clase | compagno di classe | colega de classe | सहपाठी | 同学 | одноклассник | Matschüler
+assignment | devoir | Aufgabe | tarea | compito | tarefa | असाइनमेंट | 作业 | задание | Aufgab
+essay | rédaction | Aufsatz | ensayo | tema | redação | निबंध | 作文 | сочинение | Aufsaz
+report | rapport | Bericht | informe | relazione | relatório | रिपोर्ट | 报告 | отчёт | Rapport
+project | projet | Projekt | proyecto | progetto | projeto | प्रोजेक्ट | 项目 | проект | Projet
+deadline | date limite | Abgabetermin | fecha límite | scadenza | prazo | अंतिम तिथि | 截止日期 | крайний срок | Frist
+grade | note | Note | nota | voto | nota | अंक | 成绩 | оценка | Note
+warning | avertissement | Warnung | advertencia | avvertimento | aviso | चेतावनी | 警告 | предупреждение | Warnung
+penalty | pénalité | Strafe | sanción | sanzione | penalidade | दंड | 处罚 | наказание | Strof
+permission | autorisation | Erlaubnis | permiso | permesso | permissão | अनुमति | 许可 | разрешение | Erlaabnis
+credit | crédit | Kredit | crédito | credito | crédito | उधार | 信用 | кредит | Kredit
+idea | idée | Idee | idea | idea | ideia | विचार | 想法 | идея | Iddi
+cite | citer | zitieren | citar | citare | citar | उद्धृत करना | 引用 | цитировать | zitéieren
+quote | citer | zitieren | citar | citare | citar | उद्धृत करना | 引用 | цитировать | zitéieren
+paraphrase | paraphraser | paraphrasieren | parafrasear | parafrasare | parafrasear | पुनर्कथन करना | 改述 | перефразировать | paraphraséieren
+summarize | résumer | zusammenfassen | resumir | riassumere | resumir | सारांश बनाना | 总结 | резюмировать | zesummefaassen
+copy | copier | kopieren | copiar | copiare | copiar | कॉपी करना | 复制 | копировать | kopéieren
+paste | coller | einfügen | pegar | incollare | colar | पेस्ट करना | 粘贴 | вставить | afügen
+write | écrire | schreiben | escribir | scrivere | escrever | लिखना | 写 | писать | schreiwen
+edit | modifier | bearbeiten | editar | modificare | editar | संपादित करना | 编辑 | редактировать | änneren
+revise | réviser | überarbeiten | revisar | rivedere | revisar | संशोधित करना | 修改 | исправить | iwwerpréiwen
+proofread | relire | Korrektur lesen | corregir | correggere | corrigir | प्रूफरीड करना | 校对 | вычитать | Korrektur liesen
+submit | envoyer | einreichen | enviar | inviare | enviar | जमा करना | 提交 | отправить | areechen
+share | partager | teilen | compartir | condividere | compartilhar | साझा करना | 分享 | поделиться | deelen
+check | vérifier | prüfen | comprobar | controllare | verificar | जांचना | 检查 | проверить | kontrolléieren
+ask | demander | fragen | preguntar | chiedere | perguntar | पूछना | 问 | спросить | froen
+explain | expliquer | erklären | explicar | spiegare | explicar | समझाना | 解释 | объяснить | erklären
+follow | suivre | folgen | seguir | seguire | seguir | अनुसरण करना | 跟随 | следовать | follegen
+cheat | tricher | betrügen | hacer trampa | barare | trapacear | धोखा देना | 作弊 | обманывать | fuddelen
+original | original | ursprünglich | original | originale | original | मूल | 原来的 | оригинальный | ursprénglech
+honest | honnête | ehrlich | honesto | onesto | honesto | ईमानदार | 诚实的 | честный | éierlech
+clear | clair | klar | claro | chiaro | claro | स्पष्ट | 清楚的 | ясный | kloer
+strict | strict | streng | estricto | severo | severo | सख्त | 严格的 | строгий | streng
+fair | juste | gerecht | justo | giusto | justo | न्यायपूर्ण | 公平的 | справедливый | gerecht
+academic | académique | akademisch | académico | accademico | acadêmico | शैक्षणिक | 学术的 | академический | akademesch
+online | en ligne | online | en línea | online | online | ऑनलाइन | 在线 | онлайн | online
+written | écrit | schriftlich | escrito | scritto | escrito | लिखित | 书面的 | письменный | schrëftlech
+ethical | éthique | ethisch | ético | etico | ético | नैतिक | 道德的 | этический | ethesch
+careful | prudent | vorsichtig | cuidadoso | attento | cuidadoso | सावधान | 小心 | осторожный | virsiichteg
+plagiarism policy | politique anti-plagiat | Plagiatsrichtlinie | política de plagio | politica sul plagio | política de plágio | साहित्यिक चोरी नीति | 抄袭政策 | политика против плагиата | Plagiatsrichtlinn
+academic honesty | intégrité académique | akademische Ehrlichkeit | honestidad académica | onestà accademica | honestidade acadêmica | शैक्षणिक ईमानदारी | 学术诚信 | академическая честность | akademesch Éierlechkeet
+cite source | citer la source | die Quelle zitieren | citar la fuente | citare la fonte | citar a fonte | स्रोत का उल्लेख करना | 引用来源 | цитировать источник | eng Quell uginn
+give credit | créditer | anerkennen | reconocer | riconoscere il merito | dar crédito | श्रेय देना | 署名 | указать авторство | Unerkennung ginn
+copy and paste | copier-coller | kopieren und einfügen | copiar y pegar | copiare e incollare | copiar e colar | कॉपी और पेस्ट करना | 复制粘贴 | копировать и вставить | kopéieren a pechen
+common knowledge | connaissance générale | Allgemeinwissen | conocimiento común | conoscenza comune | conhecimento comum | सामान्य ज्ञान | 常识 | общеизвестный факт | allgemengt Wëssen

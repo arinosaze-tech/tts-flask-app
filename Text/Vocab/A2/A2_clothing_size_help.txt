@@ -1,0 +1,55 @@
+size | taille | Größe | talla | taglia | tamanho | साइज़ | 尺码 | размер | Gréisst
+measurement | mesure | Messung | medida | misura | medida | नाप | 測量 | измерение | Mooss
+chart | tableau | Tabelle | tabla | tabella | tabela | तालिका | 表 | таблица | Tabell
+waist | tour de taille | Taille | cintura | vita | cintura | कमर | 腰围 | талия | Taille
+hip | hanche | Hüfte | cadera | fianco | quadril | कूल्हा | 臀部 | бедро | Hëft
+chest | poitrine | Brust | pecho | petto | peito | छाती | 胸部 | грудь | Broscht
+bust | poitrine | Brustumfang | busto | busto | busto | बस्ट | 胸围 | бюст | Broscht
+shoulder | épaule | Schulter | hombro | spalla | ombro | कंधा | 肩膀 | плечо | Schëller
+sleeve | manche | Ärmel | manga | manica | manga | आस्तीन | 袖子 | рукав | Äermel
+inseam | longueur d'entrejambe | Schrittlänge | largo de entrepierna | lunghezza interno gamba | comprimento da entreperna | अंदरूनी टांग की लंबाई | 内长 | длина по внутреннему шву | Schrëttlängt
+length | longueur | Länge | longitud | lunghezza | comprimento | लंबाई | 长度 | длина | Längt
+width | largeur | Breite | ancho | larghezza | largura | चौड़ाई | 宽度 | ширина | Breet
+height | hauteur | Höhe | altura | altezza | altura | ऊँचाई | 高度 | высота | Héicht
+weight | poids | Gewicht | peso | peso | peso | वजन | 重量 | вес | Gewiicht
+foot | pied | Fuß | pie | piede | pé | पैर | 脚 | ступня | Fouss
+shoe | chaussure | Schuh | zapato | scarpa | sapato | जूता | 鞋 | туфля | Schong
+tag | étiquette | Etikett | etiqueta | etichetta | etiqueta | टैग | 标签 | этикетка | Etikett
+brand | marque | Marke | marca | marca | marca | ब्रांड | 品牌 | бренд | Mark
+fabric | tissu | Stoff | tela | tessuto | tecido | कपड़ा | 布料 | ткань | Stoff
+cotton | coton | Baumwolle | algodón | cotone | algodão | कॉटन | 棉 | хлопок | Kotteng
+refund | remboursement | Rückerstattung | reembolso | rimborso | reembolso | रिफंड | 退款 | возврат | Zréckbezuelung
+store | magasin | Laden | tienda | negozio | loja | दुकान | 商店 | магазин | Buttek
+fit | aller | passen | quedar | andare bene | servir | फिट होना | 合身 | подходить | passen
+measure | mesurer | messen | medir | misurare | medir | नापना | 测量 | измерять | moossen
+check | vérifier | prüfen | revisar | controllare | verificar | जांचना | 检查 | проверять | kontrolléieren
+choose | choisir | wählen | elegir | scegliere | escolher | चुनना | 选择 | выбирать | auswielen
+compare | comparer | vergleichen | comparar | confrontare | comparar | तुलना करना | 比较 | сравнивать | vergläichen
+order | commander | bestellen | pedir | ordinare | encomendar | ऑर्डर करना | 下单 | заказывать | bestellen
+return | rendre | zurückgeben | devolver | restituire | devolver | वापस करना | 退货 | возвращать | zeréckginn
+exchange | échanger | umtauschen | cambiar | cambiare | trocar | बदलना | 换货 | обменять | ëmtauschen
+try on | essayer | anprobieren | probarse | provare | experimentar | पहनकर देखना | 试穿 | примерять | uprobéieren
+shrink | rétrécir | einlaufen | encoger | restringersi | encolher | सिकुड़ना | 缩水 | уменьшаться | angoen
+stretch | étirer | dehnen | estirar | allungare | esticar | खींचना | 伸展 | растягивать | strecken
+wash | laver | waschen | lavar | lavare | lavar | धोना | 洗 | мыть | wäschen
+wear | porter | tragen | llevar | portare | usar | पहनना | 穿 | носить | droen
+match | aller avec | passen | combinar | abbinare | combinar | मिलाना | 搭配 | подходить | passen
+need | avoir besoin de | brauchen | necesitar | avere bisogno di | precisar de | ज़रूरत होना | 需要 | нуждаться | brauchen
+help | aider | helfen | ayudar | aiutare | ajudar | मदद करना | 帮助 | помогать | hëllefen
+find | trouver | finden | encontrar | trovare | encontrar | ढूँढ़ना | 找 | находить | fannen
+small | petit | klein | pequeño | piccolo | pequeno | छोटा | 小 | маленький | kleng
+medium | moyen | mittel | mediano | medio | médio | मध्यम | 中号 | средний | mëttelgrouss
+large | grand | groß | grande | grande | grande | बड़ा | 大号 | большой | grouss
+extra large | très grand | extra groß | extra grande | extra grande | extra grande | बहुत बड़ा | 加大号 | очень большой | extra grouss
+tight | serré | eng | ajustado | stretto | apertado | तंग | 紧 | тесный | enk
+loose | ample | weit | suelto | largo | solto | ढीला | 宽松 | свободный | wäit
+long | long | lang | largo | lungo | comprido | लंबा | 长 | длинный | laang
+short | court | kurz | corto | corto | curto | छोटा | 短 | короткий | kuerz
+wide | large | breit | ancho | largo | largo | चौड़ा | 宽 | широкий | breet
+size chart | tableau des tailles | Größentabelle | tabla de tallas | tabella taglie | tabela de tamanhos | साइज़ चार्ट | 尺码表 | таблица размеров | Gréisstentabell
+fit guide | conseils de taille | Passformratgeber | guía de ajuste | guida alla vestibilità | guia de ajuste | फिट गाइड | 合身指南 | советы по посадке | Passform Leetfuedem
+chest size | tour de poitrine | Brustumfang | contorno de pecho | circonferenza torace | medida do peito | छाती का नाप | 胸围 | обхват груди | Broschtëmfang
+waist size | tour de taille | Taillenumfang | contorno de cintura | circonferenza vita | medida da cintura | कमर का नाप | 腰围 | обхват талии | Tailleëmfang
+hip size | tour de hanches | Hüftumfang | contorno de cadera | circonferenza fianchi | medida do quadril | कूल्हों का नाप | 臀围 | обхват бёдер | Hëftëmfang
+tape measure | mètre ruban | Maßband | cinta métrica | metro da sarta | fita métrica | मापने का फीता | 软尺 | сантиметровая лента | Moossband
+true to size | taille normale | fällt normal aus | talla normal | taglia normale | tamanho normal | साइज़ के अनुरूप | 尺码正 | идёт в размер | entsprécht der Gréisst

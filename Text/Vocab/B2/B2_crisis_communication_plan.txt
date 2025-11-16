@@ -1,0 +1,65 @@
+crisis | crise | Krise | crisis | crisi | crise | संकट | 危机 | кризис | Krisis
+communication | communication | Kommunikation | comunicación | comunicazione | comunicação | संचार | 交流 | связь | Kommunikatioun
+plan | plan | Plan | plan | piano | plano | योजना | 计划 | план | Plang
+response | réponse | Antwort | respuesta | risposta | resposta | प्रतिक्रिया | 回应 | ответ | Äntwert
+strategy | stratégie | Strategie | estrategia | strategia | estratégia | रणनीति | 策略 | стратегия | Strategie
+team | équipe | Team | equipo | squadra | equipe | टीम | 团队 | команда | Equipe
+message | message | Nachricht | mensaje | messaggio | mensagem | संदेश | 消息 | сообщение | Noriicht
+audience | public | Publikum | audiencia | pubblico | público | दर्शक | 观众 | аудитория | Publikum
+stakeholder | partie prenante | Stakeholder | interesado | parte interessata | parte interessada | हितधारक | 利益相关者 | заинтересованная сторона | Stakeholder
+trust | confiance | Vertrauen | confianza | fiducia | confiança | विश्वास | 信任 | доверие | Vertrauen
+reputation | réputation | Ruf | reputación | reputazione | reputação | प्रतिष्ठा | 声誉 | репутация | Reputation
+issue | problème | Problem | problema | questione | questão | मुद्दा | 问题 | вопрос | Probleem
+management | gestion | Management | gestión | gestione | gestão | प्रबंधन | 管理 | управление | Management
+preparedness | préparation | Vorbereitung | preparación | preparazione | preparo | तैयारी | 准备 | готовность | Vorbereitung
+media | média | Medien | medios | media | mídia | मीडिया | 媒体 | СМИ | Medien
+transparency | transparence | Transparenz | transparencia | trasparenza | transparência | पारदर्शिता | 透明度 | прозрачность | Transparenz
+guideline | ligne directrice | Richtlinie | directriz | linea guida | diretriz | दिशानिर्देश | 指南 | руководство | Richtlijn
+protocol | protocole | Protokoll | protocolo | protocollo | protocolo | प्रोटोकॉल | 协议 | протокол | Protokoll
+analysis | analyse | Analyse | análisis | analisi | análise | विश्लेषण | 分析 | анализ | Analyse
+situation | situation | Situation | situación | situazione | situação | स्थिति | 情况 | ситуация | Situatioun
+briefing | briefing | Briefing | informe | approfondimento | briefing | ब्रीफिंग | 简报 | брифинг | Briefing
+update | mise à jour | Aktualisierung | actualización | aggiornamento | atualização | अपडेट | 更新 | обновление | Aktualiséierung
+notification | notification | Benachrichtigung | notificación | notifica | notificação | सूचना | 通知 | уведомление | Notifikatioun
+feedback | retour d'information | Rückmeldung | retroalimentación | feedback | feedback | फीडबैक | 反馈 | отзыв | Feedback
+support | soutien | Unterstützung | apoyo | supporto | apoio | समर्थन | 支持 | поддержка | Unterstützung
+collaboration | collaboration | Zusammenarbeit | colaboración | collaborazione | colaboração | सहयोग | 合作 | сотрудничество | Zusammenarbeit
+review | révision | Überprüfung | revisión | revisione | revisão | समीक्षा | 审查 | обзор | Überprüfung
+evaluation | évaluation | Bewertung | evaluación | valutazione | avaliação | मूल्यांकन | 评估 | оценка | Bewertung
+risk | risque | Risiko | riesgo | rischio | risco | जोखिम | 风险 | риск | Risiko
+assessment | évaluation | Einschätzung | evaluación | valutazione | avaliação | आकलन | 评估 | оценка | Bewertung
+engagement | engagement | Engagement | compromiso | coinvolgimento | envolvimento | सगाई | 参与 | вовлечение | Engagement
+training | formation | Ausbildung | capacitación | formazione | formação | प्रशिक्षण | 培训 | обучение | Ausbildung
+clarity | clarté | Klarheit | claridad | chiarezza | clareza | स्पष्टता | 清晰度 | ясность | Klarheit
+information | information | Information | información | informazione | informação | जानकारी | 信息 | информация | Informatioun
+emergency | urgence | Notfall | emergencia | emergenza | emergência | आपात | 紧急情况 | чрезвычайная ситуация | Notsituatioun
+contact | contact | Kontakt | contacto | contatto | contato | संपर्क | 联系 | контакт | Kontak
+timeline | chronologie | Zeitachse | línea de tiempo | linea temporale | linha do tempo | समयरेखा | 时间线 | временная шкала | Chronologie
+role | rôle | Rolle | papel | ruolo | papel | भूमिका | 角色 | роль | Roll
+responsibility | responsabilité | Verantwortung | responsabilidad | responsabilità | responsabilidade | जिम्मेदारी | 责任 | ответственность | Verantwortung
+action | action | Handlung | acción | azione | ação | क्रिया | 行动 | действие | Aktioun
+decision | décision | Entscheidung | decisión | decisione | decisão | निर्णय | 决定 | решение | Decisioun
+recovery | récupération | Genesung | recuperación | recupero | recuperação | रिकवरी | 恢复 | восстановление | Erhuelung
+resource | ressource | Ressource | recurso | risorsa | recurso | संसाधन | 资源 | ресурс | Ressource
+monitoring | surveillance | Überwachung | monitoreo | monitoraggio | monitoramento | निगरानी | 监控 | мониторинг | Iwwerwachung
+reaction | réaction | Reaktion | reacción | reazione | reação | प्रतिक्रिया | 反应 | реакция | Reaktioun
+public | public | öffentlich | público | pubblico | público | सार्वजनिक | 公众 | общественный | ëffentlech
+statement | déclaration | Erklärung | declaración | dichiarazione | declaração | बयान | 声明 | заявление | Deklaratioun
+platform | plateforme | Plattform | plataforma | piattaforma | plataforma | प्लेटफ़ॉर्म | 平台 | платформа | Plattform
+conflict | conflit | Konflikt | conflicto | conflitto | conflito | संघर्ष | 冲突 | конфликт | Konflikt
+misunderstanding | malentendu | Missverständnis | malentendido | fraintendimento | mal-entendido | गलतफहमी | 误解 | недопонимание | Missverständnis
+opinion | opinion | Meinung | opinión | opinione | opinião | राय | 意见 | мнение | Meinung
+communication channel | canal de communication | Kommunikationskanal | canal de comunicación | canale di comunicazione | canal de comunicação | संचार चैनल | 交流渠道 | канал связи | Kommunikationskanal
+outreach | sensibilisation | Reichweite | alcance | sensibilizzazione | alcance | पहुंच | 外展 | охват | Reichweite
+taskforce | groupe de travail | Taskforce | grupo de trabajo | gruppo di lavoro | força-tarefa | कार्यबल | 专案组 | рабочая группа | Arbeitsgruppe
+relationship | relation | Beziehung | relación | relazione | relacionamento | संबंध | 关系 | отношение | Bezéiung
+debate | débat | Debatte | debate | dibattito | debate | बहस | 辩论 | дебаты | Debat
+solution | solution | Lösung | solución | soluzione | solução | समाधान | 解决方案 | решение | Léisung
+asses | bewerten | bewerten | evaluar | valutare | avaliar | आंका | 评估 | оценивать | bewerten
+impact | Auswirkung | impactar | impacto | impatto | impacto | प्रभाव | 影响 | воздействие | Impakt
+conversation | conversation | Gespräch | conversación | conversazione | conversa | बातचीत | 对话 | разговор | Gespréich
+outcome | Ergebnis | Ergebnis | resultado | esito | resultado | परिणाम | 结果 | исход | Resultat
+consensus | Konsens | consenso | consenso | consenso | consenso | सहमति | 共识 | консенсус | Konsens
+navigate | navigieren | navigieren | navegar | navigare | navegar | नेविगेट | 导航 | ориентироваться | navigéieren
+response team | Einsatzteam | Reaktionsteam | equipo de respuesta | squadra di risposta | equipe de resposta | प्रतिक्रिया टीम | 响应团队 | команда реагирования | Réaktiounsteam
+recommendation | recommandation | Empfehlung | recomendación | raccomandazione | recomendação | सिफारिश | 推荐 | рекомендация | Empfehlungen

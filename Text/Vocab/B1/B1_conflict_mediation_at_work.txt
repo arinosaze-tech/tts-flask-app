@@ -1,0 +1,55 @@
+conflict | conflit | Konflikt | conflicto | conflitto | conflito | विवाद | 冲突 | конфликт | Konflikt
+mediation | médiation | Mediation | mediación | mediazione | mediação | मध्यस्थता | 调解 | посредничество | Mediatioun
+mediator | médiateur | Mediator | mediador | mediatore | mediador | मध्यस्थ | 调解员 | посредник | Mediator
+colleague | collègue | Kollege | colega | collega | colega | सहकर्मी | 同事 | коллега | Kolleeg
+team | équipe | Team | equipo | squadra | equipe | टीम | 团队 | команда | Ekipp
+manager | responsable | Manager | gerente | manager | gerente | मैनेजर | 经理 | менеджер | Manager
+meeting | réunion | Besprechung | reunión | riunione | reunião | बैठक | 会议 | встреча | Reunioun
+problem | problème | Problem | problema | problema | problema | समस्या | 问题 | проблема | Problem
+complaint | plainte | Beschwerde | queja | lamentela | reclamação | शिकायत | 投诉 | жалоба | Reklamatioun
+feedback | retour | Rückmeldung | comentario | riscontro | retorno | प्रतिक्रिया | 反馈 | обратная связь | Réckmeldung
+deadline | date limite | Frist | fecha límite | scadenza | prazo | अंतिम तिथि | 截止日期 | крайний срок | Frist
+workload | charge de travail | Arbeitsbelastung | carga de trabajo | carico di lavoro | carga de trabalho | कार्यभार | 工作量 | рабочая нагрузка | Aarbechtslaascht
+responsibility | responsabilité | Verantwortung | responsabilidad | responsabilità | responsabilidade | जिम्मेदारी | 责任 | ответственность | Verantwortung
+misunderstanding | malentendu | Missverständnis | malentendido | malinteso | mal-entendido | गलतफ़हमी | 误会 | недоразумение | Mëssverständnis
+tension | tension | Spannung | tensión | tensione | tensão | तनाव | 紧张 | напряжение | Spannung
+respect | respect | Respekt | respeto | rispetto | respeito | सम्मान | 尊重 | уважение | Respekt
+trust | confiance | Vertrauen | confianza | fiducia | confiança | विश्वास | 信任 | доверие | Vertrauen
+boundary | limite | Grenze | límite | confine | limite | सीमा | 边界 | граница | Grenz
+policy | politique | Richtlinie | política | politica | política | नीति | 政策 | политика | Politik
+role | rôle | Rolle | rol | ruolo | papel | भूमिका | 角色 | роль | Roll
+goal | objectif | Ziel | objetivo | obiettivo | objetivo | लक्ष्य | 目标 | цель | Zil
+listen | écouter | zuhören | escuchar | ascoltare | ouvir | सुनना | 听 | слушать | lauschteren
+talk | parler | reden | hablar | parlare | falar | बात करना | 说话 | говорить | schwätzen
+discuss | discuter | diskutieren | discutir | discutere | discutir | चर्चा करना | 讨论 | обсуждать | diskutéieren
+agree | être d'accord | zustimmen | estar de acuerdo | essere d'accordo | concordar | सहमत होना | 同意 | соглашаться | zoustëmmen
+disagree | ne pas être d'accord | nicht zustimmen | no estar de acuerdo | non essere d'accordo | discordar | असहमत होना | 不同意 | не соглашаться | net zoustëmmen
+apologize | s'excuser | sich entschuldigen | disculparse | scusarsi | pedir desculpas | माफ़ी माँगना | 道歉 | извиняться | se entschëllegen
+clarify | clarifier | klären | aclarar | chiarire | esclarecer | स्पष्ट करना | 澄清 | уточнять | kloerstellen
+explain | expliquer | erklären | explicar | spiegare | explicar | समझाना | 解释 | объяснять | erklären
+suggest | proposer | vorschlagen | sugerir | suggerire | sugerir | सुझाव देना | 建议 | предлагать | virschloen
+negotiate | négocier | verhandeln | negociar | negoziare | negociar | बातचीत करना | 谈判 | вести переговоры | verhandelen
+mediate | faire la médiation | vermitteln | mediar | mediare | mediar | मध्यस्थता करना | 调解 | посредничать | vermëttelen
+resolve | résoudre | lösen | resolver | risolvere | resolver | हल करना | 解决 | решать | léisen
+cooperate | coopérer | kooperieren | cooperar | cooperare | cooperar | सहयोग करना | 合作 | сотрудничать | zesummeschaffen
+support | soutenir | unterstützen | apoyar | sostenere | apoiar | समर्थन करना | 支持 | поддерживать | ënnerstëtzen
+accept | accepter | akzeptieren | aceptar | accettare | aceitar | स्वीकार करना | 接受 | принимать | unhuelen
+refuse | refuser | ablehnen | rechazar | rifiutare | recusar | मना करना | 拒绝 | отказываться | ofleenen
+interrupt | interrompre | unterbrechen | interrumpir | interrompere | interromper | टोकना | 打断 | прерывать | ënnerbriechen
+fair | juste | gerecht | justo | giusto | justo | न्यायसंगत | 公平 | справедливый | gerecht
+calm | calme | ruhig | tranquilo | tranquillo | calmo | शांत | 冷静 | спокойный | roueg
+polite | poli | höflich | educado | educato | educado | विनम्र | 有礼貌 | вежливый | höflech
+respectful | respectueux | respektvoll | respetuoso | rispettoso | respeitoso | सम्मानजनक | 恭敬 | уважительный | respektvoll
+honest | honnête | ehrlich | honesto | onesto | honesto | ईमानदार | 诚实 | честный | éierlech
+clear | clair | klar | claro | chiaro | claro | स्पष्ट | 清楚 | ясный | kloer
+neutral | neutre | neutral | neutral | neutrale | neutro | तटस्थ | 中立 | нейтральный | neutral
+flexible | souple | flexibel | flexible | flessibile | flexível | लचीला | 灵活 | гибкий | flexibel
+open | ouvert | offen | abierto | aperto | aberto | खुला | 开放 | открытый | oppen
+supportive | solidaire | unterstützend | solidario | solidale | solidário | सहायक | 乐于助人 | поддерживающий | ënnerstëtzend
+reasonable | raisonnable | vernünftig | razonable | ragionevole | razoável | उचित | 合理 | разумный | vernënfteg
+reach agreement | se mettre d'accord | sich einigen | llegar a un acuerdo | raggiungere un accordo | chegar a um acordo | समझौते पर पहुँचना | 达成一致 | достичь соглашения | sech eens ginn
+raise an issue | soulever un problème | ein Problem ansprechen | plantear un tema | sollevare una questione | levantar uma questão | मुद्दा उठाना | 提出问题 | поднять вопрос | eng Fro opwerfen
+find a solution | trouver une solution | eine Lösung finden | encontrar una solución | trovare una soluzione | encontrar uma solução | समाधान खोजना | 找到解决办法 | найти решение | eng Léisung fannen
+stay on topic | rester sur le sujet | beim Thema bleiben | mantenerse en el tema | rimanere in tema | manter-se no assunto | विषय पर बने रहना | 不跑题 | не уходить от темы | beim Thema bleiwen
+meet halfway | faire un compromis | einen Kompromiss schließen | llegar a un punto medio | trovare un compromesso | chegar a um meio-termo | समझौता करना | 各退一步 | пойти на компромисс | sech op halwem Wee treffen
+keep it professional | rester professionnel | professionell bleiben | mantener la profesionalidad | restare professionale | manter-se profissional | पेशेवर बने रहना | 保持专业 | сохранять профессионализм | professionell bleiwen

@@ -1,0 +1,55 @@
+menu | menu | Speisekarte | menú | menu | menu | मेनू | 菜单 | меню | Iesskaart
+dish | plat | Gericht | plato | piatto | prato | व्यंजन | 菜 | блюдо | Plat
+ingredient | ingrédient | Zutat | ingrediente | ingrediente | ingrediente | सामग्री | 配料 | ингредиент | Zutat
+allergy | allergie | Allergie | alergia | allergia | alergia | एलर्जी | 过敏 | аллергия | Allergie
+preference | préférence | Vorliebe | preferencia | preferenza | preferência | पसंद | 偏好 | предпочтение | Virléift
+request | demande | Bitte | petición | richiesta | pedido | अनुरोध | 请求 | просьба | Demande
+option | option | Option | opción | opzione | opção | विकल्प | 选项 | вариант | Optioun
+label | étiquette | Etikett | etiqueta | etichetta | etiqueta | लेबल | 标签 | этикетка | Etikett
+server | serveur | Kellner | camarero | cameriere | garçom | वेटर | 服务员 | официант | Kellner
+chef | chef | Chefkoch | chef | chef | chef | शेफ | 厨师 | шеф-повар | Kach
+kitchen | cuisine | Küche | cocina | cucina | cozinha | रसोई | 厨房 | кухня | Kichen
+customer | client | Kunde | cliente | cliente | cliente | ग्राहक | 顾客 | клиент | Client
+plate | assiette | Teller | plato | piatto | prato | प्लेट | 盘子 | тарелка | Teller
+side | accompagnement | Beilage | guarnición | contorno | acompanhamento | साइड डिश | 配菜 | гарнир | Bäilag
+portion | portion | Portion | porción | porzione | porção | पोर्शन | 份 | порция | Portioun
+sauce | sauce | Soße | salsa | salsa | molho | सॉस | 酱 | соус | Zooss
+spice | épice | Gewürz | especia | spezia | tempero | मसाला | 香料 | специя | Gewierz
+nut | fruit à coque | Nuss | fruto seco | frutta a guscio | fruto seco | मेवा | 坚果 | орех | Noss
+dairy | produit laitier | Milchprodukt | producto lácteo | latticino | laticínio | दुग्ध उत्पाद | 乳制品 | молочный продукт | Mëllechprodukt
+gluten | gluten | Gluten | gluten | glutine | glúten | ग्लूटेन | 麸质 | глютен | Gluten
+wheat | blé | Weizen | trigo | grano | trigo | गेहूँ | 小麦 | пшеница | Weess
+egg | œuf | Ei | huevo | uovo | ovo | अंडा | 鸡蛋 | яйцо | Ee
+shellfish | fruits de mer | Meeresfrüchte | marisco | frutti di mare | marisco | समुद्री भोजन | 贝类 | морепродукты | Mieresfriichten
+pork | porc | Schweinefleisch | cerdo | maiale | porco | सूअर का मांस | 猪肉 | свинина | Schwäinfleesch
+soy | soja | Soja | soja | soia | soja | सोया | 大豆 | соя | Soja
+order | commander | bestellen | pedir | ordinare | pedir | मंगाना | 点菜 | заказывать | bestellen
+choose | choisir | wählen | elegir | scegliere | escolher | चुनना | 选择 | выбирать | wielen
+ask | demander | fragen | preguntar | chiedere | perguntar | पूछना | 问 | спрашивать | froen
+check | vérifier | prüfen | revisar | controllare | verificar | जांचना | 检查 | проверять | kontrolléieren
+explain | expliquer | erklären | explicar | spiegare | explicar | समझाना | 解释 | объяснять | erklären
+avoid | éviter | vermeiden | evitar | evitare | evitar | बचना | 避免 | избегать | evitéieren
+include | inclure | enthalten | incluir | includere | incluir | शामिल करना | 包括 | включать | enthalen
+contain | contenir | enthalten | contener | contenere | conter | समाहित करना | 包含 | содержать | enthalen
+remove | enlever | entfernen | quitar | togliere | tirar | हटाना | 去掉 | убирать | ewechhuelen
+replace | remplacer | ersetzen | reemplazar | sostituire | substituir | बदलना | 替换 | заменить | ersetzen
+cook | cuisiner | kochen | cocinar | cucinare | cozinhar | पकाना | 做饭 | готовить | kachen
+prepare | préparer | vorbereiten | preparar | preparare | preparar | तैयार करना | 准备 | подготовить | virbereeden
+list | lister | auflisten | enumerar | elencare | listar | सूची बनाना | 列出 | перечислить | opzielen
+mark | marquer | markieren | marcar | segnare | marcar | निशान लगाना | 标记 | отметить | markéieren
+eat | manger | essen | comer | mangiare | comer | खाना | 吃 | есть | iessen
+serve | servir | servieren | servir | servire | servir | परोसना | 提供 | подавать | servéieren
+share | partager | teilen | compartir | condividere | compartilhar | साझा करना | 分享 | делиться | deelen
+vegan | végétalien | vegan | vegano | vegano | vegano | वीगन | 纯素 | веганский | vegan
+vegetarian | végétarien | vegetarisch | vegetariano | vegetariano | vegetariano | शाकाहारी | 素食 | вегетарианский | vegetaresch
+halal | halal | halal | halal | halal | halal | हलाल | 清真 | халяльный | halal
+kosher | casher | koscher | kosher | kosher | kosher | कोशेर | 犹太洁食 | кошерный | koscher
+spicy | épicé | scharf | picante | piccante | picante | तीखा | 辣 | острый | scharf
+mild | doux | mild | suave | delicato | suave | कम तीखा | 不辣 | неострый | mëll
+plain | simple | einfach | simple | semplice | simples | सादा | 简单 | простой | einfacht
+special | spécial | speziell | especial | speciale | especial | खास | 特别 | особый | speziell
+dairy free | sans lait | ohne Milch | sin leche | senza latte | sem leite | बिना दूध | 不含奶 | без молока | ouni Mëllech
+nut free | sans fruits à coque | ohne Nüsse | sin frutos secos | senza noci | sem nozes | बिना मेवे | 不含坚果 | без орехов | ouni Nëss
+gluten free | sans gluten | glutenfrei | sin gluten | senza glutine | sem glúten | बिना ग्लूटेन | 无麸质 | без глютена | glutenfräi
+food allergy | allergie alimentaire | Lebensmittelallergie | alergia alimentaria | allergia alimentare | alergia alimentar | खाने की एलर्जी | 食物过敏 | пищевая аллергия | Liewensmëttelallergie
+dietary need | besoin alimentaire | Ernährungsbedarf | necesidad alimentaria | necessità alimentare | necessidade alimentar | आहार की जरूरत | 饮食需求 | пищевая потребность | Ernärungsbedarf

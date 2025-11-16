@@ -1,0 +1,65 @@
+lease | contrat | Mietvertrag | arrendamiento | contratto | contrato | पट्टा | 租约 | аренда | Lease
+termination | résiliation | Kündigung | terminación | risoluzione | rescisão | समाप्ति | 终止 | прекращение | Kündigung
+negotiation | négociation | Verhandlung | negociación | negoziazione | negociação | बातचीत | 谈判 | переговоры | Verhandlung
+contract | contrat | Vertrag | contrato | contratto | contrato | अनुबंध | 合同 | контракт | Vertrag
+agreement | accord | Vereinbarung | acuerdo | accordo | acordo | समझौता | 协议 | соглашение | Vereinbarung
+tenant | locataire | Mieter | inquilino | inquilino | inquilino | किरायेदार | 租户 | арендатор | Mieter
+landlord | propriétaire | Vermieter | arrendador | proprietario | proprietário | मकान मालिक | 房东 | арендодатель | Vermieter
+rent | loyer | Miete | alquiler | affitto | aluguel | किराया | 租金 | аренда | Miete
+notice | avis | Hinweis | aviso | avviso | aviso | सूचना | 通知 | уведомление | Notiz
+dispute | différend | Streit | disputa | controversia | disputa | विवाद | 争议 | спор | Streit
+settlement | règlement | Einigung | acuerdo | accordo | acordo | समाधान | 和解 | соглашение | Einigung
+refund | remboursement | Rückerstattung | reembolso | rimborso | reembolso | वापसी | 退款 | возврат | Rückerstattung
+amendment | amendement | Änderung | enmienda | emendamento | emenda | संशोधन | 修正案 | поправка | Änderung
+renewal | renouvellement | Erneuerung | renovación | rinnovo | renovação | नवीकरण | 续期 | продление | Erneuerung
+conditions | conditions | Bedingungen | condiciones | condizioni | condições | शर्तें | 条件 | условия | Bedingungen
+obligations | obligations | Verpflichtungen | obligaciones | obblighi | obrigações | दायित्व | 义务 | обязательства | Verpflichtungen
+end date | date de fin | Enddatum | fecha de finalización | data di fine | data de término | समाप्ति तिथि | 结束日期 | дата окончания | Enddatum
+responsibility | responsabilité | Verantwortung | responsabilidad | responsabilità | responsabilidade | ज़िम्मेदारी | 责任 | ответственность | Verantwortung
+agreement terms | conditions d'accord | Vertragsbedingungen | términos del acuerdo | termini dell'accordo | termos de acordo | समझौते की शर्तें | 协议条款 | условия соглашения | Bedingungen des Vertrags
+discussion | discussion | Diskussion | discusión | discussione | discussão | चर्चा | 讨论 | обсуждение | Diskussion
+compromise | compromis | Kompromiss | compromiso | compromesso | compromisso | समझौता | 妥协 | компромисс | Kompromiss
+signature | signature | Unterschrift | firma | firma | assinatura | हस्ताक्षर | 签名 | подпись | Unterschrift
+signature date | date de signature | Unterschriftsdatum | fecha de firma | data di firma | data de assinatura | हस्ताक्षर तिथि | 签名日期 | дата подписи | Datum der Unterschrift
+counteroffer | contre-offre | Gegenangebot | contrapropuesta | controfferta | contraproposta | प्रतिरूप प्रस्ताव | 还价 | контрпредложение | Gegenangebot
+expectations | attentes | Erwartungen | expectativas | aspettative | expectativas | अपेक्षाएँ | 期望 | ожидания | Erwartungen
+terms of use | conditions d'utilisation | Nutzungsbedingungen | términos de uso | termini di uso | termos de uso | उपयोग की शर्तें | 使用条款 | условия использования | Nutzungsbedingungen
+payment | paiement | Zahlung | pago | pagamento | pagamento | भुगतान | 付款 | платеж | Zahlung
+clause | clause | Klausel | cláusula | clausola | cláusula | क्लॉज़ | 条款 | пункт | Klausel
+penalty | pénalité | Strafe | penalización | penale | penalidade | दंड | 罚款 | штраф | Strafe
+documentation | documentation | Dokumentation | documentación | documentazione | documentação | दस्तावेज़ | 文档 | документация | Dokumentation
+communication | communication | Kommunikation | comunicación | comunicazione | comunicação | संचार | 交流 | коммуникация | Kommunikation
+legal advice | conseils juridiques | Rechtsberatung | asesoría legal | consulenza legale | orientação legal | कानूनी सलाह | 法律建议 | юридическая консультация | juriste Consultatioun
+rights | droits | Rechte | derechos | diritti | direitos | अधिकार | 权利 | права | Rechter
+clarification | clarification | Klärung | aclaración | chiarimento | esclarecimento | स्पष्टीकरण | 澄清 | уточнение | Klärung
+alternative | alternative | Alternative | alternativa | alternativa | alternativa | विकल्प | 替代 | альтернатива | Alternativ
+solution | solution | Lösung | solución | soluzione | solução | समाधान | 解决方案 | решение | Léisung
+breach | violation | Verletzung | violación | violazione | violação | उल्लंघन | 违反 | нарушение | Verletzung
+offset | Ausgleich | Ausgleich | compensación | compensare | compensação | संतुलन | 抵消 | компенсация | Ausgläich
+arrangement | arrangement | Vereinbarung | arreglo | accordo | arranjo | व्यवस्था | 安排 | соглашение | Arrangemant
+verbal agreement | accord verbal | mündlicher Vertrag | acuerdo verbal | accordo verbale | acordo verbal | मौखिक समझौता | 口头协议 | устное соглашение | verbale Accord
+written notice | avis écrit | schriftliche Mitteilung | aviso escrito | avviso scritto | aviso escrito | लिखित नोटिस | 书面通知 | письменное уведомление | geschriebene Notiz
+discussions | discussions | Diskussionen | discusiones | discussioni | discussões | चर्चाएँ | 讨论 | дискуссии | Diskussionen
+deadline | date limite | Frist | plazo | scadenza | prazo final | समय सीमा | 截止日期 | крайний срок | Frist
+interruption | interruption | Unterbrechung | interrupción | interruzione | interrupção | बाधा | 中断 | прерывание | Unterbrechung
+cooperation | coopération | Kooperation | cooperación | cooperazione | cooperação | सहयोग | 合作 | сотрудничество | Zusammenarbeit
+satisfaction | satisfaction | Zufriedenheit | satisfacción | soddisfazione | satisfação | संतोष | 满意 | удовлетворение | Zufriedenheit
+release | libération | Freigabe | liberación | rilascio | liberação | रिहाई | 释放 | освобождение | Freisetzung
+transfer | transfert | Übertragung | transferencia | trasferimento | transferência | स्थानांतरण | 转移 | передача | Übertragung
+conditions precedent | conditions préalables | Bedingungen | condiciones precedentes | condizioni preliminari | condições precedentes | पूर्ववर्ती शर्तें | 前提条件 | предварительные условия | vorvertragliche Bedingungen
+requirements | exigences | Anforderungen | requisitos | requisiti | requisitos | आवश्यकताएँ | 要求 | требования | Anforderungen
+options | options | Optionen | opciones | opzioni | opções | विकल्प | 选项 | варианты | Optiounen
+outcome | résultat | Ergebnis | resultado | risultato | resultado | परिणाम | 结果 | результат | Resultat
+finalization | finalisation | Finalisierung | finalización | finalizzazione | finalização | निष्कर्षण | 定稿 | финализация | Finaliséierung
+confirmation | confirmation | Bestätigung | confirmación | conferma | confirmação | पुष्टि | 确认 | подтверждение | Bestätigung
+assurance | assurance | Zusicherung | garantía | garanzia | garantia | आश्वासन | 保证 | уверенность | Garantie
+expectation | attente | Erwartung | expectativa | aspettativa | expectativa | अपेक्षा | 期望 | ожидание | Erwaardung
+timing | chronométrage | Zeitplanung | cronometraje | tempistica | cronometragem | समय निर्धारण | 时机 | тайминг | Timing
+factors | facteurs | Faktoren | factores | fattori | fatores | कारक | 因素 | факторы | Faktore
+consequences | conséquences | Konsequenzen | consecuencias | conseguenze | consequências | परिणाम | 后果 | последствия | Konsequenzen
+revision | révision | Überarbeitung | revisión | revisione | revisão | संशोधन | 修订 | пересмотр | Revisiounen
+mediator | médiateur | Mediator | mediador | mediatore | mediador | मध्यस्थ | 中介 | посредник | Mediator
+understanding | compréhension | Verständnis | comprensión | comprensione | compreensão | समझ | 理解 | понимание | Verständnis
+good faith | bonne foi | Treu und Glauben | buena fe | buona fede | boa-fé | अच्छी नीयत | 善意 | добросовестность | gutt Glawen
+breach of contract | rupture de contrat | Vertragsbruch | incumplimiento | violazione del contratto | violação do contrato | अनुबंध का उल्लंघन | 合同违约 | нарушение контракта | Vertragsverletzung
+resolution | résolution | Resolution | resolución | risoluzione | resolução | समाधान | 解决方案 | разрешение | Resolutioun

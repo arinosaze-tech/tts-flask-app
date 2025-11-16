@@ -1,0 +1,65 @@
+weather | temps | Wetter | tiempo | tempo | tempo | मौसम | 天气 | погода
+sun | soleil | Sonne | sol | sole | sol | सूरज | 太阳 | солнце
+cloud | nuage | Wolke | nube | nuvola | nuvem | बादल | 云 | облако
+rain | pluie | Regen | lluvia | pioggia | chuva | बारिश | 雨 | дождь
+snow | neige | Schnee | nieve | neve | neve | बर्फ | 雪 | снег
+wind | vent | Wind | viento | vento | vento | हवा | 风 | ветер
+storm | tempête | Sturm | tormenta | tempesta | tempestade | तूफान | 暴风雨 | буря
+temperature | température | Temperatur | temperatura | temperatura | temperatura | तापमान | 温度 | температура
+forecast | prévision | Wettervorhersage | pronóstico | previsione | previsão | पूर्वानुमान | 预测 | прогноз
+humidity | humidité | Feuchtigkeit | humedad | umidità | umidade | नमी | 湿度 | влажность
+sunshine | ensoleillement | Sonnenschein | luz solar | luce solare | luz solar | धूप | 阳光 | солнечный свет
+lightning | éclair | Blitz | relámpago | fulmine | relâmpago | बिजली | 闪电 | молния
+thunder | tonnerre | Donner | trueno | tuono | trovão | गरज | 雷声 | гром
+cold | froid | kalt | frío | freddo | frio | ठंड | 冷 | холод
+hot | chaud | heiß | caliente | caldo | quente | गर्म | 热 | горячий
+warm | chaud | warm | templado | caldo | morno | गर्मा | 温暖 | теплый
+cool | frais | kühl | fresco | fresco | fresco | ठंडा | 凉爽 | прохладный
+clear | clair | klar | claro | chiaro | claro | साफ | 清晰 | ясный
+mist | brume | Nebel | niebla | nebbia | névoa | कुहासा | 雾 | туман
+fog | brouillard | Nebel | neblina | nebbia | nevoeiro | धुंध | 雾 | туман
+drizzle | bruine | Nieselregen | llovizna | pioggia leggera | garoa | बूंदाबांदी | 毛毛雨 | моросящий дождь
+hail | grêle | Hagel | granizo | grandine | granizo | град | 冰雹 | град
+gale | bourrasque | Sturm | vendaval | burrasca | vento forte | तेज़ हवा | 大风 | шквал
+degree | degré | Grad | grado | grado | grau | डिग्री | 度 | градус
+overcast | nuageux | bewölkt | nublado | nuvoloso | nublado | बादल | 多云 | облачный
+breeze | brise | Brise | brisa | brezza | brisa | हल्की हवा | 微风 | бриз
+chilly | frais | kühl | fresco | fresco | fresco | ठंडा | 寒冷 | прохладный
+raincoat | imperméable | Regenmantel | impermeable | impermeabile | capa de chuva | रेनकोट | 雨衣 | дождевик
+umbrella | parapluie | Regenschirm | paraguas | ombrello | guarda-chuva | छतरी | 雨伞 | зонт
+scarf | écharpe | Schal | bufanda | sciarpa | cachecol | स्कार्फ | 围巾 | шарф
+gloves | gants | Handschuhe | guantes | guanti | luvas | दस्ताने | 手套 | перчатки
+sunglasses | lunettes de soleil | Sonnenbrille | gafas de sol | occhiali da sole | óculos de sol | धूप देखि | 太阳镜 | солнечные очки
+sunny | ensoleillé | sonnig | soleado | soleggiato | ensolarado | धूप वाला | 阳光明媚 | солнечный
+change | changer | ändern | cambiar | cambiare | mudar | बदलना | 改变 | менять
+grow | grandir | wachsen | crecer | crescere | crescer | बढ़ना | 生长 | расти
+freeze | geler | frieren | congelar | congelare | congelar | जमना | 冻结 | замерзать
+melt | fondre | schmelzen | derretir | sciogliere | derreter | पिघलना | 融化 | таять
+shine | briller | scheinen | brillar | brillare | brilhar | चमकना | 发光 | светить
+blow | souffler | blasen | soplar | soffiare | soprar | फूकना | 吹 | дуть
+fall | tomber | fallen | caer | cadere | cair | गिरना | 落下 | падать
+rise | lever | steigen | elevar | alzare | subir | उठना | 上升 | расти
+feel | sentir | fühlen | sentir | sentire | sentir | महसूस करना | 感觉 | чувствовать
+chase | poursuivre | jagen | perseguir | inseguire | perseguir | पीछा करना | 追逐 | преследовать
+expect | attendre | erwarten | esperar | aspettare | esperar | उम्मीद करना | 期待 | ожидать
+watch | regarder | schauen | mirar | guardare | assistir | देखना | 观看 | смотреть
+play | jouer | spielen | jugar | giocare | brincar | खेलना | 玩 | играть
+stay | rester | bleiben | quedarse | rimanere | ficar | ठहरना | 停留 | оставаться
+like | aimer | mögen | gustar | piacere | gostar | पसंद करना | 喜欢 | нравиться
+enjoy | profiter | genießen | disfrutar | godere | aproveitar | आनंद लेना | 享受 | наслаждаться
+prepare | préparer | vorbereiten | preparar | preparare | preparar | तैयार करना | 准备 | подготавливать
+speak | parler | sprechen | hablar | parlare | falar | बोलना | 说 | говорить
+look | regarder | schauen | mirar | guardare | olhar | देखना | 看 | смотреть
+listen | écouter | zuhören | escuchar | ascoltare | ouvir | सुनना | 听 | слушать
+outside | dehors | draußen | fuera | fuori | fora | बाहर | 外面 | снаружи
+in | dans | in | en | in | em | में | 在 | в
+day | jour | Tag | día | giorno | dia | दिन | 日 | день
+night | nuit | Nacht | noche | notte | noite | रात | 夜 | ночь
+sometimes | parfois | manchmal | a veces | a volte | às vezes | कभी-कभी | 有时 | иногда
+often | souvent | oft | a menudo | spesso | frequentemente | अक्सर | 经常 | часто
+always | toujours | immer | siempre | sempre | sempre | हमेशा | 总是 | всегда
+usually | habituellement | in der Regel | generalmente | di solito | geralmente | आमतौर पर | 通常 | обычно
+never | jamais | nie | nunca | mai | nunca | कभी नहीं | 从不 | никогда
+this | ceci | dies | este | questo | este | यह | 这个 | этот
+that | cela | das | ese | quello | aquele | वह | 那个 | тот
+today | aujourd'hui | heute | hoy | oggi | hoje | आज | 今天 | сегодня

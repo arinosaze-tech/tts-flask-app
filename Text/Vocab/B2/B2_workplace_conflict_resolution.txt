@@ -1,0 +1,65 @@
+conflict | conflit | Konflikt | conflicto | conflitto | conflito | संघर्ष | 冲突 | конфликт | Konflikt
+disagreement | désaccord | Meinungsverschiedenheit | desacuerdo | disaccordo | desacordo | असहमति | 分歧 | разногласие | Uneinigkeit
+misunderstanding | malentendu | Missverständnis | malentendido | incomprensione | mal-entendido | गलतफहमी | 误解 | недоразумение | Missverständnis
+communication | communication | Kommunikation | comunicación | comunicazione | comunicação | संचार | 交流 | коммуникация | Kommunikatioun
+collaboration | collaboration | Zusammenarbeit | colaboración | collaborazione | colaboração | सहयोग | 合作 | сотрудничество | Zesummenaarbecht
+negotiation | négociation | Verhandlung | negociación | negoziazione | negociação | वार्ता | 谈判 | переговоры | Négotiatioun
+mediation | médiation | Mediation | mediación | mediazione | mediação | मध्यस्थता | 调解 | посредничество | Mediation
+resolution | résolution | Lösung | resolución | risoluzione | resolução | समाधान | 解决 | решение | Léisung
+compromise | compromis | Kompromiss | compromiso | compromesso | compromisso | समझौता | 妥协 | компромисс | kompromiss
+empathy | empathie | Empathie | empatía | empatia | empatia | सहानुभूति | 同理心 | эмпатия | empathie
+listening | écoute | Zuhören | escucha | ascolto | escuta | सुनना | 倾听 | слушание | lauschteren
+perspective | perspective | Perspektive | perspectiva | prospettiva | perspectiva | दृष्टिकोण | 视角 | перспектива | perspekiv
+feedback | retour | Rückmeldung | retroalimentación | feedback | feedback | फीडबैक | 反馈 | обратная связь | Feedback
+assertiveness | assertivité | Durchsetzungsvermögen | asertividad | assertività | assertividade | आत्मविश्वास | 断定性 | уверенность в себе | Assertivité
+cooperation | coopération | Zusammenarbeit | cooperación | cooperazione | cooperação | सहयोग | 合作 | сотрудничество | Zesummenaarbecht
+teamwork | travail d'équipe | Teamarbeit | trabajo en equipo | lavoro di squadra | trabalho em equipe | टीमवर्क | 团队合作 | командная работа | Teamwork
+tension | tension | Spannung | tensión | tensione | tensão | तनाव | 紧张 | напряжение | Spannung
+stress | stress | Stress | estrés | stress | estresse | तनाव | 压力 | стресс | Stress
+frustration | frustration | Frustration | frustración | frustrazione | frustração | निराशा | 挫折 | разочарование | Frustration
+anger | colère | Wut | ira | rabbia | raiva | गुस्सा | 愤怒 | гнев | Wut
+respect | respect | Respekt | respeto | rispetto | respeito | सम्मान | 尊重 | уважение | Respekt
+trust | confiance | Vertrauen | confianza | fiducia | confiança | भरोसा | 信任 | доверие | Vertrauen
+patience | patience | Geduld | paciencia | pazienza | paciência | धैर्य | 耐心 | терпение | Geduld
+open-mindedness | ouverture d'esprit | Offenheit | mente abierta | apertura mentale | mente aberta | खुले विचार | 开放心态 | открытость | Offenheit
+clarity | clarté | Klarheit | claridad | chiarezza | clareza | स्पष्टता | 清晰度 | ясность | Klarheit
+objectivity | objectivité | Objektivität | objetividad | obiettività | objetividade | वस्तुपरकता | 客观性 | объективность | Objektivität
+solution | solution | Lösung | solución | soluzione | solução | समाधान | 解决方案 | решение | Lösung
+strategy | stratégie | Strategie | estrategia | strategia | estratégia | रणनीति | 战略 | стратегия | Strategie
+discussion | discussion | Diskussion | discusión | discussione | discussão | चर्चा | 讨论 | дискуссия | Diskussion
+dialogue | dialogue | Dialog | diálogo | dialogo | diálogo | संवाद | 对话 | диалог | Dialog
+policy | politique | Politik | política | politica | política | नीति | 政策 | политика | Politik
+protocol | protocole | Protokoll | protocolo | protocollo | protocolo | प्रोटोकॉल | 协议 | протокол | Protokoll
+boundaries | frontières | Grenzen | fronteras | confini | fronteiras | सीमाएँ | 边界 | границы | Grenzen
+expectations | attentes | Erwartungen | expectativas | aspettative | expectativas | अपेक्षाएँ | 期望 | ожидания | Erwartungen
+goals | objectifs | Ziele | metas | obiettivi | metas | लक्ष्य | 目标 | цели | Ziler
+values | valeurs | Werte | valores | valori | valores | मूल्य | 价值观 | ценности | Wäerter
+intervention | intervention | Intervention | intervención | intervento | intervenção | हस्तक्षेप | 干预 | вмешательство | Interventioun
+appreciation | appréciation | Wertschätzung | apreciación | apprezzamento | apreciação | प्रशंसा | 感谢 | признательность | Apprezzatioun
+transparency | transparence | Transparenz | transparencia | trasparenza | transparência | पारदर्शिता | 透明度 | прозрачность | Transparenz
+accountability | responsabilité | Verantwortung | responsabilidad | responsabilità | responsabilidade | जवाबदेही | 问责 | ответственность | Verantwortung
+confrontation | confrontation | Konfrontation | confrontación | confronto | confronto | सामना | 对抗 | противостояние | Konfrontatioun
+agreement | accord | Vereinbarung | acuerdo | accordo | acordo | समझौता | 协议 | соглашение | Akommes
+dispute | différend | Streit | disputa | controversia | disputa | विवाद | 争议 | спор | Sträit
+support | soutien | Unterstützung | apoyo | supporto | suporte | समर्थन | 支持 | поддержка | Ënnerstëtz
+involvement | implication | Einbindung | involucramiento | coinvolgimento | envolvimento | संलग्नता | 涉及 | вовлеченность | Bäibrocht
+participation | participation | Teilnahme | participación | partecipazione | participação | भागीदारी | 参与 | участие | Participatioun
+responsibility | responsabilité | Verantwortung | responsabilidad | responsabilità | responsabilidade | जिम्मेदारी | 责任 | ответственность | Responsabilité
+acknowledgment | reconnaissance | Anerkennung | reconocimiento | riconoscimento | reconhecimento | स्वीकृति | 认可 | признание | Unerkennung
+engagement | engagement | Engagement | compromiso | impegno | engajamento | सहभागिता | 参与 | вовлечение | Engagement
+leadership | leadership | Führung | liderazgo | leadership | liderança | नेतृत्व | 领导 | лидерство | Leadership
+dynamic | dynamique | dynamisch | dinámico | dinamico | dinâmico | गतिशील | 动态 | динамичный | Dynamisch
+environment | environnement | Umwelt | medio ambiente | ambiente | meio ambiente | पर्यावरण | 环境 | окружение | Ënvironnement
+outcome | résultat | Ergebnis | resultado | risultato | resultado | परिणाम | 结果 | результат | Resultat
+impact | impact | Auswirkungen | impacto | impatto | impacto | प्रभाव | 影响 | влияние | Impact
+solution-oriented | orienté vers les solutions | lösungsorientiert | orientado a soluciones | orientato alle soluzioni | orientado para a solução | समाधान उन्मुख | 解决方案导向 | ориентированный на решение | Léisungsofrentéiert
+conflict resolution | résolution de conflit | Konfliktlösung | resolución de conflictos | risoluzione dei conflitti | resolução de conflitos | संघर्ष समाधान | 冲突解决 | разрешение конфликтов | Konfliktléisung
+workplace | lieu de travail | Arbeitsplatz | lugar de trabajo | luogo di lavoro | local de trabalho | कार्यस्थल | 工作场所 | рабочее место | Arbeitsplatz
+counseling | conseils | Beratung | asesoramiento | consulenza | aconselhamento | सलाह | 咨询 | консультирование | Beratung
+relationship | relation | Beziehung | relación | relazione | relacionamento | संबंध | 关系 | отношение | Beziehung
+collaboration skills | compétences de collaboration | Zusammenarbeitskompetenzen | habilidades de colaboración | competenze di collaborazione | habilidades de colaboração | सहयोग कौशल | 合作技能 | навыки сотрудничества | Zusammenarbeitskompetenzen
+problem-solving | résolution de problèmes | Problemlösung | resolución de problemas | risoluzione dei problemi | resolução de problemas | समस्या समाधान | 解决问题 | решение проблем | Problemlösung
+team dynamics | dynamique d'équipe | Teamdynamik | dinámica de equipo | dinamiche di squadra | dinâmica de equipe | टीम डाइनैमिक्स | 团队动态 | динамика команды | Teamdynamik
+stakeholder | partie prenante | Interessengruppen | interesado | portatore di interesse | parte interessada | हितधारक | 利益相关者 | заинтересованная сторона | Interessengruppen
+differences | différences | Unterschiede | diferencias | differenze | diferenças | अंतर | 差异 | различия | Unterschiede
+priorities | priorités | Prioritäten | prioridades | priorità | prioridades | प्राथमिकताएँ | 优先事项 | приоритеты | Prioritäten

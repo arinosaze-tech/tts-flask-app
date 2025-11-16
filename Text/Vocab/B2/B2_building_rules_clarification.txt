@@ -1,0 +1,65 @@
+building | bâtiment | Gebäude | edificio | edificio | construção | निर्माण | 建筑 | здание | Gebai
+rules | règles | Regeln | reglas | regole | regras | नियम | 规则 | правила | Reegelen
+guidelines | lignes directrices | Richtlinien | directrices | linee guida | diretrizes | दिशा-निर्देश | 指南 | рекомендации | Richtlinne
+construction | construction | Bau | construcción | costruzione | construção | निर्माण | 建设 | строительство | Konstruktioun
+safety | sécurité | Sicherheit | seguridad | sicurezza | segurança | सुरक्षा | 安全 | безопасность | Sécherheet
+permit | permis | Genehmigung | permiso | permesso | licença | अनुमति | 许可 | разрешение | Erlaab
+inspection | inspection | Inspektion | inspección | ispezione | inspeção | निरीक्षण | 检查 | инспекция | Inspektioun
+teamwork | travail d'équipe | Teamarbeit | trabajo en equipo | lavoro di squadra | trabalho em equipe | टीमवर्क | 团队合作 | командная работа | Teamwork
+contract | contrat | Vertrag | contrato | contratto | contrato | अनुबंध | 合同 | контракт | Kontrakt
+design | conception | Design | diseño | progettazione | design | डिज़ाइन | 设计 | дизайн | Design
+materials | matériaux | Materialien | materiales | materiali | materiais | सामग्री | 材料 | материалы | Materialien
+inspection | inspection | Inspektion | inspección | ispezione | inspeção | निरीक्षण | 检查 | инспекция | Inspektioun
+foundation | fondation | Fundament | fundación | fondazione | fundação | आधार | 基础 | основание | Grondlag
+structure | structure | Struktur | estructura | struttura | estrutura | संरचना | 结构 | структура | Struktur
+height | hauteur | Höhe | altura | altezza | altura | ऊँचाई | 高度 | высота | Héicht
+clearance | dégagement | Abstand | despeje | chiaro | espaço livre | Clearance | 间隙 | зазор | Clearance
+access | accès | Zugang | acceso | accesso | acesso | पहुँच | 访问 | доступ | Zugriff
+site | site | Standort | sitio | sito | local | साइट | 站点 | сайт | Sëtz
+layout | mise en page | Layout | diseño | layout | disposição | लेआउट | 布局 | макет | Layout
+environment | environnement | Umwelt | medio ambiente | ambiente | ambiente | पर्यावरण | 环境 | окружающая среда | Ëmfeld
+hazard | danger | Gefahr | peligro | pericolo | risco | खतरा | 危险 | опасность | Risiko
+regulation | réglementation | Vorschrift | regulación | regolamento | regulação | नियम | 规章 | регулирование | Regulatioun
+warranty | garantie | Garantie | garantía | garanzia | garantia | वारंटी | 保修 | гарантия | Garantie
+plan | plan | Plan | plan | piano | plano | योजना | 计划 | план | Plang
+budget | budget | Budget | presupuesto | bilancio | orçamento | बजट | 预算 | бюджет | Budget
+expense | dépense | Ausgabe | gasto | spesa | despesa | खर्च | 费用 | расход | Ausgabe
+deadline | délai | Frist | fecha límite | scadenza | prazo | अंतिम तिथि | 截止日期 | срок | Frist
+maintenance | maintenance | Wartung | mantenimiento | manutenzione | manutenção | रखरखाव | 维护 | обслуживание | Wartung
+compliance | conformité | Einhaltung | cumplimiento | conformità | conformidade | अनुपालन | 合规 | соответствие | Konformitéit
+report | rapport | Bericht | informe | rapporto | relatório | रिपोर्ट | 报告 | отчет | Rapport
+approval | approbation | Genehmigung | aprobación | approvazione | aprovação | अनुमोदन | 批准 | одобрение | Genehmegung
+contractor | entrepreneur | Auftragnehmer | contratista | appaltatore | contratado | ठेकेदार | 承包商 | подрядчик | Entreprener
+worker | travailleur | Arbeiter | trabajador | lavoratore | trabalhador | श्रमिक | 工人 | работник | Aarbechter
+equipment | équipement | Ausrüstung | equipo | attrezzatura | equipamento | उपकरण | 设备 | оборудование | Ausrüstung
+tool | outil | Werkzeug | herramienta | strumento | ferramenta | उपकरण | 工具 | инструмент | Tool
+safety gear | équipement de protection | Sicherheitsausrüstung | equipo de seguridad | equipaggiamento di sicurezza | equipamento de proteção | सुरक्षा उपकरण | 安全装备 | средства безопасности | Sécherheetsgear
+environmental | environnemental | umweltbezogen | ambiental | ambientale | ambiental | पर्यावरणीय | 环境的 | экологический | Umwelt-
+risk assessment | évaluation des risques | Risikobewertung | evaluación de riesgos | valutazione dei rischi | avaliação de riscos | जोखिम मूल्यांकन | 风险评估 | оценка рисков | Risikoevaluatioun
+foundation | fondation | Fundament | fundación | fondazione | fundação | नींव | 基础 | основание | Grondlag
+scaffold | échafaudage | Gerüst | andamio | ponteggio | andaime | गणित | 脚手架 | строительные леса | Gerüst
+dimensions | dimensions | Dimensionen | dimensiones | dimensioni | dimensões | dimensiones | 尺寸 | размеры | Dimensionen
+blueprint | plan | Bauplan | plano | progetto | planta | योजन | 蓝图 | чертеж | Plang
+renovation | rénovation | Renovierung | renovación | ristrutturazione | renovação | नवीनीकरण | 装修 | Renovation | Renovatioun
+inspection | inspection | Inspektion | inspección | ispezione | inspeção | निरीक्षण | 检查 | инспекция | Inspektioun
+furniture | meubles | Möbel | muebles | mobili | móveis | फर्नीचर | 家具 | мебель | Mobiliärt
+interior | intérieur | Innen | interior | interno | interior | आंतरिक | 内部 | интерьер | Interieur
+exterior | extérieur | Außen | exterior | esterno | exterior | बाह्य | 外部 | экстерьер | Exterieur
+completion | achèvement | Abschluss | finalización | completamento | conclusão | पूर्णता | 完成 | завершение | Vollendung
+process | processus | Prozess | proceso | processo | processo | प्रक्रिया | 过程 | процесс | Prozess
+utility | utilité | Nutzen | utilidad | utilità | utilidade | उपयोगिता | 效用 | утилита | Nutz
+contract | contrat | Vertrag | contrato | contratto | contrato | अनुबंध | 合同 | контракт | Vertrag
+support | soutien | Unterstützung | apoyo | supporto | suporte | समर्थन | 支持 | поддержка | Stëmmung
+load | chargement | Ladung | carga | carico | carga | लोड | 负载 | нагрузка | Lading
+finish | finir | beenden | terminar | finire | terminar | समाप्त करना | 完成 | завершить | Fäerdeg
+fire safety | sécurité incendie | Brandschutz | seguridad contra incendios | sicurezza antincendio | segurança contra incêndios | अग्नि सुरक्षा | 火灾安全 | противопожарная безопасность | Feiertrag
+emergency exit | sortie de secours | Notausgang | salida de emergencia | uscita di emergenza | saída de emergência | आपातकालीन निकास | 紧急出口 | аварийный выход | Noutgang
+signage | signalisation | Beschilderung | señalización | segnaletica | sinalização | संकेत | 标识 | сигнализация | Signalisation
+landscaping | aménagement paysager | Landschaftsgestaltung | paisajismo | paesaggio | paisagismo | परिदृश्य निर्माण | 景观设计 | благоустройство | Landschaftsgestaltung
+cleanliness | propreté | Sauberkeit | limpieza | pulizia | limpeza | स्वच्छता | 清洁 | чистота | Sauberkeet
+parking | stationnement | Parken | aparcamiento | parcheggio | estacionamento | पार्किंग | 停车 | парковка | Parkéieren
+transportation | transport | Transport | transporte | trasporto | transporte | परिवहन | 交通 | транспорт | Transport
+entrance | entrée | Eingang | entrada | ingresso | entrada | प्रवेश | 入口 | вход | Eingang
+visibility | visibilité | Sichtbarkeit | visibilidad | visibilità | visibilidade | दृश्यता | 可见性 | видимость | Sichtbarkeit
+amenities | commodités | Annehmlichkeiten | comodidades | servizi | comodidades | सुविधाएँ | 设施 | удобства | Urechnungen
+functionality | fonctionnalité | Funktionalität | funcionalidad | funzionalità | funcionalidade | कार्यक्षमता | 功能 | функциональность | Funktionalité

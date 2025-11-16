@@ -1,0 +1,55 @@
+refund | remboursement | Rückerstattung | reembolso | rimborso | reembolso | रिफंड | 退款 | возврат | Zeréckbezuelung
+exchange | échange | Umtausch | cambio | cambio | troca | एक्सचेंज | 换货 | обмен | Ëmtausch
+receipt | reçu | Quittung | recibo | scontrino | recibo | रसीद | 收据 | чек | Quittung
+order | commande | Bestellung | pedido | ordine | pedido | ऑर्डर | 订单 | заказ | Bestellung
+item | article | Artikel | artículo | articolo | artigo | वस्तु | 商品 | товар | Artikel
+product | produit | Produkt | producto | prodotto | produto | उत्पाद | 产品 | продукт | Produit
+package | colis | Paket | paquete | pacco | pacote | पार्सल | 包裹 | посылка | Pak
+box | boîte | Karton | caja | scatola | caixa | डिब्बा | 箱子 | коробка | Këscht
+customer | client | Kunde | cliente | cliente | cliente | ग्राहक | 顾客 | клиент | Client
+seller | vendeur | Verkäufer | vendedor | venditore | vendedor | विक्रेता | 卖家 | продавец | Verkeefer
+store | magasin | Laden | tienda | negozio | loja | दुकान | 商店 | магазин | Buttek
+website | site web | Website | sitio web | sito web | site | वेबसाइट | 网站 | сайт | Websäit
+account | compte | Konto | cuenta | account | conta | खाता | 账户 | аккаунт | Kont
+reason | raison | Grund | razón | motivo | motivo | कारण | 原因 | причина | Grond
+damage | dégât | Schaden | daño | danno | dano | नुकसान | 损坏 | повреждение | Schued
+fault | défaut | Fehler | defecto | difetto | defeito | खराबी | 故障 | неисправность | Defekt
+size | taille | Größe | tamaño | taglia | tamanho | आकार | 尺寸 | размер | Gréisst
+color | couleur | Farbe | color | colore | cor | रंग | 颜色 | цвет | Faarf
+condition | état | Zustand | estado | stato | estado | स्थिति | 状况 | состояние | Zoustand
+packaging | emballage | Verpackung | embalaje | imballaggio | embalagem | पैकेजिंग | 包装 | упаковка | Verpakung
+address | adresse | Adresse | dirección | indirizzo | endereço | पता | 地址 | адрес | Adress
+delivery | livraison | Lieferung | entrega | consegna | entrega | डिलीवरी | 送货 | доставка | Liwwerung
+cost | coût | Kosten | costo | costo | custo | लागत | 费用 | стоимость | Käschten
+return | retour | Rückgabe | devolución | reso | devolução | वापसी | 退货 | возврат | Retour
+request | demander | anfordern | pedir | richiedere | pedir | अनुरोध करना | 请求 | просить | ufroen
+contact | contacter | kontaktieren | contactar | contattare | contactar | संपर्क करना | 联系 | связаться | kontaktéieren
+send | envoyer | schicken | enviar | mandare | enviar | भेजना | 发送 | отправить | schécken
+ship | expédier | versenden | enviar | spedire | enviar | भेजना | 发货 | отправить | verschécken
+pack | emballer | einpacken | empaquetar | imballare | embalar | पैक करना | 打包 | упаковать | verpaaken
+open | ouvrir | öffnen | abrir | aprire | abrir | खोलना | 打开 | открыть | opmaachen
+use | utiliser | benutzen | usar | usare | usar | इस्तेमाल करना | 使用 | использовать | benotzen
+keep | garder | behalten | guardar | tenere | guardar | रखना | 保留 | хранить | halen
+cancel | annuler | stornieren | cancelar | annullare | cancelar | रद्द करना | 取消 | отменять | ofsoen
+track | suivre | verfolgen | seguir | seguire | seguir | ट्रैक करना | 跟踪 | отслеживать | nogoen
+wait | attendre | warten | esperar | aspettare | esperar | इंतजार करना | 等 | ждать | waarden
+check | vérifier | prüfen | revisar | controllare | verificar | जांच करना | 检查 | проверять | kontrolléieren
+print | imprimer | drucken | imprimir | stampare | imprimir | छापना | 打印 | печатать | drécken
+add | ajouter | hinzufügen | añadir | aggiungere | adicionar | जोड़ना | 添加 | добавлять | dobäisetzen
+receive | recevoir | bekommen | recibir | ricevere | receber | प्राप्त करना | 收到 | получать | kréien
+replace | remplacer | ersetzen | reemplazar | sostituire | substituir | बदलना | 替换 | заменять | ersetzen
+faulty | défectueux | defekt | defectuoso | difettoso | defeituoso | खराब | 有故障的 | неисправный | defekt
+damaged | abîmé | beschädigt | dañado | danneggiato | danificado | क्षतिग्रस्त | 损坏的 | поврежденный | beschiedegt
+wrong | faux | falsch | equivocado | sbagliato | errado | गलत | 错的 | неправильный | falsch
+used | d'occasion | gebraucht | usado | usato | usado | इस्तेमाल किया हुआ | 二手的 | подержанный | gebraucht
+unused | inutilisé | unbenutzt | sin usar | non usato | não usado | अप्रयुक्त | 未使用的 | неиспользованный | onbenotzt
+new | neuf | neu | nuevo | nuovo | novo | नया | 新的 | новый | nei
+original | original | original | original | originale | original | असली | 原装 | оригинальный | original
+broken | cassé | kaputt | roto | rotto | quebrado | टूटा हुआ | 坏的 | сломанный | kaputt
+late | en retard | spät | tarde | in ritardo | atrasado | देर से | 晚 | поздно | spéit
+return policy | politique de retour | Rückgaberecht | política de devoluciones | politica di reso | política de devolução | वापसी नीति | 退货政策 | политика возврата | Retourpolitik
+money back | remboursement | Geld zurück | devolución de dinero | rimborso | reembolso | पैसे वापस | 退款 | возврат денег | Suen zréck
+order number | numéro de commande | Bestellnummer | número de pedido | numero d'ordine | número do pedido | ऑर्डर नंबर | 订单号 | номер заказа | Bestellnummer
+return label | étiquette de retour | Rücksendeetikett | etiqueta de devolución | etichetta di reso | etiqueta de devolução | रिटर्न लेबल | 退货标签 | этикетка для возврата | Retouretikett
+store credit | crédit en magasin | Gutschrift | crédito en tienda | credito in negozio | crédito na loja | स्टोर क्रेडिट | 店内余额 | кредит магазина | Butteksguthaben
+customer service | service client | Kundenservice | servicio al cliente | servizio clienti | atendimento ao cliente | ग्राहक सेवा | 客服 | служба поддержки | Clientsservice

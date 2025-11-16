@@ -1,0 +1,65 @@
+meeting | réunion | Treffen | reunión | incontro | reunião | बैठक | 会议 | встреча | Treffen
+tenant | locataire | Mieter | inquilino | inquilino | inquilino | किरायादार | 租户 | арендатор | Mieter
+association | association | Verein | asociación | associazione | associação | संघ | 协会 | ассоциация | Vereen
+agreement | accord | Vereinbarung | acuerdo | accordo | acordo | समझौता | 协议 | соглашение | Accord
+responsibility | responsabilité | Verantwortung | responsabilidad | responsabilità | responsabilidade | जिम्मेदारी | 责任 | ответственность | Verantwortung
+discussion | discussion | Diskussion | discusión | discussione | discussão | चर्चा | 讨论 | обсуждение | Diskussion
+complaint | plainte | Beschwerde | queja | reclamo | reclamação | शिकायत | 投诉 | жалоба | Plainte
+issue | problème | Problem | problema | problema | questão | मुद्दा | 问题 | вопрос | Probleem
+resolution | résolution | Resolution | resolución | risoluzione | resolução | निर्णय | 决议 | резолюция | Resolutioun
+community | communauté | Gemeinschaft | comunidad | comunità | comunidade | समुदाय | 社区 | сообщество | Gemeng
+participation | participation | Teilnahme | participación | partecipazione | participação | भागीदारी | 参与 | участие | Participatioun
+membership | adhésion | Mitgliedschaft | membresía | appartenenza | filiação | सदस्यता | 会员资格 | членство | Memberéck
+vote | vote | Stimme | voto | voto | voto | मतदान | 投票 | голос | Stëmm
+policy | politique | Politik | política | politica | política | नीति | 政策 | политика | Politik
+maintenance | maintenance | Wartung | mantenimiento | manutenzione | manutenção | रखरखाव | 维护 | обслуживание | Ënnerhalt
+repair | réparer | reparieren | reparar | riparare | consertar | मरम्मत करना | 修理 | ремонт | reparéieren
+communication | communication | Kommunikation | comunicación | comunicazione | comunicação | संचार | 交流 | коммуникация | Kommunikation
+agreement | accord | Vereinbarung | acuerdo | accordo | acordo | समझौता | 协议 | соглашение | Accord
+representative | représentant | Vertreter | representante | rappresentante | representante | प्रतिनिधि | 代表 | представитель | Vertreter
+concern | préoccupation | Sorge | preocupación | preoccupazione | preocupação | चिंता | 担忧 | забота | Sorge
+proposal | proposition | Vorschlag | propuesta | proposta | proposta | प्रस्ताव | 提议 | предложение | Vorschlag
+schedule | emploi du temps | Zeitplan | horario | programma | cronograma | कार्यक्रम | 时间表 | расписание | Zeitplan
+agenda | ordre du jour | Tagesordnung | agenda | agenda | agenda | एजेंडा | 议程 | повестка дня | Tagesordnung
+facilities | installations | Einrichtungen | instalaciones | strutture | instalações | सुविधाएं | 设施 | объекты | Einrichtungen
+expenses | dépenses | Ausgaben | gastos | spese | despesas | खर्च | 开支 | расходы | Ausgaben
+budget | budget | Budget | presupuesto | bilancio | orçamento | बजट | 预算 | бюджет | Budget
+decision | décision | Entscheidung | decisión | decisione | decisão | निर्णय | 决定 | решение | Entscheidung
+support | soutien | Unterstützung | apoyo | supporto | suporte | समर्थन | 支持 | поддержка | Hëllef
+dispute | différend | Streit | disputa | controversia | disputa | विवाद | 争议 | спор | Streituweis
+neighborhood | quartier | Nachbarschaft | vecindario | quartiere | bairro | पड़ोस | 邻里 | соседство | Quartier
+service | service | Dienst | servicio | servizio | serviço | सेवा | 服务 | услуга | Service
+action | action | Aktion | acción | azione | ação | क्रिया | 行动 | действие | Aktioun
+feedback | retour | Rückmeldung | retroalimentación | feedback | feedback | फीडबैक | 反馈 | обратная связь | Rentrée
+priority | priorité | Priorität | prioridad | priorità | prioridade | प्राथमिकता | 优先事项 | приоритет | Prioritéit
+communication | communication | Kommunikation | comunicación | comunicazione | comunicação | संवाद | 沟通 | коммуникация | Kommunikatioun
+objective | objectif | Ziel | objetivo | obiettivo | objetivo | उद्देश्य | 目标 | цель | Zil
+visibility | visibilité | Sichtbarkeit | visibilidad | visibilità | visibilidade | दृश्यता | 可见性 | видимость | Sichtbarkeit
+cooperation | coopération | Kooperation | cooperación | cooperazione | cooperação | सहयोग | 合作 | сотрудничество | Zesummenaarbecht
+transparency | transparence | Transparenz | transparencia | trasparenza | transparência | पारदर्शिता | 透明度 | прозрачность | Transparenz
+committee | comité | Ausschuss | comité | comitato | comissão | समिति | 委员会 | комитет | Kommissioun
+satisfaction | satisfaction | Zufriedenheit | satisfacción | soddisfazione | satisfação | संतोष | 满意 | удовлетворение | Zufriedenheit
+welcoming | accueillant | einladend | acogedor | accogliente | acolhedor | स्वागत | 热情 | гостеприимный | kommen
+engagement | engagement | Engagement | compromiso | impegno | compromisso | भागीदारी | 参与 | вовлечение | Engagement
+trust | confiance | Vertrauen | confianza | fiducia | confiança | विश्वास | 信任 | доверие | Vertrauen
+information | information | Information | información | informazione | informação | जानकारी | 信息 | информация | Informatioun
+rules | règles | Regeln | reglas | regole | regras | नियम | 规则 | правила | Reegelen
+rights | droits | Rechte | derechos | diritti | direitos | अधिकार | 权利 | права | Rechter
+obligations | obligations | Verpflichtungen | obligaciones | obblighi | obrigações | कर्तव्यों | 义务 | обязательства | Obligatiounen
+attendance | présence | Anwesenheit | asistencia | presenza | presença | उपस्थिति | 出席 | посещение | Anwesenheet
+collaboration | collaboration | Zusammenarbeit | colaboración | collaborazione | colaboração | सहयोग | 合作 | сотрудничество | Zesummenaarbecht
+safety | sécurité | Sicherheit | seguridad | sicurezza | segurança | सुरक्षा | 安全 | безопасность | Sécherheit
+vision | vision | Vision | visión | visione | visão | दृष्टि | 视野 | видение | Visioun
+ideas | idées | Ideen | ideas | idee | ideias | विचार | 想法 | идеи | Iddien
+problems | problèmes | Probleme | problemas | problemi | problemas | समस्याएँ | 问题 | проблемы | Problemer
+clarity | clarté | Klarheit | claridad | chiarezza | clareza | स्पष्टता | 清晰 | ясность | Kläarheet
+involvement | implication | Beteiligung | participación | coinvolgimento | envolvimento | संलग्नता | 参与 | участие | Beteegung
+update | mise à jour | aktualisieren | actualización | aggiornare | atualizar | अपडेट करें | 更新 | обновление | Aktualisierung
+diversity | diversité | Vielfalt | diversidad | diversità | diversidade | विविधता | 多样性 | разнообразие | Diversitéit
+outcome | résultat | Ergebnis | resultado | risultato | resultado | परिणाम | 结果 | результат | Resultat
+activity | activité | Aktivität | actividad | attività | atividade | गतिविधि | 活动 | деятельность | Aktivitéit
+advocacy | plaidoyer | Advocacy | defensa | difesa | defesa | वकालत | 倡导 | адвокация | Plädoyer
+benefits | avantages | Vorteile | beneficios | benefici | benefícios | लाभ | 好处 | преимущества | Virdeeler
+partnership | partenariat | Partnerschaft | asociación | partnership | parceria | साझेदारी | 合作伙伴关系 | партнерство | Partnerschaf
+resources | ressources | Ressourcen | recursos | risorse | recursos | संसाधन | 资源 | ресурсы | Ressourcen
+planning | planification | Planung | planificación | pianificazione | planejamento | योजना | 计划 | планирование | Planung

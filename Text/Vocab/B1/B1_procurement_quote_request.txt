@@ -1,0 +1,55 @@
+procurement | approvisionnement | Beschaffung | adquisición | approvvigionamento | aquisição | खरीद | 采购 | закупка | Beschaffung
+supplier | fournisseur | Lieferant | proveedor | fornitore | fornecedor | आपूर्तिकर्ता | 供应商 | поставщик | Liwwerant
+buyer | acheteur | Käufer | comprador | compratore | comprador | खरीदार | 买家 | покупатель | Keefer
+quote | devis | Angebot | cotización | preventivo | cotação | कोटेशन | 报价 | коммерческое предложение | Offert
+price | prix | Preis | precio | prezzo | preço | कीमत | 价格 | цена | Präis
+budget | budget | Budget | presupuesto | budget | orçamento | बजट | 预算 | бюджет | Budget
+discount | réduction | Rabatt | descuento | sconto | desconto | छूट | 折扣 | скидка | Rabatt
+delivery | livraison | Lieferung | entrega | consegna | entrega | डिलीवरी | 交货 | доставка | Liwwerung
+deadline | date limite | Frist | fecha límite | scadenza | prazo | समय सीमा | 截止日期 | крайний срок | Frist
+quantity | quantité | Menge | cantidad | quantità | quantidade | मात्रा | 数量 | количество | Quantitéit
+specification | spécification | Spezifikation | especificación | specifica | especificação | विशेष विवरण | 规格 | спецификация | Spezifikatioun
+sample | échantillon | Muster | muestra | campione | amostra | नमूना | 样品 | образец | Muster
+contact | contact | Kontakt | contacto | contatto | contato | संपर्क | 联系人 | контакт | Kontakt
+warranty | garantie | Garantie | garantía | garanzia | garantia | गारंटी | 保修 | гарантия | Garantie
+invoice | facture | Rechnung | factura | fattura | fatura | बिल | 发票 | счет | Rechnung
+payment | paiement | Zahlung | pago | pagamento | pagamento | भुगतान | 付款 | оплата | Bezuelung
+shipment | expédition | Lieferung | envío | spedizione | envio | शिपमेंट | 装运 | отгрузка | Liwwerung
+availability | disponibilité | Verfügbarkeit | disponibilidad | disponibilità | disponibilidade | उपलब्धता | 可用性 | наличие | Verfügbarkeet
+stock | stock | Bestand | stock | scorta | estoque | स्टॉक | 库存 | запас | Stock
+tax | taxe | Steuer | impuesto | imposta | imposto | कर | 税 | налог | Steier
+request | demande | Anfrage | solicitud | richiesta | solicitação | अनुरोध | 请求 | запрос | Demande
+Supply | fourniture | Versorgung | suministro | fornitura | fornecimento | आपूर्ति | 供应 | снабжение | Versuergung
+purchase | achat | Kauf | compra | acquisto | compra | खरीद | 购买 | покупка | Kaf
+order | commande | Bestellung | pedido | ordine | pedido | ऑर्डर | 订单 | заказ | Bestellung
+compare | comparer | vergleichen | comparar | confrontare | comparar | तुलना करना | 比较 | сравнивать | vergläichen
+negotiate | négocier | verhandeln | negociar | negoziare | negociar | बातचीत करना | 谈判 | вести переговоры | verhandelen
+confirm | confirmer | bestätigen | confirmar | confermare | confirmar | पुष्टि करना | 确认 | подтвердить | confirméieren
+approve | approuver | genehmigen | aprobar | approvare | aprovar | मंजूर करना | 批准 | одобрить | approuvéieren
+accept | accepter | akzeptieren | aceptar | accettare | aceitar | स्वीकार करना | 接受 | принять | akzeptéieren
+reject | rejeter | ablehnen | rechazar | rifiutare | rejeitar | अस्वीकार करना | 拒绝 | отклонить | ofleenen
+revise | réviser | überarbeiten | revisar | rivedere | revisar | संशोधित करना | 修改 | пересматривать | iwwerschaffen
+update | mettre à jour | aktualisieren | actualizar | aggiornare | atualizar | अपडेट करना | 更新 | обновить | aktualiséieren
+deliver | livrer | liefern | entregar | consegnare | entregar | पहुंचाना | 送货 | доставлять | liwweren
+ship | expédier | versenden | enviar | spedire | enviar | भेजना | 发货 | отправлять | verschécken
+pay | payer | bezahlen | pagar | pagare | pagar | भुगतान करना | 付款 | платить | bezuelen
+replace | remplacer | ersetzen | reemplazar | sostituire | substituir | बदलना | 更换 | заменить | ersetzen
+track | suivre | verfolgen | rastrear | tracciare | rastrear | ट्रैक करना | 跟踪 | отслеживать | verfollegen
+available | disponible | verfügbar | disponible | disponibile | disponível | उपलब्ध | 可用 | доступный | verfügbar
+urgent | urgent | dringend | urgente | urgente | urgente | तत्काल | 紧急 | срочный | dréngend
+pending | en attente | ausstehend | pendiente | in sospeso | pendente | लंबित | 待处理 | в ожидании | ausstoend
+approved | approuvé | genehmigt | aprobado | approvato | aprovado | मंजूर | 已批准 | одобренный | guttgeheescht
+final | définitif | endgültig | final | finale | final | अंतिम | 最终 | окончательный | definitiv
+total | total | gesamt | total | totale | total | कुल | 总计 | общий | total
+partial | partiel | teilweise | parcial | parziale | parcial | आंशिक | 部分的 | частичный | deelweis
+standard | standard | Standard | estándar | standard | padrão | मानक | 标准 | стандартный | Standard
+custom | personnalisé | benutzerdefiniert | personalizado | personalizzato | personalizado | अनुकूलित | 自定义 | пользовательский | benotzerdefinéiert
+competitive | compétitif | wettbewerbsfähig | competitivo | competitivo | competitivo | प्रतिस्पर्धी | 有竞争力的 | конкурентоспособный | konkurrenzfäeg
+affordable | abordable | bezahlbar | asequible | abbordabile | acessível | किफायती | 实惠 | доступный | bezuelbar
+clear | clair | klar | claro | chiaro | claro | स्पष्ट | 清楚 | ясный | kloer
+request for quote | demande de devis | Angebotsanfrage | solicitud de presupuesto | richiesta di preventivo | pedido de orçamento | कोटेशन का अनुरोध | 询价 | запрос коммерческого предложения | Ufro fir en Devis
+unit price | prix unitaire | Stückpreis | precio unitario | prezzo unitario | preço unitário | इकाई मूल्य | 单价 | цена за единицу | Stéckpräis
+total cost | coût total | Gesamtkosten | coste total | costo totale | custo total | कुल लागत | 总成本 | общая стоимость | Gesamtkäschten
+payment term | condition de paiement | Zahlungsbedingung | condición de pago | condizione di pagamento | condição de pagamento | भुगतान की शर्त | 付款条款 | условие оплаты | Bezuelbedingung
+purchase order | bon de commande | Bestellung | orden de compra | ordine d'acquisto | ordem de compra | खरीद आदेश | 采购订单 | заказ на закупку | Akaafsbestellung
+shipping address | adresse de livraison | Lieferadresse | dirección de entrega | indirizzo di spedizione | endereço de entrega | शिपिंग पता | 收货地址 | адрес доставки | Liwweradress

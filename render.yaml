@@ -1,0 +1,21 @@
+services:
+  - type: web
+    name: masora-tts
+    env: python
+    plan: free
+    buildCommand: "pip install -r requirements.txt"
+    startCommand: "gunicorn wsgi:app --bind 0.0.0.0:$PORT --timeout 900"
+
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.11.10
+
+      # این‌ها را در Dashboard مقداردهی کن (secret)، اینجا فقط تعریف می‌کنیم
+      - key: OPENAI_API_KEY
+        sync: false
+      - key: ELEVENLABS_API_KEY
+        sync: false
+      - key: PIXABAY_API_KEY
+        sync: false
+      - key: UNSPLASH_API_KEY
+        sync: false

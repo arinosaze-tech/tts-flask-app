@@ -1,0 +1,55 @@
+clinic | clinique | Klinik | clínica | clinica | clínica | क्लिनिक | 诊所 | клиника | Klinik
+test | test | Test | prueba | test | teste | टेस्ट | 检测 | тест | Test
+appointment | rendez-vous | Termin | cita | appuntamento | consulta | अपॉइंटमेंट | 预约 | запись | Rendez-vous
+booking | réservation | Reservierung | reserva | prenotazione | reserva | बुकिंग | 预订 | бронирование | Reservatioun
+schedule | horaire | Zeitplan | horario | orario | horário | शेड्यूल | 日程 | расписание | Zäitplang
+slot | créneau | Zeitfenster | turno | turno | vaga | स्लॉट | 时段 | окно | Zäitfenster
+time | heure | Zeit | hora | ora | hora | समय | 时间 | время | Zäit
+date | date | Datum | fecha | data | data | तारीख | 日期 | дата | Datum
+patient | patient | Patient | paciente | paziente | paciente | मरीज | 病人 | пациент | Patient
+nurse | infirmier | Krankenpfleger | enfermero | infermiere | enfermeiro | नर्स | 护士 | медсестра | Infirmier
+doctor | médecin | Arzt | médico | medico | médico | डॉक्टर | 医生 | врач | Dokter
+receptionist | réceptionniste | Rezeptionist | recepcionista | receptionist | recepcionista | रिसेप्शनिस्ट | 接待员 | администратор | Rezeptiounist
+desk | bureau | Schreibtisch | escritorio | scrivania | escrivaninha | डेस्क | 书桌 | письменный стол | Schreifdësch
+phone | téléphone | Telefon | teléfono | telefono | telefone | फोन | 电话 | телефон | Telefon
+email | e-mail | E-Mail | correo electrónico | email | e-mail | ईमेल | 电子邮件 | электронная почта | E-Mail
+message | message | Nachricht | mensaje | messaggio | mensagem | संदेश | 消息 | сообщение | Noriicht
+form | formulaire | Formular | formulario | modulo | formulário | फॉर्म | 表格 | форма | Formulaire
+id | ID | ID | ID | ID | ID | आईडी | 身份证 | ID | ID
+card | carte | Karte | tarjeta | carta | cartão | कार्ड | 卡 | карта | Kaart
+fee | frais | Gebühr | cuota | tassa | taxa | शुल्क | 费用 | плата | Taxe
+result | résultat | Ergebnis | resultado | risultato | resultado | नतीजा | 结果 | результат | Resultat
+sample | échantillon | Probe | muestra | campione | amostra | नमूना | 样品 | образец | Echantillon
+lab | laboratoire | Labor | laboratorio | laboratorio | laboratório | लैब | 实验室 | лаборатория | Labo
+address | adresse | Adresse | dirección | indirizzo | endereço | पता | 地址 | адрес | Adress
+book | réserver | buchen | reservar | prenotare | reservar | बुक करना | 预订 | бронировать | buchen
+confirm | confirmer | bestätigen | confirmar | confermare | confirmar | पुष्टि करना | 确认 | подтвердить | confirméieren
+cancel | annuler | stornieren | cancelar | annullare | cancelar | रद्द करना | 取消 | отменить | annuléieren
+change | changer | ändern | cambiar | cambiare | mudar | बदलना | 更改 | изменить | änneren
+reschedule | reprogrammer | verschieben | reprogramar | spostare | reagendar | रीशेड्यूल करना | 改期 | перенести | verréckelen
+choose | choisir | wählen | elegir | scegliere | escolher | चुनना | 选择 | выбрать | auswielen
+check | vérifier | prüfen | revisar | controllare | verificar | जांचना | 检查 | проверить | kontrolléieren
+call | appeler | anrufen | llamar | chiamare | ligar | फोन करना | 打电话 | звонить | uruffen
+contact | contacter | kontaktieren | contactar | contattare | contactar | संपर्क करना | 联系 | связаться | kontaktéieren
+text | envoyer un message | eine Nachricht schreiben | enviar un mensaje | mandare un messaggio | enviar uma mensagem | संदेश भेजना | 发短信 | отправить сообщение | eng Noriicht schécken
+register | s'inscrire | sich anmelden | registrarse | registrarsi | registrar-se | रजिस्टर करना | 注册 | зарегистрироваться | sech umellen
+sign | signer | unterschreiben | firmar | firmare | assinar | हस्ताक्षर करना | 签名 | подписать | ënnerschreiwen
+fill | remplir | ausfüllen | rellenar | riempire | preencher | भरना | 填写 | заполнить | ausfëllen
+pay | payer | bezahlen | pagar | pagare | pagar | भुगतान करना | 付钱 | платить | bezuelen
+bring | apporter | bringen | traer | portare | trazer | लाना | 带来 | принести | bréngen
+wait | attendre | warten | esperar | aspettare | esperar | इंतजार करना | 等 | ждать | waarden
+arrive | arriver | ankommen | llegar | arrivare | chegar | पहुँचना | 到 | приехать | ukommen
+available | disponible | verfügbar | disponible | disponibile | disponível | उपलब्ध | 有空 | доступный | verfügbar
+next | prochain | nächste | próximo | prossimo | próximo | अगला | 下一个 | следующий | nächst
+early | tôt | früh | temprano | presto | cedo | जल्दी | 早 | рано | fréi
+late | tard | spät | tarde | tardi | tarde | देर | 晚 | поздно | spéit
+urgent | urgent | dringend | urgente | urgente | urgente | तत्काल | 紧急 | срочный | dréngend
+open | ouvert | offen | abierto | aperto | aberto | खुला | 打开 | открытый | oppen
+busy | occupé | beschäftigt | ocupado | occupato | ocupado | व्यस्त | 忙 | занятый | beschäftegt
+free | gratuit | kostenlos | gratis | gratis | grátis | मुफ़्त | 免费 | бесплатно | gratis
+book a test | réserver un test | einen Test buchen | reservar una prueba | prenotare un test | marcar um teste | टेस्ट बुक करना | 预约检测 | записаться на тест | en Test reservéieren
+make appointment | prendre rendez-vous | einen Termin machen | pedir cita | fissare un appuntamento | marcar uma consulta | अपॉइंटमेंट लेना | 预约 | записаться на прием | e Rendez-vous huelen
+confirm booking | confirmer la réservation | die Buchung bestätigen | confirmar la reserva | confermare la prenotazione | confirmar a reserva | बुकिंग की पुष्टि करना | 确认预订 | подтвердить бронирование | d'Reservatioun confirméieren
+cancel appointment | annuler le rendez-vous | den Termin absagen | cancelar la cita | annullare l'appuntamento | cancelar a consulta | अपॉइंटमेंट रद्द करना | 取消预约 | отменить запись | de Rendez-vous ofsoen
+check result | vérifier le résultat | das Ergebnis prüfen | ver el resultado | controllare il risultato | ver o resultado | नतीजा देखना | 查看结果 | проверить результат | d'Resultat nokucken
+pay fee | payer les frais | die Gebühr bezahlen | pagar la tasa | pagare la tassa | pagar a taxa | फीस देना | 缴费 | заплатить сбор | d'Fraisen bezuelen

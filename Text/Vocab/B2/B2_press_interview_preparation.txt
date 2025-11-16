@@ -1,0 +1,65 @@
+interview | entretien | Vorstellungsgespräch | entrevista | colloquio | entrevista | साक्षात्कार | 面试 | интервью | Interviewsgespräch
+candidate | candidat | Bewerber | candidato | candidato | candidato | उम्मीदवार | 候选人 | кандидат | Kandidat
+preparation | préparation | Vorbereitung | preparación | preparazione | preparação | तैयारी | 准备 | подготовка | Vorbereitung
+question | question | Frage | pregunta | domanda | pergunta | प्रश्न | 问题 | вопрос | Fro
+answer | réponse | Antwort | respuesta | risposta | resposta | उत्तर | 答案 | ответ | Äntwert
+confidence | confiance | Vertrauen | confianza | fiducia | confiança | आत्मविश्वास | 自信 | уверенность | Vertrauen
+body language | langage corporel | Körpersprache | lenguaje corporal | linguaggio del corpo | linguagem corporal | शरीर भाषा | 肢体语言 | язык тела | Kappes
+discussion | discussion | Diskussion | discusión | discussione | discussão | चर्चा | 讨论 | обсуждение | Diskussioun
+feedback | retour | Rückmeldung | retroalimentación | feedback | feedback | फीडबैक | 反馈 | обратная связь | Feedback
+introduction | introduction | Einführung | introducción | introduzione | introdução | परिचय | 介绍 | введение | Einleitung
+response | réponse | Antwort | respuesta | risposta | resposta | प्रतिक्रिया | 响应 | ответ | Antwort
+strategy | stratégie | Strategie | estrategia | strategia | estratégia | रणनीति | 战略 | стратегия | Strategie
+dress code | code vestimentaire | Kleiderordnung | código de vestimenta | codice di abbigliamento | código de vestuário | ड्रेस कोड | 着装规范 | дресс-код | Kleedekod
+eye contact | contact visuel | Blickkontakt | contacto visual | contatto visivo | contato visual | आंखों का संपर्क | 眼神交流 | зрительный контакт | Aenecou
+practice | pratique | Übung | práctica | pratica | prática | अभ्यास | 练习 | практика | Praxis
+research | recherche | Forschung | investigación | ricerca | pesquisa | शोध | 研究 | исследование | Fuerschung
+resume | CV | Lebenslauf | currículum | curriculum | currículo | फिर से शुरू करना | 简历 | резюме | CV
+skills | compétences | Fähigkeiten | habilidades | competenze | habilidades | कौशल | 技能 | навыки | Fäegkeet
+experience | expérience | Erfahrung | experiencia | esperienza | experiência | अनुभव | 经验 | опыт | Erfahrung
+attitude | attitude | Einstellung | actitud | atteggiamento | atitude | दृष्टिकोण | 态度 | отношение | Attitude
+portfolio | portfolio | Portfolio | cartera | portafoglio | portfólio | पोर्टफोलियो | 作品集 | портфель | Portfolio
+networking | réseautage | Netzwerken | networking | networking | networking | नेटवर्किंग | 网络 | нетворкинг | Networking
+professionalism | professionnalisme | Professionalität | profesionalismo | professionalità | profissionalismo | पेशेवरिता | 职业精神 | профессионализм | Professionalismus
+engagement | engagement | Engagement | compromiso | impegno | engajamento | जुड़ाव | 参与 | вовлеченность | Engagement
+clarity | clarté | Klarheit | claridad | chiarezza | clareza | स्पष्टता | 清晰 | ясность | Klarheit
+communication | communication | Kommunikation | comunicación | comunicazione | comunicação | संचार | 交流 | коммуникация | Kommunikatioun
+interpersonal skills | compétences interpersonnelles | zwischenmenschliche Fähigkeiten | habilidades interpersonales | competenze interpersonali | habilidades interpessoais | अंतरकुशलता | 人际技能 | межличностные навыки | interperséinlech Fäegkeeten
+empathy | empathie | Empathie | empatía | empatia | empatia | सहानुभूति | 同理心 | эмпатия | Empathie
+motivation | motivation | Motivation | motivación | motivazione | motivação | प्रेरणा | 动力 | мотивация | Motivatioun
+strengths | forces | Stärken | fortalezas | punti di forza | forças | ताकत | 强项 | сильные стороны | Stäerkten
+weaknesses | faiblesses | Schwächen | debilidades | debolezze | fraquezas | कमजोरियाँ | 弱点 | слабости | Schwächen
+contribution | contribution | Beitrag | contribución | contributo | contribuição | योगदान | 贡献 | вклад | Beitrag
+industry knowledge | connaissance de l'industrie | Branchenwissen | conocimiento de la industria | conoscenza del settore | conhecimento da indústria | उद्योग ज्ञान | 行业知识 | знание отрасли | Wëssen iwwer d'Industrie
+open-ended questions | questions ouvertes | offene Fragen | preguntas abiertas | domande aperte | perguntas abertas | खुला प्रश्न | 开放式问题 | открытые вопросы | offréierte Froen
+active listening | écoute active | aktives Zuhören | escucha activa | ascolto attivo | escuta ativa | सक्रिय सुनना | 积极倾听 | активное слушание | aktiv Lauschteren
+teamwork | travail d'équipe | Teamarbeit | trabajo en equipo | lavoro di squadra | trabalho em equipe | टीम काम | 团队合作 | командная работа | Teamarbeit
+initiative | initiative | Initiative | iniciativa | iniziativa | iniciativa | पहल | 主动 | инициатива | Initiativ
+goals | objectifs | Ziele | metas | obiettivi | objetivos | लक्ष्य | 目标 | цели | Ziler
+outcome | résultat | Ergebnis | resultado | risultato | resultado | परिणाम | 结果 | результат | Resultat
+credibility | crédibilité | Glaubwürdigkeit | credibilidad | credibilità | credibilidade | विश्वसनीयता | 可信度 | доверие | Kredibilité
+presentation | présentation | Präsentation | presentación | presentazione | apresentação | प्रस्तुति | 演讲 | презентация | Präsentatioun
+follow-up | suivi | Nachverfolgung | seguimiento | follow-up | acompanhamento | अनुवर्ती | 跟进 | последующий | Nohold
+performance | performance | Leistung | rendimiento | performance | desempenho | प्रदर्शन | 表现 | производительность | Leeschtung
+anecdote | anecdote | Anekdote | anécdota | aneddoto | anedota | उपाख्यान | 轶事 | анекдот | Anekdot
+storytelling | narration | Erzählkunst | narración | narrazione | narrar | कहानी कहने | 讲故事 | рассказывать | Erzählung
+summarize | résumer | zusammenfassen | resumir | riassumere | resumir | संक्षेप में बताना | 总结 | резюмировать | zämmefaassen
+relevant examples | exemples pertinents | relevante Beispiele | ejemplos relevantes | esempi pertinenti | exemplos relevantes | प्रासंगिक उदाहरण | 相关示例 | релевантные примеры | relevant Beispiller
+adaptability | adaptabilité | Anpassungsfähigkeit | adaptabilidad | adattabilità | adaptabilidade | अनुकूली क्षमता | 适应性 | адаптивность | Anpassungsfäegkeet
+time management | gestion du temps | Zeitmanagement | gestión del tiempo | gestione del tempo | gerenciamento do tempo | समय प्रबंधन | 时间管理 | управление временем | Management vum Zäit
+enthusiasm | enthousiasme | Enthusiasmus | entusiasmo | entusiasmo | entusiasmo | उत्साह | 热情 | энтузиазм | Enthusiasmus
+testimonials | témoignages | Testimonials | testimonios | testimonianze | depoimentos | प्रशंसापत्र | 推荐信 | отзывы | Testimonials
+work ethic | éthique de travail | Arbeitsethik | ética de trabajo | etica del lavoro | ética de trabalho | कार्य नैतिकता | 职业道德 | трудовая этика | Aarbechtsethik
+cultural fit | adéquation culturelle | kulturelle Passung | ajuste cultural | adattamento culturale | ajuste cultural | सांस्कृतिक फिट | 文化契合 | культурная совместимость | kulturell Passung
+job requirements | exigences professionnelles | Stellenanforderungen | requisitos del trabajo | requisiti di lavoro | requisitos de trabalho | नौकरी की आवश्यकताएँ | 工作要求 | требования к работе | Jobanforderungen
+values | valeurs | Werte | valores | valori | valores | मूल्य | 价值观 | ценности | Wäerter
+negotiation | négociation | Verhandlung | negociación | negoziazione | negociação | बातचीत | 谈判 | переговоры | Verhandlung
+salary expectations | attentes salariales | Gehaltserwartungen | expectativas salariales | aspettative salariali | expectativas salariais | वेतन अपेक्षाएँ | 薪资预期 | зарплатные ожидания | Gehaltserwaardungen
+opportunity | opportunité | Gelegenheit | oportunidad | opportunità | oportunidade | अवसर | 机会 | возможность | Geleeënheet
+questions for employer | questions pour l'employeur | Fragen an den Arbeitgeber | preguntas para el empleador | domande per il datore di lavoro | perguntas para o empregador | नियोक्ता के लिए प्रश्न | 雇主的问题 | вопросы к работодателю | Froden un den Employeur
+personal brand | marque personnelle | persönliche Marke | marca personal | marchio personale | marca pessoal | व्यक्तिगत ब्रांड | 个人品牌 | персональный бренд | Perséinlech Mark
+interview format | format d'entretien | Interviewformat | formato de entrevista | formato di colloquio | formato de entrevista | साक्षात्कार प्रारूप | 面试格式 | формат интервью | Interviewformat
+candidate evaluation | évaluation du candidat | Bewertung des Kandidaten | evaluación del candidato | valutazione del candidato | avaliação do candidato | उम्मीदवार का मूल्यांकन | 候选人评估 | оценка кандидата | Evaluatioun vum Kandidat
+self-promotion | auto-promotion | Selbstvermarktung | autopromoción | auto-promozione | auto-promoção | आत्म-प्रवर्धन | 自我推广 | самореклама | Selbstdorwer
+choosing references | choisir des références | Auswahl von Referenzen | elegir referencias | scegliere referenze | escolha de referências | संदर्भ चुनना | 选择参考 | выбор ссылок | Wiele vun Referenzen
+wrapping up | conclure | abschließen | finalizar | concludere | finalizar | समाप्त करना | 完成 | завершить | abschlécken

@@ -1,0 +1,65 @@
+utility | utilité | Nutzen | utilidad | utilità | utilidade | उपयोग | 实用 | утилита | Utilitéit
+tariff | tarif | Tarif | tarifa | tariffa | tarifa | दर | 关税 | тариф | Tarif
+comparison | comparaison | Vergleich | comparación | confronto | comparação | तुलना | 比较 | сравнение | Vergläich
+cost | coût | Kosten | costo | costo | custo | लागत | 成本 | стоимость | Käschte
+price | prix | Preis | precio | prezzo | preço | मूल्य | 价格 | цена | Präis
+rate | taux | Satz | tasa | tasso | taxa | दर | 费率 | ставка | Tarif
+billing | facturation | Abrechnung | facturación | fatturazione | faturamento | बिलिंग | 账单 | выставление счетов | Rechnung
+service | service | Dienst | servicio | servizio | serviço | सेवा | 服务 | услуга | Service
+provider | fournisseur | Anbieter | proveedor | fornitore | fornecedor | प्रदाता | 提供者 | поставщик | Anbieter
+consumer | consommateur | Verbraucher | consumidor | consumatore | consumidor | उपभोक्ता | 消费者 | потребитель | Konsument
+energy | énergie | Energie | energía | energia | energia | ऊर्जा | 能量 | энергия | Energie
+electricity | électricité | Elektrizität | electricidad | elettricità | eletricidade | बिजली | 电 | электричество | Elektizitéit
+gas | gaz | Gas | gas | gas | gás | गैस | 气 | газ | Gas
+water | eau | Wasser | agua | acqua | água | पानी | 水 | вода | Waasser
+discount | remise | Rabatt | descuento | sconto | desconto | छूट | 折扣 | скидка | Remise
+fee | frais | Gebühr | tarifa | tassa | taxa | शुल्क | 费用 | плата | Gebühr
+budget | budget | Budget | presupuesto | budget | orçamento | बजट | 预算 | бюджет | Budget
+plan | plan | Plan | plan | piano | plano | योजना | 计划 | план | Plang
+monthly | mensuel | monatlich | mensual | mensile | mensal | मासिक | 每月 | ежемесячный | monatlech
+annual | annuel | jährlich | anual | annuo | anual | वार्षिक | 年度 | годовой | jarelt
+usage | utilisation | Nutzung | uso | uso | uso | उपयोग | 使用 | использование | Nutzung
+estimate | estimer | schätzen | estimar | stimare | estimar | अनुमान | 估计 | оценка | schätzen
+increase | augmenter | erhöhen | aumentar | aumentare | aumentar | बढ़ाना | 增加 | увеличение | erhéijen
+decrease | diminuer | verringern | disminuir | diminuire | diminuir | घटाना | 减少 | уменьшение | verringeren
+fixed | fixe | fest | fijo | fisso | fixo | स्थिर | 固定 | фиксированный | fixéiert
+variable | variable | variabel | variable | variabile | variável | परिवर्तनशील | 变量 | переменный | variabel
+contract | contrat | Vertrag | contrato | contratto | contrato | अनुबंध | 合同 | контракт | Kontrakt
+switch | interrupteur | Schalter | interruptor | interruttore | interruptor | स्विच | 开关 | переключатель | Schalter
+negotiate | négocier | verhandeln | negociar | negoziare | negociar | बातचीत करना | 谈判 | вести переговоры | verhandelen
+savings | économies | Ersparnisse | ahorros | risparmi | economias | बचत | 储蓄 | сбережения | Spuersen
+benefit | avantage | Vorteil | beneficio | beneficio | benefício | लाभ | 利益 | выгода | Virdeel
+comparison tool | outil de comparaison | Vergleichstool | herramienta de comparación | strumento di confronto | ferramenta de comparação | तुलना उपकरण | 比较工具 | инструмент сравнения | Vergläichsinstrument
+calculator | calculatrice | Taschenrechner | calculadora | calcolatrice | calculadora | कैलकुलेटर | 计算器 | калькулятор | Rechner
+analysis | analyse | Analyse | análisis | analisi | análise | विश्लेषण | 分析 | анализ | Analyse
+supplier | fournisseur | Lieferant | proveedor | fornitore | fornecedor | सप्लायर | 供应商 | поставщик | Fournisseur
+terms | termes | Bedingungen | términos | termini | termos | शर्तें | 条款 | условия | Bedingunge
+conditions | conditions | Bedingungen | condiciones | condizioni | condições | स्थितियाँ | 条件 | условия | Bedingungen
+payment | paiement | Zahlung | pago | pagamento | pagamento | भुगतान | 付款 | платеж | Zomm
+method | méthode | Methode | método | metodo | método | विधि | 方法 | метод | Method
+customer | client | Kunde | cliente | cliente | cliente | ग्राहक | 客户 | клиент | Client
+support | soutenir | unterstützen | apoyar | sostenere | apoiar | समर्थन | 支持 | поддержка | stützen
+meter | mètre | Meter | metro | metro | metro | मीटर | 米 | метр | Meter
+demand | demande | Nachfrage | demanda | domanda | demanda | माँग | 需求 | спрос | Forderung
+supply | approvisionnement | Versorgung | suministro | fornitura | suprimento | आपूर्ति | 供应 | предложение | Lieferung
+renewable | renouvelable | erneuerbar | renovable | rinnovabile | renovável | नवीकरणीय | 可再生 | возобновляемый | erneierbar
+traditional | traditionnel | traditionell | tradicional | tradizionale | tradicional | पारंपरिक | 传统 | традиционный | traditionell
+green | vert | grün | verde | verde | verde | हरा | 绿色 | зеленый | gréng
+efficiency | efficacité | Effizienz | eficiencia | efficienza | eficiência | दक्षता | 效率 | эффективность | Effizienz
+impact | impact | Einfluss | impacto | impatto | impacto | प्रभाव | 影响 | влияние | Impakt
+environment | environnement | Umwelt | medio ambiente | ambiente | meio ambiente | पर्यावरण | 环境 | окружающая среда | Ëmwelt
+investigate | enquêter | untersuchen | investigar | investigare | investigar | जांचना | 调查 | расследовать | ënvestigéieren
+research | recherche | Forschung | investigación | ricerca | pesquisa | अनुसंधान | 研究 | исследование | Recherche
+decision | décision | Entscheidung | decisión | decisione | decisão | निर्णय | 决定 | решение | Decisioun
+selection | sélection | Auswahl | selección | selezione | seleção | चयन | 选择 | отбор | Selektioun
+beneficiary | bénéficiaire | Begünstigter | beneficiario | beneficiario | beneficiário | लाभार्थी | 受益者 | бенефициар | Beneficiaire
+preference | préférence | Vorliebe | preferencia | preferenza | preferência | प्राथमिकता | 偏好 | предпочтение | Preferenz
+options | options | Optionen | opciones | opzioni | opções | विकल्प | 选项 | опции | Optionen
+market | marché | Markt | mercado | mercato | mercado | बाजार | 市场 | рынок | Maart
+incentive | incitation | Anreiz | incentivo | incentivo | incentivo | प्रोत्साहन | 激励 | стимул | Incentiv
+regulation | réglementation | Regulierung | regulación | regolamento | regulação | विनियम | 规章 | регулирование | Regelung
+law | loi | Gesetz | ley | legge | lei | कानून | 法律 | закон | Gesetz
+subscription | abonnement | Abonnement | suscripción | abbonamento | assinatura | सदस्यता | 订阅 | подписка | Abonnements
+notification | notification | Benachrichtigung | notificación | notifica | notificação | सूचना | 通知 | уведомление | Notifizéierung
+timeline | chronologie | Zeitachse | línea de tiempo | cronologia | linha do tempo | समयरेखा | 时间线 | линия времени | Zeitatlas
+review | réviser | überprüfen | revisar | rivedere | revisar | समीक्षा करना | 复习 | рецензия | durchsehen

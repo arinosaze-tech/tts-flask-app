@@ -1,0 +1,65 @@
+apple | pomme | Apfel | manzana | mela | maçã | सेब | 苹果 | яблоко | Apel
+banana | banane | Banane | plátano | banana | banana | केले | 香蕉 | банан | Banan
+bread | pain | Brot | pan | pane | pão | ब्रेड | 面包 | хлеб | Brout
+milk | lait | Milch | leche | latte | leite | दूध | 牛奶 | молоко | Mëllech
+egg | œuf | Ei | huevo | uovo | ovo | अंडा | 鸡蛋 | яйцо | Eeg
+cheese | fromage | Käse | queso | formaggio | queijo | पनीर | 奶酪 | сыр | Käse
+meat | viande | Fleisch | carne | carne | carne | मांस | 肉 | мясо | Fleesch
+chicken | poulet | Huhn | pollo | pollo | frango | मुर्गी | 鸡 | курица | Poulet
+fish | poisson | Fisch | pescado | pesce | peixe | मछली | 鱼 | рыба | Fësch
+vegetable | légume | Gemüse | vegetal | ortaggio | vegetal | सब्जी | 蔬菜 | овощ | Geméis
+fruit | fruit | Obst | fruta | frutta | fruta | फल | 水果 | фрукт | Fruucht
+potato | pomme de terre | Kartoffel | patata | patata | batata | आलू | 土豆 | картофель | Äerdäpfel
+carrot | carotte | Karotte | zanahoria | carota | cenoura | गाजर | 胡萝卜 | морковь | Mëllwurzel
+onion | oignon | Zwiebel | cebolla | cipolla | cebola | प्याज | 洋葱 | лук | Zwiebel
+tomato | tomate | Tomate | tomate | pomodoro | tomate | टमाटर | 西红柿 | помидор | Tomate
+salad | salade | Salat | ensalada | insalata | salada | सलाद | 沙拉 | салат | Sallott
+cereal | céréale | Getreide | cereal | cereale | cereal | अनाज | 谷物 | зерно | Zereal
+pasta | pâtes | Pasta | pasta | pasta | massa | पास्ता | 面食 | паста | Pasta
+sugar | sucre | Zucker | azúcar | zucchero | açúcar | चीनी | 糖 | сахар | Zocker
+salt | sel | Salz | sal | sale | sal | नमक | 盐 | соль | Salz
+pepper | poivre | Pfeffer | pimienta | pepe | pimenta | काली मिर्च | 胡椒 | перец | Peffer
+butter | beurre | Butter | mantequilla | burro | manteiga | मक्खन | 黄油 | масло | Botter
+yogurt | yaourt | Joghurt | yogurt | yogurt | iogurte | योगर्ट | 酸奶 | йогурт | Joghurt
+juice | jus | Saft | jugo | succo | suco | रस | 果汁 | сок | Jus
+water | eau | Wasser | agua | acqua | água | पानी | 水 | вода | Waasser
+coffee | café | Kaffee | café | caffè | café | कॉफी | 咖啡 | кофе | Kaffee
+tea | thé | Tee | té | tè | chá | चाय | 茶 | чай | Té
+soda | soda | Limonade | soda | soda | refrigerante | सोडा | 苏打 | сода | Soda
+bottle | bouteille | Flasche | botella | bottiglia | garrafa | बोतल | 瓶子 | бутылка | Flasche
+pack | paquet | Paket | paquete | pacchetto | pacote | पैक | 包 | упаковка | Päckchen
+box | boîte | Box | caja | scatola | caixa | डिब्बा | 盒子 | коробка | Këscht
+can | boîte | Dose | lata | lattina | lata | कैन | 罐 | банка | Dose
+cart | chariot | Wagen | carrito | carrello | carrinho | गाड़ी | 购物车 | корзина | Wager
+checkout | caisse | Kasse | pagar | cassa | caixa | चेकआउट | 结账 | оформление | Kéier
+shopping | magasin | Einkauf | compras | shopping | compras | खरीदारी | 消费 | покупки | Shopping
+list | liste | Liste | lista | elenco | lista | सूची | 列表 | список | Lëscht
+buy | acheter | kaufen | comprar | comprare | comprar | खरीदना | 买 | купить | kaufen
+sell | vendre | verkaufen | vender | vendere | vender | बेचना | 卖 | продавать | verkafen
+pay | payer | zahlen | pagar | pagare | pagar | चुकाना | 付款 | платить | bezuelen
+choose | choisir | wählen | elegir | scegliere | escolher | चुनना | 选择 | выбирать | wielen
+look | regarder | sehen | mirar | guardare | olhar | देखना | 看 | смотреть | kucken
+find | trouver | finden | encontrar | trovare | encontrar | ढूंढना | 找到 | найти | fannen
+take | prendre | nehmen | tomar | prendere | pegar | लेना | 拿 | брать | huelen
+bring | apporter | bringen | traer | portare | trazer | लाना | 带 | приносить | bréngen
+want | vouloir | wollen | querer | volere | querer | चाहना | 想要 | хотеть | wëllen
+need | avoir besoin de | brauchen | necesitar | avere bisogno di | precisar | जरूरत होना | 需要 | нуждаться | brauchen
+like | aimer | mögen | gustar | piacere | gostar | पसंद करना | 喜欢 | нравиться | gefalen
+taste | goûter | schmecken | probar | assaporare | provar | चखना | 味道 | пробовать | schmaachen
+fresh | frais | frisch | fresco | fresco | fresco | ताजा | 新鲜 | свежий | frisch
+sweet | doux | süß | dulce | dolce | doce | मीठा | 甜 | сладкий | süß
+sour | aigre | sauer | agrio | acido | azedo | खट्टा | 酸 | кислый | sauer
+big | grand | groß | grande | grande | grande | बड़ा | 大 | большой | grouss
+small | petit | klein | pequeño | piccolo | pequeno | छोटा | 小 | маленький | kleng
+cheap | bon marché | billig | barato | economico | barato | सस्ता | 便宜 | дешевый | billig
+expensive | cher | teuer | caro | costoso | caro | महंगा | 昂贵 | дорогой | deier
+clean | propre | sauber | limpio | pulito | limpo | साफ | 干净 | чистый | propper
+dirty | sale | schmutzig | sucio | sporco | sujo | गंदा | 脏 | грязный | schmutzeg
+full | plein | voll | lleno | pieno | cheio | पूरा | 满 | полный | voller
+empty | vide | leer | vacío | vuoto | vazio | ख़ाली | 空 | пустой | leer
+open | ouvert | offen | abrir | aperto | aberto | खुला | 开 | открытый | oppen
+close | fermer | schließen | cerrar | chiudere | fechar | बंद | 关 | закрыть | zou
+local | local | lokal | local | locale | local | स्थानीय | 当地 | местный | lokal
+organic | bio | biologisch | orgánico | biologico | orgânico | जैविक | 有机 | органический | bio
+special offer | promotion | promotion | oferta especial | offerta speciale | oferta especial | विशेष प्रस्ताव | 特价 | специальное предложение | speziell Angebot
+discount | réduction | Rabatt | descuento | sconto | desconto | छूट | 折扣 | скидка | Rabatt

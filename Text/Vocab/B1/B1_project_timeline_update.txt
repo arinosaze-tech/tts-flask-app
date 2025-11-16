@@ -1,0 +1,55 @@
+project | projet | Projekt | proyecto | progetto | projeto | प्रोजेक्ट | 项目 | проект | Projet
+timeline | chronologie | Zeitleiste | línea de tiempo | cronologia | linha do tempo | समयरेखा | 时间线 | временная шкала | Zäitlinn
+update | mise à jour | Aktualisierung | actualización | aggiornamento | atualização | अपडेट | 更新 | обновление | Aktualiséierung
+deadline | date limite | Frist | fecha límite | scadenza | prazo | अंतिम तिथि | 截止日期 | крайний срок | Frist
+task | tâche | Aufgabe | tarea | attività | tarefa | कार्य | 任务 | задача | Aufgab
+milestone | jalon | Meilenstein | hito | traguardo | marco | मील का पत्थर | 里程碑 | веха | Meilesteen
+phase | phase | Phase | fase | fase | fase | चरण | 阶段 | этап | Phase
+schedule | planning | Zeitplan | cronograma | programma | cronograma | शेड्यूल | 日程 | график | Zäitplang
+budget | budget | Budget | presupuesto | budget | orçamento | बजट | 预算 | бюджет | Budget
+risk | risque | Risiko | riesgo | rischio | risco | जोखिम | 风险 | риск | Risiko
+delay | retard | Verzögerung | retraso | ritardo | atraso | देरी | 延误 | задержка | Verspéidung
+progress | progrès | Fortschritt | progreso | progresso | progresso | प्रगति | 进展 | прогресс | Fortschrëtt
+meeting | réunion | Besprechung | reunión | riunione | reunião | बैठक | 会议 | встреча | Reunioun
+team | équipe | Team | equipo | squadra | equipe | टीम | 团队 | команда | Ekipp
+manager | manager | Manager | gerente | manager | gerente | प्रबंधक | 经理 | менеджер | Manager
+resource | ressource | Ressource | recurso | risorsa | recurso | संसाधन | 资源 | ресурс | Ressource
+client | client | Kunde | cliente | cliente | cliente | ग्राहक | 客户 | клиент | Client
+issue | problème | Problem | problema | problema | problema | समस्या | 问题 | проблема | Problem
+priority | priorité | Priorität | prioridad | priorità | prioridade | प्राथमिकता | 优先级 | приоритет | Prioritéit
+goal | objectif | Ziel | objetivo | obiettivo | objetivo | लक्ष्य | 目标 | цель | Zil
+report | rapport | Bericht | informe | relazione | relatório | रिपोर्ट | 报告 | отчет | Rapport
+calendar | calendrier | Kalender | calendario | calendario | calendário | कैलेंडर | 日历 | календарь | Kalenner
+plan | plan | Plan | plan | piano | plano | योजना | 计划 | план | Plang
+review | évaluation | Überprüfung | revisión | revisione | revisão | समीक्षा | 审查 | обзор | Iwwerpréiwung
+confirm | confirmer | bestätigen | confirmar | confermare | confirmar | पुष्टि करना | 确认 | подтвердить | confirméieren
+agree | être d'accord | zustimmen | estar de acuerdo | essere d'accordo | concordar | सहमत होना | 同意 | соглашаться | zoustëmmen
+assign | attribuer | zuweisen | asignar | assegnare | atribuir | सौंपना | 分配 | назначить | zouweisen
+reschedule | reprogrammer | umplanen | reprogramar | ripianificare | remarcar | पुनर्निर्धारित करना | 改期 | переназначить | nei plangen
+postpone | reporter | verschieben | aplazar | rinviare | adiar | टालना | 推迟 | отложить | verréckelen
+deliver | livrer | liefern | entregar | consegnare | entregar | पहुंचाना | 送达 | доставить | liwweren
+finish | terminer | beenden | terminar | finire | terminar | समाप्त करना | 完成 | закончить | fäerdeg maachen
+start | commencer | beginnen | empezar | iniziare | começar | शुरू करना | 开始 | начать | ufänken
+discuss | discuter | besprechen | discutir | discutere | discutir | चर्चा करना | 讨论 | обсуждать | diskutéieren
+share | partager | teilen | compartir | condividere | compartilhar | साझा करना | 分享 | делиться | deelen
+check | vérifier | prüfen | revisar | controllare | verificar | जाँचना | 检查 | проверить | iwwerpréiwen
+track | suivre | verfolgen | seguir | seguire | acompanhar | ट्रैक करना | 跟踪 | отслеживать | verfollegen
+approve | approuver | genehmigen | aprobar | approvare | aprovar | मंजूर करना | 批准 | одобрить | zoustëmmen
+adjust | ajuster | anpassen | ajustar | regolare | ajustar | समायोजित करना | 调整 | настроить | upassen
+estimate | estimer | schätzen | estimar | stimare | estimar | अनुमान लगाना | 估计 | оценить | schätzen
+current | actuel | aktuell | actual | attuale | atual | वर्तमान | 当前 | текущий | aktuell
+new | nouveau | neu | nuevo | nuovo | novo | नया | 新的 | новый | nei
+late | en retard | spät | tarde | tardi | tarde | देर से | 晚 | поздно | spéit
+early | tôt | früh | temprano | presto | cedo | जल्दी | 早 | рано | fréi
+urgent | urgent | dringend | urgente | urgente | urgente | तत्काल | 紧急 | срочный | dréngend
+weekly | hebdomadaire | wöchentlich | semanal | settimanale | semanal | साप्ताहिक | 每周的 | еженедельный | wöchentlech
+monthly | mensuel | monatlich | mensual | mensile | mensal | मासिक | 每月的 | ежемесячный | monatlech
+clear | clair | klar | claro | chiaro | claro | साफ | 清楚 | ясный | kloer
+ready | prêt | bereit | listo | pronto | pronto | तैयार | 准备好 | готов | prett
+final | final | endgültig | final | finale | final | अंतिम | 最终 | окончательный | definitiv
+due | dû | fällig | pendiente | previsto | previsto | देय | 到期 | срок | fälleg
+project timeline | calendrier du projet | Projektzeitplan | cronograma del proyecto | calendario del progetto | cronograma do projeto | प्रोजेक्ट समयरेखा | 项目时间表 | график проекта | Projet-Zäitplang
+status update | mise à jour du statut | Status-Update | actualización de estado | aggiornamento di stato | atualização de status | स्थिति अपडेट | 状态更新 | обновление статуса | Status-Update
+team meeting | réunion d'équipe | Teambesprechung | reunión de equipo | riunione del team | reunião de equipe | टीम बैठक | 团队会议 | встреча команды | Team-Reunioun
+behind schedule | en retard | im Verzug | atrasado | in ritardo | atrasado | समय से पीछे | 进度落后 | отстает от графика | hanner dem Zäitplang
+on track | dans les temps | im Plan | en plazo | nei tempi | no prazo | योजना के अनुसार | 按计划进行 | по плану | am Zäitplang

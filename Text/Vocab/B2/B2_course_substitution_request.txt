@@ -1,0 +1,65 @@
+course | cours | Kurs | curso | corso | curso | पाठ्यक्रम | 课程 | курс | Cours
+substitution | substitution | Ersatz | sustitución | sostituzione | substituição | प्रतिस्थापन | 替代 | замена | Substitutioun
+request | demande | Anfrage | solicitud | richiesta | pedido | अनुरोध | 请求 | запрос | Demande
+approval | approbation | Genehmigung | aprobación | approvazione | aprovação | अनुमोदन | 批准 | одобрение | Genehmegung
+advisor | conseiller | Berater | asesor | consigliere | conselheiro | सलाहकार | 顾问 | советник | Beroder
+policy | politique | Politik | política | politica | política | नीति | 政策 | политика | Politik
+form | formulaire | Formular | formulario | modulo | formulário | फॉर्म | 表格 | форма | Form
+student | étudiant | Student | estudiante | studente | estudante | छात्र | 学生 | студент | Student
+program | programme | Programm | programa | programma | programa | कार्यक्रम | 程序 | программа | Programm
+requirements | exigences | Anforderungen | requisitos | requisiti | requisitos | आवश्यकताएँ | 要求 | требования | Anforderungen
+mandatory | obligatoire | zwingend | obligatorio | obbligatorio | obrigatório | अनिवार्य | 强制 | обязательный | verpflichtend
+elective | optionnel | Wahlfach | electivo | elettivo | eletivo | वैकल्पिक | 选修 | элективный | wählbar
+subject | sujet | Fach | materia | soggetto | assunto | विषय | 主题 | предмет | Thema
+timeframe | calendrier | Zeitraum | plazo | intervallo | prazo | समय-सीमा | 时间框架 | временные рамки | Zeitrahmen
+schedule | emploi du temps | Stundenplan | horario | programma | horário | कार्यक्रम | 日程安排 | расписание | Zeitplan
+grade | note | Note | nota | voto | nota | ग्रेड | 成绩 | оценка | Note
+transcript | transcription | Transkript | transcripción | trascrizione | transcrição | प्रतिलेख | 抄本 | транскрипция | Transkript
+meeting | réunion | Besprechung | reunión | incontro | reunião | बैठक | 会议 | встреча | Meeting
+discuss | discuter | diskutieren | discutir | discutere | discutir | चर्चा करना | 讨论 | обсуждать | diskutéieren
+option | option | Option | opción | opzione | opção | विकल्प | 选项 | вариант | Optioun
+decision | décision | Entscheidung | decisión | decisione | decisão | निर्णय | 决定 | решение | Decisioun
+exception | exception | Ausnahme | excepción | eccezione | exceção | अपवाद | 例外 | исключение | Ausnam
+change | changer | ändern | cambiar | cambiare | mudar | बदलना | 改变 | изменение | Änneren
+permission | permission | Erlaubnis | permiso | permesso | permissão | अनुमति | 许可 | разрешение | Erlaubnes
+completion | achèvement | Abschluss | finalización | completamento | conclusão | पूर्णता | 完成 | завершение | Vollzung
+statement | déclaration | Aussage | declaración | dichiarazione | declaração | बयान | 声明 | заявление | Erklärung
+feedback | retour | Rückmeldung | retroalimentación | feedback | retorno | फीडबैक | 反馈 | обратная связь | Feedback
+reason | raison | Grund | razón | motivo | razão | कारण | 原因 | причина | Grund
+justification | justification | Rechtfertigung | justificación | giustificazione | justificação | औचित्य | 辩解 | обоснование | Rechtfertigung
+transfer | transfert | Übertragung | transferencia | trasferimento | transferência | स्थानांतरण | 转移 | передача | Transfer
+credit | crédit | Kredit | crédito | credito | crédito | श्रेय | 信用 | кредит | Kredit
+evaluation | évaluation | Bewertung | evaluación | valutazione | avaliação | मूल्यांकन | 评估 | оценка | Bewertung
+documentation | documentation | Dokumentation | documentación | documentazione | documentação | दस्तावेज़ | 文档 | документация | Dokumentatioun
+process | processus | Prozess | proceso | processo | processo | प्रक्रिया | 过程 | процесс | Prozess
+timeline | chronologie | Zeitachse | línea de tiempo | linea del tempo | linha do tempo | समयरेखा | 时间线 | временная линия | Zäitlin
+outcome | résultat | Ergebnis | resultado | risultato | resultado | परिणाम | 结果 | результат | Resultat
+alternative | alternative | Alternative | alternativa | alternativa | alternativa | विकल्प | 替代 | альтернатива | Alternativ
+planning | planification | Planung | planificación | pianificazione | planejamento | योजना | 计划 | планирование | Planung
+registration | inscription | Registrierung | registro | registrazione | registro | पंजीकरण | 注册 | регистрация | Registratioun
+guidance | orientation | Anleitung | orientación | orientamento | orientação | मार्गदर्शन | 指导 | руководство | Orientatioun
+agreement | accord | Vereinbarung | acuerdo | accordo | acordo | सहमति | 协议 | соглашение | Accord
+criteria | critères | Kriterien | criterios | criteri | critérios | मानदंड | 标准 | критерии | Kriterien
+notification | notification | Benachrichtigung | notificación | notifica | notificação | सूचना | 通知 | уведомление | Notificatioun
+withdrawal | retrait | Abhebung | retiro | prelievo | retirada | वापसी | 撤回 | снятие | Réckruff
+deadline | délai | Frist | fecha límite | scadenza | prazo | समय सीमा | 截止日期 | крайний срок | Frist
+consultation | consultation | Beratung | consulta | consultazione | consulta | परामर्श | 咨询 | консультация | Consultatioun
+enrollment | inscription | Einschreibung | inscripción | iscrizione | matrícula | नामांकन | 注册 | зачисление | Inscription
+resources | ressources | Ressourcen | recursos | risorse | recursos | संसाधन | 资源 | ресурсы | Ressourcen
+information | information | Informationen | información | informazione | informação | जानकारी | 信息 | информация | Information
+support | soutien | Unterstützung | apoyo | supporto | apoio | समर्थन | 支持 | поддержка | Ënnerstëtzung
+adjustment | ajustement | Anpassung | ajuste | aggiustamento | ajuste | समायोजन | 调整 | корректировка | Justement
+communication | communication | Kommunikation | comunicación | comunicazione | comunicação | संचार | 沟通 | коммуникация | Kommunikatioun
+signature | signature | Unterschrift | firma | firma | assinatura | हस्ताक्षर | 签名 | подпись | Unterschreft
+details | détails | Einzelheiten | detalles | dettagli | detalhes | विवरण | 细节 | детали | Detaile
+verification | vérification | Überprüfung | verificación | verifica | verificação | सत्यापन | 验证 | проверка | Vérifikatioun
+formality | formalité | Formalität | formalidad | formalità | formalidade | औपचारिकता | 正式 | формальность | Formalitéit
+status | statut | Status | estado | stato | status | स्थिति | 状态 | статус | Status
+situation | situation | Situation | situación | situazione | situação | स्थिति | 情况 | ситуация | Situatioun
+contact | contact | Kontakt | contacto | contatto | contato | संपर्क | 联系 | контакт | Kontakt
+clarification | clarification | Klärung | aclaración | chiarimento | esclarecimento | स्पष्टीकरण | 澄清 | разъяснение | Klärung
+update | mise à jour | Aktualisierung | actualización | aggiornamento | atualização | अपडेट | 更新 | обновление | Aktualiséierung
+review | examen | Überprüfung | revisión | revisione | revisão | समीक्षा | 审查 | обзор | Iwwerpréiwung
+assistance | assistance | Hilfe | asistencia | assistenza | assistência | सहायता | 帮助 | помощь | Hëllef
+recommendation | recommandation | Empfehlung | recomendación | raccomandazione | recomendação | सिफारिश | 推荐 | рекомендация | Empfehlung
+finalization | finalisation | Finalisierung | finalización | finalizzazione | finalização | अंतिम रूप | 最终确定 | финализация | Finalisatioun

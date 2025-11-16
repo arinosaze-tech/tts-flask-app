@@ -1,0 +1,65 @@
+reception | réception | Rezeption | recepción | reception | recepção | रिसेप्शन | 前台 | рецепция
+receptionist | réceptionniste | Rezeptionist | recepcionista | receptionist | recepcionista | रिसेप्शनिस्ट | 接待员 | администратор
+reservation | réservation | Reservierung | reserva | prenotazione | reserva | आरक्षण | 预订 | бронирование
+room | chambre | Zimmer | habitación | camera | quarto | कमरा | 房间 | комната
+key | clé | Schlüssel | llave | chiave | chave | चाबी | 钥匙 | ключ
+passport | passeport | Reisepass | pasaporte | passaporto | passaporte | पासपोर्ट | 护照 | паспорт
+luggage | bagage | Gepäck | equipaje | bagaglio | bagagem | सामान | 行李 | багаж
+suitcase | valise | Koffer | maleta | valigia | mala | सूटकेस | 行李箱 | чемодан
+elevator | ascenseur | Aufzug | ascensor | ascensore | elevador | लिफ्ट | 电梯 | лифт
+stairs | escalier | Treppe | escalera | scala | escada | सीढ़ी | 楼梯 | лестница
+floor | étage | Stock | piso | piano | andar | मंजिल | 楼层 | этаж
+bed | lit | Bett | cama | letto | cama | बिस्तर | 床 | кровать
+blanket | couverture | Decke | manta | coperta | cobertor | कंबल | 毯子 | одеяло
+pillow | oreiller | Kissen | almohada | cuscino | travesseiro | तकिया | 枕头 | подушка
+bathroom | salle de bain | Badezimmer | baño | bagno | banheiro | बाथरूम | 浴室 | ванная
+shower | douche | Dusche | ducha | doccia | chuveiro | शॉवर | 淋浴 | душ
+towel | serviette | Handtuch | toalla | asciugamano | toalha | तौलिया | 毛巾 | полотенце
+soap | savon | Seife | jabón | sapone | sabão | साबुन | 肥皂 | мыло
+shampoo | shampoing | Shampoo | champú | shampoo | xampu | शैम्पू | 洗发水 | шампунь
+minibar | minibar | Minibar | minibar | minibar | frigobar | मिनीबार | 小冰箱 | мини-бар
+price | prix | Preis | precio | prezzo | preço | मूल्य | 价格 | цена
+rate | tarif | Tarif | tarifa | tariffa | tarifa | दर | 费率 | ставка
+bill | facture | Rechnung | factura | fattura | fatura | बिल | 账单 | счет
+payment | paiement | Zahlung | pago | pagamento | pagamento | भुगतान | 付款 | платеж
+card | carte | Karte | tarjeta | carta | cartão | कार्ड | 卡片 | карта
+cash | espèces | Bargeld | efectivo | contante | dinheiro | नकद | 现金 | наличные
+receipt | reçu | Quittung | recibo | ricevuta | recibo | रसीद | 收据 | чек
+guest | invité | Gast | huésped | ospite | convidado | मेहमान | 客人 | гость
+address | adresse | Adresse | dirección | indirizzo | endereço | पता | 地址 | адрес
+stay | séjourner | bleiben | quedarse | restare | ficar | ठहरना | 停留 | оставаться
+night | nuit | Nacht | noche | notte | noite | रात | 夜 | ночь
+breakfast | petit déjeuner | Frühstück | desayuno | colazione | café da manhã | नाश्ता | 早餐 | завтрак
+confirmation | confirmation | Bestätigung | confirmación | conferma | confirmação | पुष्टि | 确认 | подтверждение
+arrive | arriver | ankommen | llegar | arrivare | chegar | आना | 到达 | прибыть
+book | livre | Buch | libro | libro | livro | किताब | 书 | книга
+reserve | réserver | reservieren | reservar | riservare | reservar | आरक्षित करना | 预订 | бронировать
+register | s'inscrire | registrieren | registrar | registrare | registrar | पंजीकरण करना | 注册 | зарегистрироваться
+sign | signer | unterschreiben | firmar | firmare | assinar | हस्ताक्षर करना | 签名 | подписать
+show | montrer | zeigen | mostrar | mostrare | mostrar | दिखाना | 显示 | показать
+give | donner | geben | dar | dare | dar | देना | 给 | дать
+take | prendre | nehmen | tomar | prendere | pegar | लेना | 拿 | брать
+pay | payer | bezahlen | pagar | pagare | pagar | देना | 付 | платить
+cancel | annuler | absagen | cancelar | annullare | cancelar | रद्द करना | 取消 | отменить
+confirm | confirmer | bestätigen | confirmar | confermare | confirmar | पुष्टि करना | 确认 | подтвердить
+request | demander | bitten | pedir | chiedere | pedir | माँगना | 请求 | просить
+wait | attendre | warten | esperar | aspettare | esperar | इंतजार करना | 等 | ждать
+call | appeler | anrufen | llamar | chiamare | ligar | फोन करना | 打电话 | звонить
+open | ouvrir | öffnen | abrir | aprire | abrir | खोलना | 打开 | открывать
+close | près | nah sein | cerca | vicino | perto | निकट | 关闭 | рядом
+tidy | rangé | ordentlich | ordenado | ordinato | arrumado | सजा | 整理 | аккуратный
+sleep | dormir | schlafen | dormir | dormire | dormir | सोना | 睡觉 | спать
+use | utiliser | benutzen | usar | usare | usar | उपयोग करना | 使用 | использовать
+speak | parler | sprechen | hablar | parlare | falar | बोलना | 说 | говорить
+clean | nettoyer | reinigen | limpiar | pulire | limpar | साफ | 清理 | чистый
+comfortable | confortable | bequem | cómodo | comodo | confortável | आरामदायक | 舒适 | комфортный
+available | disponible | verfügbar | disponible | disponibile | disponível | उपलब्ध | 可用 | доступный
+full | plein | voll | lleno | pieno | cheio | पूरा | 满 | полный
+empty | vide | leer | vacío | vuoto | vazio | ख़ाली | 空 | пустой
+early | tôt | früh | temprano | presto | cedo | जल्दी | 早 | рано
+late | tard | spät | tarde | tardi | tarde | देर से | 晚 | поздно
+free | libre | kostenlos | gratis | libero | gratuito | मुफ़्त | 自由 | свободный
+private | privé | privat | privado | privato | privado | निजी | 私密 | частный
+check in | enregistrer | einchecken | registrarse | registrare | fazer check-in | चेक-इन करना | 登记 | регистрация
+check out | régler | auschecken | salir | fare il check-out | fazer check-out | चेक-आउट करना | 退房 | выписка
+id card | carte d'identité | Personalausweis | documento de identidad | carta d'identità | documento de identidade | पहचान पत्र | 身份证 | удостоверение личности

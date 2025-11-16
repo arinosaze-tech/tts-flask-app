@@ -1,0 +1,65 @@
+grant | subvention | Zuschuss | subvención | sovvenzione | subsídio | अनुदान | 资助 | грант | Subventioun
+application | demande | Antrag | solicitud | richiesta | aplicação | आवेदन | 申请 | заявление | Applikatioun
+funding | financement | Finanzierung | financiación | finanziamento | financiamento | धनराशि | 资金 | финансирование | Finanzéierung
+project | projet | Projekt | proyecto | progetto | projeto | परियोजना | 项目 | проект | Projet
+community | communauté | Gemeinschaft | comunidad | comunità | comunidade | समुदाय | 社区 | сообщество | Gemeng
+improvement | amélioration | Verbesserung | mejora | miglioramento | melhoria | सुधार | 改进 | улучшение | Verbesser
+proposal | proposition | Vorschlag | propuesta | proposta | proposta | प्रस्ताव | 提案 | предложение | Propos
+budget | budget | Budget | presupuesto | bilancio | orçamento | बजट | 预算 | бюджет | Budget
+resources | ressources | Ressourcen | recursos | risorse | recursos | संसाधन | 资源 | ресурсы | Ressourcen
+support | soutenir | unterstützen | apoyar | sostenere | apoiar | समर्थन | 支持 | поддержка | Unterstützung
+collaboration | collaboration | Zusammenarbeit | colaboración | collaborazione | colaboração | सहयोग | 合作 | сотрудничество | Zusammenarbeit
+partnership | partenariat | Partnerschaft | asociación | partnership | parceria | साझेदारी | 合作关系 | партнерство | Partnerschaf
+innovation | innovation | Innovation | innovación | innovazione | inovação | नवाचार | 创新 | инновация | Innovatioun
+sustainability | durabilité | Nachhaltigkeit | sostenibilidad | sostenibilità | sustentabilidade | स्थिरता | 可持续性 | устойчивость | Nachhaltigkeit
+development | développement | Entwicklung | desarrollo | sviluppo | desenvolvimento | विकास | 发展 | развитие | Entwécklung
+infrastructure | infrastructure | Infrastruktur | infraestructura | infrastruttura | infraestrutura | अवसंरचना | 基础设施 | инфраструктура | Infrastruktur
+outcomes | résultats | Ergebnisse | resultados | risultati | resultados | परिणाम | 结果 | результаты | Ergebnisse
+objectives | objectifs | Ziele | objetivos | obiettivi | objetivos | लक्ष्य | 目标 | цели | Ziele
+impact | impact | Einfluss | impacto | impatto | impacto | प्रभाव | 影响 | влияние | Einfluss
+volunteers | bénévoles | Freiwillige | voluntarios | volontari | voluntários | स्वैच्छिक | 志愿者 | волонтеры | Fräiwillgen
+engagement | engagement | Engagement | compromiso | coinvolgimento | engajamento | जुड़ाव | 参与 | участие | Engagement
+research | recherche | Forschung | investigación | ricerca | pesquisa | शोध | 研究 | исследования | Fuerschung
+evaluation | évaluation | Bewertung | evaluación | valutazione | avaliação | मूल्यांकन | 评估 | оценка | Bewäertung
+timeline | calendrier | Zeitachse | cronograma | linea temporale | linha do tempo | समयरेखा | 时间线 | временная шкала | Zäitlinne
+stakeholders | parties prenantes | Interessengruppen | interesados | portatori d'interesse | partes interessadas | हितधारक | 利益相关者 | заинтересованные стороны | Interessenten
+meeting | réunion | Treffen | reunión | incontro | reunião | बैठक | 会议 | встреча | Sitzung
+report | rapport | Bericht | informe | rapporto | relatório | रिपोर्ट | 报告 | отчет | Bericht
+strategy | stratégie | Strategie | estrategia | strategia | estratégia | रणनीति | 策略 | стратегия | Strategie
+solution | solution | Lösung | solución | soluzione | solução | समाधान | 解决方案 | решение | Lösung
+intervention | intervention | Intervention | intervención | intervento | intervenção | हस्तक्षेप | 干预 | вмешательство | Intervention
+benefits | avantages | Vorteile | beneficios | benefici | benefícios | लाभ | 益处 | преимущества | Vorteile
+mentor | mentor | Mentor | mentor | mentore | mentor | मेंटर | 导师 | наставник | Mentor
+workshop | atelier | Werkstatt | taller | laboratorio | oficina | कार्यशाला | 研讨会 | мастерская | Workshop
+participation | participation | Teilnahme | participación | partecipazione | participação | भागीदारी | 参与 | участие | Teilnahme
+skills | compétences | Fähigkeiten | habilidades | abilità | habilidades | कौशल | 技能 | навыки | Fäegkeeten
+training | formation | Ausbildung | formación | formazione | formação | प्रशिक्षण | 培训 | обучение | Formatioun
+network | réseau | Netzwerk | red | rete | rede | नेटवर्क | 网络 | сеть | Netzwierk
+goals | objectifs | Ziele | objetivos | obiettivi | objetivos | लक्ष्य | 目标 | цели | Ziler
+feedback | retour | Rückmeldung | retroalimentación | feedback | feedback | फीडबैक | 反馈 | обратная связь | Remboursement
+case study | étude de cas | Fallstudie | estudio de caso | studio di caso | estudo de caso | केस स्टडी | 案例研究 | исследование случая | Fallstudie
+outreach | sensibilisation | Outreach | difusión | sensibilizzazione | divulgação | outreach | 宣传 | охват | outreach
+beneficiary | bénéficiaire | Begünstigter | beneficiario | beneficiario | beneficiário | लाभार्थी | 受益人 | бенефициар | Begünstigter
+planning | planification | Planung | planificación | pianificazione | planejamento | योजना | 规划 | планирование | Planung
+presentation | présentation | Präsentation | presentación | presentazione | apresentação | प्रस्तुति | 演示 | презентация | Presentatioun
+results | résultats | Ergebnisse | resultados | risultati | resultados | परिणाम | 结果 | результаты | Resultater
+monitoring | suivi | Überwachung | monitoreo | monitoraggio | monitoramento | निगरानी | 监测 | мониторинг | Monitoring
+effectiveness | efficacité | Effektivität | eficacia | efficacia | eficácia | प्रभावशीलता | 效率 | эффективность | Effektivité
+transparency | transparence | Transparenz | transparencia | trasparenza | transparência | पारदर्शिता | 透明度 | прозрачность | Transparenz
+accountability | responsabilité | Verantwortung | responsabilidad | responsabilità | responsabilidade | जवाबदेही | 责任 | ответственность | Verantwortlichkeit
+priority | priorité | Priorität | prioridad | priorità | prioridade | प्राथमिकता | 优先 | приоритет | Prioritéit
+workforce | main-d'œuvre | Arbeitskräfte | fuerza laboral | forza lavoro | força de trabalho | श्रम शक्ति | 劳动力 | рабочая сила | Aarbechtskräfte
+data | données | Daten | datos | dati | dados | डेटा | 数据 | данные | Donnée
+challenges | défis | Herausforderungen | desafíos | sfide | desafios | चुनौतियाँ | 挑战 | вызовы | Erausfuerderungen
+needs | besoins | Bedürfnisse | necesidades | bisogni | necessidades | जरूरतें | 需求 | потребности | Bedierfnesser
+local | local | lokal | local | locale | local | स्थानीय | 本地 | местный | lokal
+environment | environnement | Umwelt | medio ambiente | ambiente | ambiente | पर्यावरण | 环境 | окружающая среда | Ënnerrecht
+culture | culture | Kultur | cultura | cultura | cultura | संस्कृति | 文化 | культура | Kultur
+diversity | diversité | Vielfalt | diversidad | diversità | diversidade | विविधता | 多样性 | разнообразие | Diversitéit
+involvement | implication | Beteiligung | participación | coinvolgimento | envolvimento | भागीदारी | 参与 | вовлечение | Engagement
+initiative | initiative | Initiative | iniciativa | iniziativa | iniciativa | पहलकदमी | 启动 | инициатива | Initiative
+strategy | stratégie | Strategie | estrategia | strategia | estratégia | रणनीति | 战略 | стратегия | Strategie
+approach | approche | Ansatz | enfoque | approccio | abordagem | दृष्टिकोण | 方法 | подход | Approche
+vision | vision | Vision | visión | visione | visão | दृष्टि | 视野 | видение | Vision
+responsibility | responsabilité | Verantwortung | responsabilidad | responsabilità | responsabilidade | जिम्मेदारी | 责任 | ответственность | Verantwortung
+commitment | engagement | Engagement | compromiso | impegno | compromisso | प्रतिबद्धता | 承诺 | обязательство | Engagement
